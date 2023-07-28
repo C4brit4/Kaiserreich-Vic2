@@ -24,6 +24,8 @@ and finish this mod and also do the version the most closest posible to the orig
 
 -TeamBegazo
 
+-Lune
+
 ### ESP
 
 Hola, somos un pequeño equipo de modders hispanicos, y este es nuestro projecto, el port de Kaiserreich desde Hearts of Iron IV a Victoria II.
@@ -47,3 +49,6 @@ rehacer y terminar este mod, y también hacer la versión más cercana posible a
 -Joukion Mihawa
 
 -TeamBegazo
+
+-Lune
+
