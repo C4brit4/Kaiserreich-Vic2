@@ -1,0 +1,26 @@
+capital = 1649
+primary_culture = japanese
+culture = ainu
+religion = mahayana
+government = fascist_dictatorship
+plurality = 0.0
+nationalvalue = nv_order
+literacy = 0.40
+civilized = yes
+
+ruling_party = NIP_fascist
+upper_house = {
+	fascist = 0
+	liberal = 17
+	conservative = 35
+	reactionary = 48
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+oob = "JAP_oob.txt"

@@ -1,0 +1,8 @@
+owner = SZC
+controller = SZC
+add_core = CHI
+
+trade_goods = fruit
+life_rating = 32
+
+add_core = SZC
