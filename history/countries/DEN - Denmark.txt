@@ -1,0 +1,146 @@
+capital = 372
+primary_culture = danish
+culture = icelandic
+religion = protestant
+government = absolute_monarchy
+plurality = 25.0
+nationalvalue = nv_order
+literacy = 0.8
+non_state_culture_literacy = 0.6 #Germans
+civilized = yes
+prestige = 5
+
+# Political reforms
+slavery = yes_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = censored_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = low_health_care
+unemployment_subsidies = low_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+ruling_party = DAN_conservative
+upper_house = {
+	fascist = 0
+	liberal = 17
+	conservative = 70
+	reactionary = 13
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+#corvettes = yes
+commerce_raiders = yes
+
+# Starting Consciousness
+consciousness = 2
+nonstate_consciousness = 0
+
+oob = "DEN_oob.txt"
+
+1850.1.1 = {
+decision = danmarks_riges_grundlov
+}
+
+1861.1.1 = {
+	oob = "/1861/DEN_oob.txt"
+	plurality = 60
+	literacy = 0.90
+	non_state_culture_literacy = 0.7 #Germans
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = landed_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+ruling_party = DAN_liberal_2
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = low_health_care
+unemployment_subsidies = low_subsidies
+pensions = no_pensions 
+school_reforms = low_schools	
+	
+	
+# Technologies
+electricity = 1
+integral_rail_system = 1
+advanced_metallurgy = 1
+assembly_line = 1
+combustion_engine = 1
+shift_work = 1
+electrical_power_generation = 1
+electric_furnace = 1
+advanced_metallurgy_&_glassblowing = 1
+
+psychoanalysis = 1
+nationalism_&_imperialism = 1
+structural_functionalism = 1
+rationalism = 1
+mass_politics = 1
+expressionism = 1
+darwinism = 1
+phenomenology_&_hermeneutic = 1
+behaviorism = 1
+impressionism = 1
+
+high_seas_battle_fleet = 1
+great_war_naval_doctrine = 1
+steam_turbine_ships = 1
+oil_driven_ships = 1
+pre_war_naval_design = 1
+pre_war_naval_directionism = 1
+pre_war_naval_training = 1
+
+post_nelsonian_thought = 1
+battleship_column_doctrine = 1
+clipper_design = 1
+naval_design_bureaus = 1
+alphabetic_flag_signaling = 1
+the_command_principle = 1
+
+modern_central_bank_system = 1
+bank_inspection_board = 1
+keynesian_economics = 1
+economic_responsibility = 1
+organisational_development = 1
+market_determined_exchange_rates = 1
+international_economics = 1
+organised_factories = 1
+mutual_funds = 1
+government_interventionism = 1
+
+deep_defence_system = 1
+hardened_field_fortification = 1
+pre_war_small_arms = 1
+heavy_weapons_platoon = 1
+pre_war_heavy_arms = 1
+great_war_heavy_arms = 1
+chemical_arsenal = 1
+early_aeronautics = 1
+military_academy = 1
+
+great_war_experience = 1
+
+#Inventions
+
+}

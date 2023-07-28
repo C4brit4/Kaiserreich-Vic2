@@ -1,0 +1,43 @@
+capital = 1236
+primary_culture = british
+culture = anglo_canadian
+culture = irish
+religion = protestant
+government = presidential_dictatorship
+plurality = 30
+nationalvalue = nv_order
+
+# Starting Consciousness
+consciousness = 3
+nonstate_consciousness = 1
+
+oob = "/1861/BRJ_oob.txt"
+prestige = 15
+literacy = 0.15
+non_state_culture_literacy = 0.15
+	
+admin_reform = yes_admin_reform
+finance_reform = finance_reform_two
+	
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = no_voting
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = non_socialist
+voting_system = first_past_the_post
+political_parties = only_underground
+ruling_party = ENG_liberal_2
+	
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = trinket_safety
+health_care = low_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools	

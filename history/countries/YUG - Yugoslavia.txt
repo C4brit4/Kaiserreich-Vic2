@@ -1,0 +1,79 @@
+capital = 794 #Belgrade
+primary_culture = serb
+culture = croat
+culture = slovene
+culture = bosniak
+religion = orthodox
+government = hms_government
+plurality = 25.0
+nationalvalue = nv_order
+literacy = 0.28
+civilized = yes
+prestige = 10
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = wealth_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = no_trade_unions
+voting_system = jefferson_method
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = fourteen_hours
+safety_regulations = trinket_safety
+health_care = trinket_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+ruling_party = YUG_conservative
+last_election = 1834.1.1
+upper_house = {
+	fascist = 0
+	liberal = 35
+	conservative = 55
+	reactionary = 10
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 4
+nonstate_consciousness = 2
+1861.1.1 = {
+	oob = "/1861/YUG_oob.txt"
+}
+1861.1.1 = {
+# Kaiserreich Secondary Powers Setup
+
+electricity = 1
+integral_rail_system = 1
+advanced_metallurgy = 1
+assembly_line = 1
+combustion_engine = 1
+advanced_metallurgy_&_glassblowing = 1
+
+nationalism_&_imperialism = 1
+structural_functionalism = 1
+mass_politics = 1
+expressionism = 1
+phenomenology_&_hermeneutic = 1
+impressionism = 1
+
+modern_central_bank_system = 1
+bank_inspection_board = 1
+organised_factories = 1
+
+deep_defence_system = 1
+pre_war_small_arms = 1
+pre_war_heavy_arms = 1
+chemical_arsenal = 1
+military_academy = 1
+
+great_war_experience = 1
+}

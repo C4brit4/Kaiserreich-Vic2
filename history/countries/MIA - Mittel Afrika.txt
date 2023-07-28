@@ -1,0 +1,112 @@
+capital = 1993
+primary_culture = north_german
+culture = south_german
+religion = protestant
+government = absolute_monarchy
+plurality = 0.15
+nationalvalue = nv_order
+literacy = 0.93
+civilized = yes
+is_releasable_vassal = no
+
+#GreaterPowers = prestige
+prestige = 0
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = no_voting
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = state_controlled
+voting_system = first_past_the_post
+political_parties = only_underground
+
+# Social Reforms
+wage_reform = low_minimum_wage
+work_hours = twelve_hours
+safety_regulations = good_safety
+health_care = good_health_care
+unemployment_subsidies = low_subsidies
+pensions = good_pensions 
+school_reforms = no_schools
+
+govt_flag = 
+{
+	government = hms_government
+	flag = presidential_dictatorship
+}
+
+ruling_party = GER_conservative
+upper_house = {
+	fascist = 4
+	liberal = 8
+	conservative = 80
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 5
+	communist = 3
+}
+
+schools = army_tech_school
+
+1861.1.1 = {
+	oob = "/1861/MIA_oob.txt"
+
+electricity = 1
+integral_rail_system = 1
+advanced_metallurgy = 1
+assembly_line = 1
+combustion_engine = 1
+shift_work = 1
+electrical_power_generation = 1
+electric_furnace = 1
+advanced_metallurgy_&_glassblowing = 1
+
+psychoanalysis = 1
+nationalism_&_imperialism = 1
+structural_functionalism = 1
+rationalism = 1
+mass_politics = 1
+expressionism = 1
+darwinism = 1
+phenomenology_&_hermeneutic = 1
+behaviorism = 1
+impressionism = 1
+
+post_nelsonian_thought = 1
+battleship_column_doctrine = 1
+clipper_design = 1
+steamers = 1
+naval_design_bureaus = 1
+fire_control_systems = 1
+alphabetic_flag_signaling = 1
+naval_plans = 1
+the_command_principle = 1
+naval_professionalism = 1
+
+
+modern_central_bank_system = 1
+bank_inspection_board = 1
+keynesian_economics = 1
+economic_responsibility = 1
+organisational_development = 1
+market_determined_exchange_rates = 1
+international_economics = 1
+organised_factories = 1
+mutual_funds = 1
+government_interventionism = 1
+
+deep_defence_system = 1
+hardened_field_fortification = 1
+pre_war_small_arms = 1
+heavy_weapons_platoon = 1
+pre_war_heavy_arms = 1
+great_war_heavy_arms = 1
+chemical_arsenal = 1
+early_aeronautics = 1
+military_academy = 1
+
+great_war_experience = 1
+
+}
