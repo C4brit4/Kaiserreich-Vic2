@@ -1,3 +1,6 @@
+owner = ADA
+controller = ADA
+add_core = ADA
 trade_goods = opium
 life_rating = 25
 1861.1.1 = {

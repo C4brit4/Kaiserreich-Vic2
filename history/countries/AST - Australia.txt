@@ -1,0 +1,108 @@
+capital = 2468
+primary_culture = british
+religion = protestant
+government = hms_government
+plurality = 0.98
+nationalvalue = nv_liberty
+literacy = 0.7
+civilized = yes
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = wealth_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = jefferson_method
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = low_minimum_wage
+work_hours = ten_hours
+safety_regulations = trinket_safety
+health_care = trinket_health_care
+unemployment_subsidies = trinket_subsidies
+pensions = low_pensions 
+school_reforms = no_schools
+
+ruling_party = AST_liberal_2
+upper_house = {
+	fascist = 0
+	liberal = 65
+	conservative = 25
+	reactionary = 5
+	anarcho_liberal = 5
+	socialist = 0
+	communist = 0
+}
+
+1861.1.1 = {
+	oob = "/1861/AST_oob.txt"
+}
+electricity = 1
+integral_rail_system = 1
+advanced_metallurgy = 1
+assembly_line = 1
+combustion_engine = 1
+shift_work = 1
+electrical_power_generation = 1
+electric_furnace = 1
+advanced_metallurgy_&_glassblowing = 1
+
+psychoanalysis = 1
+nationalism_&_imperialism = 1
+structural_functionalism = 1
+rationalism = 1
+mass_politics = 1
+expressionism = 1
+darwinism = 1
+phenomenology_&_hermeneutic = 1
+behaviorism = 1
+impressionism = 1
+
+modern_central_bank_system = 1
+bank_inspection_board = 1
+keynesian_economics = 1
+economic_responsibility = 1
+organisational_development = 1
+market_determined_exchange_rates = 1
+international_economics = 1
+organised_factories = 1
+mutual_funds = 1
+government_interventionism = 1
+
+post_nelsonian_thought = 1
+battleship_column_doctrine = 1
+clipper_design = 1
+steamers = 1
+naval_design_bureaus = 1
+fire_control_systems = 1
+alphabetic_flag_signaling = 1
+naval_plans = 1
+the_command_principle = 1
+naval_professionalism = 1
+
+
+high_seas_battle_fleet = 1
+great_war_naval_doctrine = 1
+steam_turbine_ships = 1
+oil_driven_ships = 1
+pre_war_naval_design = 1
+great_war_naval_design = 1
+pre_war_naval_directionism = 1
+great_war_naval_integration = 1
+pre_war_naval_training = 1
+great_war_naval_training = 1
+
+deep_defence_system = 1
+hardened_field_fortification = 1
+pre_war_small_arms = 1
+heavy_weapons_platoon = 1
+pre_war_heavy_arms = 1
+great_war_heavy_arms = 1
+chemical_arsenal = 1
+early_aeronautics = 1
+military_academy = 1
+
+great_war_experience = 1

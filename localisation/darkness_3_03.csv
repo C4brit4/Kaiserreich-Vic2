@@ -1,0 +1,13 @@
+GIVE_UNIT_COMMAND_BUTTON;Command Units;;Kontrolliere Einheiten;;;;;;;;x
+GIVE_UNIT_COMMANDTITLE;Command Units;;Kontrolliere Einheiten;;;;;;;;x
+GIVE_UNIT_COMMAND_DESC;While fighting a war together, a puppet's overlord may take command of their units.;;Während sie gemeinsam einen Krieg bestreiten, darf der Herrscher die Kontrolle über die Einheiten seiner Marionetten übernehmen.;;;;;;;;x
+GIVE_UNIT_COMMAND_OK;Ask your puppet to take back command over their own units.;;Frage deine Marionette, ob sie die Kontrolle über ihre Einheiten zurückerlangen will.;;;;;;;;x
+GIVE_UNIT_COMMAND_CANT_CONTROL;You can command units of your §Ypuppets§! only when you are fighting in a war together.;;Sie können die Einheiten Ihrer §YMarionetten§! nur dann kontrollieren, wenn Sie gemeinsam einen Krieg bestreiten.;;;;;;;;x
+GIVE_UNIT_COMMAND_ALREADY_CONTROL;You are already in command of their units.;;Sie kontrollieren schon ihre Einheiten.;;;;;;;;x
+CANCEL_UNIT_COMMAND_BUTTON;Give Back Units;;Einheiten zurückgeben;;;;;;;;x
+CANCEL_UNIT_COMMANDTITLE;Give Back Units;;Einheiten zurückgeben;;;;;;;;x
+CANCEL_UNIT_COMMAND_DESC;Give Back Units;;Einheiten zurückgeben;;;;;;;;x
+CANCEL_UNIT_COMMAND_OK;Give them back their units.;;Geben Sie ihnen ihre Einheiten zurück.;;;;;;;;x
+CANCEL_UNIT_COMMAND_NOT_IN_CONTROL;You are not in command of this unit.;;Sie kontrollieren diese Einheit nicht.;;;;;;;;x
+cut_down_to_size_boxer_setup;Force China to pay for the crimes of the Boxer rebels.;;Zwinge China, für die Verbrechen der Boxer-Rebellen zu büßen.;;;;;;;;x
+cut_down_to_size_boxer_short;Force China to pay for the Boxer's crimes.;;Zwinge China, für die Verbrechen der Boxer zu büßen.;;;;;;;;x

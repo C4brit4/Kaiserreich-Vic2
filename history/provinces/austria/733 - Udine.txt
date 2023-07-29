@@ -1,0 +1,7 @@
+owner = ITR
+controller = ITR
+add_core = ITR
+add_core = VEN
+trade_goods = fish
+life_rating = 35
+1861.1.1 = { railroad = 2 }

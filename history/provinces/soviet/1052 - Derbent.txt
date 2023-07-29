@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = DKU
+controller = DKU
+add_core = DKU
 trade_goods = fruit
 life_rating = 35

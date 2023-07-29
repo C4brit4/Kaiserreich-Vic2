@@ -1,8 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = POL
+controller = POL
 add_core = POL
-add_core = PLC
 trade_goods = cattle
 life_rating = 35
 #state_building = {

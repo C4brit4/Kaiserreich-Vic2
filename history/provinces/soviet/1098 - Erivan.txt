@@ -1,6 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
+owner = ARM
+controller = ARM
 add_core = ARM
 trade_goods = iron
 life_rating = 35

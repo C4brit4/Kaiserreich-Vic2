@@ -1,0 +1,106 @@
+capital = 2172
+primary_culture = mexican
+culture = mayan
+religion = catholic
+government = democracy
+plurality = 25.0
+nationalvalue = nv_liberty
+literacy = 0.15
+non_state_culture_literacy = 0.09
+civilized = yes
+prestige = 5
+
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = landed_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+ruling_party = MEX_conservative
+last_election = 1835.1.28
+upper_house = {
+	fascist = 0
+	liberal = 25
+	conservative = 63
+	reactionary = 12
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+electricity = 1
+integral_rail_system = 1
+advanced_metallurgy = 1
+assembly_line = 1
+combustion_engine = 1
+advanced_metallurgy_&_glassblowing = 1
+
+nationalism_&_imperialism = 1
+structural_functionalism = 1
+mass_politics = 1
+expressionism = 1
+phenomenology_&_hermeneutic = 1
+impressionism = 1
+
+modern_central_bank_system = 1
+bank_inspection_board = 1
+organised_factories = 1
+
+deep_defence_system = 1
+pre_war_small_arms = 1
+pre_war_heavy_arms = 1
+chemical_arsenal = 1
+military_academy = 1
+
+high_seas_battle_fleet = 1
+great_war_naval_doctrine = 1
+steam_turbine_ships = 1
+oil_driven_ships = 1
+pre_war_naval_design = 1
+pre_war_naval_directionism = 1
+pre_war_naval_training = 1
+
+post_nelsonian_thought = 1
+battleship_column_doctrine = 1
+clipper_design = 1
+naval_design_bureaus = 1
+alphabetic_flag_signaling = 1
+the_command_principle = 1
+
+
+#Starting Consciousness
+consciousness = 2
+nonstate_consciousness = 0
+
+oob = "/1861/MEX_oob.txt"
+
+1861.1.1 = {
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = wealth_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+
+plurality = 60
+ruling_party = MEX_liberal
+literacy = 0.225
+non_state_culture_literacy = 0.10
+
+}

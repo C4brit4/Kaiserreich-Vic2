@@ -1,0 +1,74 @@
+capital = 2193
+primary_culture = central_american
+religion = catholic
+government = presidential_dictatorship
+plurality = 25.1
+nationalvalue = nv_liberty
+literacy = 0.17
+civilized = yes
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = non_socialist
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+ruling_party = HON_liberal
+upper_house = {
+	fascist = 0
+	liberal = 53
+	conservative = 29
+	reactionary = 18
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+#Starting Consciousness
+consciousness = 2
+nonstate_consciousness = 0
+1861.1.1 = {
+	oob = "/1861/HON_oob.txt"
+	plurality = 50
+}
+1861.1.1 = {
+# Kaiserreich Secondary Powers Setup
+
+electricity = 1
+integral_rail_system = 1
+advanced_metallurgy = 1
+assembly_line = 1
+combustion_engine = 1
+advanced_metallurgy_&_glassblowing = 1
+
+nationalism_&_imperialism = 1
+structural_functionalism = 1
+mass_politics = 1
+expressionism = 1
+phenomenology_&_hermeneutic = 1
+impressionism = 1
+
+modern_central_bank_system = 1
+bank_inspection_board = 1
+organised_factories = 1
+
+deep_defence_system = 1
+pre_war_small_arms = 1
+pre_war_heavy_arms = 1
+chemical_arsenal = 1
+military_academy = 1
+
+}

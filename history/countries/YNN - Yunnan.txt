@@ -1,12 +1,11 @@
 capital = 1601
 primary_culture = nanfaren
 religion = mahayana
-government = presidential_dictatorship
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.04
 non_state_culture_literacy = 0.02
-civilized = yes
 
 ruling_party = YNN_reactionary
 upper_house = {
@@ -39,3 +38,17 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+1861.1.1 = {
+	oob = "/1861/YNN_oob.txt"
+	literacy = 0.07
+	non_state_culture_literacy = 0.04
+
+	#Military Reforms
+	admin_reform = yes_admin_reform
+	finance_reform = finance_reform_two
+	education_reform = yes_education_reform
+	
+	foreign_training = yes_foreign_training
+	foreign_weapons = yes_foreign_weapons
+}
