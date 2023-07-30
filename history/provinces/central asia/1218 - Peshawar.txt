@@ -1,5 +1,5 @@
-owner = PAN
-controller = PAN
+owner = RAJ
+controller = RAJ
 add_core = PAN
 add_core = AFG
 trade_goods = grain
@@ -8,3 +8,4 @@ life_rating = 35
 	owner = AFG
 	controller = AFG
 }
+add_core = RAJ

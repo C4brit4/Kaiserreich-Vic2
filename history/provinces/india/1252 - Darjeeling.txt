@@ -1,6 +1,8 @@
-owner = ENG
-controller = ENG
+owner = NEP
+controller = NEP
 add_core = HND
 trade_goods = wool
 life_rating = 32
 colonial = 2
+
+add_core = NEP

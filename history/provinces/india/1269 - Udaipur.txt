@@ -1,5 +1,5 @@
-owner = MEW
-controller = MEW
+owner = HND
+controller = HND
 add_core = MEW
 add_core = HND
 trade_goods = cotton

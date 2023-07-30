@@ -1,5 +1,5 @@
-owner = ORI
-controller = ORI
+owner = HND
+controller = HND
 add_core = ORI
 add_core = HND
 trade_goods = grain

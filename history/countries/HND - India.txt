@@ -6,15 +6,13 @@ culture = tamil
 culture = kanauji
 
 religion = hindu
-government = democracy
+government = proletarian_dictatorship
 plurality = 0.0
 nationalvalue = nv_equality
 literacy = 0.02
 civilized = no
 
-is_releasable_vassal = no
-
-ruling_party = HND_conservative
+ruling_party = HND_communist
 upper_house = {
 	fascist = 0
 	liberal = 11

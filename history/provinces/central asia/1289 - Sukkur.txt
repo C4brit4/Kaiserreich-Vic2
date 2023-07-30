@@ -1,7 +1,7 @@
-owner = SIN
-controller = SIN
+owner = RAJ
+controller = RAJ
 add_core = SIN
-add_core = HND
+
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
@@ -9,3 +9,4 @@ life_rating = 35
 	controller = ENG
 	colonial = 2
 }
+add_core = RAJ

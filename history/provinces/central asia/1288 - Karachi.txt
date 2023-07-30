@@ -1,7 +1,7 @@
-owner = SIN
-controller = SIN
+owner = RAJ
+controller = RAJ
 add_core = SIN
-add_core = HND
+
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = {
@@ -10,3 +10,5 @@ life_rating = 35
 	colonial = 2
 }
 1861.1.1 = { railroad = 2 }
+
+add_core = RAJ

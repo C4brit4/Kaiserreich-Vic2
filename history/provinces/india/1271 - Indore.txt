@@ -1,5 +1,5 @@
-owner = IND
-controller = IND
+owner = HND
+controller = HND
 add_core = IND
 add_core = HND
 trade_goods = cotton

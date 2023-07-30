@@ -1,6 +1,8 @@
-owner = TRA
-controller = TRA
-add_core = HND
+owner = PRF
+controller = PRF
+
 add_core = TRA
 trade_goods = grain
 life_rating = 32
+
+add_core = PRF

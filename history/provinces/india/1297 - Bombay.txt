@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = HND
+owner = PRF
+controller = PRF
+
 trade_goods = grain
 life_rating = 32
 colonial = 2
@@ -10,3 +10,5 @@ naval_base = 1
 	railroad = 3 
 }
 
+
+add_core = PRF

@@ -1,7 +1,9 @@
-owner = ENG
-controller = ENG
+owner = PRF
+controller = PRF
 add_core = MYS
 add_core = HYD
-add_core = HND
+
 trade_goods = tea
 life_rating = 32
+
+add_core = PRF

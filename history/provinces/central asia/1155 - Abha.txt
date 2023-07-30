@@ -1,7 +1,5 @@
-owner = TUR
-controller = TUR
+owner = HDJ
+controller = HDJ
 add_core = HDJ
 trade_goods = wool
 life_rating = 35
-
-add_core = TUR

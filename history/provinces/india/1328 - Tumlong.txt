@@ -1,6 +1,8 @@
-owner = SIK
-controller = SIK
+owner = NEP
+controller = NEP
 add_core = SIK
 add_core = HND
 trade_goods = wool
 life_rating = 25
+
+add_core = NEP

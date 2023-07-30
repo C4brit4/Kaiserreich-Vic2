@@ -242,3 +242,11 @@ vassal = {
 	start_date = 1861.1.1
 	end_date = 1936.1.1
 }
+
+#German East Asia
+vassal = {
+	first = GER
+	second = GEA
+	start_date = 1920.1.1
+	end_date = 2020.1.1
+}

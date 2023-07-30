@@ -1,6 +1,9 @@
-owner = JOD
-controller = JOD
+owner = HND
+controller = HND
 add_core = JOD
-add_core = HND
+
 trade_goods = tea
 life_rating = 32
+
+add_core = RAJ
+add_core = HND

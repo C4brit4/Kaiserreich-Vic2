@@ -1,5 +1,5 @@
-owner = AWA
-controller = AWA
+owner = HND
+controller = HND
 add_core = AWA
 add_core = HND
 trade_goods = timber
