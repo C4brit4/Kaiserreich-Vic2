@@ -1,8 +1,6 @@
 trade_goods = fish
 life_rating = 20
 1861.1.1 = {
-	owner = AST
-	controller = AST
+	owner = ENG
+	controller = ENG
 }
-
-colonial = yes

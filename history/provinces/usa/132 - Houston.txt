@@ -9,9 +9,9 @@ controller = USA
 add_core = USA
 }
 1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
+	controller = USA
+	owner = USA
+	add_core = USA
 	state_building = {
 		level = 1
 		building = canned_food_factory

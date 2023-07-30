@@ -11,7 +11,7 @@ nationalvalue = nv_order
 consciousness = 3
 nonstate_consciousness = 1
 
-oob = "/1861/BRJ_oob.txt"
+oob = "/1936/BRJ_oob.txt"
 prestige = 15
 literacy = 0.15
 non_state_culture_literacy = 0.15

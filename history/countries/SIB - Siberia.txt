@@ -117,10 +117,10 @@ oob = "RUS_oob.txt"
 decision = peking_convention
 }
 
-1861.1.1 = {
-	oob = "/1861/RUS_oob.txt"
+1936.1.1 = {
+	oob = "/1936/RUS_oob.txt"
 }
-1861.1.1 = {
+1936.1.1 = {
 	ruling_party = RUS_communist
 	plurality = 60
 	literacy = 0.15
@@ -128,7 +128,7 @@ decision = peking_convention
 
 }
 
-1861.1.1 = {
+1936.1.1 = {
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting

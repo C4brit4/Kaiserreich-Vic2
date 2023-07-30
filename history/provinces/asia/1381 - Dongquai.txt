@@ -1,7 +1,5 @@
-owner = GEA
-controller = GEA
+owner = DAI
+controller = DAI
 add_core = DAI
 trade_goods = cotton
 life_rating = 30
-
-add_core = GEA

@@ -11,7 +11,7 @@ civilized = yes
 
 
 #GreaterPowers = prestige
-prestige = 50
+prestige = 650
 
 # Political reforms
 slavery = no_slavery
@@ -87,11 +87,11 @@ schools = army_tech_school
 oob = "PRU_oob.txt"
 1861.1.1 = {
 	oob = "/1861/PRU_oob.txt"
-	prestige = 120
 	plurality = 60
 	literacy = 0.90
 	non_state_culture_literacy = 0.45
-
+    prestige = 650
+	
 foreign_investment = {
 	OLD = 10000
 	MEC = 7500

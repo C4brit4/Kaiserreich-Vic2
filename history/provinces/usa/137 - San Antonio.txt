@@ -10,7 +10,7 @@ owner = USA
 controller = USA
 add_core = USA
 }1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
+	controller = USA
+	owner = USA
+	add_core = USA
 }

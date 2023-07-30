@@ -1,6 +1,6 @@
 #name = "War of Northern Aggression"
 
-1861.6.30 = {
+9999.6.30 = {
 	add_attacker = USA
 	add_defender = CSA
 	

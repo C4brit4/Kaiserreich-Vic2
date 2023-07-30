@@ -1,64 +1,46 @@
-# Denmark-Holstein
+# German-Belga 
 vassal = {
-	first = DEN
-	second = HOL
+	first = GER
+	second = BEL
 	start_date = 1773.1.1
-	end_date = 1864.10.30
+	end_date = 9999.10.30
 }
-
-# NET-LUX
 vassal = {
-	first = NET
-	second = LUX
-	start_date = 1815.1.1
-	end_date = 1890.11.23
+	first = AUS
+	second = ITR
+	start_date = 1773.1.1
+	end_date = 9999.10.30
 }
-
-# USA-Liberia
 vassal = {
-	first = USA
-	second = LIB
-	start_date = 1822.1.1
-	end_date = 1847.7.26
+	first = CHL
+	second = PTG
+	start_date = 1773.1.1
+	end_date = 9999.10.30
 }
-
-# United Kingdom-Hanover
 vassal = {
-	first = ENG
-	second = HAN
-	start_date = 1814.10.1
-	end_date = 1837.1.1
+	first = AUS
+	second = HUN
+	start_date = 1773.1.1
+	end_date = 9999.10.30
 }
-
-# United Kingdom-Ionian Islands
 vassal = {
-	first = ENG
-	second = ION
-	start_date = 1815.11.9
-	end_date = 1864.1.1
+	first = AUS
+	second = BOH
+	start_date = 1773.1.1
+	end_date = 9999.10.30
 }
-
-# Ottoman Empire-Wallachia
 vassal = {
-	first = TUR
-	second = WAL
-	start_date = 1836.1.1
-	end_date = 1859.1.24	# Reunification of Wallachia and Moldavia
+	first = AUS
+	second = CRO
+	start_date = 1773.1.1
+	end_date = 9999.10.30
 }
-
-# Ottoman Empire-Moldavia
 vassal = {
-	first = TUR
-	second = MOL
-	start_date = 1836.1.1
-	end_date = 1859.1.24	# Reunification of Wallachia and Moldavia
+	first = AUS
+	second = GLO
+	start_date = 1773.1.1
+	end_date = 9999.10.30
 }
-
-#######################
-#        INDIA        #
-#######################
-
-# United Kingdom-Awadh
 vassal = {
 	first = ENG
 	second = AWA
@@ -249,4 +231,11 @@ vassal = {
 	second = GEA
 	start_date = 1920.1.1
 	end_date = 2020.1.1
+}
+	
+vassal = {	
+	first = AUS
+	second = ALB
+	start_date = 1773.1.1
+	end_date = 9999.10.30
 }

@@ -7,7 +7,7 @@ add_core = PLC
 trade_goods = coal
 life_rating = 40
 1861.1.1 = {
-	owner = AUS
-	controller = AUS
+	owner = GLO
+controller = GLO
 }
 1861.1.1 = { railroad = 3 }

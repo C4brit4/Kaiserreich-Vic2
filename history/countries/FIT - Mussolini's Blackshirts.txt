@@ -40,7 +40,7 @@ upper_house = {
 	communist = 0
 }
 
-1861.1.1 = {
+1936.1.1 = {
 
 prestige = 10
 plurality = 60

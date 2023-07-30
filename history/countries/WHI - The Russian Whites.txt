@@ -90,16 +90,16 @@ nonstate_consciousness = 1
 
 schools = culture_tech_school
 
-oob = "/1861/WHI_oob.txt"
+oob = "/1936/WHI_oob.txt"
 
 1860.11.14 = {
 decision = peking_convention
 }
 
-1861.1.1 = {
-	oob = "/1861/WHI_oob.txt"
+1936.1.1 = {
+	oob = "/1936/WHI_oob.txt"
 }
-1861.1.1 = {
+1936.1.1 = {
 	ruling_party = RUS_liberal
 	plurality = 60
 	literacy = 0.15
@@ -151,7 +151,7 @@ great_war_experience = 1
 
 }
 
-1861.1.1 = {
+1936.1.1 = {
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = wealth_voting

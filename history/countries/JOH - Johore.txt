@@ -45,9 +45,9 @@ school_reforms = no_schools
 	oob = "/1861/JOH_oob.txt"
 	literacy = 0.05
 
-	admin_reform = yes_admin_reform
-	finance_reform = finance_reform_two
-	
-	foreign_training = yes_foreign_training
+	#Military Reforms
 	foreign_weapons = yes_foreign_weapons
+	
+	#Technologies
+	flintlock_rifles = 1
 }

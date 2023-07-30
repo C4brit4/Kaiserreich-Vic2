@@ -1,5 +1,5 @@
-owner = AST
-controller = AST
+owner = ENG
+controller = ENG
 add_core = AST
 trade_goods = tropical_wood
 life_rating = 30

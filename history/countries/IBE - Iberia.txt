@@ -93,8 +93,8 @@ oob = "SPA_oob.txt"
 	decision = establish_la_guardia_civil
 }
 
-1861.1.1 = {
-	oob = "/1861/SPA_oob.txt"
+1936.1.1 = {
+	oob = "/1936/SPA_oob.txt"
 	
 plurality = 60
 literacy = 0.30

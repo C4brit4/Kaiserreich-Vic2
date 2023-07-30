@@ -48,10 +48,5 @@ school_reforms = no_schools
 	non_state_culture_literacy = 0.04
 
 	#Military Reforms
-	admin_reform = yes_admin_reform
-	finance_reform = finance_reform_two
-	education_reform = yes_education_reform
-	
 	foreign_training = yes_foreign_training
-	foreign_weapons = yes_foreign_weapons
 }
