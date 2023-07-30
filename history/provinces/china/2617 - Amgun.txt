@@ -1,7 +1,0 @@
-owner = RUS
-controller = RUS
-add_core = CHI
-
-trade_goods = coal
-life_rating = 32
-add_core = RUS

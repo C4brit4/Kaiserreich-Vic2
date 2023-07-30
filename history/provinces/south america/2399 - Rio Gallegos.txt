@@ -1,4 +1,0 @@
-owner = PTGcontroller = PTG
-add_core = PTGadd_core = ARG
-trade_goods = wool
-life_rating = 25
