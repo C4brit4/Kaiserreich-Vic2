@@ -5,11 +5,6 @@ government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.05
-civilized = yes
-
-pre_war_defence = 1
-pre_war_tactics = 1
-pre_war_artillery = 1
 
 ruling_party = ALD_conservative
 upper_house = {
@@ -28,7 +23,7 @@ nonstate_consciousness = 0
 
 oob = "ALD_oob.txt"
 1861.1.1 = {
-	oob = "ALD_oob.txt"
+	oob = "/1861/ALD_oob.txt"
 }
 
 slavery = no_slavery

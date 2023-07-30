@@ -12,8 +12,6 @@ nationalvalue = nv_equality
 literacy = 0.02
 civilized = no
 
-is_releasable_vassal = no
-
 ruling_party = HND_conservative
 upper_house = {
 	fascist = 0

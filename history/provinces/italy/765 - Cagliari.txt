@@ -16,7 +16,7 @@ life_rating = 35
 #	upgrade = yes
 #}
 1861.1.1 = {
-	controller = ITA
-	owner = ITA
+	controller = SAR
+	owner = SAR
 	add_core = ITA
 }

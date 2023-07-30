@@ -117,7 +117,7 @@ nonstate_consciousness = 1
 
 schools = commerce_tech_school
 
-1861.1.1 = {
+1936.1.1 = {
 
 ruling_party = USA_liberal
 plurality = 60

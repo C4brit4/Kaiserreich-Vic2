@@ -10,8 +10,8 @@ life_rating = 35
 #	upgrade = yes
 #}
 1861.1.1 = {
-	controller = ITA
-	owner = ITA
+	controller = ITC
+	owner = ITC
 	add_core = ITA
 }
 1861.1.1 = { railroad = 3 }

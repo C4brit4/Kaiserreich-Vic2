@@ -45,10 +45,10 @@ upper_house = {
 # Starting Consciousness
 consciousness = 4
 nonstate_consciousness = 2
-1861.1.1 = {
-	oob = "/1861/YUG_oob.txt"
+1936.1.1 = {
+	oob = "/1936/YUG_oob.txt"
 }
-1861.1.1 = {
+1936.1.1 = {
 # Kaiserreich Secondary Powers Setup
 
 electricity = 1

@@ -52,10 +52,10 @@ water_wheel_power = 1
 consciousness = 0
 nonstate_consciousness = 0
 
-1861.1.1 = {
-	oob = "/1861/DKU_oob.txt"
+1936.1.1 = {
+	oob = "/1936/DKU_oob.txt"
 }
-1861.1.1 = {
+1936.1.1 = {
 # Technologies
 	flintlock_rifles = 1
 	bronze_muzzle_loaded_artillery = 1

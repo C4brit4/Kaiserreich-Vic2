@@ -19,9 +19,9 @@ party_loyalty = {
 	ideology = conservative
 	loyalty_value = 20
 	}
-	controller = CSA
-	owner = CSA
-	add_core = CSA
+	controller = USA
+	owner = USA
+	add_core = USA
 	state_building = {
 		level = 1
 		building = liquor_distillery

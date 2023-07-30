@@ -49,12 +49,9 @@ school_reforms = no_schools
 	literacy = 0.13
 	non_state_culture_literacy = 0.04
 
-	#Economic Reforms
-	land_reform = yes_land_reform
-	finance_reform = yes_finance_reform
-	finance_reform = finance_reform_two #International Debt
-
 	#Military Reforms
-	foreign_training = yes_foreign_training
 	foreign_weapons = yes_foreign_weapons
+
+	#Technologies
+	flintlock_rifles = 1
 }

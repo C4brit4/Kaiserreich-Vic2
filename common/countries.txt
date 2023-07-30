@@ -51,6 +51,7 @@ ITR             = "countries/Italy Republic.txt"
 GLO             = "countries/Galicia y Lodomeria.txt" 
 DKU     = "countries/Don Kuban-Union.txt"
 ADA     = "countries/Alash Autonomy.txt"
+PTG     = "countries/Patagonia.txt"
 #AIN             = "countries/Alien Invaders.txt"
 
 

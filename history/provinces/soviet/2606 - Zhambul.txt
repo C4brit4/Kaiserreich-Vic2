@@ -4,7 +4,6 @@ add_core = ADA
 trade_goods = coal
 life_rating = 25
 1861.1.1 = {
-	owner = RUS
-	controller = RUS
-	colonial = 2
+	owner = ADA
+controller = ADA
 }

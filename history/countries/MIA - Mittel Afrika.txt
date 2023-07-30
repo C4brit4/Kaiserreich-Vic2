@@ -50,8 +50,8 @@ upper_house = {
 
 schools = army_tech_school
 
-1861.1.1 = {
-	oob = "/1861/MIA_oob.txt"
+1936.1.1 = {
+	oob = "/1936/MIA_oob.txt"
 
 electricity = 1
 integral_rail_system = 1

@@ -59,8 +59,8 @@ schools = culture_tech_school
 
 oob = "FRE_oob.txt"
 
-1861.1.1 = {
-	oob = "/1861/FRA_oob.txt"
+1936.1.1 = {
+	oob = "/1936/FRA_oob.txt"
 	prestige = 140
 	plurality = 65
 	literacy = 0.65

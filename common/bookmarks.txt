@@ -1,6 +1,6 @@
 bookmark =
 {
-	name = "GC_NAME"
+	name = "PLS PLAY IN 1936"
 	desc = "GC_DESC"
 	date = 1836.1.1
 	cameraX = 2950 
@@ -9,9 +9,9 @@ bookmark =
 
 bookmark =
 {
-	name = "ACW_NAME"
+	name = "Victoria II : Kaiserreich"
 	desc = "ACW_DESC"
-	date = 1861.7.1
-	cameraX = 1270 
-	cameraY = 1450
+	date = 1936.7.1
+	cameraX = 2950
+	cameraY = 1550
 }

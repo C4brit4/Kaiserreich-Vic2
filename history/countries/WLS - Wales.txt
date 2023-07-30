@@ -24,7 +24,7 @@ upper_house = {
 
 schools = naval_tech_school
 
-oob = "/1861/ENG_oob.txt"
+oob = "/1936/ENG_oob.txt"
 prestige = 0
 plurality = 65
 literacy = 0.70
