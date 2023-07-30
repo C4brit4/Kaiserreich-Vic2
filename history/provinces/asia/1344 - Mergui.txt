@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
+owner = SIA
+controller = SIA
 add_core = BUR
 trade_goods = fish
 life_rating = 30
 colonial = 2
+add_core = SIA

@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = PHI
+controller = PHI
 add_core = PHI
 trade_goods = iron
 life_rating = 30

@@ -1,5 +1,7 @@
-owner = LUA
-controller = LUA
+owner = GEA
+controller = GEA
 add_core = LUA
 trade_goods = tobacco
 life_rating = 30
+
+add_core = GEA

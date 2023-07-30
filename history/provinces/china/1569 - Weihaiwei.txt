@@ -1,7 +1,8 @@
-owner = SQI
-controller = SQI
+owner = GEA
+controller = GEA
 add_core = CHI
 trade_goods = grain
 life_rating = 32
 
 add_core = SQI
+add_core = GEA

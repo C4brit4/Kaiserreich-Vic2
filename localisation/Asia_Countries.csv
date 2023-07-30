@@ -1,4 +1,5 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+GEA;German East Asia;x;
 JAP_fascist_dictatorship;Greater Japanese Empire;x;
 LEC;Legation Cities;x;
 LEP;League of Eight Provinces;x;
@@ -9,6 +10,7 @@ SZC;Sichuan Clique;x;
 TRS;Transamur;x;
 XBI;Ma Clique;x;
 XIN;Xinjiang Clique;x;
+GEA_ADJ;German;x;
 LEC_ADJ;Legation;x;
 LEP_ADJ;Chinese;x;
 QIE_ADJ;Qing;x;

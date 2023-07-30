@@ -15,44 +15,6 @@ JAP		= "countries/Japan.txt"
 ITA		= "countries/Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
 
-# Kaiserreich Countries
-MIA             = "countries/Mittel Afrika.txt"
-BRJ             = "countries/The Raj.txt"
-WHI             = "countries/The Russian Whites.txt"
-FIT             = "countries/Mussolini's Blackshirts.txt"
-EAU             = "countries/The East African Union.txt"
-WAU             = "countries/The West African Union.txt"
-UOC             = "countries/The Commonwealth Union.txt"
-EOM             = "countries/The Empire of Mugabe.txt"
-PAK             = "countries/Pakistan.txt"
-ROD             = "countries/The Republic of the Daunbe.txt"
-IBE		= "countries/Iberia.txt"
-ROE             = "countries/The Roman Empire.txt"
-TTE             = "countries/The Terran Empire.txt"
-FRE             = "countries/The French Empire.txt"
-TRO             = "countries/Tropico.txt"
-AFA             = "countries/American Fascist Alliance.txt"
-APA             = "countries/American People's Council.txt"
-RIF             = "countries/The Republic of the Rif.txt"
-VIE             = "countries/Vietnam.txt"
-SRI             = "countries/Sri Lanka.txt"
-SIB             = "countries/Siberia.txt"
-LAE             = "countries/Latin American Empire.txt"
-OCU             = "countries/The Oceanic Union.txt"
-IDS             = "countries/Indonesia.txt"
-KDU             = "countries/Kaiserlich Deutschen Ukraine.txt"
-KDW             = "countries/Kaiserlich Deutschen Weissrussland.txt"
-KDO             = "countries/Kaiser Deutschen Ostsee.txt"
-WLS             = "countries/Wales.txt"
-SPF             = "countries/Franco Spain.txt"
-SLD             = "countries/Slavic Dominion.txt"
-ITC             = "countries/Italy Comunista.txt"
-ITR             = "countries/Italy Republic.txt"
-GLO             = "countries/Galicia y Lodomeria.txt" 
-DKU     = "countries/Don Kuban-Union.txt"
-ADA     = "countries/Alash Autonomy.txt"
-#AIN             = "countries/Alien Invaders.txt"
-
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
@@ -352,6 +314,9 @@ D48		= "countries/D48.txt"
 D49		= "countries/D49.txt"
 D50		= "countries/D50.txt"
 
+
+#===============Kaiserreich===============#
+
 #China
 LEC        = "countries/Legation Cities.txt"
 LEP        = "countries/League of Eight Provinces.txt"
@@ -359,3 +324,6 @@ QIE        = "countries/Qing Empire.txt"
 SQI        = "countries/Shangdong Clique.txt"
 SZC        = "countries/Sichuan Clique.txt"
 TRS        = "countries/Transamur.txt"
+
+#Asia
+GEA        = "countries/German East Asia.txt"

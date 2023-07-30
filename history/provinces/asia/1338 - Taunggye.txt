@@ -1,5 +1,7 @@
-owner = BUR
-controller = BUR
+owner = SIA
+controller = SIA
 add_core = BUR
 trade_goods = opium
 life_rating = 35
+
+add_core = SIA
