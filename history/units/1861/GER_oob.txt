@@ -35,7 +35,7 @@ UKR = {
 
 }
 
-UKR = {
+GEA = {
 
 	value = 125
 

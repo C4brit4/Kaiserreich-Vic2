@@ -1,5 +1,7 @@
-owner = TUR
-controller = TUR
+owner = EOC
+controller = EOC
 add_core = TUR
 trade_goods = fruit
 life_rating = 35
+
+add_core = EOC

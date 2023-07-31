@@ -1,5 +1,7 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = ETH
+controller = ETH
+
 trade_goods = fruit
 life_rating = 30
+
+add_core = ETH

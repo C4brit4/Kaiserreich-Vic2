@@ -1,2 +1,9 @@
+owner = GMC
+controller = GMC
+
+
 trade_goods = coffee
 life_rating = 15
+
+
+add_core = GMC

@@ -1,4 +1,4 @@
-ANH = {
+POL = {
 
 	value = 125
 	level = 5
@@ -6,14 +6,14 @@ ANH = {
 	military_access = yes
 }
 
-BRA = {
+FIN = {
 	value = 125
 	level = 5
 	influence_value = 25
 	military_access = yes
 }
 
-BRE = {
+UBD = {
 
 	value = 125
 	level = 5
@@ -23,27 +23,7 @@ BRE = {
 
 }
 
-COB = {
-
-	value = 125
-
-	level = 5
-
-	influence_value = 25
-
-	military_access = yes
-
-}
-
-FRM = {
-
-	value = 125
-	level = 5
-	influence_value = 25
-	military_access = yes
-}
-
-HAM = {
+UKR = {
 
 	value = 125
 
@@ -55,11 +35,19 @@ HAM = {
 
 }
 
-HAN = {
+GEA = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+BYE = {
 
 	value = 125
 
-	level = 3
+	level = 5
 
 	influence_value = 25
 
@@ -67,7 +55,7 @@ HAN = {
 
 }
 
-HEK = {
+BEL = {
 
 	value = 125
 
@@ -91,103 +79,8 @@ HES = {
 
 }
 
-KRA = {
 
-	value = 125
-	level = 4
-	influence_value = 25
-
-}
-LIP = {
-
-	value = 125
-	level = 5
-	influence_value = 25
-
-	military_access = yes
-
-}
-
-LUB = {
-
-	value = 125
-
-	level = 5
-
-	influence_value = 25
-
-	military_access = yes
-
-}
-
-LUX = {
-
-	value = 125
-
-	level = 3
-
-	influence_value = 25
-
-}
-
-MEC = {
-
-	value = 125
-
-	level = 5
-
-	influence_value = 25
-
-	military_access = yes
-
-}
-
-MEI = {
-
-	value = 125
-
-	level = 5
-
-	influence_value = 25
-
-	military_access = yes
-
-}
-
-NAS = {
-
-	value = 125
-
-	level = 5
-
-	influence_value = 25
-
-	military_access = yes
-}
-
-OLD = {
-
-	value = 125
-
-	level = 5
-
-	influence_value = 25
-
-	military_access = yes
-}
-
-SAX = {
-
-	value = 50
-
-	level = 3
-
-	influence_value = 25
-
-	military_access = yes
-}
-
-WEI = {
+LIT = {
 
 	value = 125
 
@@ -200,55 +93,29 @@ WEI = {
 }
 
 
-BAV = {
+IRE = {
 
-	value = 75
-	level = 3
+	value = 125
+
+	level = 5
+
 	influence_value = 25
 
 	military_access = yes
-}
-
-
-BAD = {
-
-	value = 100
-
-	level = 3
-
-	influence_value = 20
-
-	military_access = yes
 
 }
+GMC = {
 
-
-WUR = {
-	value = 100
-	level = 3
-	influence_value = 20
-	military_access = yes
-}
-
-AUS = {
 	value = 125
-}
 
-RUS = {
-	value = 125
-}
+	level = 5
 
-FRA = {
-	value = -25
-}
-
-DEN = {
-
-	value = 49
-	level = 4
 	influence_value = 25
 
+	military_access = yes
+
 }
+
 
 leader = {
 	name = "von Zieten"

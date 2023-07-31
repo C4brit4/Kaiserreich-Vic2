@@ -13,3 +13,10 @@ alliance=
 		end_date="1936.1.1"
 		start_date="1836.1.1"
 	}
+	alliance=
+	{
+		first="CAN"
+		second="NFR"
+		end_date="9999.1.1"
+		start_date="1836.1.1"
+	}

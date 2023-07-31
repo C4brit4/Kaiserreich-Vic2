@@ -1,5 +1,5 @@
 name = "Victoria II: Kaiserreich new version"
-path = "mod/Kaiserreich-Vic2"
+path = "mod/Kaiserreich-Vic2-main"
 user_dir = "Kaiserreich" 
-replace_path = "history/wars"
+
 

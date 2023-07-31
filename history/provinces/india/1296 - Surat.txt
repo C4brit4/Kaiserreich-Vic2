@@ -3,6 +3,6 @@ controller = PRF
 
 trade_goods = grain
 life_rating = 32
-colonial = 2
+
 
 add_core = PRF

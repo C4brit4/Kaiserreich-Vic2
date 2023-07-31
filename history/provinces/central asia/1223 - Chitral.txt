@@ -1,11 +1,7 @@
 owner = RAJ
 controller = RAJ
+add_core = RAJ
 add_core = PAN
 add_core = KAS
 trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-	owner = KAS
-	controller = KAS
-}
-add_core = RAJ

@@ -1,6 +1,6 @@
 #name = "Taiping Rebellion"
 
-1861.6.30 = {
+9999.6.30 = {
 	add_attacker = TPG
 	add_defender = CHI
 	

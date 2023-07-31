@@ -377,8 +377,8 @@ BHP_ADJ;Punjabi;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 WEI;Saxe-Weimar;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ENG_fascist_dictatorship;The Union of Britain;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 ENG_democracy;The British Commonwealth;;;;;;;;;;;;;;;;;x;
-ENG_presidential_dictatorship;The British Commonwealth;;;;;;;;;;;;;;;;;x;
-ENG_bourgeois_dictatorship;The British Commonwealth;;;;;;;;;;;;;;;;;x;
+ENG_presidential_dictatorship;Union of Britain;;;;;;;;;;;;;;;;;x;
+ENG_bourgeois_dictatorship;Union of Britain;;;;;;;;;;;;;;;;;x;
 shilluk;Shilluk;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 MEX_colonial_company;Viceroyalty of New Spain;;;;;;;;;;;;;x
 CHL_colonial_company;Captaincy General of Chile;;;;;;;;;;;;;x
@@ -1948,16 +1948,6 @@ CHI_anarcho_liberal;Zhongguó Mínzhu Jirnguó Hue;;;;;;;;;;;;;;;;;;;;x;;;;
 CHI_socialist;Zhongguó Guójia Shchue Dang;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 CHI_communist;Zhongguó Gnngchandang;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 CHI_fascist;Kai-tsu P'ai;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-RAJ;Rajputana;;;;;;;;;;;;x
-RAJ_ADJ;Rajput;;;;;;;;;;;;x
-RAJ_democracy;Rajasthan;;;;;;;;;;;;x
-RAJ_democracy_ADJ;Rajasthani;;;;;;;;;;;;x
-RAJ_proletarian_dictatorship;Rajasthan;;;;;;;;;;;;x
-RAJ_proletarian_dictatorship_ADJ;Rajasthani;;;;;;;;;;;;x
-RAJ_fascist_dictatorship;Rajasthan;;;;;;;;;;;;x
-RAJ_fascist_dictatorship_ADJ;Rajasthani;;;;;;;;;;;;x
-RAJ_bourgeois_dictatorship;Rajasthan;;;;;;;;;;;;x
-RAJ_bourgeois_dictatorship_ADJ;Rajasthani;;;;;;;;;;;;x
 RGR;Rio Grande;;;;;;;;;;;;;x
 RGR_ADJ;Riograndese;;;;;;;;;;;;;x
 RGR_conservative;Partido Conservador;Partido Conservador;Partido Conservador;;;;;;;;;;;;x;;;;;;;;;;;;;;

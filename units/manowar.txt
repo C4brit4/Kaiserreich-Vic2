@@ -12,22 +12,19 @@ manowar = {
 	colonial_points = 5
 
 	#Core Abilities
-	priority = 40
+	priority = 25
 	max_strength = 100
 	default_organisation = 30
-	maximum_speed = 9
+	maximum_speed = 10
 	weighted_value = 3.0
 	can_build_overseas = no
 
 
 	#Building Costs
-	build_time = 360
+	build_time = 180
 	build_cost = {
-		steamer_convoy = 80
-		artillery = 20
-		canned_food = 10
-		regular_clothes = 15
-		coal = 25
+		clipper_convoy = 7.5
+		artillery = 5
 	}
 	min_port_level = 1
 	limit_per_port = -1
@@ -35,19 +32,14 @@ manowar = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 1.2
-		artillery = 0.6
-		canned_food = 0.8
-		coal = 2.5
-		ammunition = 0.6
-		tobacco = 1.6
-		fuel = 1
+		clipper_convoy = 0.24
+		artillery = 0.08 #0.16
 	}
 	
 	#Naval Abilties
-	hull = 25
-	gun_power = 15
-	fire_range = 0.50
+	hull = 4
+	gun_power = 8
+	fire_range = 0.58
 	evasion = 0
 }
 

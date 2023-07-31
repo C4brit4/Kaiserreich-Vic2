@@ -4,6 +4,6 @@ add_core = MUG
 
 trade_goods = tea
 life_rating = 32
-colonial = 2
+
 
 add_core = NEP

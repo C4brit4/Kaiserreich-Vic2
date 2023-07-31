@@ -48,7 +48,7 @@ upper_house = {
 schools = army_tech_school
 
 1861.1.1 = {
-	oob = "/1861/GER_oob.txt"
+	oob = "PRU_oob.txt"
 	prestige = 650
 }
 1861.1.1 = {

@@ -1,11 +1,6 @@
-owner = DEN
-controller = DEN
-colonial = 2
-
+owner = GMC
+controller = GMC
 trade_goods = cattle
-life_rating = 15
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}
+life_rating = 35
+
+add_core = GMC

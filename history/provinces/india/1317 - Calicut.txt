@@ -4,6 +4,6 @@ add_core = MYS
 
 trade_goods = tea
 life_rating = 32
-colonial = 1
+
 
 add_core = PRF

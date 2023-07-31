@@ -1,31 +1,25 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-<<<<<<< HEAD
-GEA;German East Asia;x;
-HND_proletarian_dictatorship;Bharatiya Commune;x;
-=======
->>>>>>> 37d2f64907561232626e2ee854018f4285e5b798
 JAP_fascist_dictatorship;Greater Japanese Empire;x;
 LEC;Legation Cities;x;
 LEP;League of Eight Provinces;x;
 MCK;Fengtian Government;x;
-PRF;Princely Federation;x;
 QIE;Qing Empire;x;
-RAJ;Dominion of India;x;
 SQI;Shandong Clique;x;
 SZC;Sichuan Clique;x;
 TRS;Transamur;x;
 XBI;Ma Clique;x;
 XIN;Xinjiang Clique;x;
-<<<<<<< HEAD
-GEA_ADJ;German;x;
-HND_proletarian_dictatorship_ADJ;Bharatiya;x;
-=======
->>>>>>> 37d2f64907561232626e2ee854018f4285e5b798
 LEC_ADJ;Legation;x;
 LEP_ADJ;Chinese;x;
-PRF_ADJ;Princely;x;
 QIE_ADJ;Qing;x;
-RAJ_ADJ;Indian;x;
 SQI_ADJ;Shangdongian;x;
 SZC_ADJ;Sichuan;x;
 TRS_ADJ;Transamurian;x;
+GEA;German East Asia;x;
+GEA_ADJ;German East Asia;x;
+RAJ;Dominion of India;x;
+RAJ_ADJ;Indian;x;
+HND_proletarian_dictatorship_ADJ;Bharatiya;x;
+HND_proletarian_dictatorship;Bharatiya Commune;x;
+PRF;Princely Federation;x;
+PRF_ADJ;Princely;x;

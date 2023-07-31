@@ -1,10 +1,6 @@
-owner = TUN
-controller = TUN
-add_core = TUN
+owner = NFR
+controller = NFR
+
 trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	colonial = 2
-}
+add_core = NFR

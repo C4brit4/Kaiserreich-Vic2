@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = GEA
+controller = GEA
 trade_goods = grain
 life_rating = 30
 colonial = 2
+add_core = GEA

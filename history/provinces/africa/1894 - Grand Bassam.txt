@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = NFR
+controller = NFR
 trade_goods = cattle
 life_rating = 35
 colonial = 2
+add_core = NFR

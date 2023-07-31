@@ -14,13 +14,13 @@ clipper_transport = {
 	priority = 5
 	max_strength = 100
 	default_organisation = 30
-	maximum_speed = 6
+	maximum_speed = 14
 	weighted_value = 1.0
 	can_build_overseas = yes
 
 
 	#Building Costs
-	build_time = 90
+	build_time = 45
 	build_cost = {
 		clipper_convoy = 4
 	}
@@ -30,7 +30,7 @@ clipper_transport = {
 
 	supply_consumption = 1.0
 	supply_cost = {
-		clipper_convoy = 0.064
+		clipper_convoy = 0.032
 	}
 	
 	#Naval Abilties

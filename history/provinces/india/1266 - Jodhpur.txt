@@ -5,5 +5,4 @@ add_core = JOD
 trade_goods = tea
 life_rating = 32
 
-add_core = RAJ
 add_core = HND

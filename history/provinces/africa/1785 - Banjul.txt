@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = NFR
+controller = NFR
 trade_goods = fruit
 life_rating = 30
 colonial = 2
+add_core = NFR

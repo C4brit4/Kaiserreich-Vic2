@@ -1,5 +1,7 @@
-owner = ENG
-controller = ENG
+owner = GER
+controller = GER
 trade_goods = fruit
 life_rating = 35
 colonial = 2
+add_core = GMC
+add_core = GER

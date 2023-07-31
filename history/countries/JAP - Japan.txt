@@ -1,6 +1,7 @@
 capital = 1649
 primary_culture = japanese
 culture = ainu
+culture = korean
 religion = mahayana
 government = absolute_monarchy
 plurality = 0.0

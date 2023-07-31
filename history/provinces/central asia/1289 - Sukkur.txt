@@ -1,12 +1,6 @@
 owner = RAJ
 controller = RAJ
+add_core = RAJ
 add_core = SIN
-
 trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}
-add_core = RAJ
