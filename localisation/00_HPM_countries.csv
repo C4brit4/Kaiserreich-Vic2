@@ -1335,7 +1335,8 @@ KAM_communist;The Communists;Faction communiste;Die kommunistische Fraktion;;;;;
 KAM_fascist;The Nationalists;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;x
 KHI_absolute_monarchy;Khiva;;;;;;;;;;;;;;;;;;x;;;;
 BUK_absolute_monarchy;Bukhara;;;;;;;;;;;;;;;;x;;;;
-KOK_absolute_monarchy;Kokand;;;;;;;;;;;;;;;;;;x;;;;
+KOK;Turkestan Republic;;;;;;;;;;;;;
+KOK_ADJ;Turkestan Republic;;;;;;;;;;;;;
 KAZ_absolute_monarchy;Kazakh Khanate;;;;;;;;;;;;;x
 KAZ;Kazakhstan;;;;;;;;;;;;;x
 KAZ_ADJ;Kazakh;;;;;;;;;;;;;x

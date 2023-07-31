@@ -1,5 +1,5 @@
-owner = KHI
-controller = KHI
-add_core = KHI
+owner = ADA
+controller = ADA
+add_core = ADA
 trade_goods = opium
 life_rating = 35
