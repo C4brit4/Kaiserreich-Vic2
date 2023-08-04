@@ -758,3 +758,29 @@ liberian_research_boost = {
 	research_points_modifier = 0.15
 	icon = 5
 }
+
+## JAP - Japan ##
+
+hirohito = {
+	prestige = 0.1
+	icon = 1
+}
+
+yokuseiha_faction = {
+	factory_output = 0.01
+	rgo_output = 0.01
+	icon = 3	
+}
+
+kodoha_faction = {
+	pop_militancy_modifier = -0.025
+	pop_consciousness_modifier = -0.025
+	cb_creation_speed = 0.1	
+	icon = 3
+}
+
+kakushinha_faction = {
+    tax_efficiency = 0.1
+	administrative_efficiency = 0.1
+	icon = 3
+}
