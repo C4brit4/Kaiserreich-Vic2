@@ -758,3 +758,38 @@ liberian_research_boost = {
 	research_points_modifier = 0.15
 	icon = 5
 }
+austria = {
+	
+}
+austria_2 = {
+	
+}
+hungria = {
+	
+}
+danubio = {
+	
+}
+
+italy = {
+	
+}
+contrarevolucion = {
+	
+}
+
+camino_eng_comi = {
+	
+}
+
+reforms_government = {
+	
+}
+
+asimilacion = {
+	global_assimilation_rate = 999
+}
+
+contrarevolucion_fra = {
+	
+}

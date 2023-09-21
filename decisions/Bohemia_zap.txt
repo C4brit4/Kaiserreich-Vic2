@@ -1,0 +1,140 @@
+political_decisions = {
+        Bohemia_Zap_cam = {
+        picture = Zapadolavia
+        potential = {
+            OR = {                
+                tag = CZH
+                                
+            }
+            NOT={has_country_flag = camino_zap_2}
+			has_country_flag = camino_zap
+			
+        }
+
+        allow = {         
+            war = no          
+            CZH = {
+                OR = {                    
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            set_country_flag = camino_zap_2
+            704 = {add_core = CZH}
+            703 = {add_core = CZH}
+			714 = {add_core = CZH}
+			705 = {add_core = CZH}
+			2584 = {add_core = CZH}
+			951 = {add_core = CZH}
+			702 = {add_core = CZH}
+			952 = {add_core = CZH}
+			953 = {add_core = CZH}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Bohemia_Zap_cam_2 = {
+        picture = Zapadolavia
+        potential = {
+            OR = {                
+                tag = CZH
+                                
+            }
+            NOT={has_country_flag = camino_zap_3}
+			has_country_flag = camino_zap_2
+			
+        }
+
+        allow = {         
+            war = no          
+            CZH = {
+                OR = {                    
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            set_country_flag = camino_zap_3
+            POL = {
+				all_core = { add_core = CZH }
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Bohemia_Zap_cam_3 = {
+        picture = Zapadolavia
+        potential = {
+            OR = {                
+                tag = CZH
+                                
+            }
+			NOT = { exists = ZAP }
+            NOT={has_country_flag = camino_zap_4}
+			has_country_flag = camino_zap_3
+			
+        }
+
+        allow = {         
+            war = no          
+            CZH = {
+                OR = {                    
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            set_country_flag = camino_zap_4
+            change_tag = ZAP
+            BYE = {
+				all_core = { add_core = ZAP }
+			}
+			LIT = {
+				all_core = { add_core = ZAP }
+			}
+			PLC = {
+				all_core = { add_core = ZAP }
+			}
+			ZAP = {
+				all_core = { remove_core = CZH }
+			}
+			937 = {add_core = CZH}
+			940 = {add_core = CZH}
+			957 = {add_core = CZH}
+			956 = {add_core = CZH}
+			955 = {add_core = CZH}
+			add_accepted_culture = lithuanian
+			add_accepted_culture = polish
+			add_accepted_culture = ukrainian
+			add_accepted_culture = latvian
+			add_accepted_culture = estonian
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

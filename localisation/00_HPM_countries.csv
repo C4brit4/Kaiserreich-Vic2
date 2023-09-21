@@ -1241,6 +1241,7 @@ HUI_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;;;;;;;;;;x
 HUI_anarcho_liberal;Freedom Party;Parti de la liberté;Freiheitspartei;;;;;;;;;;;x
 IBR;Iberia;;;;;;;;;;;;;x
 IBR_ADJ;Iberian;;;;;;;;;;;;;x
+IBR_proletarian_dictatorship;Iberia Federation;x;
 INO;Indonesia;Indonésie;Indonesien;;Indonesia;;;;;;;;;x
 INO_ADJ;Indonesian;Indonésienne;Indonesisch;;Indonesio;;;;;;;;;x
 INO_conservative;Partai Golongan Karya;;;;;;;;;;;;x
@@ -2167,7 +2168,7 @@ SON_reactionary;Partido Imperialista;Partido Imperialista;Partido Imperialista;;
 SON_socialist;Partido Socialist;Partido socialiste;Partido Socialist;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SON_communist;Partido Communist;Partido communiste;Partido Communist;;;;;;;;;;;;x;;;;;;;;;;;;;;
 SON_fascist;Partido Fascist;Partido fasciste;Partido Fascist;;;;;;;;;;;;x;;;;;;;;;;;;;;
-SPC;Spain;;;;;;;;;;;;;x
+SPC;Carlist Spain;;;;;;;;;;;;;x
 SPC_absolute_monarchy;Carlist Spain;;;;;;;;;;;;;x
 SPC_prussian_constitutionalism;Carlist Spain;;;;;;;;;;;;;x
 SPC_hms_government;Carlist Spain;;;;;;;;;;;;;x

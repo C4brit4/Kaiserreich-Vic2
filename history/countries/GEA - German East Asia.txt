@@ -1,7 +1,5 @@
 capital = 1384
-primary_culture = north_german
-culture = south_german
-culture = vietnamese
+primary_culture = vietnamese
 government = presidential_dictatorship
 plurality = 0.0
 nationalvalue = nv_order
