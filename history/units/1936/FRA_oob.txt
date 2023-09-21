@@ -17,6 +17,14 @@ NET = {
 		#3=cordial, 4 = friendly, 5 sphere
 
 }
+SIC = {
+	value = -100
+		#relation
+
+	level = 1
+		#3=cordial, 4 = friendly, 5 sphere
+
+}
 PAP = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere

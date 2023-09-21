@@ -1,0 +1,126 @@
+country_event = {
+    id = 60010
+	title = "EVTNAME60010"
+    desc =  "EVTDESC60010"
+	picture = "Revolution"
+	
+	trigger = {
+	    year = 9999
+	}
+	
+	fire_only_once = yes
+	
+	option = {
+	    name = "EVTOPTA60010"
+		SOV = {
+		inherit = RUS
+		}
+	}
+	option = {
+	    name = "EVTOPTB60010"
+	war = {
+    target = SOV
+    attacker_goal = { casus_belli = civil_war }
+    defender_goal = { casus_belli = civil_war }
+    call_ally = no
+        }
+	}
+}
+	
+country_event = {
+    id = 60011
+	title = "EVTNAME60011"
+    desc =  "EVTDESC60011"
+	picture = "Revolution"
+	
+		trigger = {
+    year = 9999
+	}
+	
+	fire_only_once = yes
+	
+	option = {
+	    name = "EVTOPTA60011"
+	RUS = { country_event = 60010 }
+	}
+}
+
+country_event = {
+    id = 60012
+	title = "EVTNAME60012"
+    desc =  "EVTDESC60012"
+	picture = "Revolution"
+	
+	trigger = {
+    year = 1942
+	war = no
+	}
+	
+	fire_only_once = yes
+	
+	option = {
+	    name = "EVTOPTA60012"
+		prestige = 45
+		any_owned = {
+            limit = { is_core = RUS }
+            add_core = SOV
+			remove_core = RUS
+			}
+		any_owned = {
+            limit = { is_core = IRS }
+			remove_core = IRS
+            }			
+		}
+	}
+	
+country_event = {
+    id = 60013
+	title = "EVTNAME60013"
+    desc =  "EVTDESC60013"
+	picture = "Revolution"
+	
+	trigger = {
+    year = 1942
+	war = no
+	}
+	
+	fire_only_once = yes
+	
+	option = {
+	    name = "EVTOPTA60013"
+		prestige = 45
+		any_owned = {
+            limit = { is_core = RUS }
+            add_core = IRS
+			remove_core = RUS
+			}
+		any_owned = {
+            limit = { is_core = SOV }
+			remove_core = SOV
+            }			
+		}
+	}
+	
+country_event = {
+    id = 60014
+	title = "EVTNAME60014"
+    desc =  "EVTDESC60014"
+	picture = "Revolution"
+	
+	trigger = {
+    year = 1942
+	war = no
+	}
+	
+	fire_only_once = yes
+	
+	option = {
+	    name = "EVTOPTA60014"
+		prestige = 105
+		any_owned = {
+            limit = { is_core = RUS }
+            remove_core = SOV
+			remove_core = IRS
+			}
+		}
+	}

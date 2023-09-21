@@ -20,3 +20,45 @@ alliance=
 		end_date="9999.1.1"
 		start_date="1836.1.1"
 	}
+	alliance=
+	{
+		first="CAN"
+		second="GER"
+		end_date="9999.1.1"
+		start_date="1836.1.1"
+	}
+	alliance=
+	{
+		first="GER"
+		second="NFR"
+		end_date="9999.1.1"
+		start_date="1836.1.1"
+	}
+	alliance=
+	{
+		first="GER"
+		second="TUR"
+		end_date="9999.1.1"
+		start_date="1836.1.1"
+	}
+	alliance=
+	{
+		first="ITC"
+		second="FRA"
+		end_date="9999.1.1"
+		start_date="1836.1.1"
+	}
+	alliance=
+	{
+		first="ITC"
+		second="ENG"
+		end_date="9999.1.1"
+		start_date="1836.1.1"
+	}
+	alliance=
+	{
+		first="FRA"
+		second="ENG"
+		end_date="9999.1.1"
+		start_date="1836.1.1"
+	}

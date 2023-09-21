@@ -1,7 +1,9 @@
-owner = QIE
-controller = QIE
+owner = LEP
+controller = LEP
 add_core = CHI
+add_core = YNN
 trade_goods = tea
 life_rating = 32
 
 add_core = QIE
+add_core = LEP
