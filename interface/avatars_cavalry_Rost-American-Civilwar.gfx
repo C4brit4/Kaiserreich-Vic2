@@ -21,20 +21,20 @@ objectTypes = {
 
 	EMFXActorType = {	
 		name = "UsGCCavalry"	
-		actorfile = "gfx\anims\USCav_Civilwar.xac"
-		idle   = "gfx\anims\CivilwarCavalryIdle.xsm"
-		move   = "gfx\anims\CivilwarCavalryMove.xsm"
-		attack = "gfx\anims\CivilwarCavalryAttack.xsm"
+		actorfile = "gfx\anims\USCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
 		scale = 4.1
 	}
 
 	
 	EMFXActorType = {	
 		name = "ConfederateGCCavalry"	
-		actorfile = "gfx\anims\CSACav_Civilwar.xac"
-		idle   = "gfx\anims\CivilwarCavalryIdle.xsm"
-		move   = "gfx\anims\CivilwarCavalryMove.xsm"
-		attack = "gfx\anims\CivilwarCavalryAttack.xsm"
+		actorfile = "gfx\anims\USCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
 		scale = 4.1
 	}
 }

@@ -4,7 +4,7 @@ battleship = {
 	
 	type = naval
 	sprite = Battleship
-	unit_type = big_ship
+	unit_type = light_ship
 	capital = yes
 	active = no
 	move_sound = steam_move
@@ -13,37 +13,42 @@ battleship = {
 	colonial_points = 15
 	
 	#Core Abilities
-	priority = 40
+	priority = 10
 	max_strength = 100
-	default_organisation = 30
-	maximum_speed = 18
-	weighted_value = 50.0
+	default_organisation = 35
+	maximum_speed = 10
+	weighted_value = 30.0
 	can_build_overseas = no
 
 
 	#Building Costs
-	build_time = 180
+	build_time = 360
 	build_cost = {
-		steamer_convoy = 40
-		artillery = 10
-		canned_food = 5
-		coal = 12.5
+		steamer_convoy = 80
+		artillery = 20
+		canned_food = 10
+		regular_clothes = 15
+		coal = 25
+		fuel = 20
 	}
-	min_port_level = 4
-	limit_per_port = -1 #-1 is unlimited, but it is possible to limit number of ships per port level.
-	supply_consumption_score = 50
+	min_port_level = 1
+	limit_per_port = -1
 	
 	supply_consumption = 1.0
 	supply_cost = {
 		steamer_convoy = 1.2
 		artillery = 0.6
-		canned_food = 0.6
+		canned_food = 0.8
 		coal = 2.5
+		ammunition = 0.6
+		tobacco = 1.6
+		fuel = 1
 	}
 	
 	#Naval Abilties
-	hull = 70
-	gun_power = 50
-	fire_range = 0.75
-	evasion = 0
+	hull = 10
+	gun_power = 5
+	fire_range = 0.8
+	evasion = 0.75
+	torpedo_attack = 5
 }
