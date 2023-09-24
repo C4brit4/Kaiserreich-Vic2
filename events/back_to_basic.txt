@@ -1,0 +1,19 @@
+country_event = {
+	id = 70000
+	title = "EVTNAME70001"
+	desc = "EVTDESC70001"
+	picture = "btb"
+	
+	trigger = {
+		NOT = {
+		}	
+	}
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA70001"
+		set_country_flag = back_to_basic
+		
+	}
+}

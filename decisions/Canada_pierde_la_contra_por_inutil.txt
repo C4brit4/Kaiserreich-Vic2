@@ -1,0 +1,31 @@
+political_decisions = {
+        uk_win = {
+	    picture = reino_unido
+        potential = {
+            OR = {                
+                tag = ENG
+                                
+            }
+			NOT={has_country_flag = contrarevolucion_3}
+			has_global_flag = contrarevolucion_2
+        }
+
+        allow = {         
+            war = no          
+              
+        }
+		
+        
+
+        effect = {                
+            prestige = 35
+			set_country_flag = camino_eng_comi_emp
+            inherit = CAN
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}
+

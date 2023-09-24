@@ -1,0 +1,42 @@
+country_event = {
+    id = 500429
+    title = "EVTNAME500429"
+    desc = "EVTDESC500429"
+    picture = treaty
+    fire_only_once = yes
+
+    trigger = {
+    tag  = XXX
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA500429"
+    	set_country_flag = europa_Napo_rfa
+		    FRA = {
+				all_core = { add_core = NFR }
+			} 	
+			    THIS = {
+				all_core = { remove_core = FRA }
+			} 	
+}
+    option = {
+        name = "EVTOPTB500429"	
+		    THIS = {
+				all_core = { remove_core = NFR }
+			} 	
+     change_tag = FRA		
+    set_country_flag = europa_Bor_rfa	
+}
+    option = {
+        name = "EVTOPTC500429"	 
+        THIS = {
+				all_core = { remove_core = NFR }
+			} 			
+		change_tag = FRA
+    government = democracy	
+    set_country_flag = europa_rep_rfa		
+}
+}
+

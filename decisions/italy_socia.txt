@@ -1,0 +1,627 @@
+political_decisions = {        
+	Italy_socia  = {
+        picture = Italia_s
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+            NOT={has_global_flag = italy_soc}
+			has_global_flag = italy_soc_cam
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                   		
+            set_global_flag = italy_soc
+			set_global_flag = italy_soc_2
+			add_country_modifier = {
+                        name = italy
+                        duration = 30
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_1  = {
+        picture = Italia_s
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = italy_soc_3}
+            has_global_flag = italy_soc_2
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = italy_soc_3
+			add_country_modifier = {
+                        name = italy
+                        duration = 30
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_2  = {
+        picture = Italia_s
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = italy_soc_4}
+            has_global_flag = italy_soc_3
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = italy_soc_4
+			add_country_modifier = {
+                        name = italy
+                        duration = 30
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_3  = {
+        picture = Italia_s
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = italy_soc_5}
+            has_global_flag = italy_soc_4
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = italy_soc_5
+			ITC = {
+				country_event = { id = 500410 days = 2 }
+				
+			}				
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_4  = {
+        picture = Italia_s
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = unifcacion_rapida_comi_2}
+            has_global_flag = unifcacion_rapida_comi
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            SIC = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = unifcacion_rapida_comi_2
+			ITA = {all_core={add_core = ITC}}	
+            capital = 749			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_5  = {
+        picture = Italia_s
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = unifcacion_lenta_sic_2}
+            has_global_flag = unifcacion_lenta
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     			
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = unifcacion_lenta_sic_2
+			set_global_flag = unifcacion_lenta_sic
+			SIC = {all_core={add_core = ITC}}	
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_6  = {
+        picture = Italia_s
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = unifcacion_lenta_sar_2}
+            has_global_flag = unifcacion_lenta_sic
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            ITC = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }		
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = unifcacion_lenta_sar_2
+			set_global_flag = unifcacion_lenta_sar
+			SAR = {all_core={add_core = ITC}}	
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_7  = {
+        picture = Italia_s
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = unifcacion_lenta_reb_2}
+            has_global_flag = unifcacion_lenta_sar
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            ITC = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }		
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = unifcacion_lenta_reb
+			set_global_flag = unifcacion_lenta_reb_2
+			ITR = {all_core={add_core = ITC}}	
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_8  = {
+        picture = Italia_s
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = unifcacion_lenta_ita_3}
+            has_global_flag = unifcacion_lenta_reb
+			has_global_flag = unifcacion_lenta_sar
+			has_global_flag = unifcacion_lenta_sic
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            ITC = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }		
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = unifcacion_lenta_ita_3
+			ITA = {all_core={add_core = ITC}}	
+			capital = 749
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_7_pap  = {
+        picture = Italia_c
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = camino_papal_2}
+            has_global_flag = camino_papal
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            		
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = camino_papal_2
+			SIC = {all_core={add_core = ITC}}	
+			PAP = {all_core={remove_core = ITC}}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_8_pap  = {
+        picture = Italia_c
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = camino_papal_3}
+            has_global_flag = camino_papal_2
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            ITC = {
+                    all_core = {
+                        OR = {
+                            owned_by = ITC                     
+                    }
+                }
+            }		
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = camino_papal_3
+			SIC = {all_core={remove_core = ITC}}	
+			SIC = {all_core={add_core = PAP}}
+            ITC = {
+               753 = {secede_province = PAP}	
+               754 = {secede_province = PAP}
+               755 = {secede_province = PAP}	
+               756 = {secede_province = PAP}
+               757 = {secede_province = PAP}	
+               758 = {secede_province = PAP}
+               759 = {secede_province = PAP}
+               760 = {secede_province = PAP}
+               761 = {secede_province = PAP}
+               762 = {secede_province = PAP}
+               763 = {secede_province = PAP}
+               764 = {secede_province = PAP}	
+               2567 = {secede_province = PAP}			   
+            }			   
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_9_pap  = {
+        picture = Italia_c
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = camino_papal_4}
+            has_global_flag = camino_papal_3
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            PAP = {
+                    all_core = {
+                        OR = {
+                            owned_by = PAP                     
+                    }
+                }
+            }		
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = camino_papal_4
+			SAR = {all_core={add_core = ITC}}	
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_10_pap  = {
+        picture = Italia_c
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = camino_papal_5}
+            has_global_flag = camino_papal_4
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            ITC = {
+                    all_core = {
+                        OR = {
+                            owned_by = ITC                     
+                    }
+                }
+            }		
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = camino_papal_5
+			766 = {add_core = PAP}	
+            765 = {add_core = PAP} 	
+			SAR = {all_core={remove_core = ITC}}
+            ITC = {
+               766 = {secede_province = PAP}	
+               765 = {secede_province = PAP}            	   
+            }			   			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_11_pap  = {
+        picture = Italia_c
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = camino_papal_6}
+            has_global_flag = camino_papal_5
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            PAP = {
+                    all_core = {
+                        OR = {
+                            owned_by = PAP                     
+                    }
+                }
+            }		
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = camino_papal_6
+			ITR = {all_core={add_core = ITC}}	
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_12_pap  = {
+        picture = Italia_c
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = camino_papal_7}
+            has_global_flag = camino_papal_6
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            ITC = {
+                    all_core = {
+                        OR = {
+                            owned_by = ITC                     
+                    }
+                }
+            }			
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = camino_papal_7
+			ITR = {all_core={remove_core = ITC}}	
+			ITR = {all_core={add_core = PAP}}
+            ITC = {
+               726 = {secede_province = PAP}	
+               727 = {secede_province = PAP}  
+               728 = {secede_province = PAP} 
+               729 = {secede_province = PAP}
+               730 = {secede_province = PAP} 
+               731 = {secede_province = PAP}  
+               732 = {secede_province = PAP}
+               733 = {secede_province = PAP}		   
+            }	
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Italy_socia_13_pap  = {
+        picture = Italia_c
+        potential = {
+            OR = {                
+                tag = ITC
+                                
+            }
+			NOT={has_global_flag = camino_papal_8}
+            has_global_flag = camino_papal_7
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            PAP = {
+                    all_core = {
+                        OR = {
+                            owned_by = PAP                     
+                    }
+                }
+            }		
+        }
+		
+        
+
+        effect = {                   
+            has_global_flag = unifcacion_rapida_comi 		
+            set_global_flag = camino_papal_8
+			PAP = {all_core={add_core = CIT}}
+			ITA = {all_core={remove_core = PAP}}
+			ITR = {all_core={remove_core = PAP}}
+			PAP = {
+			set_global_flag = camino_papal_8
+			government = absolute_monarchy
+			change_tag = CIT		
+            }
+            change_tag_no_core_switch = CIT	
+            ITC = {
+			release_vassal = CIT
+	        war = {
+	         target = CIT
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = conquest }
+	         call_ally = no
+            }
+	        badboy = -22				
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	}
+	Italy_socia_14_pap  = {
+        picture = Italia_c
+        potential = {
+            OR = {                
+                tag = CIT
+                                
+            }
+			NOT={has_global_flag = camino_papal_9}
+            has_global_flag = camino_papal_8
+			NOT = {				
+				has_country_modifier = italy
+			}
+        }
+
+        allow = {         
+            war = no                     			
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = camino_papal_9
+			ITA = {all_core={add_core = CIT}}
+            add_accepted_culture = north_italian
+			add_accepted_culture = south_italian			
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	}
+}
+	

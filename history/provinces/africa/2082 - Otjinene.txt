@@ -1,0 +1,6 @@
+owner = GMC
+controller = GMC
+trade_goods = grain
+life_rating = 10
+
+add_core = GMC

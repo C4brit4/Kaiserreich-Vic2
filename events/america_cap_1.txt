@@ -1,0 +1,35 @@
+country_event = {
+    id = 500501
+    title = "EVTNAME500501"
+    desc = "EVTDESC500501"
+    picture = Spanish Civil war
+    fire_only_once = yes
+
+    trigger = {
+    tag  = XXX
+        
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA500501"
+			   
+    }
+    option = {
+        name = "EVTOPTB500501"
+		capital = 2172		   
+    }
+    option = {
+        name = "EVTOPTC500501"
+		capital = 2247		   
+    } 
+    option = {
+        name = "EVTOPTD500501"
+		THIS = {
+				country_event = { id = 500502 days = 2 }
+				
+			}		   
+    } 		
+}
+

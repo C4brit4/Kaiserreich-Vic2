@@ -1,0 +1,11 @@
+owner = ITC
+controller = ITC
+add_core = MOD
+add_core = ITA
+trade_goods = timber
+life_rating = 35
+1861.1.1 = {
+	controller = ITC
+	owner = ITC
+	add_core = ITA
+}

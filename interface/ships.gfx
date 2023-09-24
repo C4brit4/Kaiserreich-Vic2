@@ -1,0 +1,315 @@
+objectTypes = {
+
+	EMFXActorType = {
+		name = "GenericTransportship"
+		actorfile = "gfx\anims\Transportship.xac"
+		
+		idle   = "gfx\anims\ShipBigIdle.xsm"
+		move   = "gfx\anims\ShipBigIdle.xsm"
+		attack = "gfx\anims\ShipAttackA.xsm"
+		scale = 2.5
+		retargeting = yes
+	}
+
+    EMFXActorType = {
+		name = "GenericSteam_Transport"
+		actorfile = "gfx\anims\Transportship.xac"
+		
+		idle   = "gfx\anims\ShipBigIdle.xsm"
+		move   = "gfx\anims\ShipBigIdle.xsm"
+		attack = "gfx\anims\ShipAttackA.xsm"
+		scale = 2.5
+		retargeting = yes
+	}
+	
+	EMFXActorType = {
+		name = "GenericFrigate"
+		actorfile = "gfx\anims\Destroyer.xac"
+		
+		idle   = "gfx\anims\ShipBigIdle.xsm"
+		move   = "gfx\anims\ShipBigIdle.xsm"
+		attack = "gfx\anims\ShipAttackA.xsm"
+		scale = 2.0
+		retargeting = yes
+	}		
+	
+	EMFXActorType = {
+		name = "GenericRaider"
+		actorfile = "gfx\anims\Heavycruiser.xac"
+		
+		idle   = "gfx\anims\ShipBigIdle.xsm"
+		move   = "gfx\anims\ShipBigIdle.xsm"
+		attack = "gfx\anims\ShipAttackA.xsm"
+		scale = 2.25
+		retargeting = yes
+	}
+	
+	EMFXActorType = {
+		name = "GenericCruiser"
+		actorfile = "gfx\anims\Lightcruiser.xac"
+		
+		idle   = "gfx\anims\ShipBigIdle.xsm"
+		move   = "gfx\anims\ShipBigIdle.xsm"
+		attack = "gfx\anims\ShipAttackA.xsm"
+		scale = 1.9
+		retargeting = yes
+	}
+	
+	EMFXActorType = {
+		name = "GenericManowar"
+		actorfile = "gfx\anims\Battleship.xac"
+		
+		idle   = "gfx\anims\ShipBigIdle.xsm"
+		move   = "gfx\anims\ShipBigIdle.xsm"
+		attack = "gfx\anims\ShipAttackA.xsm"
+		scale = 2.0
+	}
+
+	EMFXActorType = {
+		name = "GenericIronclad"
+		actorfile = "gfx\anims\Destroyer.xac"
+		
+		idle   = "gfx\anims\ShipBigIdle.xsm"
+		move   = "gfx\anims\ShipBigIdle.xsm"
+		attack = "gfx\anims\ShipAttackA.xsm"
+		scale = 2.0
+		retargeting = yes
+	}
+
+	EMFXActorType = {
+		name = "GenericDreadnought"
+		actorfile = "gfx\anims\Battleship.xac"
+		
+		idle   = "gfx\anims\ShipBigIdle.xsm"
+		move   = "gfx\anims\ShipBigIdle.xsm"
+		attack = "gfx\anims\ShipAttackA.xsm"
+		scale = 2.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericBattleship"
+		actorfile = "gfx\anims\Submarine.xac"
+		scale = 1.4
+				
+		idle   = "gfx\anims\SubmarineMove.xsm"
+		move   = "gfx\anims\SubmarineMove.xsm"
+		attack = "gfx\anims\SubmarineMove.xsm"
+		
+	}
+
+	EMFXActorType = {
+		name = "GenericMonitor"
+		actorfile = "gfx\anims\Carrier.xac"
+		
+		idle   = "gfx\anims\ShipBigIdle.xsm"
+		move   = "gfx\anims\ShipBigIdle.xsm"
+		attack = "gfx\anims\ShipAttackA.xsm"
+		scale = 1.65
+		retargeting = yes
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCMonitor"
+		actorfile = "gfx\anims\GermanZeppelin.xac"
+		
+		idle   = "gfx\anims\Zeppelinmove.xsm"
+		move   = "gfx\anims\Zeppelinmove.xsm"
+		attack = "gfx\anims\ZeppelinAttack.xsm"
+		scale = 0.21
+	}
+	
+	EMFXActorType = {
+		name = "UsGCMonitor"
+		actorfile = "gfx\anims\SP_UsEssex.xac"
+		
+		idle   = "gfx\anims\seamove180.xsm"
+		move   = "gfx\anims\seamove180.xsm"
+		attack = "gfx\anims\seamove180.xsm"
+		scale = 2.6
+	}
+	
+	EMFXActorType = {
+		name = "UsGCBattleship"
+		actorfile = "gfx\anims\SP_UsGato.xac"
+		
+		idle   = "gfx\anims\seamove.xsm"
+		move   = "gfx\anims\seamove.xsm"
+		attack = "gfx\anims\seamove.xsm"
+		scale = 1.15
+	}
+	
+	EMFXActorType = {
+		name = "RussianGCBattleship"
+		actorfile = "gfx\anims\sp_soviet_submarine.xac"
+		
+		idle   = "gfx\anims\sp_soviet_leningradC_destroyer_idle.xsm"
+		move   = "gfx\anims\sp_soviet_leningradC_destroyer_idle.xsm"
+		attack = "gfx\anims\sp_soviet_leningradC_destroyer_idle.xsm"
+		scale = 2.2
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCBattleship"
+		actorfile = "gfx\anims\ITAV_Bragadin.xac"
+		
+		idle   = "gfx\anims\ITAV_Bragadinidle.xsm"
+		move   = "gfx\anims\ITAV_Bragadinidle.xsm"
+		attack = "gfx\anims\ITAV_Bragadinidle.xsm"
+		scale = 1.5
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCBattleship"
+		actorfile = "gfx\anims\SP_GermanSubmarine.xac"
+		
+		idle   = "gfx\anims\seamove.xsm"
+		move   = "gfx\anims\seamove.xsm"
+		attack = "gfx\anims\seamove.xsm"
+		scale = 3.0
+	}
+	
+	EMFXActorType = {
+		name = "UsGCIronclad"
+		actorfile = "gfx\anims\SP_UsFletcher.xac"
+		
+		idle   = "gfx\anims\SP_UsFletcherIdle.xsm"
+		move   = "gfx\anims\SP_UsFletcherIdle.xsm"
+		attack = "gfx\anims\SP_UsFletcherAttack.xsm"
+		scale = 2.1
+	}
+	
+	EMFXActorType = {
+		name = "RussianGCIronclad"
+		actorfile = "gfx\anims\sp_soviet_leningradC_destroyer.xac"
+		
+		idle   = "gfx\anims\sp_soviet_leningradC_destroyer_idle.xsm"
+		move   = "gfx\anims\sp_soviet_leningradC_destroyer_idle.xsm"
+		attack = "gfx\anims\sp_soviet_leningradC_destroyer_attack.xsm"
+		scale = 2.2
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCIronclad"
+		actorfile = "gfx\anims\ITAV_DestroyerNavigator.xac"
+		
+		idle   = "gfx\anims\ITAV_DestroyerNavigatorIdle.xsm"
+		move   = "gfx\anims\ITAV_DestroyerNavigatorIdle.xsm"
+		attack = "gfx\anims\ITAV_DestroyerNavigatorAttack.xsm"
+		scale = 2.25
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCIronclad"
+		actorfile = "gfx\anims\SP_GermanZclass.xac"
+		
+		idle   = "gfx\anims\SP_GermanZclassIdle.xsm"
+		move   = "gfx\anims\SP_GermanZclassIdle.xsm"
+		attack = "gfx\anims\SP_GermanZclassAttack.xsm"
+		scale = 2.1
+	}
+	
+	EMFXActorType = {
+		name = "UsGCManowar"
+		actorfile = "gfx\anims\SP_UsNorthCarolina.xac"
+		
+		idle   = "gfx\anims\SP_UsNorthCarolinaIdle.xsm"
+		move   = "gfx\anims\SP_UsNorthCarolinaIdle.xsm"
+		attack = "gfx\anims\SP_UsNorthCarolinaAttack.xsm"
+		scale = 2.7
+	}
+	
+	EMFXActorType = {
+		name = "RussianGCManowar"
+		actorfile = "gfx\anims\sp_soviet_gangut.xac"
+		
+		idle   = "gfx\anims\sp_soviet_gangut_idle.xsm"
+		move   = "gfx\anims\sp_soviet_gangut_idle.xsm"
+		attack = "gfx\anims\sp_soviet_gangut_attack.xsm"
+		scale = 2.2
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCManowar"
+		actorfile = "gfx\anims\ITAV_BattleshipLittorio.xac"
+		
+		idle   = "gfx\anims\ITAV_BattleshipLittorioIdle.xsm"
+		move   = "gfx\anims\ITAV_BattleshipLittorioIdle.xsm"
+		attack = "gfx\anims\ITAV_BattleshipLittorioAttack.xsm"
+		scale = 1.9
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCManowar"
+		actorfile = "gfx\anims\SP_GermanBismarck.xac"
+		
+		idle   = "gfx\anims\SP_GermanBismarckidle.xsm"
+		move   = "gfx\anims\SP_GermanBismarckidle.xsm"
+		attack = "gfx\anims\SP_GermanBismarckattack.xsm"
+		scale = 0.9
+	}
+	
+	EMFXActorType = {
+		name = "UsGCCruiser"
+		actorfile = "gfx\anims\SP_UsBrooklyn.xac"
+		
+		idle   = "gfx\anims\SP_UsBrooklynIdle.xsm"
+		move   = "gfx\anims\SP_UsBrooklynIdle.xsm"
+		attack = "gfx\anims\SP_UsBrooklynAttack.xsm"
+		scale = 2.5
+	}
+	
+	EMFXActorType = {
+		name = "UsGCDreadnought"
+		actorfile = "gfx\anims\SP_UsIowa.xac"
+		
+		idle   = "gfx\anims\SP_UsIowaidle.xsm"
+		move   = "gfx\anims\SP_UsIowaattack.xsm"
+		attack = "gfx\anims\SP_Shipattack.xsm"
+		scale = 2.4
+	}
+	
+	EMFXActorType = {
+		name = "RussianGCRaider"
+		actorfile = "gfx\anims\sp_sovietkirov.xac"
+		
+		idle   = "gfx\anims\sp_sovietkirov_idle.xsm"
+		move   = "gfx\anims\sp_sovietkirov_idle.xsm"
+		attack = "gfx\anims\sp_sovietkirov_attack.xsm"
+		scale = 2.2
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCRaider"
+		actorfile = "gfx\anims\ITAV_HeavycruiserZara.xac"
+		
+		idle   = "gfx\anims\ITAV_HeavycruiserZaraIdle.xsm"
+		move   = "gfx\anims\ITAV_HeavycruiserZaraIdle.xsm"
+		attack = "gfx\anims\ITAV_HeavycruiserZaraAttack.xsm"
+		scale = 2.25
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCCruiser"
+		actorfile = "gfx\anims\ITAV_LightcruiserAbruzzi.xac"
+		
+		idle   = "gfx\anims\ITAV_LightcruiserAbruzziIdle.xsm"
+		move   = "gfx\anims\ITAV_LightcruiserAbruzziIdle.xsm"
+		attack = "gfx\anims\ITAV_LightcruiserAbruzziAttack.xsm"
+		scale = 2.25
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCRaider"
+		actorfile = "gfx\anims\Sp_GermanGraf.xac"
+		
+		idle   = "gfx\anims\SP_GermanGrafidle.xsm"
+		move   = "gfx\anims\SP_GermanGrafidle.xsm"
+		attack = "gfx\anims\SP_GermanGrafattack.xsm"
+		scale = 2.5
+	}
+	
+
+
+	
+
+}	

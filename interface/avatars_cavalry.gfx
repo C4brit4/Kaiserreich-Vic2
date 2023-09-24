@@ -1,0 +1,504 @@
+objectTypes = {
+			
+	EMFXActorType = {
+		name = "GenericCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "GenericCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "BritishGCCavalry"
+		actorfile = "gfx\anims\BritishCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "BritishGCCavalry2"
+		actorfile = "gfx\anims\BritishCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "FrenchGCCavalry"
+		actorfile = "gfx\anims\FrenchCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "FrenchGCCavalry2"
+		actorfile = "gfx\anims\FrenchCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "UsGCCavalry"
+		actorfile = "gfx\anims\USCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "UsGCCavalry2"
+		actorfile = "gfx\anims\USCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {	
+		name = "ConfederateGCCavalry"	
+		actorfile = "gfx\anims\USCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {	
+		name = "ConfederateGCCavalry2"	
+		actorfile = "gfx\anims\USCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "RussianGCCavalry"
+		actorfile = "gfx\anims\RussianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "RussianGCCavalry2"
+		actorfile = "gfx\anims\RussianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "OttomanGCCavalry"
+		actorfile = "gfx\anims\TurkishCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "OttomanGCCavalry2"
+		actorfile = "gfx\anims\TurkishCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCCavalry"
+		actorfile = "gfx\anims\GermanCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCCavalry2"
+		actorfile = "gfx\anims\GermanCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "AustriaHungaryGCCavalry"
+		actorfile = "gfx\anims\AustrianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "AustriaHungaryGCCavalry2"
+		actorfile = "gfx\anims\AustrianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "SwedishGCCavalry"
+		actorfile = "gfx\anims\SwedishCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "SwedishGCCavalry2"
+		actorfile = "gfx\anims\SwedishCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "JapaneseGCCavalry"
+		actorfile = "gfx\anims\JapaneseCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "JapaneseGCCavalry2"
+		actorfile = "gfx\anims\JapaneseCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCCavalry"
+		actorfile = "gfx\anims\ItalianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "ItalianGCCavalry2"
+		actorfile = "gfx\anims\ItalianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "ChineseGCCavalry"
+		actorfile = "gfx\anims\ChineseCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "ChineseGCCavalry2"
+		actorfile = "gfx\anims\ChineseCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "SpanishGCCavalry"
+		actorfile = "gfx\anims\SpanishCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "SpanishGCCavalry2"
+		actorfile = "gfx\anims\SpanishCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+			
+	EMFXActorType = {
+		name = "MoroccoGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "AsianGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "AsianGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "IndianGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "IndianGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "AfricanGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "AfricanGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "MiddleEasternGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "MiddleEasternGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "SouthAmericanGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+		
+	EMFXActorType = {
+		name = "SouthAmericanGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+
+	
+	EMFXActorType = {
+		name = "ZuluGCCavalry"
+		actorfile = "gfx\anims\Zulu_Infantry.xac"
+		idle   = "gfx\anims\Cavalry_Sword_Idle.xsm"
+		move   = "gfx\anims\Cavalry_Sword_Moving.xsm"
+		attack = "gfx\anims\Cavalry_Sword_Attack.xsm"
+
+		scale = 1.0
+		attach = {
+			name = "ZuluGCSpear"
+			node = "Right_Hand"
+			attachId = 3
+		}
+	}	
+
+	EMFXActorType = {
+		name = "EuropeanGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "HungarianGCCavalry2"
+		actorfile = "gfx\anims\AustrianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "HungarianGCCavalry2"
+		actorfile = "gfx\anims\AustrianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "SlovakGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "SlovakGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "BulgarianGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "BulgarianGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "SlovenianGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "SlovenianGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "CzechoslovakGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "CzechoslovakGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "RomanianGCCavalry"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "RomanianGCCavalry2"
+		actorfile = "gfx\anims\GenericCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack2.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "HungarianGCCavalry"
+		actorfile = "gfx\anims\AustrianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+	
+	EMFXActorType = {
+		name = "HungarianGCCavalry2"
+		actorfile = "gfx\anims\AustrianCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+}	

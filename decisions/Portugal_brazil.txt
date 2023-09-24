@@ -1,0 +1,45 @@
+political_decisions = {
+        form_reinounido_brasilandalgarves = {
+	    picture = reino_unido
+        potential = {
+            OR = {                
+                tag = POR
+                                
+            }
+            NOT = { exists = RPB }
+			has_country_flag = america_por
+        }
+
+        allow = {         
+            war = no          
+            BRZ = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+        }
+		
+        
+
+        effect = {                
+            prestige = 35
+			change_tag = RPB
+			BRZ = {all_core = {add_core = THIS}}
+			add_accepted_culture = brazilian
+			add_accepted_culture = afro_brazilian
+			capital = 2447
+            inherit = BRZ 
+            
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}
+

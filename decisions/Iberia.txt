@@ -1,0 +1,44 @@
+political_decisions = {
+        Iberia_comi	  = {
+        picture = Iberiaa
+        potential = {
+            OR = {                
+                tag = CNT
+                                
+            }
+            NOT = { exists = IBR }
+			
+        }
+
+        allow = {         
+            war = no          
+            SPA = {
+                OR = {                    
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            change_tag = IBR 
+            SPA = {
+				all_core = { add_core = IBR }
+			}
+            POR = {
+				all_core = { add_core = IBR }
+			}
+			add_accepted_culture = portuguese
+			capital = 487
+         
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}
