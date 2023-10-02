@@ -11,17 +11,16 @@ artillery = {
 	priority = 20
 	max_strength = 3
 	default_organisation = 30
-	maximum_speed = 8.00
+	maximum_speed = 4.00
 	weighted_value = 5.0
 
 
 	#Building Costs
-	build_time = 80
+	build_time = 120
 	build_cost = {
-		artillery = 5
-		canned_food = 5
-		liquor = 5
-		wine = 5
+		artillery = 10
+		canned_food = 10
+		liquor = 10
 	}
 	
 	supply_consumption = 1.0

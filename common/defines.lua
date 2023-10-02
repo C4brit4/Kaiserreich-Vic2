@@ -25,6 +25,7 @@ country = {
 	CAMPAIGN_EVENT_STATE_SCALE = -3,	-- every non-colonial state reduces by 3 days (NOT USED)
 	CAMPAIGN_DURATION = 6,	-- a campaign lasts these amount of months
 	COLONIAL_RANK = 16, -- Minimum rank a nation must have to send colonists
+	NUKE_UNITY_IMPACT	= 1.0,
 	COLONY_TO_STATE_PRESTIGE_GAIN = 10, -- Prestige gain when turning colony to state
 	COLONIAL_LIFERATING = 35,
 	BASE_GREATPOWER_DAILY_INFLUENCE = 0.25, -- Influence value which is distributed each day
