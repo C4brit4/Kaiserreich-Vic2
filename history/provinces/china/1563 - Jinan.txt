@@ -1,7 +1,7 @@
-owner = SQI
-controller = SQI
+owner = QIE
+controller = QIE
 add_core = CHI
 trade_goods = cotton
 life_rating = 32
 
-add_core = SQI
+add_core = QIE
