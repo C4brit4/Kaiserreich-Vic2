@@ -11,35 +11,34 @@ tank = {
 	priority = 50
 	max_strength = 3
 	default_organisation = 40
-	maximum_speed = 4.00
+	maximum_speed = 8.00
 	weighted_value = 10.0
 
 
 	#Building Costs
-	build_time = 120
+	build_time = 85
 	build_cost = {
-		barrels = 10
-		artillery = 10
-		canned_food = 10
-		fuel = 5
+		stel = 125
+		artillery = 150
+		canned_food = 130
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		barrels = 0.15
-		artillery = 0.1
-		canned_food = 0.1 #0.04
-		fuel = 0.2
+		barrels = 0.075
+		artillery = 0.05
+		canned_food = 0.05 #0.04
+		fuel = 0.1
 	}
 	
 
 	#Land Abilties
-	reconnaissance = 0
+	reconnaissance = 1
 	attack = 16
 	defence = 6
 	discipline = 1
 	support = 0.0
-	maneuver = 3
+	maneuver = 1
 	siege = 1
 	
 }

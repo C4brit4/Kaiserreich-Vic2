@@ -11,14 +11,14 @@ irregular = {
 	priority = 5
 	max_strength = 3
 	default_organisation = 20
-	maximum_speed = 4.00
+	maximum_speed = 8.00
 	weighted_value = 1.0
 
 
 	#Building Costs
-	build_time = 45
+	build_time = 22.5
 	build_cost = {
-		wool = 10
+		wool = 5
 	}
 	
 	supply_consumption = 1.0
@@ -33,5 +33,5 @@ irregular = {
 	defence = 2
 	discipline = 1
 	support = 0.0
-	maneuver = 3
+	maneuver = 1
 }
