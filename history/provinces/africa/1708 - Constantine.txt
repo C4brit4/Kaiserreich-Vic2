@@ -1,7 +1,0 @@
-owner = NFR
-controller = NFR
-
-trade_goods = iron
-life_rating = 35
-
-add_core = NFR

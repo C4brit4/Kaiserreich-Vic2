@@ -1,5 +1,0 @@
-owner = RAJ
-controller = RAJ
-add_core = HND
-trade_goods = fish
-life_rating = 32
