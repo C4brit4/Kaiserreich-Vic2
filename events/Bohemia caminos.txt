@@ -1,0 +1,35 @@
+country_event = {
+    id = 500532
+    title = "EVTNAME500532"
+    desc = "EVTDESC500532"
+    picture = germanic
+    fire_only_once = yes
+
+    trigger = {
+    tag  = BOH  
+    NOT={BOH = {vassal_of = AUS}}
+	war = no
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA500532"
+		set_country_flag = camino_ger
+		685 = {add_core = BOH}
+		684 = {add_core = BOH}
+		683 = {add_core = BOH}
+		682 = {add_core = BOH}
+		add_accepted_culture = north_german
+		change_primary_culture = south_german
+		remove_accepted_culture = slovak
+		ai_chance = {factor = 50}
+    }
+    option = {
+        name = "EVTOPTB500532"
+		set_country_flag = camino_zap
+		change_tag = CZH
+		ai_chance = {factor = 50}
+    }  		
+}
+

@@ -1,0 +1,6 @@
+owner = NFR
+controller = NFR
+
+trade_goods = grain
+life_rating = 35
+add_core = NFR

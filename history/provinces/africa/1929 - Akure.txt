@@ -1,0 +1,6 @@
+owner = GMC
+controller = GMC
+trade_goods = tropical_wood
+life_rating = 15
+
+add_core = GMC

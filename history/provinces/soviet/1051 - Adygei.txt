@@ -1,0 +1,5 @@
+owner = DKU
+controller = DKU
+add_core = DKU
+trade_goods = grain
+life_rating = 35

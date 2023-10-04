@@ -1,0 +1,8 @@
+owner = LEP
+controller = LEP
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+
+
+add_core = LEP

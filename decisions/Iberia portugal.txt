@@ -1,0 +1,134 @@
+political_decisions = {
+        iberia_portugal = {
+	    picture = Portugal_europa
+        potential = {
+            OR = {                
+                tag = POR
+                                
+            }
+			has_country_flag = europa_por
+			NOT={has_country_flag = europa_por_2}
+        }
+
+        allow = {         
+            war = no          
+            POR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+        }
+		
+        
+
+        effect = {                
+			set_country_flag = europa_por_2
+            475 = {add_core = POR}
+			477 = {add_core = POR}
+			482 = {add_core = POR}
+			486 = {add_core = POR}
+			485 = {add_core = POR}
+			484 = {add_core = POR}
+			511 = {add_core = POR}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	iberia_portugal_2 = {
+	    picture = Portugal_europa
+        potential = {
+            OR = {                
+                tag = POR
+                                
+            }
+			has_country_flag = europa_por_2
+			NOT={has_country_flag = europa_por_3}
+        }
+
+        allow = {         
+            war = no          
+            POR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+        }
+		
+        
+
+        effect = {                
+			set_country_flag = europa_por_3
+            517 = {add_core = POR}
+			514 = {add_core = POR}
+			513 = {add_core = POR}
+			516 = {add_core = POR}
+			491 = {add_core = POR}
+			515 = {add_core = POR}
+			489 = {add_core = POR}
+			487 = {add_core = POR}
+			488 = {add_core = POR}
+			490 = {add_core = POR}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	iberia_portugal_3 = {
+	    picture = Portugal_europa
+        potential = {
+            OR = {                
+                tag = POR
+                                
+            }
+			NOT = { exists = IBP }
+			has_country_flag = europa_por_3
+			NOT={has_country_flag = europa_por_4}
+        }
+
+        allow = {         
+            war = no          
+            POR = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+        }
+		
+        
+
+        effect = {                
+			set_country_flag = europa_por_4
+            change_tag = IBP
+            SPA = {
+				all_core = { add_core = IBP }
+			}
+			add_accepted_culture = portuguese
+			add_accepted_culture = basque
+			add_accepted_culture = catalan
+			add_accepted_culture = spanish
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}
+

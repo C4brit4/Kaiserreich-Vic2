@@ -1,0 +1,142 @@
+political_decisions = {
+        Bohemia_Germ_cam = {
+        picture = Germaic
+        potential = {
+            OR = {                
+                tag = BOH
+                                
+            }
+            NOT={has_country_flag = camino_ger_2}
+			has_country_flag = camino_ger
+			
+        }
+
+        allow = {         
+            war = no          
+            BOH = {
+                OR = {                    
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            set_country_flag = camino_ger_2
+            602 = {add_core = BOH}
+            601 = {add_core = BOH}
+			600 = {add_core = BOH}
+			599 = {add_core = BOH}
+			592 = {add_core = BOH}
+			595 = {add_core = BOH}
+			598 = {add_core = BOH}
+			597 = {add_core = BOH}
+			596 = {add_core = BOH}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Bohemia_Germ_cam_2 = {
+        picture = Germaic
+        potential = {
+            OR = {                
+                tag = BOH
+                                
+            }
+            NOT={has_country_flag = camino_ger_3}
+			has_country_flag = camino_ger_2
+			
+        }
+
+        allow = {         
+            war = no          
+            BOH = {
+                OR = {                    
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            set_country_flag = camino_ger_3
+            563 = {add_core = BOH}
+            562 = {add_core = BOH}
+			561 = {add_core = BOH}
+			560 = {add_core = BOH}
+			558 = {add_core = BOH}
+			687 = {add_core = BOH}
+			552 = {add_core = BOH}
+			681 = {add_core = BOH}
+			549 = {add_core = BOH}
+			550 = {add_core = BOH}
+			551 = {add_core = BOH}
+			545 = {add_core = BOH}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Bohemia_Germ_cam_3 = {
+        picture = Germaic
+        potential = {
+            OR = {                
+                tag = BOH
+                                
+            }
+			NOT = { exists = GEC }
+            NOT={has_country_flag = camino_ger_4}
+			has_country_flag = camino_ger_3
+			
+        }
+
+        allow = {         
+            war = no          
+            BOH = {
+                OR = {                    
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            set_country_flag = camino_ger_4
+            change_tag = GEC
+            GER = {
+				all_core = { add_core = GEC }
+			}
+			621 = {add_core = GEC}
+			619 = {add_core = GEC}
+			620 = {add_core = GEC}
+			622 = {add_core = GEC}
+			624 = {add_core = GEC}
+			613 = {add_core = GEC}
+			612 = {add_core = GEC}
+			614 = {add_core = GEC}
+			615 = {add_core = GEC}
+			617 = {add_core = GEC}
+			618 = {add_core = GEC}
+			616 = {add_core = GEC}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

@@ -1,0 +1,9 @@
+owner = NEP
+controller = NEP
+add_core = MUG
+
+trade_goods = tea
+life_rating = 32
+
+
+add_core = NEP

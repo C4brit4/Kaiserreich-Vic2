@@ -1,0 +1,8 @@
+owner = GER
+controller = GER
+trade_goods = fish
+life_rating = 35
+colonial = 2
+naval_base = 1
+add_core = GMC
+add_core = GER

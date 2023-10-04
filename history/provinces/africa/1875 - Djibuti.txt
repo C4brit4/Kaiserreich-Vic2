@@ -1,0 +1,6 @@
+owner = GER
+controller = GER
+trade_goods = cattle
+life_rating = 15
+
+add_core = GER
