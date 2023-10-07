@@ -103,7 +103,7 @@ political_decisions = {
 	
 	effect = {
 	set_country_flag = plan_education
-	any_pop = { literacy = 100 }
+	any_pop = { literacy = 15 }
 	prestige = 15
 	    }
 	}
