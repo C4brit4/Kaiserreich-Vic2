@@ -53,8 +53,11 @@ country_event = {
 	
 	trigger = {
     year = 1942
+	tag = SOV
 	war = no
 	}
+	
+	mean_time_to_happen = { days = 1 }
 	
 	fire_only_once = yes
 	
@@ -81,8 +84,11 @@ country_event = {
 	
 	trigger = {
     year = 1942
+	tag = IRS
 	war = no
 	}
+	
+	mean_time_to_happen = { days = 1 }
 	
 	fire_only_once = yes
 	
@@ -109,8 +115,11 @@ country_event = {
 	
 	trigger = {
     year = 1942
+	tag = RUS
 	war = no
 	}
+	
+	mean_time_to_happen = { days = 1 }
 	
 	fire_only_once = yes
 	

@@ -14,7 +14,7 @@ country_event = {
 	
 	option = {
         name = "EVTOPTA60001"
-		add_country_modifier = { name = reforms_government }
+		add_country_modifier = { name = reforms_government duration = 3650 }
 		}
 	}
 	
