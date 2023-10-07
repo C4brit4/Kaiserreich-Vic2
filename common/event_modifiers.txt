@@ -2,6 +2,31 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
+#####KAISER EVENTS#####
+reforms_government = {
+        farm_rgo_eff = 10
+	mine_rgo_eff = 10
+        population_growth = 0.5
+        icon = 4
+}
+
+plan_quinquenal = {
+        RGO_output = 1
+	RGO_throughput = 1
+	factory_output = 1
+	ruling_party_support = 0.3
+	tax_efficiency = 0.1
+        icon = 4
+}
+
+plan_quinquenal_2nd = {
+        RGO_output = 1
+	RGO_throughput = 1
+	factory_output = 1
+	ruling_party_support = 0.3
+        icon = 4
+}
+
 ##### POLITICAL EVENTS ######
 government_sanitarium = {
 	population_growth = 0.005
