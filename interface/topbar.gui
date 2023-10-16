@@ -94,7 +94,7 @@ guiTypes = {
 		#	orientation = "UPPER_LEFT"
 		#}
 		
-		# top five produced
+		# top five produced (DELETED)
 		instantTextBoxType = {
 			name = "topbar_produced0_tooltip"
 			font = "Arial12"
@@ -160,18 +160,20 @@ guiTypes = {
 			position = { x= -200 y = 28 }
 			#allwaystransparent = yes
 		}
+		####
+		
 		
 		instantTextBoxType = {
-			name = "alert_building_factories_tooltip"
+			name = "alert_building_factories_tooltip" #DELETED
 			font = "Arial12"
-			position = { x = 16 y = 48 }
+			position = { x = -200 y = 48 }
 			maxWidth = 28
 			maxHeight = 28
 		}
 		iconType = {
-			name = "alert_building_factories"
+			name = "alert_building_factories" #DELETED
 			spriteType = "GFX_topbar_alert_building"
-			position = { x = 16 y = 48 }
+			position = { x = -200 y = 48 } 
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
@@ -188,16 +190,16 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
-			name = "alert_unemployed_workers_tooltip"
+			name = "alert_unemployed_workers_tooltip" #DELETED
 			font = "Arial12"
-			position = { x = 89 y = 48 }
+			position = { x = -200 y = 48 } 
 			maxWidth = 28
 			maxHeight = 28
 		}
 		iconType = {
-			name = "alert_unemployed_workers"
+			name = "alert_unemployed_workers" #DELETED
 			spriteType = "GFX_topbar_alert_unemployed"
-			position = { x = 89 y = 48 }
+			position = { x = -200 y = 48 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -407,11 +409,11 @@ guiTypes = {
 		iconType = {
 			name ="politics_party_icon"
 			spriteType = "GFX_politics_party_plupp2"
-			position = { x= 391 y = 19 }
+			position = { x= 665 y = 0 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
-			position = { x = 413 y = 24 }
+			position = { x = 688 y = 6 }
 			name = "politics_ruling_party"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -423,7 +425,7 @@ guiTypes = {
 		}
 		
 		guiButtonType = {
-			name ="topbar_supression_icon"
+			name ="topbar_supression_icon" #DELETED
 			quadTextureSprite = "GFX_supression_icon"
 			position = { x= -200 y = 38 }
 			Orientation = "UPPER_LEFT"
@@ -432,7 +434,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			position = { x = -200 y = 39 }
-			name = "politics_supressionpoints_value"
+			name = "politics_supressionpoints_value" #DELETED
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
 			text = "999"	
@@ -445,12 +447,12 @@ guiTypes = {
 		iconType = {
 			name ="topbar_infamy_icon"
 			spriteType = "GFX_infamy_icon"
-			position = { x= 461 y = 38 }
+			position = { x= 770 y = 3 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		instantTextBoxType = {
-			position = { x = 477 y = 39 }
+			position = { x = 785 y = 6 }
 			name = "politics_infamy_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -466,7 +468,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "alert_can_do_reforms"
 			quadTextureSprite = "GFX_topbar_alert_reform"
-			position = { x = 390 y = 52 }
+			position = { x = 810 y = -5 }
 			Orientation = "UPPER_LEFT"
 			clicksound = click
 		}
@@ -474,19 +476,19 @@ guiTypes = {
 		guiButtonType = {
 			name = "alert_can_do_decisions"
 			quadTextureSprite = "GFX_topbar_alert_decision"
-			position = { x = 420 y = 52 }
+			position = { x = 840 y = -5 }
 			Orientation = "UPPER_LEFT"
 			clicksound = click
 		}
 		iconType = {
-			name = "alert_is_in_election"
+			name = "alert_is_in_election" #DELETED
 			spriteType = "GFX_topbar_alert_election"
 			position = { x = -200 y = 52 }
 			Orientation = "UPPER_LEFT"
 		}
 			
 		guiButtonType = {
-			name = "alert_have_rebels"
+			name = "alert_have_rebels" #DELETED
 			quadTextureSprite = "GFX_topbar_alert_rebels"
 			position = { x = -200 y = 52 }
 			Orientation = "UPPER_LEFT"
@@ -531,7 +533,7 @@ guiTypes = {
 		}
 			
 		instantTextBoxType = {
-			position = { x = 525 y = 26 }
+			position = { x = 880 y = 5 }
 			name = "population_total_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -546,12 +548,12 @@ guiTypes = {
 		iconType = {
 			name ="topbar_focus"
 			spriteType = "GFX_topbar_natfocus"
-			position = { x= 521 y = 41 }
+			position = { x= 930 y = 0 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		instantTextBoxType = {
-			position = { x = 541 y = 45 }
+			position = { x = 950 y = 8 }
 			name = "topbar_focus_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
