@@ -1,0 +1,401 @@
+country_event = {
+    id = 890010
+    title = "EVTNAME890010" #The elections of 36th
+    desc = "EVTDESC890010"
+    picture = "election_polls"
+
+    trigger = {
+        tag = USA
+		NOT = { has_country_flag = 1936_elections }
+    }
+
+    option = {
+        name = "EVT890010OPTA"
+		set_country_flag = 1936_elections
+    }
+}
+
+country_event = {
+
+    id = 890020
+    title = "EVTNAME890020" #Electoral fraud?
+    desc = "EVTDESC890020"
+    picture = "treaty_of_versailles"
+
+    trigger = {
+        tag = USA
+		has_country_flag = 1936_elections
+		NOT = { has_country_flag = rejoice_elections_1936 }
+    }
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+    option = {
+        name = "EVT890020OPTA"
+		set_country_flag = rejoice_elections_1936
+		ai_chance = {
+            factor = 100
+        }
+    }
+}
+
+country_event = {
+    id = 890030
+    title = "EVTNAME890030" #National strike
+    desc = "EVTDESC890030"
+    picture = "election_polls"
+
+    trigger = {
+        tag = USA
+		NOT = {
+			year = 1937
+		}
+		NOT = { has_country_flag = national_strike }
+		has_country_flag = rejoice_elections_1936
+    }
+	
+	mean_time_to_happen = {
+		months = 2
+	}
+
+    option = {
+        name = "EVT890030OPTA"
+		set_country_flag = national_strike
+		any_pop = {
+            limit = {
+                location = { primary_culture = yankee}
+            }
+            scaled_militancy = {
+                factor = 3
+            }
+        }
+		ai_chance = {
+			factor = 100
+		}
+    }
+	
+	option = {
+		name = "EVT890030OPTB"
+		set_country_flag = national_strike
+		any_pop = {
+            limit = {
+                location = { is_core = USA }
+            }
+            scaled_militancy = {
+                factor = 1
+            }
+        }
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+province_event = {
+    id = 890000
+    title = "EVTNAME890000" #secessionist workers
+    desc = "EVTDESC890000"
+
+    trigger = {
+        owner = {
+            tag = USA
+			has_country_flag = national_strike
+        }
+        NOT = { has_province_modifier = secessionist_workers }
+        is_core = USA
+        is_colonial = no
+		OR = {
+            average_consciousness = 2
+            average_militancy = 2
+        }
+    }
+
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "EVT890000OPTA"
+        state_scope = {
+            any_owned = {
+                add_province_modifier = {
+                    name = secessionist_workers
+                    duration = 1095
+                }
+            }
+        }
+    }
+
+    option = {
+        name = "EVT890000OPTB"
+        state_scope = {
+            any_owned = {
+                add_province_modifier = {
+                    name = secessionist_workers
+                    duration = 295
+                }
+            }
+        }
+    }
+}
+
+country_event = {
+    id = 890040
+    title = "EVTNAME890040" #The Chicago convention
+    desc = "EVTDESC890040"
+	major = yes
+
+    trigger = {
+        tag = USA
+		has_country_flag = national_strike
+		year = 1937
+		NOT = { has_country_flag = chicago_convention }
+    }
+	
+	mean_time_to_happen = {
+		months = 3
+	}
+	
+	fire_only_once = yes
+
+    option = {
+        name = "EVT890040OPTA"
+		set_country_flag = chicago_convention
+		prestige = -5
+    }
+}
+
+country_event = {
+    id = 890050
+    title = "EVTNAME890050" #Ocupation of New England
+    desc = "EVTDESC890050"
+    picture = "Artillery"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT890050OPTA"
+		set_country_flag = ocupation_of_new_england
+    }
+}
+
+country_event = {
+    id = 890060
+    title = "EVTNAME890060" #The Night Declaration
+    desc = "EVTDESC890060"
+	major = yes
+
+    trigger = {
+        tag = USA
+		has_country_flag = chicago_convention
+		NOT = { year = 1938 }
+		NOT = { has_country_flag = phyladelphia_convention }
+    }
+	
+	mean_time_to_happen = {
+		months = 2
+	}
+	
+	fire_only_once = yes
+
+    option = {
+        name = "EVT890060OPTA"
+		set_global_flag = second_american_civil_war
+		set_country_flag = phyladelphia_convention
+		USA_176 = { add_core = CSO } #Michigan
+		USA_162 = { add_core = CSO } #Wisconsin
+		USA_168 = { add_core = CSO } #Illinois
+		USA_170 = { add_core = CSO } #Indiana
+		USA_178 = { add_core = CSO } #Ohio
+		USA_223 = { add_core = CSO } #Pensylvania
+		USA_231 = { add_core = CSO } #New Jersey
+		any_owned = {
+            limit = {
+                is_core = CSO
+            }
+            secede_province = CSO
+        }
+		relation = { who = CSO value = -400 }
+		war = {
+			target = CSO
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+		ai_chance = {
+            factor = 100
+        }
+    }
+	option = {
+        name = "EVT890060OPTB"
+		set_global_flag = second_american_civil_war
+		set_country_flag = phyladelphia_convention
+		USA_176 = { add_core = CSO } #Michigan
+		USA_162 = { add_core = CSO } #Wisconsin
+		USA_168 = { add_core = CSO } #Illinois
+		USA_170 = { add_core = CSO } #Indiana
+		USA_178 = { add_core = CSO } #Ohio
+		USA_223 = { add_core = CSO } #Pensylvania
+		USA_231 = { add_core = CSO } #New Jersey
+		any_owned = {
+            limit = {
+                is_core = CSO
+            }
+            secede_province = CSO
+        }
+		relation = { who = CSO value = -400 }
+		war = {
+			target = CSO
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+		change_tag_no_core_switch = CSO
+		ai_chance = {
+            factor = 0
+        }
+    }
+}
+
+country_event = {
+    id = 890070
+    title = "EVTNAME890070" #The Second Night Declaration
+    desc = "EVTDESC890070"
+	major = yes
+
+    trigger = {
+        tag = USA
+		has_country_flag = phyladelphia_convention
+    }
+	
+	mean_time_to_happen = {
+		days = 2
+	}
+	
+	fire_only_once = yes
+
+    option = {
+        name = "EVT890070OPTA"
+		set_country_flag = richmond_convention
+		USA_139 = { add_core = UAS }
+		USA_194 = { add_core = UAS }
+		USA_196 = { add_core = UAS }
+		USA_200 = { add_core = UAS }
+		USA_201 = { add_core = UAS }
+		USA_2556 = { add_core = UAS }
+		USA_211 = { add_core = UAS }
+		USA_188 = { add_core = UAS }
+		any_owned = {
+            limit = {
+                is_core = UAS
+            }
+            secede_province = UAS
+        }
+		relation = { who = UAS value = -400 }
+		war = {
+			target = UAS
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+		ai_chance = {
+            factor = 100
+        }
+    }
+	option = {
+        name = "EVT890070OPTB"
+		set_country_flag = richmond_convention
+		USA_139 = { add_core = UAS }
+		USA_194 = { add_core = UAS }
+		USA_196 = { add_core = UAS }
+		USA_200 = { add_core = UAS }
+		USA_201 = { add_core = UAS }
+		USA_2556 = { add_core = UAS }
+		USA_211 = { add_core = UAS }
+		USA_188 = { add_core = UAS }
+		any_owned = {
+            limit = {
+                is_core = UAS
+            }
+            secede_province = UAS
+        }
+		relation = { who = UAS value = -400 }
+		war = {
+			target = UAS
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+		change_tag_no_core_switch = UAS
+		ai_chance = {
+            factor = 0
+        }
+    }
+}
+
+country_event = {
+	id = 890080
+    title = "EVTNAME890080" #Creation of new england
+    desc = "EVTDESC890080"
+    picture = "treaty"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT890080OPTA"
+		set_country_flag = creation_of_new_england
+		USA_232 = { add_core = NEN }
+		USA_247 = { add_core = NEN }
+		USA_243 = { add_core = NEN }
+		release_vassal = NEN
+		diplomatic_influence = {
+			who = NEN
+			value = 200
+		}
+		relation = {
+			who = NEN
+			value = 400
+		}
+    }
+}
+
+country_event = {
+	id = 890090
+    title = "EVTNAME890090" #Declaration of Pacific States of America
+    desc = "EVTDESC890090"
+    picture = "treaty"
+
+    trigger = {
+        tag = USA
+		has_country_flag = richmond_convention
+    }
+	
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		months = 2
+	}
+	
+    option = {
+        name = "EVT890090OPTA"
+		set_country_flag = creation_of_pacific_states_of_america
+		MEX_85 = { add_core = PSA }
+		USA_78 = { add_core = PSA }
+		USA_81 = { add_core = PSA }
+		any_owned = {
+            limit = {
+                is_core = PSA
+            }
+            secede_province = PSA
+        }
+		relation = { who = PSA value = -400 }
+		war = {
+			target = PSA
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
+			call_ally = no
+		}
+    }
+}
