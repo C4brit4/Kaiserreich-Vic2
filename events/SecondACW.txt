@@ -26,6 +26,7 @@ country_event = {
         tag = USA
 		has_country_flag = 1936_elections
 		NOT = { has_country_flag = rejoice_elections_1936 }
+		NOT = { year = 1937 }
     }
 
 	mean_time_to_happen = {
@@ -50,7 +51,7 @@ country_event = {
     trigger = {
         tag = USA
 		NOT = {
-			year = 1937
+			year = 1938
 		}
 		NOT = { has_country_flag = national_strike }
 		has_country_flag = rejoice_elections_1936
@@ -151,6 +152,7 @@ country_event = {
         tag = USA
 		has_country_flag = national_strike
 		year = 1937
+		NOT = { year = 1938 }
 		NOT = { has_country_flag = chicago_convention }
     }
 	
