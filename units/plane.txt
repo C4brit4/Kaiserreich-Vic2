@@ -2,6 +2,7 @@ plane = {
 	icon = 19
 	
 	type = land
+	type = air
 	sprite = Plane
 	active = no
 	unit_type = support

@@ -6,7 +6,6 @@ political_decisions = {
                 tag = ENG
                                 
             }
-			NOT={has_country_flag = contrarevolucion_3}
 			has_global_flag = contrarevolucion_2
         }
 

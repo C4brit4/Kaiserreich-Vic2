@@ -21,11 +21,11 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "UsGCInfantry"
-		actorfile = "gfx\anims\USInf_Interwar.xac"
+		actorfile = "gfx\anims\USInf_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
-		move   = "gfx\anims\InterwarInfantryMove.xsm"
-		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		idle   = "gfx\anims\CivilwarInfantryIdle.xsm"
+		move   = "gfx\anims\CivilwarInfantryMove.xsm"
+		attack = "gfx\anims\CivilwarInfantryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -38,11 +38,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ConfederateGCInfantry"
-		actorfile = "gfx\anims\USInf_Interwar.xac"
+		actorfile = "gfx\anims\CSAInf_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
-		move   = "gfx\anims\InterwarInfantryMove.xsm"
-		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		idle   = "gfx\anims\CivilwarInfantryIdle.xsm"
+		move   = "gfx\anims\CivilwarInfantryMove.xsm"
+		attack = "gfx\anims\CivilwarInfantryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -55,11 +55,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "UsGCEngineer"
-		actorfile = "gfx\anims\USEng_Interwar.xac"
+		actorfile = "gfx\anims\USEng_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
-		move   = "gfx\anims\InterwarEngineerMove.xsm"
-		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		idle   = "gfx\anims\CivilwarEngineerIdle.xsm"
+		move   = "gfx\anims\CivilwarEngineerMove.xsm"
+		attack = "gfx\anims\CivilwarEngineerAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -72,11 +72,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ConfederateGCEngineer"
-		actorfile = "gfx\anims\USEng_Interwar.xac"
+		actorfile = "gfx\anims\CSAEng_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
-		move   = "gfx\anims\InterwarEngineerMove.xsm"
-		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		idle   = "gfx\anims\CivilwarEngineerIdle.xsm"
+		move   = "gfx\anims\CivilwarEngineerMove.xsm"
+		attack = "gfx\anims\CivilwarEngineerAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -89,11 +89,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "UsGCGuard"
-		actorfile = "gfx\anims\USInf_Interwar.xac"
+		actorfile = "gfx\anims\USGua_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
-		move   = "gfx\anims\InterwarInfantryMove.xsm"
-		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		idle   = "gfx\anims\CivilwarGuardIdle.xsm"
+		move   = "gfx\anims\CivilwarGuardMove.xsm"
+		attack = "gfx\anims\CivilwarGuardAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -106,11 +106,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ConfederateGCGuard"
-		actorfile = "gfx\anims\USInf_Interwar.xac"
+		actorfile = "gfx\anims\CSAGua_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
-		move   = "gfx\anims\InterwarInfantryMove.xsm"
-		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		idle   = "gfx\anims\CivilwarGuardIdle.xsm"
+		move   = "gfx\anims\CivilwarGuardMove.xsm"
+		attack = "gfx\anims\CivilwarGuardAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -123,11 +123,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "UsGCArtillery"
-		actorfile = "gfx\anims\USArt_Interwar.xac"
+		actorfile = "gfx\anims\USArt_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
-		move   = "gfx\anims\InterwarArtilleryMove.xsm"
-		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		idle   = "gfx\anims\CivilwarArtilleryIdle.xsm"
+		move   = "gfx\anims\CivilwarArtilleryMove.xsm"
+		attack = "gfx\anims\CivilwarArtilleryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -140,11 +140,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ConfederateGCArtillery"
-		actorfile = "gfx\anims\USArt_Interwar.xac"
+		actorfile = "gfx\anims\CSAArt_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
-		move   = "gfx\anims\InterwarArtilleryMove.xsm"
-		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		idle   = "gfx\anims\CivilwarArtilleryIdle.xsm"
+		move   = "gfx\anims\CivilwarArtilleryMove.xsm"
+		attack = "gfx\anims\CivilwarArtilleryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -157,11 +157,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "UsGCIrregular"
-		actorfile = "gfx\anims\USInf_Interwar.xac"
+		actorfile = "gfx\anims\USIrr_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
-		move   = "gfx\anims\InterwarInfantryMove.xsm"
-		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		idle   = "gfx\anims\CivilwarInfantryIdle.xsm"
+		move   = "gfx\anims\CivilwarInfantryMove.xsm"
+		attack = "gfx\anims\CivilwarInfantryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -174,11 +174,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ConfederateGCIrregular"
-		actorfile = "gfx\anims\USInf_Interwar.xac"
+		actorfile = "gfx\anims\CSAIrr_Civilwar.xac"
 		
-		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
-		move   = "gfx\anims\InterwarInfantryMove.xsm"
-		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		idle   = "gfx\anims\CivilwarInfantryIdle.xsm"
+		move   = "gfx\anims\CivilwarInfantryMove.xsm"
+		attack = "gfx\anims\CivilwarInfantryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
