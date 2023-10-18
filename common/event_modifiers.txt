@@ -10,12 +10,6 @@ reforms_government = {
         icon = 4
 }
 
-secessionist_workers = {
-    pop_consciousness_modifier = 0.1
-    pop_militancy_modifier = 0.1
-    icon = 18
-}
-
 plan_quinquenal = {
         RGO_output = 1
 	RGO_throughput = 1
