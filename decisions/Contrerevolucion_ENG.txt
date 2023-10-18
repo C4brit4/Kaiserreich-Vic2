@@ -145,6 +145,8 @@ political_decisions = {
             set_global_flag = contrarevolucion_3
             change_tag = ENG  
     	    capital = 300
+			add_accepted_culture = scottish
+            add_accepted_culture = welsh
             SAF = {
 				country_event = { id = 500505 days = 2 }
 				

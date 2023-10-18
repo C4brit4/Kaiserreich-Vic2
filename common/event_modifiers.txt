@@ -787,9 +787,19 @@ reforms_government = {
 }
 
 asimilacion = {
-	global_assimilation_rate = 999
+	global_assimilation_rate = 9999
 }
 
 contrarevolucion_fra = {
 	
+}
+
+spy_unrest = {
+	global_pop_militancy_modifier = 0.3
+	war_exhaustion = 0.5
+	icon = 18
+}
+
+spying = {
+	icon = 7
 }

@@ -24,10 +24,10 @@ country_event = {
         set_country_flag = italy_emp
  		
     } 		   
-    }
+
     option = {
         name = "EVTOPTB500604"
-		 
+		set_country_flag = italy_emp_em 
     } 	
 }
 

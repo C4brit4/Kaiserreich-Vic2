@@ -75,43 +75,4 @@ political_decisions = {
 			factor = 1
 			}
     }
-	Eng_cam_6	  = {
-        picture = english_channel
-        potential = {
-            OR = {                
-                tag = ENG
-                                
-            }
-			NOT={has_global_flag = camino_eng_comi_3}
-			NOT={has_global_flag = camino_eng_comi_emp}
-			has_global_flag = camino_eng_comi_2
-			NOT = {				
-				has_country_modifier = camino_eng_comi
-			}
-        }
-
-        allow = {         
-            war = no          
-            ENG = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS                       
-                    }
-                }
-            }
-        }
-		
-        
-
-        effect = {                
-            set_global_flag = camino_eng_comi_3          
-            IRE = {
-				all_core = { add_core = ENG }
-			} 
-			add_accepted_culture = irish
-        }
-		ai_will_do = {
-			factor = 1
-			}
-    }
 }

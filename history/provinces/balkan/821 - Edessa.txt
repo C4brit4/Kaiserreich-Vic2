@@ -1,6 +1,14 @@
-owner = BUL
-controller = BUL
-add_core = BUL
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = GRE
 trade_goods = silk
 life_rating = 35
+1914.1.1 = {
+	owner = GRE
+	controller = GRE
+	remove_core = TUR
+}
+1914.1.1 = {
+	railroad = 1
+}

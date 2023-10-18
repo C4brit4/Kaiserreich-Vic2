@@ -1,0 +1,321 @@
+#destroy random port, research sabotage, militancy, war exhaustion
+
+country_event = {
+	id = 500093
+	title = "Foreign propaganda."
+	desc = "If we spread propaganda in our foreign adversary's homeland we can cause unrest among their population."
+	is_triggered_only = yes
+
+	option = {
+		name = "Target GP #1."
+		random_list = {
+			7 = {
+				random_country = {
+					limit = {
+						rank = 1
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500094
+					THIS = {country_event = 500096}
+				}
+
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 1
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500095
+					THIS = {country_event = 500097}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #2."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 2
+						NOT = {rank = 1}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500094
+					THIS = {country_event = 500096}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 2
+						NOT = {rank = 1}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500095
+					THIS = {country_event = 500097}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #3."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 3
+						NOT = {rank = 2}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500094
+					THIS = {country_event = 500096}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 3
+						NOT = {rank = 2}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500095
+					THIS = {country_event = 500097}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #4."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 4
+						NOT = {rank = 3}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500094
+					THIS = {country_event = 500096}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 4
+						NOT = {rank = 3}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500095
+					THIS = {country_event = 500097}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #5."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 5
+						NOT = {rank = 4}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500094
+					THIS = {country_event = 500096}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 5
+						NOT = {rank = 4}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500095
+					THIS = {country_event = 500097}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #6."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 6
+						NOT = {rank = 5}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500094
+					THIS = {country_event = 500096}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 6
+						NOT = {rank = 5}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500095
+					THIS = {country_event = 500097}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #7."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 7
+						NOT = {rank = 6}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500094
+					THIS = {country_event = 500096}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 7
+						NOT = {rank = 6}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500095
+					THIS = {country_event = 500097}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #8."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 8
+						NOT = {rank = 7}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500094
+					THIS = {country_event = 500096}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 8
+						NOT = {rank = 7}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500095
+					THIS = {country_event = 500097}
+				}
+			}
+		}
+			
+	}
+}
+
+country_event = {
+	id = 500094
+	title = "Foreign propaganda spreads!"
+	desc = "Reports have come in of foreign propaganda being spread in our territory."
+
+	is_triggered_only = yes
+
+	immediate = {
+		add_country_modifier = {
+			name = spy_unrest
+			duration = 182
+		}
+	}
+
+	option = {
+		name = "This will undoubtably stir up troublemakers!"
+	}
+}
+
+country_event = {
+	id = 500095
+	title = "Foreign agents found smuggling propaganda material!"
+	desc = "Recently our military police have discovered foreign agents trying to smuggle in propaganda material into our country. Luckily they were able to prevent them from achieving this."
+
+	is_triggered_only = yes
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "At least the damage was prevented."
+	}
+}
+
+country_event = {
+	id = 500096
+	title = "Foreign propaganda successful!"
+	desc = "Our agents are reportedly successful in their propaganda mission."
+
+	is_triggered_only = yes
+
+	immediate = {
+	}
+
+	option = {
+		name = "Another successful mission!"
+	}
+}
+
+country_event = {
+	id = 500097
+	title = "Foreign propaganda failed!"
+	desc = "We have reports that the agents we sent to spread foreign propaganda have been captured."
+
+	is_triggered_only = yes
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "Drat!"
+	}
+}

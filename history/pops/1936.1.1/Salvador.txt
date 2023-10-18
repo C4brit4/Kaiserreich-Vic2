@@ -1,77 +1,249 @@
-#Salvador Region (290400)
-#San Salvador (182400/45600 POPS)
+#Salvador Region (416000)
+#Ruled by Central America 1836
+#San Salvador (260000/65000 POPS)
 2191 = {
-	aristocrats = {
-		culture = central_american
-		religion = catholic
-		size = 1100
-	}
-
-	bureaucrats = {
-		culture = central_american
-		religion = catholic
-		size = 700
-	}
-
 	officers = {
 		culture = central_american
-		religion = catholic
-		size = 125
-	}
-
-	clergymen = {
+		religion =  catholic 
+		size = 1764
+	 } 
+	officers = {
 		culture = central_american
-		religion = catholic
-		size = 650
-	}
-
-	artisans = {
-		culture = central_american
-		religion = catholic
-		size = 4200
-	}
-
+		religion = catholic 
+		size = 59
+	 } 
 	soldiers = {
 		culture = central_american
-		religion = catholic
-		size = 3500
-	}
-
-	farmers = {
+		religion =  catholic 
+		size = 7059
+	 } 
+	soldiers = {
 		culture = central_american
-		religion = catholic
-		size = 35425
-	}
-}
-#San Miguel (108000/27000 POPS)
-2192 = {
+		religion = catholic 
+		size = 237
+	 } 
 	aristocrats = {
 		culture = central_american
-		religion = catholic
-		size = 750
-	}
-
+		religion =  catholic 
+		size = 12229
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion = catholic 
+		size = 410
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion =  catholic 
+		size = 305
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion = catholic 
+		size = 10
+	 } 
+	capitalists = {
+		culture = central_american
+		religion =  catholic 
+		size = 1528
+	 } 
+	capitalists = {
+		culture = central_american
+		religion = catholic 
+		size = 51
+	 } 
 	clergymen = {
 		culture = central_american
-		religion = catholic
-		size = 450
-	}
-
+		religion =  catholic 
+		size = 3057
+	 } 
+	clergymen = {
+		culture = central_american
+		religion = catholic 
+		size = 102
+	 } 
+	clerks = {
+		culture = central_american
+		religion =  catholic 
+		size = 7263
+	 } 
+	clerks = {
+		culture = central_american
+		religion = catholic 
+		size = 244
+	 } 
 	artisans = {
 		culture = central_american
-		religion = catholic
-		size = 2200
-	}
-
-	soldiers = {
+		religion =  catholic 
+		size = 6901
+	 } 
+	artisans = {
 		culture = central_american
-		religion = catholic
-		size = 600
-	}
-
+		religion = catholic 
+		size = 231
+	 } 
+	craftsmen = {
+		culture = central_american
+		religion =  catholic 
+		size = 22156
+	 } 
+	craftsmen = {
+		culture = central_american
+		religion = catholic 
+		size = 744
+	 } 
 	farmers = {
 		culture = central_american
-		religion = catholic
-		size = 23000
-	}
+		religion =  catholic 
+		size = 201577
+	 } 
+	farmers = {
+		culture = central_american
+		religion = catholic 
+		size = 6771
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  catholic 
+		size = 38827
+	 } 
+	farmers = {
+		culture = central_american
+		religion = catholic 
+		size = 1304
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 3057
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 102
+	 } 
+}
+#San Miguel (156000/44000 POPS)
+2192 = {
+	officers = {
+		culture = central_american
+		religion =  catholic 
+		size = 942
+	 } 
+	officers = {
+		culture = central_american
+		religion = catholic 
+		size = 31
+	 } 
+	soldiers = {
+		culture = central_american
+		religion =  catholic 
+		size = 3769
+	 } 
+	soldiers = {
+		culture = central_american
+		religion = catholic 
+		size = 126
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion =  catholic 
+		size = 6530
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion = catholic 
+		size = 219
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion =  catholic 
+		size = 162
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion = catholic 
+		size = 5
+	 } 
+	capitalists = {
+		culture = central_american
+		religion =  catholic 
+		size = 815
+	 } 
+	capitalists = {
+		culture = central_american
+		religion = catholic 
+		size = 27
+	 } 
+	clergymen = {
+		culture = central_american
+		religion =  catholic 
+		size = 1632
+	 } 
+	clergymen = {
+		culture = central_american
+		religion = catholic 
+		size = 54
+	 } 
+	clerks = {
+		culture = central_american
+		religion =  catholic 
+		size = 3878
+	 } 
+	clerks = {
+		culture = central_american
+		religion = catholic 
+		size = 130
+	 } 
+	artisans = {
+		culture = central_american
+		religion =  catholic 
+		size = 3685
+	 } 
+	artisans = {
+		culture = central_american
+		religion = catholic 
+		size = 123
+	 } 
+	craftsmen = {
+		culture = central_american
+		religion =  catholic 
+		size = 11831
+	 } 
+	craftsmen = {
+		culture = central_american
+		religion = catholic 
+		size = 397
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  catholic 
+		size = 107649
+	 } 
+	farmers = {
+		culture = central_american
+		religion = catholic 
+		size = 3616
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  catholic 
+		size = 20734
+	 } 
+	farmers = {
+		culture = central_american
+		religion = catholic 
+		size = 696
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 1632
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 54
+	 } 
+
 }

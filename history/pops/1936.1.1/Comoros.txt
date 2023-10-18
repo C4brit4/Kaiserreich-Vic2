@@ -1,139 +1,89 @@
-#Comoro Islands Region (64000)
-#uncolonized in 1936/dominated by sultan of Anjouan
-#Comoro Islands (56000/14000 POPS)
+#Comoro Islands Region (64000)  
+#uncolonized in 1836/dominated by sultan of Anjouan
+#Comoro Islands (56000/14000 POPS) 
 2123 = {
 	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 154.5
-	}
-
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 51.5
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 334.75
-	}
-
-	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 1030.0
-	}
-
+		culture = kilombero
+		religion =  sunni 
+		size = 1480
+	 } 
 	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 3527.75
-	}
-
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 103.0
-	}
-
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 51.5
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 309.0
-	}
-
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 51.5
-	}
-
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 5665.0
-	}
-
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 3090.0
-	}
+		culture = kilombero
+		religion =  sunni 
+		size = 33615
+	 } 
 }
-#Mayotte (8000/2000 POPS)
+#Mayotte (8000/2000 POPS) 
 2124 = {
-	aristocrats = {
-		culture = african_minor
-		religion = sunni
-		size = 15.450000000000001
-	}
-
-	clergymen = {
-		culture = african_minor
-		religion = sunni
-		size = 25.75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 51.5
-	}
-
+	officers = {
+		culture = kilombero
+		religion =  catholic 
+		size = 85
+	 } 
+	officers = {
+		culture = kilombero
+		religion = catholic 
+		size = 19
+	 } 
 	soldiers = {
-		culture = african_minor
-		religion = sunni
-		size = 10.3
-	}
-
-	farmers = {
-		culture = african_minor
-		religion = sunni
-		size = 412.0
-	}
-
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 15.450000000000001
-	}
-
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 25.75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 51.5
-	}
-
+		culture = kilombero
+		religion =  catholic 
+		size = 342
+	 } 
 	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 10.3
-	}
-
+		culture = kilombero
+		religion = catholic 
+		size = 77
+	 } 
+	aristocrats = {
+		culture = kilombero
+		religion =  catholic 
+		size = 713
+	 } 
+	aristocrats = {
+		culture = kilombero
+		religion = catholic 
+		size = 161
+	 } 
+	bureaucrats = {
+		culture = kilombero
+		religion =  catholic 
+		size = 171
+	 } 
+	bureaucrats = {
+		culture = kilombero
+		religion = catholic 
+		size = 38
+	 } 
+	capitalists = {
+		culture = kilombero
+		religion =  catholic 
+		size = 171
+	 } 
+	capitalists = {
+		culture = kilombero
+		religion = catholic 
+		size = 38
+	 } 
+	clergymen = {
+		culture = kilombero
+		religion =  catholic 
+		size = 513
+	 } 
+	clergymen = {
+		culture = kilombero
+		religion = catholic 
+		size = 116
+	 } 
+	artisans = {
+		culture = kilombero
+		religion =  sunni 
+		size = 1059
+	 } 
 	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 927.0
-	}
-
-	slaves = {
-		culture = african_minor
-		religion = animist
-		size = 515.0
-	}
+		culture = kilombero
+		religion =  sunni 
+		size = 26272
+	 } 
 
 }

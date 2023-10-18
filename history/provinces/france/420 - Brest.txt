@@ -1,6 +1,7 @@
 owner = FRA
 controller = FRA
 add_core = FRA
+add_core = BRT
 trade_goods = grain
 life_rating = 32
 naval_base = 2
@@ -18,4 +19,39 @@ naval_base = 2
 }
 1861.1.1 = { 
 	naval_base = 3
+}
+1914.1.1 = {
+	railroad = 5
+	naval_base = 5
+	
+	state_building = {
+		level = 2
+		building = steamer_shipyard
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = ammunition_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = explosives_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = artillery_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = steel_factory
+		upgrade = yes
+	}
 }

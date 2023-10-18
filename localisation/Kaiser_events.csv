@@ -87,3 +87,78 @@ EVTNAME500532;An independent bohemia;;;;;;;;;;;;x;
 EVTDESC500532;Now that we have become independent, we have to see what to do so that the nation prospers again. Some say that we are Germanic and others Slavic.?;;;;;;;;;;;;x;
 EVTOPTA500532;We are German;;;;;;;;;;;;x;
 EVTOPTB500532;We are Slavs;;;;;;;;;;;;x;
+EVTNAME500499;The future of France;;;;;;;;;;;;x;
+EVTDESC500499;After the revolution, the population is not the happiest thing, what should we do?;;;;;;;;;;;;x;
+EVTOPTA500499;Improve the situation of the population;;;;;;;;;;;;x;
+EVTOPTB500499;Oppress demonstrations;;;;;;;;;;;;x;
+EVTNAME500429;The future of France;;;;;;;;;;;;x;
+EVTDESC500429;We have managed to win the war but now that we should go there are new representatives who seek to establish a new government that we should do;;;;;;;;;;;;x;
+EVTOPTA500429;Go with the Bonapartists;;;;;;;;;;;;x;
+EVTOPTB500429;Put a Burgon on the throne;;;;;;;;;;;;x;
+EVTOPTC500429;Maintain democracy;;;;;;;;;;;;x;
+EVTNAME500799;The Carlist victory in the war.;;;;;;;;;;;;x;
+EVTDESC500799;After a long time we have managed to win the civil war;;;;;;;;;;;;x;
+EVTOPTA500799;Recover the empire in Europe;;;;;;;;;;;;x;
+EVTOPTB500799;Demand the return of dominion in America;;;;;;;;;;;;x;
+EVTNAME500599;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500599;Our population is not happy with the government, what should we do?;;;;;;;;;;;;x;
+EVTOPTA500599;Make reforms;;;;;;;;;;;;x;
+EVTOPTB500599;Let the new candidate Mussolini be the new president;;;;;;;;;;;;x;
+EVTOPTC500599;Destroy the Italica commune;;;;;;;;;;;;x;
+EVTNAME500603;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500603;Now that we have exiled the previous government, what should we do?;;;;;;;;;;;;x;
+EVTOPTA500603;Democatize the country;;;;;;;;;;;;x;
+EVTOPTB500603;Return the throne to the king of Italy;;;;;;;;;;;;x;
+EVTNAME500604;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500604;Mussolini proclaimed the Roman Empire and it recovered all its splendor;;;;;;;;;;;;x;
+EVTOPTA500604;Kill them before they become a threat;;;;;;;;;;;;x;
+EVTOPTB500604;It's nothing to worry about;;;;;;;;;;;;x;
+EVTOPTC500603;Putting the holy pope as a cover;;;;;;;;;;;;x;
+EVTNAME500605;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500605;The unionists left Italy, it is time to unify with the new democracy formed;;;;;;;;;;;;x;
+EVTOPTA500605;Yes;;;;;;;;;;;;x;
+EVTOPTB500605;They have a Corrupt government;;;;;;;;;;;;x;
+EVTNAME500607;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500607;The new government of northern Italy was unified with our puppet, we cannot allow that but maybe we can negotiate a distribution;;;;;;;;;;;;x;
+EVTOPTA500607;We will negotiate;;;;;;;;;;;;x;
+EVTOPTB500607;They are ours;;;;;;;;;;;;x;
+EVTNAME500608;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500608;The Austrian emperor proposes a solution;;;;;;;;;;;;x;
+EVTOPTA500608;accept;;;;;;;;;;;;x;
+EVTOPTB500608;It's ours;;;;;;;;;;;;x;
+EVTNAME500609;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500609;Now we can stay with the Venezuelan state and so tensions don't escalate, but do we really only want that?;;;;;;;;;;;;x;
+EVTOPTA500609;Everything to avoid a war;;;;;;;;;;;;x;
+EVTOPTB500609;That territory is ours by right.;;;;;;;;;;;;x;
+EVTNAME500611;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500611;We have achieved our objective but the Austro-Hungarian federation will not look favorably on us staying with Venice;;;;;;;;;;;;x;
+EVTOPTA500611;To avoid tensions we have to create a Venetian state;;;;;;;;;;;;x;
+EVTOPTB500611;It's ours;;;;;;;;;;;;x;
+EVTNAME500612;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500612;The king of Italy claims the throne of Sicily;;;;;;;;;;;;x;
+EVTOPTA500612;It is legitimate to govern you;;;;;;;;;;;;x;
+EVTOPTB500612;We don't need a king;;;;;;;;;;;;x;
+EVTNAME500613;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500613;The leaders of the previous government of the Italian federation seek to lead the country after this betrayal;;;;;;;;;;;;x;
+EVTOPTA500613;Of course;;;;;;;;;;;;x;
+EVTOPTB500613;You ruined the Italian homeland;;;;;;;;;;;;x;
+EVTNAME500614;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500614;There are 2 government applications, one more radical that seeks for Italy to return to what it was before and another that seeks a peaceful unification with Sardinia and then Italy.;;;;;;;;;;;;x;
+EVTOPTA500614;Go with the black shirts;;;;;;;;;;;;x;
+EVTOPTB500614;Democratize the country;;;;;;;;;;;;x;
+EVTNAME500631;Italian Crisis;;;;;;;;;;;;x;
+EVTDESC500631;The leader of the 2 Sicilies offers us a unification with them to finally be able to unify the Italian people;;;;;;;;;;;;x;
+EVTOPTA500631;For the good of Italy;;;;;;;;;;;;x;
+EVTOPTB500631;we will not accept;;;;;;;;;;;;x;
+EVTNAME48291;Negotiated transfer;Negotiated transfer;Negotiated transfer;;Transferencia Negociada;;;;;;;;;x
+EVTDESC48291;$FROMCOUNTRY$ wants someone to transfer a province to him, do we want?;$FROMCOUNTRY$ wants someone to transfer a province to him, do we want?;$FROMCOUNTRY$ wants someone 
+EVTOPTA48291;Ok;Ok;Ok;;Vale;;;;;;;;;x
+EVTOPTB48291;Nah;Nah;Nah;;Nah;;;;;;;;;x
+EVTNAME25193;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;;$FROMCOUNTRY$ quiere dinero;;;;;;;;;x
+EVTDESC25193;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;$FROMCOUNTRY$ wants money;;$FROMCOUNTRY$ quiere dinero;;;;;;;;;x
+EVTOPTA25193;Nah;Nah;Nah;;Nah;;;;;;;;;x
+EVTOPTB25193;1k;1k;1k;;1k;;;;;;;;;x
+EVTOPTC25193;10k;10k;10k;;10k;;;;;;;;;x
+EVTOPTD25193;100k;100k;100k;;100k;;;;;;;;;x
+EVTOPTE25193;1M;1M;1M;;1M;;;;;;;;;x
+EVTOPTF25193;2M;2M;2M;;2M;;;;;;;;;x

@@ -1,0 +1,24 @@
+
+country_event = {
+	id = 48291
+	title = "EVTNAME48291"
+	desc = "EVTDESC48291"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA48291"
+		FROM = {
+		    casus_belli = { target = THIS type = negotiated_transfer months = 2 }
+		}
+		ai_chance = {
+		    factor = 0
+		}
+	}
+	option = {
+		name = "EVTOPTB48291"
+		ai_chance = {
+		    factor = 1
+		}
+	}
+}

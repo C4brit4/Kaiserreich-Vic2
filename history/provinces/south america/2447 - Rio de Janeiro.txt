@@ -2,6 +2,11 @@ owner = BRZ
 controller = BRZ
 add_core = BRZ
 trade_goods = coffee
+state_building = {
+	level = 20
+	building = synthetic_oil_factory
+	upgrade = yes
+}
 life_rating = 35
 naval_base = 1
 1861.1.1 = { railroad = 1 }

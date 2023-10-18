@@ -1,0 +1,38 @@
+country_event = {
+    id = 500609
+    title = "EVTNAME500609"
+    desc = "EVTDESC500609"
+    picture = Spanish Civil war
+    fire_only_once = yes
+
+    trigger = {
+    tag  = XXX
+        
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA500609"
+			ai_chance = {factor = 85}
+			ITC = {
+				733 = {secede_province = AUS}
+				732 = {secede_province = AUS}
+				729 = {secede_province = AUS}
+				731 = {secede_province = AUS}
+				730 = {secede_province = AUS}
+			}
+			AUS = {
+				country_event = { id = 500611 days = 2 }
+				
+			} 
+ 		
+    } 		   
+    option = {
+        name = "EVTOPTB500609"
+		ITR = {
+				all_core = { add_core = AUS }
+			}  
+    } 	
+}
+

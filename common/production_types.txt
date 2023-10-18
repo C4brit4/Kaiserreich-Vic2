@@ -1,3 +1,9 @@
+#################################################################################
+#	Significant Changes:
+#	Added synthetic_rubber_factory
+#	Added synthetic_tropical_factory
+#	Added synthetic_silk_factory
+#################################################################################
 
 ### Factories #####################################################################################
 
@@ -285,6 +291,70 @@ synthetic_oil_factory = {
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
 		value = 0.25
+	}
+}
+
+synthetic_rubber_factory = {       
+	template = factory_template
+	input_goods = { 
+		oil = 2		#24	total input+maint = 36
+	}
+	output_goods = rubber 
+	value = 6.2			#46
+	bonus = {
+		trigger = {
+			OR = {
+				trade_goods_in_state = oil 
+				has_building = synthetic_oil_factory
+			}
+		}
+		value = 0.25
+	}
+}
+
+synthetic_tropical_factory = {       
+	template = factory_template
+	input_goods = { 
+		oil = 1			#12
+		lumber = 8		#8	total input+maint = 30
+	}
+	output_goods = tropical_wood 
+	value = 7.5			#40.5
+	bonus = {
+		trigger = {
+			OR = {
+				trade_goods_in_state = oil 
+				has_building = synthetic_oil_factory
+			}
+		}
+		value = 0.125
+	}
+	bonus = {
+		trigger = { trade_goods_in_state = lumber }
+		value = 0.125
+	}
+}
+
+synthetic_silk_factory = {       
+	template = factory_template
+	input_goods = { 
+		oil = 1			#12
+		cotton = 9		#18	total input+maint = 40
+	}
+	output_goods = silk
+	value = 5		#50
+	bonus = {
+		trigger = {
+			OR = {
+				trade_goods_in_state = oil 
+				has_building = synthetic_oil_factory
+			}
+		}
+		value = 0.125
+	}
+	bonus = {
+		trigger = { trade_goods_in_state = cotton }
+		value = 0.125
 	}
 }
 

@@ -1,0 +1,76 @@
+political_decisions = {
+####################################################################
+    givegrants = {
+	    picture = money_act
+	    potential = {
+		    ai = no
+			has_country_flag = allow_mp_options
+		}
+		effect = {
+		    any_country = {
+			    limit = {
+				    ai = no
+					has_country_flag = allow_mp_options
+					money=1000
+					NOT={money=10000}
+				}
+				country_event = { id=25194 days=0 }
+			}
+		    any_country = {
+			    limit = {
+				    ai = no
+					has_country_flag = allow_mp_options
+					money=10000
+					NOT={money=100000}
+				}
+				country_event = { id=25195 days=0 }
+			}
+		    any_country = {
+			    limit = {
+				    ai = no
+					has_country_flag = allow_mp_options
+					money=100000
+					NOT={money=1000000}
+				}
+				country_event = { id=25196 days=0 }
+			}
+		    any_country = {
+			    limit = {
+				    ai = no
+					has_country_flag = allow_mp_options
+					money=1000000
+					NOT={money=2000000}
+				}
+				country_event = { id=25197 days=0 }
+			}
+		    any_country = {
+			    limit = {
+				    ai = no
+					has_country_flag = allow_mp_options
+					money=2000000
+				}
+				country_event = { id=25193 days=0 }
+			}
+		}
+	}    
+	disallow_mp_options = {
+	    picture = mp
+	    potential = {
+		    ai = no
+			has_country_flag = allow_mp_options
+		}
+		effect = {
+				clr_country_flag = allow_mp_options
+		}
+	}
+	allow_mp_options = {
+	    picture = mp
+	    potential = {
+		    ai = no
+			NOT={has_country_flag = allow_mp_options}
+		}
+		effect = {
+				set_country_flag = allow_mp_options
+		}
+	}
+}
