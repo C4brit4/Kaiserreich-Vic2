@@ -27,7 +27,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "Title"
-				position = { x = 20 y = 110 }
+				position = { x = 20 y = 70 }
 				textureFile = ""
 				font = "Arial_17_2"
 				borderSize = {x = 0 y = 0}

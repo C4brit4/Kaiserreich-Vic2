@@ -27,7 +27,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "player_flag"
-			position = { x= 0 y = 1 }
+			position = { x= 0 y = 4 }
 			quadTextureSprite ="GFX_topbarflag"
 			buttonText = " "
 			buttonFont = "vic_18_black"
@@ -177,16 +177,16 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
-			name = "alert_closed_factories_tooltip"
+			name = "alert_closed_factories_tooltip" #DELETED
 			font = "Arial12"
-			position = { x = 52 y = 48 }
+			position = { x = -200 y = 48 }
 			maxWidth = 28
 			maxHeight = 28
 		}
 		iconType = {
-			name = "alert_closed_factories"
+			name = "alert_closed_factories" #DELETED
 			spriteType = "GFX_topbar_alert_factoryclosed"
-			position = { x = 52 y = 48 }
+			position = { x = -200 y = 48 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
@@ -407,14 +407,14 @@ guiTypes = {
 		}
 		
 		iconType = {
-			name ="politics_party_icon"
+			name ="politics_party_icon" #DELETED
 			spriteType = "GFX_politics_party_plupp2"
-			position = { x= 665 y = 0 }
+			position = { x= -200 y = 0 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
-			position = { x = 688 y = 6 }
-			name = "politics_ruling_party"
+			position = { x = -200 y = 6 }
+			name = "politics_ruling_party" #DELETED
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
 			text = "politics_ruling_party"	
@@ -447,12 +447,12 @@ guiTypes = {
 		iconType = {
 			name ="topbar_infamy_icon"
 			spriteType = "GFX_infamy_icon"
-			position = { x= 770 y = 3 }
+			position = { x= 665 y = 3 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		instantTextBoxType = {
-			position = { x = 785 y = 6 }
+			position = { x = 680 y = 6 }
 			name = "politics_infamy_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -468,7 +468,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "alert_can_do_reforms"
 			quadTextureSprite = "GFX_topbar_alert_reform"
-			position = { x = 810 y = -5 }
+			position = { x = 710 y = -5 }
 			Orientation = "UPPER_LEFT"
 			clicksound = click
 		}
@@ -476,7 +476,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "alert_can_do_decisions"
 			quadTextureSprite = "GFX_topbar_alert_decision"
-			position = { x = 840 y = -5 }
+			position = { x = 740 y = -5 }
 			Orientation = "UPPER_LEFT"
 			clicksound = click
 		}
@@ -568,11 +568,11 @@ guiTypes = {
 		iconType = {
 			name ="topbar_mil"
 			spriteType = "GFX_topbar_mil"
-			position = { x= 524 y = 59 }
+			position = { x= 780 y = 3 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
-			position = { x = 541 y = 60 }
+			position = { x = 795 y = 7 }
 			name = "population_avg_mil_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -587,12 +587,12 @@ guiTypes = {
 		iconType = {
 			name ="topbar_con"
 			spriteType = "GFX_topbar_con"
-			position = { x= 576 y = 53 }
+			position = { x= 810 y = 3 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		instantTextBoxType = {
-			position = { x = 598 y = 60 }
+			position = { x = 825 y = 7 }
 			name = "population_avg_con_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -746,7 +746,7 @@ guiTypes = {
 		}
 		
 		instantTextBoxType = {
-			position = { x = 780 y = 29 }
+			position = { x = -200 y = 29 } #DELETED
 			name = "diplomacy_status"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
@@ -759,8 +759,8 @@ guiTypes = {
 		}	
 		
 		OverlappingElementsBoxType = {
-			name = "diplomacy_at_war"
-			position = { x = 779 y = 28 }
+			name = "diplomacy_at_war" #DELETED
+			position = { x = -200 y = 28 }
 			size = { x=110 y= 20 }
 			Orientation = "UPPER_LEFT"
 			format = left
@@ -768,16 +768,16 @@ guiTypes = {
 		}
 		
 		iconType = {
-			name ="topbar_diplopts"
+			name ="topbar_diplopts" #DELETED
 			spriteType = "GFX_topbar_diplopts"
-			position = { x= 853 y = 23 }
+			position = { x= -200 y = 23 }
 			Orientation = "UPPER_LEFT"
 			#allwaystransparent = yes
 		}
 		
 		instantTextBoxType = {
-			position = { x = 876 y = 29 }
-			name = "diplomacy_diplopoints_value"
+			position = { x = -200 y = 29 }
+			name = "diplomacy_diplopoints_value" #DELETED
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
 			text = "value"	
@@ -789,33 +789,33 @@ guiTypes = {
 		}	
 		
 		instantTextBoxType = {
-			name = "alert_colonial_tooltip"
+			name = "alert_colonial_tooltip" #DELETED
 			font = "Arial12"
-			position = { x = 773 y = 49 }
+			position = { x = -200 y = 49 }
 			maxWidth = 28
 			maxHeight = 28
 		}
 		
 		guiButtonType = {
-			name = "alert_colony"
+			name = "alert_colony" #DELETED
 			quadTextureSprite ="GFX_topbar_alert_colony"
-			position = { x = 773 y = 49 }
+			position = { x = -200 y = 49 }
 			clicksound = click
 		}
 
 
 		instantTextBoxType = {
-			name = "alert_crisis_tooltip"
+			name = "alert_crisis_tooltip" #DELETED
 			font = "Arial12"
-			position = { x = 806 y = 49 }
+			position = { x = -200 y = 49 }
 			maxWidth = 28
 			maxHeight = 28
 		}
 
 		iconType = {
-			name = "alert_crisis"
+			name = "alert_crisis" #DELETED
 			spriteType = "GFX_topbar_alert_crisis"
-			position = { x = 806 y = 49 }
+			position = { x = -200 y = 49 }
 			Orientation = "UPPER_LEFT"
 			frame = 1
 		}
@@ -928,14 +928,14 @@ guiTypes = {
 		}
 
 		iconType = {
-			name ="topbar_manpower"
+			name ="topbar_manpower" #DELETED
 			spriteType = "GFX_topbar_manpower"
-			position = { x= 964 y = 20 }
+			position = { x= -200 y = 20 }
 			Orientation = "UPPER_LEFT"
 			#allwaystransparent = yes
 		}
 		instantTextBoxType = {
-			position = { x = 988 y = 31 }
+			position = { x = -200 y = 31 } #DELETED
 			name = "military_manpower_value"
 			font = "Arial12"
 			borderSize = { x = 0 y = 0 }
