@@ -264,3 +264,5 @@ allow_mp_options_title;Enable MP Features;Options multijoueur;Mehrspieleroptione
 allow_mp_options_desc;Enable additional options for multiplayer games.;Active des options supplémentaires pour les jeux multijoueurs.;Aktiviert zusätzliche Optionen für 
 disallow_mp_options_title;Disable MP Features;Empêcher les options multijoueur;Multiplayer-Optionen deaktivieren;;Desactivar Características MP;;;;;;;;x
 disallow_mp_options_desc;Disables additional features for mp.;Désactive les options supplémentaires pour les jeux multijoueurs.;Deaktiviert zusätzliche Optionen für 
+givegrants_title;Get Grants!;Get Grants!;Get Grants!;;Consigue dinero!;;;;;;;;;x
+givegrants_desc;Get Grants by other players!;Get Grants by other players!;Get Grants by other players!;;Consigue dinero de otros jugadores!;;;;;;;;;x

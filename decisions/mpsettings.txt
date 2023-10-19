@@ -52,6 +52,22 @@ political_decisions = {
 				country_event = { id=25193 days=0 }
 			}
 		}
+	}
+    negotiated_transfer = {
+	    picture = negotiated_transfer
+	    potential = {
+		    ai = no
+			has_country_flag = allow_mp_options
+		}
+		effect = {
+		    any_country = {
+			    limit = {
+				    ai = no
+					has_country_flag = allow_mp_options
+				}
+				country_event = { id=48291 days=0 }
+			}
+		}
 	}    
 	disallow_mp_options = {
 	    picture = mp
