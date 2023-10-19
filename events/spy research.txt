@@ -1,0 +1,319 @@
+#destroy random port, research sabotage, militancy, war exhaustion
+
+country_event = {
+	id = 500088
+	title = "Research sabotage."
+	desc = "Through a combination of sympathizers and planted academics we can steal some of our enemies scientific research."
+	is_triggered_only = yes
+
+	option = {
+		name = "Target GP #1."
+		random_list = {
+			7 = {
+				random_country = {
+					limit = {
+						rank = 1
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500089
+					THIS = {country_event = 500091}
+				}
+
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 1
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500090
+					THIS = {country_event = 500092}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #2."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 2
+						NOT = {rank = 1}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500089
+					THIS = {country_event = 500091}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 2
+						NOT = {rank = 1}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500090
+					THIS = {country_event = 500092}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #3."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 3
+						NOT = {rank = 2}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500089
+					THIS = {country_event = 500091}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 3
+						NOT = {rank = 2}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500090
+					THIS = {country_event = 500092}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #4."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 4
+						NOT = {rank = 3}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500089
+					THIS = {country_event = 500091}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 4
+						NOT = {rank = 3}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500090
+					THIS = {country_event = 500092}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #5."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 5
+						NOT = {rank = 4}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500089
+					THIS = {country_event = 500091}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 5
+						NOT = {rank = 4}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500090
+					THIS = {country_event = 500092}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #6."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 6
+						NOT = {rank = 5}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500089
+					THIS = {country_event = 500091}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 6
+						NOT = {rank = 5}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500090
+					THIS = {country_event = 500092}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #7."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 7
+						NOT = {rank = 6}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500089
+					THIS = {country_event = 500091}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 7
+						NOT = {rank = 6}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500090
+					THIS = {country_event = 500092}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #8."
+		random_list = {
+			7= {
+				random_country = {
+					limit = {
+						rank = 8
+						NOT = {rank = 7}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500089
+					THIS = {country_event = 500091}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 8
+						NOT = {rank = 7}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500090
+					THIS = {country_event = 500092}
+				}
+			}
+		}
+			
+	}
+}
+
+country_event = {
+	id = 500089
+	title = "Scientific research sabotaged!"
+	desc = "Reports have come in of numerous scientific documents going missing recently from our national research laboratories."
+
+	is_triggered_only = yes
+
+	immediate = {
+		years_of_research = -0.10
+	}
+
+	option = {
+		name = "Our scientists must be compromised!"
+	}
+}
+
+country_event = {
+	id = 500090
+	title = "Foreign agents found in our national research laboratories!"
+	desc = "Recently our military police have discovered foreign agents trying to smuggle sensitive research converning our research programs out of the country. Luckily they were able to prevent them from achieving this."
+
+	is_triggered_only = yes
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "At least the damage was prevented."
+	}
+}
+
+country_event = {
+	id = 500091
+	title = "Scientific sabotage successful!"
+	desc = "Our agents are reportedly successful in their sabotage mission."
+
+	is_triggered_only = yes
+
+	immediate = {
+		years_of_research = 0.2
+	}
+
+	option = {
+		name = "Another successful mission!"
+	}
+}
+
+country_event = {
+	id = 500092
+	title = "Scientific sabotage failed!"
+	desc = "We have reports that the agents we sent to sabotage our enemies scientific research have been captured."
+
+	is_triggered_only = yes
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "Drat!"
+	}
+}

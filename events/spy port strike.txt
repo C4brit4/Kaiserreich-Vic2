@@ -1,0 +1,325 @@
+#destroy random port, research sabotage, militancy, war exhaustion
+
+country_event = {
+	id = 500081
+	title = "Naval sabotage."
+	desc = "Through a combination of frogmen and infiltrated agents we can bomb critical infrastructure of our enemies navy. "
+	is_triggered_only = yes
+
+	option = {
+		name = "Target GP #1."
+		random_list = {
+			1 = {
+				random_country = {
+					limit = {
+						rank = 1
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500082
+					THIS = {country_event = 500084}
+				}
+
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 1
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500083
+					THIS = {country_event = 500085}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #2."
+		random_list = {
+			1= {
+				random_country = {
+					limit = {
+						rank = 2
+						NOT = {rank = 1}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500082
+					THIS = {country_event = 500084}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 2
+						NOT = {rank = 1}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500083
+					THIS = {country_event = 500085}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #3."
+		random_list = {
+			1= {
+				random_country = {
+					limit = {
+						rank = 3
+						NOT = {rank = 2}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500082
+					THIS = {country_event = 500084}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 3
+						NOT = {rank = 2}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500083
+					THIS = {country_event = 500085}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #4."
+		random_list = {
+			1= {
+				random_country = {
+					limit = {
+						rank = 4
+						NOT = {rank = 3}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500082
+					THIS = {country_event = 500084}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 4
+						NOT = {rank = 3}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500083
+					THIS = {country_event = 500085}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #5."
+		random_list = {
+			1= {
+				random_country = {
+					limit = {
+						rank = 5
+						NOT = {rank = 4}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500082
+					THIS = {country_event = 500084}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 5
+						NOT = {rank = 4}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500083
+					THIS = {country_event = 500085}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #6."
+		random_list = {
+			1= {
+				random_country = {
+					limit = {
+						rank = 6
+						NOT = {rank = 5}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500082
+					THIS = {country_event = 500084}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 6
+						NOT = {rank = 5}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500083
+					THIS = {country_event = 500085}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #7."
+		random_list = {
+			1= {
+				random_country = {
+					limit = {
+						rank = 7
+						NOT = {rank = 6}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500082
+					THIS = {country_event = 500084}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 7
+						NOT = {rank = 6}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500083
+					THIS = {country_event = 500085}
+				}
+			}
+		}
+			
+	}
+
+	option = {
+		name = "Target GP #8."
+		random_list = {
+			1= {
+				random_country = {
+					limit = {
+						rank = 8
+						NOT = {rank = 7}
+						NOT = {tag = THIS}
+					}
+					#espionage act success
+					country_event = 500082
+					THIS = {country_event = 500084}
+				}
+			}
+			7= {
+				random_country = {
+					limit = {
+						rank = 8
+						NOT = {rank = 7}
+						NOT = {tag = THIS}
+					}
+					#espionage act failed
+					country_event = 500083
+					THIS = {country_event = 500085}
+				}
+			}
+		}
+			
+	}
+}
+
+country_event = {
+	id = 500082
+	title = "Naval dockyards sabotaged!"
+	desc = "Reports have come in of numerous unidentified explosions in our naval bases."
+
+	is_triggered_only = yes
+
+	immediate = {
+		random_owned = {
+			limit = {
+				is_core = THIS
+				has_building = naval_base
+			}
+			naval_base = -1
+		}
+	}
+
+	option = {
+		name = "Confirm the damages!"
+	}
+}
+
+country_event = {
+	id = 500083
+	title = "Foreign agents found in our naval bases!"
+	desc = "Recently our military police have discovered foreign agents planting explosive devices in our naval bases."
+
+	is_triggered_only = yes
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "At least the damage was prevented."
+	}
+}
+
+country_event = {
+	id = 500084
+	title = "Naval sabotage successful!"
+	desc = "Our agents are reportedly successful in their sabotage mission."
+
+	is_triggered_only = yes
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "Another successful mission!"
+	}
+}
+
+country_event = {
+	id = 500085
+	title = "Naval sabotage failed!"
+	desc = "We have reports that the agents we sent to sabotage our enemies naval bases have been captured."
+
+	is_triggered_only = yes
+
+	immediate = {
+
+	}
+
+	option = {
+		name = "Drat!"
+	}
+}

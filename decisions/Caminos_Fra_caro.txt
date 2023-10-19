@@ -1,0 +1,520 @@
+political_decisions = {
+      Fra_caro_3 = {
+        picture = Caro
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+			NOT={has_country_flag = camino_caro_cam_3}
+			has_country_flag = europa_Bor_rfa	
+        }
+
+        allow = {         
+            war = no          
+            FRA = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {                
+            set_country_flag = camino_caro_cam_3          
+            SWI = {
+				all_core = { add_core = FRA }
+			} 
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Fra_caro_4  = {
+        picture = Caro
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+			NOT={has_country_flag = camino_caro_cam_4}
+			has_country_flag = camino_caro_cam_3
+        }
+
+        allow = {         
+            war = no          
+            FRA = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {
+            set_country_flag = camino_caro_cam_4
+            BEL = {
+				all_core = { add_core = FRA }
+			} 
+            }				
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    Fra_caro_5  = {
+        picture = Caro
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+			NOT={has_country_flag = camino_caro_cam_5}
+			has_country_flag = camino_caro_cam_4
+
+        }
+
+        allow = {         
+            war = no          
+            FRA = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {
+            set_country_flag = camino_caro_cam_5
+			NET = {
+				all_core = { add_core = FRA }
+			} 
+            }				
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    Fra_caro_6  = {
+        picture = Caro
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+			NOT={has_country_flag = camino_caro_cam_6}
+			has_country_flag = camino_caro_cam_5
+        }
+
+        allow = {         
+            war = no          
+            FRA = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {
+			397 = {
+				add_core = FRA
+			}
+			575 = {
+				add_core = FRA
+			}
+			572 = {
+				add_core = FRA
+			}
+			573 = {
+				add_core = FRA
+			}
+			574 = {
+				add_core = FRA
+			}
+			571 = {
+				add_core = FRA
+			}
+			570 = {
+				add_core = FRA
+			}
+            576 = {
+				add_core = FRA
+			}	
+            577 = {
+				add_core = FRA
+			}
+            578 = {
+				add_core = FRA
+			}	
+            2561 = {
+				add_core = FRA
+			}
+            579 = {
+				add_core = FRA
+			}
+            565 = {
+				add_core = FRA
+			}
+            564 = {
+				add_core = FRA
+			}
+            567 = {
+				add_core = FRA
+			}
+            2560 = {
+				add_core = FRA
+			}
+            581 = {
+				add_core = FRA
+			}
+            542 = {
+				add_core = FRA
+			}
+            543 = {
+				add_core = FRA
+			}
+            540 = {
+				add_core = FRA
+			}
+            541 = {
+				add_core = FRA
+			}
+            538 = {
+				add_core = FRA
+			}
+            535 = {
+				add_core = FRA
+			}
+            534 = {
+				add_core = FRA
+			}
+			583 = {
+				add_core = FRA
+			}
+			584 = {
+				add_core = FRA
+			}
+			580 = {
+				add_core = FRA
+			}
+			582 = {
+				add_core = FRA
+			}
+			585 = {
+				add_core = FRA
+			}
+            set_country_flag = camino_caro_cam_6			
+            }				
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    Fra_caro_7  = {
+        picture = Caro
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+			NOT={has_country_flag = camino_caro_cam_7}
+			has_country_flag = camino_caro_cam_6
+
+        }
+
+        allow = {         
+            war = no          
+            FRA = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {
+            set_country_flag = camino_caro_cam_7
+			721 = {
+				add_core = FRA
+			}
+			720 = {
+				add_core = FRA
+			}
+			725 = {
+				add_core = FRA
+			}
+			722 = {
+				add_core = FRA
+			}
+			723 = {
+				add_core = FRA
+			}
+			724 = {
+				add_core = FRA
+			}
+            726 = {
+				add_core = FRA
+			}
+            738 = {
+				add_core = FRA
+			}
+            740 = {
+				add_core = FRA
+			}
+            727 = {
+				add_core = FRA
+			}
+            728 = {
+				add_core = FRA
+			}
+            739 = {
+				add_core = FRA				
+            }
+            741 = {
+				add_core = FRA
+			}
+            742 = {
+				add_core = FRA
+			}
+            743 = {
+				add_core = FRA
+			}
+            743 = {
+				add_core = FRA
+			}	
+            745 = {
+				add_core = FRA
+			}
+            747 = {
+				add_core = FRA
+			}
+            748 = {
+				add_core = FRA
+			}
+            752 = {
+				add_core = FRA
+			}
+            751 = {
+				add_core = FRA
+			}
+            750 = {
+				add_core = FRA
+			}	
+            749 = {
+				add_core = FRA
+			}
+			746 = {
+				add_core = FRA
+			}
+			744 = {
+				add_core = FRA
+			}
+			730 = {
+				add_core = FRA
+			}
+			734 = {
+				add_core = FRA
+			}
+			735 = {
+				add_core = FRA
+			}
+			732 = {
+				add_core = FRA
+			}
+			731 = {
+				add_core = FRA
+			}
+			729 = {
+				add_core = FRA
+			}
+			733 = {
+				add_core = FRA
+			}
+            }			
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    Fra_caro_8  = {
+        picture = Caro
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+			NOT={has_country_flag = camino_caro_cam_8}
+			has_country_flag = camino_caro_cam_7
+
+        }
+
+        allow = {         
+            war = no          
+            FRA = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {
+            set_country_flag = camino_caro_cam_8
+		    BAD = {
+				all_core = { add_core = FRA }
+			}
+			BAV = {
+				all_core = { add_core = FRA }
+			}
+            WUR = {
+				all_core = { add_core = FRA }
+			}	
+            594 = {
+				add_core = FRA
+			}
+            614 = {
+				add_core = FRA
+			}
+            612 = {
+				add_core = FRA
+			}
+            613 = {
+				add_core = FRA
+			}
+            615 = {
+				add_core = FRA
+			}
+            618 = {
+				add_core = FRA
+			}
+            617 = {
+				add_core = FRA
+			}
+            616 = {
+				add_core = FRA
+			}
+            622 = {
+				add_core = FRA
+			}
+            620 = {
+				add_core = FRA
+			}
+            621 = {
+				add_core = FRA
+			}
+            619 = {
+				add_core = FRA
+			}
+            624 = {
+				add_core = FRA
+			}
+            532 = {
+				add_core = FRA
+			}
+            531 = {
+				add_core = FRA
+			}
+            539 = {
+				add_core = FRA
+			}
+            533 = {
+				add_core = FRA
+			}	
+            532 = {
+				add_core = FRA
+			}
+            528 = {
+				add_core = FRA
+			}
+            529 = {
+				add_core = FRA
+			}
+            536 = {
+				add_core = FRA
+			}
+            370 = {
+				add_core = FRA
+			}
+            571 = {
+				add_core = FRA
+			}
+            536 = {
+				add_core = FRA
+			}
+            537 = {
+				add_core = FRA
+			}	
+            566 = {
+				add_core = FRA
+			}
+            568 = {
+				add_core = FRA
+			}
+            369 = {
+				add_core = FRA
+			}	
+            371 = {
+				add_core = FRA
+			}			
+            }				
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    Fra_caro_9  = {
+        picture = Caro
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+			NOT={has_country_flag = camino_caro_cam_9}
+			has_country_flag = camino_caro_cam_8
+
+        }
+
+        allow = {         
+            war = no          
+            FRA = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {
+            set_country_flag = camino_caro_cam_9
+		    FRA = {
+				all_core = { add_core = ICO }
+			}
+            change_tag = ICO
+			ICO = {
+				all_core = { remove_core = FRA }
+			}
+			add_accepted_culture = north_german		
+			add_accepted_culture = south_german
+            }				
+		ai_will_do = {
+			factor = 1
+			}
+    }	
+	}

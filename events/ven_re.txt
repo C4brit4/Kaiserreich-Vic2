@@ -1,0 +1,34 @@
+country_event = {
+    id = 500611
+    title = "EVTNAME500611"
+    desc = "EVTDESC500611"
+    picture = Spanish Civil war
+    fire_only_once = yes
+
+    trigger = {
+    tag  = XXX
+        
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA500611"
+		    release_vassal = VEN
+            create_alliance = VEN
+			relation = {
+				who = VEN
+				value = 400
+			}
+			diplomatic_influence = {
+				who = VEN
+				value = 200
+			}
+ 		
+    } 		   
+    option = {
+        name = "EVTOPTB500611"
+		 
+    } 	
+}
+

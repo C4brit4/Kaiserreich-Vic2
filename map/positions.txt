@@ -61542,26 +61542,16 @@
 } # Fuzhou
 
 1482 = {
-    unit = {
-        x = 4664.000000
-        y = 1200.000000
-    }
-
     text_position = {
-        x = 4669.200195
-        y = 1197.000000
+        x = 4668.365000
+        y = 1187.675000
     }
 
     text_rotation = 1.047196
     text_scale = 3.499999
-    building_construction = {
-        x = 4678.000000
-        y = 1206.000000
-    }
-
-    military_construction = {
-        x = 4669.899902
-        y = 1190.099976
+    unit = {
+        x = 4665.395000
+        y = 1188.830000
     }
 
     factory = {
@@ -61569,37 +61559,52 @@
         y = 1208.000000
     }
 
+    building_construction = {
+        x = 4671.280000
+        y = 1189.655000
+    }
+
+    military_construction = {
+        x = 4662.150000
+        y = 1187.125000
+    }
+
     building_position = {
         fort = {
-            x = 4670.000000
-            y = 1183.000000
+            x = 4667.540000
+            y = 1192.460000
         }
 
         naval_base = {
-            x = 4683.000000
-            y = 1202.199951
+            x = 4672.600000
+            y = 1183.715000
         }
 
     }
 
     building_rotation = {
-        naval_base = 3.752459
+        naval_base = 6.172528
     }
 
 } # Jianning
 
 1483 = {
+    text_position = {
+        x = 4649.770000
+        y = 1211.785000
+    }
+
+    text_scale = 3.399999
     unit = {
         x = 4650.000000
         y = 1215.000000
     }
 
-    text_position = {
-        x = 4650.000000
-        y = 1209.000000
+    factory = {
+        x = 4641.000000
+        y = 1216.000000
     }
 
-    text_scale = 3.399999
     building_construction = {
         x = 4638.899902
         y = 1208.800049
@@ -61608,11 +61613,6 @@
     military_construction = {
         x = 4653.000000
         y = 1206.800049
-    }
-
-    factory = {
-        x = 4641.000000
-        y = 1216.000000
     }
 
     building_position = {
@@ -61626,17 +61626,22 @@
 } # Quanzhou
 
 1484 = {
-    unit = {
-        x = 4654.000000
-        y = 1178.000000
-    }
-
     text_position = {
         x = 4652.899902
         y = 1171.699951
     }
 
     text_scale = 2.799999
+    unit = {
+        x = 4654.000000
+        y = 1178.000000
+    }
+
+    factory = {
+        x = 4646.700195
+        y = 1184.000000
+    }
+
     building_construction = {
         x = 4650.899902
         y = 1179.099976
@@ -61645,11 +61650,6 @@
     military_construction = {
         x = 4654.000000
         y = 1169.000000
-    }
-
-    factory = {
-        x = 4646.700195
-        y = 1184.000000
     }
 
     building_position = {
@@ -61661,14 +61661,6 @@
         naval_base = {
             x = 4667.200195
             y = 1170.000000
-        }
-
-    }
-
-    spawn_railway_track = {
-        {
-            x = 4661.000000
-            y = 1186.000000
         }
 
     }
@@ -62036,17 +62028,22 @@
 } # Chaozhou
 
 1494 = {
-    unit = {
-        x = 4619.000000
-        y = 1154.000000
-    }
-
     text_position = {
-        x = 4620.000000
-        y = 1149.000000
+        x = 4620.600000
+        y = 1153.675000
     }
 
     text_scale = 2.999999
+    unit = {
+        x = 4619.400000
+        y = 1160.200000
+    }
+
+    factory = {
+        x = 4613.000000
+        y = 1158.000000
+    }
+
     building_construction = {
         x = 4627.000000
         y = 1158.000000
@@ -62055,11 +62052,6 @@
     military_construction = {
         x = 4620.100098
         y = 1145.900024
-    }
-
-    factory = {
-        x = 4613.000000
-        y = 1158.000000
     }
 
     building_position = {
@@ -63685,30 +63677,30 @@
 } # Shanghai
 
 1538 = {
-    unit = {
-        x = 4701.000000
-        y = 1277.000000
-    }
-
     text_position = {
-        x = 4701.000000
-        y = 1273.800049
+        x = 4699.550000
+        y = 1274.100000
     }
 
     text_scale = 2.100000
-    building_construction = {
-        x = 4698.100098
-        y = 1275.000000
-    }
-
-    military_construction = {
-        x = 4702.299805
-        y = 1272.500000
+    unit = {
+        x = 4695.650000
+        y = 1277.800000
     }
 
     factory = {
         x = 4703.000000
         y = 1277.099976
+    }
+
+    building_construction = {
+        x = 4696.300000
+        y = 1269.150000
+    }
+
+    military_construction = {
+        x = 4693.250000
+        y = 1273.150000
     }
 
     building_position = {
@@ -63717,14 +63709,14 @@
             y = 1274.000000
         }
 
-        naval_base = {
-            x = 4705.500000
-            y = 1269.400024
-        }
-
         railroad = {
             x = 4698.700195
             y = 1272.599976
+        }
+
+        naval_base = {
+            x = 4705.500000
+            y = 1269.400024
         }
 
     }
@@ -63737,11 +63729,17 @@
 
 1539 = {
     text_position = {
-        x = 4690.399902
-        y = 1277.800049
+        x = 4690.150000
+        y = 1279.700000
     }
 
-    text_scale = 2.700000
+    text_rotation = 0.888237
+    text_scale = 2.200000
+    factory = {
+        x = 4693.000000
+        y = 1284.000000
+    }
+
     building_construction = {
         x = 4689.200195
         y = 1275.599976
@@ -63752,15 +63750,10 @@
         y = 1278.699951
     }
 
-    factory = {
-        x = 4693.000000
-        y = 1284.000000
-    }
-
     building_position = {
         fort = {
-            x = 4693.200195
-            y = 1277.000000
+            x = 4685.600000
+            y = 1276.300000
         }
 
     }
@@ -66572,17 +66565,22 @@
 } # Hangzhou
 
 1604 = {
-    unit = {
-        x = 4671.000000
-        y = 1257.000000
-    }
-
     text_position = {
         x = 4671.299805
         y = 1253.000000
     }
 
     text_scale = 2.700000
+    unit = {
+        x = 4671.000000
+        y = 1257.000000
+    }
+
+    factory = {
+        x = 4676.000000
+        y = 1262.000000
+    }
+
     building_construction = {
         x = 4663.000000
         y = 1249.000000
@@ -66593,11 +66591,6 @@
         y = 1251.000000
     }
 
-    factory = {
-        x = 4676.000000
-        y = 1262.000000
-    }
-
     building_position = {
         fort = {
             x = 4682.100098
@@ -66605,14 +66598,14 @@
         }
 
         naval_base = {
-            x = 4690.000000
-            y = 1261.199951
+            x = 4683.920000
+            y = 1262.133333
         }
 
     }
 
     building_rotation = {
-        naval_base = 4.712390
+        naval_base = 6.141999
     }
 
 } # Huzhou
@@ -66673,60 +66666,42 @@
 } # Jiaxing
 
 1606 = {
-    unit = {
-        x = 4692.000000
-        y = 1271.000000
-    }
-
     text_position = {
-        x = 4692.299805
-        y = 1267.000000
+        x = 4689.250000
+        y = 1266.450000
     }
 
     text_scale = 2.200000
+    unit = {
+        x = 4687.350000
+        y = 1264.350000
+    }
+
+    factory = {
+        x = 4693.100000
+        y = 1267.100000
+    }
+
     building_construction = {
         x = 4687.700195
         y = 1268.699951
     }
 
-    factory = {
-        x = 4695.399902
-        y = 1270.300049
-    }
-
     building_position = {
         fort = {
-            x = 4693.000000
-            y = 1264.500000
+            x = 4691.150000
+            y = 1264.050000
         }
 
         naval_base = {
-            x = 4697.500000
-            y = 1265.599976
-        }
-
-    }
-
-    spawn_railway_track = {
-        {
-            x = 0.000000
-            y = 0.000000
-        }
-
-        {
-            x = 0.000000
-            y = 0.000000
-        }
-
-        {
-            x = 4682.000000
-            y = 1263.000000
+            x = 4694.050000
+            y = 1264.650000
         }
 
     }
 
     building_rotation = {
-        naval_base = 4.014256
+        naval_base = 5.972528
     }
 
 } # Jinhua
@@ -66792,30 +66767,30 @@
 } # Ningbo
 
 1608 = {
-    unit = {
-        x = 4703.000000
-        y = 1254.000000
-    }
-
     text_position = {
-        x = 4702.000000
-        y = 1250.800049
+        x = 4708.500000
+        y = 1252.650000
     }
 
     text_scale = 2.600000
+    unit = {
+        x = 4707.850000
+        y = 1248.500000
+    }
+
+    factory = {
+        x = 4705.150000
+        y = 1253.400000
+    }
+
     building_construction = {
-        x = 4699.399902
-        y = 1251.099976
+        x = 4712.900000
+        y = 1256.850000
     }
 
     military_construction = {
         x = 4703.700195
         y = 1250.000000
-    }
-
-    factory = {
-        x = 4701.000000
-        y = 1256.900024
     }
 
     building_position = {
@@ -66825,30 +66800,35 @@
         }
 
         naval_base = {
-            x = 4704.500000
-            y = 1256.599976
+            x = 4707.600000
+            y = 1254.950000
         }
 
     }
 
     building_rotation = {
-        naval_base = 2.181662
+        naval_base = 1.075839
     }
 
 } # Shaoxing
 
 1609 = {
+    text_position = {
+        x = 4691.550000
+        y = 1253.100000
+    }
+
+    text_scale = 2.500000
     unit = {
         x = 4689.000000
         y = 1255.000000
     }
 
-    text_position = {
-        x = 4687.700195
-        y = 1251.500000
+    factory = {
+        x = 4684.000000
+        y = 1257.000000
     }
 
-    text_scale = 2.500000
     building_construction = {
         x = 4693.399902
         y = 1248.699951
@@ -66857,11 +66837,6 @@
     military_construction = {
         x = 4689.100098
         y = 1250.199951
-    }
-
-    factory = {
-        x = 4684.000000
-        y = 1257.000000
     }
 
     building_position = {
@@ -66877,24 +66852,6 @@
 
     }
 
-    spawn_railway_track = {
-        {
-            x = 0.000000
-            y = 0.000000
-        }
-
-        {
-            x = 0.000000
-            y = 0.000000
-        }
-
-        {
-            x = 4701.000000
-            y = 1253.000000
-        }
-
-    }
-
     building_rotation = {
         naval_base = 1.570797
     }
@@ -66902,17 +66859,22 @@
 } # Taizhou
 
 1610 = {
+    text_position = {
+        x = 4697.506667
+        y = 1238.586667
+    }
+
+    text_scale = 2.899999
     unit = {
         x = 4696.000000
         y = 1241.000000
     }
 
-    text_position = {
-        x = 4695.899902
-        y = 1235.900024
+    factory = {
+        x = 4701.000000
+        y = 1244.000000
     }
 
-    text_scale = 2.899999
     building_construction = {
         x = 4689.000000
         y = 1235.000000
@@ -66921,11 +66883,6 @@
     military_construction = {
         x = 4696.000000
         y = 1235.000000
-    }
-
-    factory = {
-        x = 4701.000000
-        y = 1244.000000
     }
 
     building_position = {
@@ -66941,14 +66898,6 @@
 
     }
 
-    spawn_railway_track = {
-        {
-            x = 4683.000000
-            y = 1241.000000
-        }
-
-    }
-
     building_rotation = {
         naval_base = 3.490659
     }
@@ -66956,30 +66905,30 @@
 } # Wenzhou
 
 1611 = {
-    unit = {
-        x = 4676.000000
-        y = 1224.000000
-    }
-
     text_position = {
         x = 4676.299805
         y = 1218.699951
     }
 
     text_scale = 3.499999
-    building_construction = {
-        x = 4687.000000
-        y = 1227.000000
-    }
-
-    military_construction = {
-        x = 4679.000000
-        y = 1217.000000
+    unit = {
+        x = 4676.000000
+        y = 1224.000000
     }
 
     factory = {
         x = 4668.000000
         y = 1231.000000
+    }
+
+    building_construction = {
+        x = 4685.246667
+        y = 1225.193333
+    }
+
+    military_construction = {
+        x = 4672.940000
+        y = 1205.606667
     }
 
     building_position = {
@@ -66991,14 +66940,6 @@
         naval_base = {
             x = 4690.700195
             y = 1214.900024
-        }
-
-    }
-
-    spawn_railway_track = {
-        {
-            x = 4671.000000
-            y = 1210.000000
         }
 
     }
@@ -67188,8 +67129,8 @@
         }
 
         naval_base = {
-            x = 4645.700195
-            y = 1419.699951
+            x = 4669.083333
+            y = 1431.566667
         }
 
     }
@@ -119444,4 +119385,97 @@
     }
 
     text_scale = 5.299997
+} # Tianjin
+
+3249 = {
+    text_position = {
+        x = 4639.950000
+        y = 1424.550000
+    }
+
+    text_scale = 2.199999
+    unit = {
+        x = 4641.250000
+        y = 1426.850000
+    }
+
+    factory = {
+        x = 4637.700000
+        y = 1427.700000
+    }
+
+    building_construction = {
+        x = 4638.250000
+        y = 1421.600000
+    }
+
+    military_construction = {
+        x = 4632.550000
+        y = 1425.200000
+    }
+
+    building_position = {
+        fort = {
+            x = 4642.650000
+            y = 1425.050000
+        }
+
+        naval_base = {
+            x = 4644.250000
+            y = 1421.950000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 2.631104
+    }
+
+}
+
+# Shantou
+3250 = {
+    text_position = {
+        x = 4629.950000
+        y = 1145.650000
+    }
+
+    text_scale = 1.999999
+    unit = {
+        x = 4629.350000
+        y = 1147.450000
+    }
+
+    factory = {
+        x = 4635.350000
+        y = 1145.750000
+    }
+
+    building_construction = {
+        x = 4627.450000
+        y = 1142.150000
+    }
+
+    military_construction = {
+        x = 4625.550000
+        y = 1149.150000
+    }
+
+    building_position = {
+        fort = {
+            x = 4633.400000
+            y = 1147.900000
+        }
+
+        naval_base = {
+            x = 4629.800000
+            y = 1141.100000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 5.565300
+    }
+
 }

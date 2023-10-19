@@ -1,5 +1,10 @@
 owner = FRA
 controller = FRA
 add_core = FRA
+add_core = CRS
 trade_goods = fish
 life_rating = 35
+1914.1.1 = {
+	railroad = 1
+	naval_base = 5
+}

@@ -1,0 +1,755 @@
+political_decisions = {        
+	austria  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+            NOT={has_global_flag = im}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                   		
+            set_global_flag = im
+			set_global_flag = im_2
+			add_country_modifier = {
+                        name = austria
+                        duration = 260
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	austria_1  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = im_3}
+            has_global_flag = im_2
+			NOT = {				
+				has_country_modifier = austria
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = im_3
+			add_country_modifier = {
+                        name = austria
+                        duration = 260
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	austria_2  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = im_4}
+            has_global_flag = im_3
+			NOT = {				
+				has_country_modifier = austria
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = im_4
+			add_country_modifier = {
+                        name = austria
+                        duration = 260
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	austria_3  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = im_5}
+            has_global_flag = im_4
+			NOT = {				
+				has_country_modifier = austria
+			}
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = im_5
+			HUN = {
+				country_event = { id = 500406 days = 2 }
+				
+			}				
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	hungria_gen  = {
+        picture = end_the_chinese_menace
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = gen_hun_2}
+            has_country_modifier = austria_2		
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = gen_hun_2	
+			release_vassal = HUN
+			HUN = {
+			war = {
+	         target = AUS
+	         attacker_goal = { casus_belli = status_quo } 
+	         defender_goal = { casus_belli = conquest }
+	         call_ally = no
+            }
+			badboy = -22
+			}
+			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+    austria-hungia  = {
+        picture = austria
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = gen_hun_3}	
+            has_global_flag = gen_hun_2	
+            NOT={ exists = HUN }				
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = gen_hun_3	
+			AUS = {
+				country_event = { id = 500409 days = 2 }
+				
+			}	
+		
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	austria-hungia_2  = {
+        picture = austria
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = gen_hun_4}	
+            has_global_flag = rev_win			
+        }
+
+        allow = {         
+            war = no                     	
+			BOH = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+			CRO = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+			HUN = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+			ALB = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+			GLO = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = gen_hun_4
+            ITR = {
+				all_core = { add_core = AUS }
+			}			
+		    HUN = {
+				all_core = { add_core = AUS }
+			}
+			CRO = {
+				all_core = { add_core = AUS }
+			}
+			BOH = {
+				all_core = { add_core = AUS }
+			}
+			GLO = {
+				all_core = { add_core = AUS }
+			}
+			ALB = {
+				all_core = { add_core = AUS }
+			}
+			add_accepted_culture = hungarian
+		    add_accepted_culture = slovak
+		    add_accepted_culture = slovene
+		    add_accepted_culture = croat
+			add_accepted_culture = bosniak
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	austria-hungia_3  = {
+        picture = austria
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = gen_hun_5}	
+            has_global_flag = gen_hun_4				
+        }
+
+        allow = {         
+            war = no                     	
+            			                     	           	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = gen_hun_5
+            SWI = {
+				all_core = { add_core = AUS }
+			}					
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+		austria-hungia_4  = {
+        picture = austria
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = gen_hun_6}	
+            has_global_flag = gen_hun_5				
+        }
+
+        allow = {         
+            war = no                     	
+            AUS = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }			                     	           	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = gen_hun_6
+            683 = { add_core = AUS }	
+            682 = { add_core = AUS }	
+            684 = { add_core = AUS } 
+            685 = { add_core = AUS }	
+            600 = { add_core = AUS }
+            601 = { add_core = AUS }	
+            602 = { add_core = AUS }
+            599 = { add_core = AUS }
+            592 = { add_core = AUS }	
+            595 = { add_core = AUS }
+            598 = { add_core = AUS }
+            597 = { add_core = AUS }
+            596 = { add_core = AUS }	
+            569 = { add_core = AUS }
+            593 = { add_core = AUS }	
+            594 = { add_core = AUS }	
+            590 = { add_core = AUS }	
+            589 = { add_core = AUS }
+            588 = { add_core = AUS }	
+            587 = { add_core = AUS }	
+            586 = { add_core = AUS }	
+            2560 = { add_core = AUS }			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	austria-hungia_5  = {
+        picture = austria
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = gen_hun_7}	
+            has_global_flag = gen_hun_6				
+        }
+
+        allow = {         
+            war = no                     	
+            AUS = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+            GER = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }			
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = gen_hun_7
+            inherit = GER
+			add_accepted_culture = north_german
+            change_tag = GER 			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	
+	danubio  = {
+        picture = danubio
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = danubio_1}	
+            has_global_flag = danubio			
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = danubio_1	
+						add_country_modifier = {
+                        name = danubio
+                        duration = 120
+                }
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	danubio_2  = {
+        picture = danubio
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = danubio_2}	
+            has_global_flag = danubio_1	
+            NOT = {				
+				has_country_modifier = danubio
+			}			
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = danubio_2
+						add_country_modifier = {
+                        name = danubio
+                        duration = 120
+                }
+			inherit = VEN
+			release_vassal = ITR
+			war = {
+	         target = ITR
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = no
+            }
+			badboy = -22
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	danubio_3  = {
+        picture = danubio
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = danubio_3}	
+            has_global_flag = danubio_2	
+            NOT = {				
+				has_country_modifier = danubio
+			}			
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = danubio_3
+						add_country_modifier = {
+                        name = danubio
+                        duration = 120
+                }
+			release_vassal = BOH
+			war = {
+	         target = BOH
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = no
+            }
+			badboy = -22
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	danubio_4  = {
+        picture = danubio
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = danubio_4}	
+            has_global_flag = danubio_3	
+            NOT = {				
+				has_country_modifier = danubio
+			}			
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = danubio_4
+						add_country_modifier = {
+                        name = danubio
+                        duration = 120
+                }
+			release_vassal = GLO
+			war = {
+	         target = GLO
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = no
+            }
+			badboy = -22
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	danubio_5  = {
+        picture = danubio
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = danubio_5}	
+            has_global_flag = danubio_4	
+            NOT = {				
+				has_country_modifier = danubio
+			}			
+        }
+
+        allow = {         
+            war = no                     	
+            	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = danubio_5
+						add_country_modifier = {
+                        name = danubio
+                        duration = 120
+                }
+			release_vassal = CRO
+			release_vassal = ALB
+			release_vassal = HUN
+			AUS = {
+			war = {
+	         target = CRO
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = no
+            }
+			}
+			AUS = {
+			war = {
+	         target = HUN
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = no
+            }
+			}
+			AUS = {
+			war = {
+	         target = ALB
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = status_quo }
+	         call_ally = no
+            }
+			}
+			badboy = -22
+			badboy = -22
+			badboy = -22
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	danubio_6  = {
+        picture = danubio
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = danubio_6}	
+            has_global_flag = danubio_5
+            NOT = {				
+				has_country_modifier = danubio
+			}			
+        }
+
+        allow = {         
+            war = no                     	
+			BOH = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+			CRO = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+			HUN = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+			ALB = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+			GLO = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = danubio_6
+			change_tag = DNB
+            ITR = {
+				all_core = { add_core = DNB }
+			}			
+		    HUN = {
+				all_core = { add_core = DNB }
+			}
+			CRO = {
+				all_core = { add_core = DNB }
+			}
+			BOH = {
+				all_core = { add_core = DNB }
+			}
+			GLO = {
+				all_core = { add_core = DNB }
+			}
+			CRO = {all_core={add_core = DNB}}
+		SER = {all_core={add_core = DNB}}
+		MON = {all_core={add_core = DNB}}
+		SLV = {all_core={add_core = DNB}}
+		SLO = {all_core={add_core = DNB}}
+		ROM = {all_core={add_core = DNB}}
+		BOS = {all_core={add_core = DNB}}
+		ALB = {all_core={add_core = DNB}}
+		add_accepted_culture = slovak
+		add_accepted_culture = slovene
+		add_accepted_culture = croat
+		add_accepted_culture = hungarian
+		add_accepted_culture = romanian
+		add_accepted_culture = bosniak
+		add_accepted_culture = serb
+		add_accepted_culture = bulgarian
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	austria-hungia_lose  = {
+        picture = austria
+        potential = {
+            OR = {                
+                tag = AUS
+                                
+            }
+			NOT={has_global_flag = gen_hun_4}	
+            has_global_flag = rev_win			
+        }
+
+        allow = {         
+            war = no                     	                     	           	
+        }
+		
+        
+
+        effect = {                    		
+            set_global_flag = gen_hun_4
+			change_tag = KUK
+            ITR = {
+				all_core = { add_core = KUK }
+			}			
+		    HUN = {
+				all_core = { add_core = KUK }
+			}
+			CRO = {
+				all_core = { add_core = KUK }
+			}
+			BOH = {
+				all_core = { add_core = KUK }
+			}
+			GLO = {
+				all_core = { add_core = KUK }
+			}
+			ALB = {
+				all_core = { add_core = KUK }
+			}
+			add_accepted_culture = hungarian
+		    add_accepted_culture = slovak
+		    add_accepted_culture = slovene
+		    add_accepted_culture = croat
+			add_accepted_culture = bosniak
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	}
+	

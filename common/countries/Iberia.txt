@@ -1,4 +1,5 @@
 color = { 250  181  12 }
+proletarian_dictatorship = { 229 34 34 }
 graphical_culture = SpanishGC
 
 party = {

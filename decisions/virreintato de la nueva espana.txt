@@ -1,0 +1,97 @@
+political_decisions = {
+       form_virreinato_de_nueva_espana = {
+	    picture = virreinato_nuevaespana
+	    potential = {
+		    
+		    OR = {
+			    tag = IBE
+			    tag = SPC
+			}
+			NOT = {
+			    exists = VNS
+			}
+			has_country_flag = third_expedition
+		}
+		allow = {
+			MEX = {vassal_of=THIS}
+			OR = {
+			     AND = {
+			OR = {
+			     UCA = {vassal_of = THIS}
+				 AND = {
+				     GUA = {vassal_of = THIS}
+				     ELS = {vassal_of = THIS}
+				     HON = {vassal_of = THIS}
+				     NIC = {vassal_of = THIS}
+				     COS = {vassal_of = THIS}
+				 }
+			}
+				 }
+				 AND = {
+					  UCA = {all_core = {owner={OR={tag = THIS vassal_of = THIS in_sphere = THIS}}}}
+				 }
+			}
+		}
+		effect = {
+		    prestige = 25
+			
+			MEX = {
+				all_core = {
+				    add_core = VNS
+				}
+			}
+			UCA = {
+				all_core = {
+				    add_core = VNS
+				}
+			}
+			inherit = UCA
+			inherit = MEX
+			inherit = GUA
+			inherit = ELS
+			inherit = HON
+			inherit = NIC
+			inherit = COS
+			
+            release_vassal = VNS
+            create_alliance = VNS
+			any_country = {
+			    limit = {vassal_of = THIS}
+				any_owned = {
+					limit = {
+						is_core = VNS
+					}
+					secede_province = VNS
+				}
+			}
+			any_country = {
+				any_owned = {
+					limit = {
+						is_core = VNS
+						vassal_of = THIS
+					}
+					secede_province = VNS
+				}
+			}
+			THIS = {
+			    any_owned = {
+				    limit = {
+					    is_core = VNS
+					}
+					secede_province = VNS
+				}
+			}
+			relation = {
+				who = VNS
+				value = 400
+			}
+			diplomatic_influence = {
+				who = VNS
+				value = 200
+			}	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+	}	

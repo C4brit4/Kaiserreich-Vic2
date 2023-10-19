@@ -1,0 +1,47 @@
+country_event = {
+    id = 500599
+    title = "EVTNAME500599"
+    desc = "EVTDESC500599"
+    picture = Artillery
+    fire_only_once = yes
+
+    trigger = {
+    tag  = ITC  
+	year = 1938
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA500599"
+		set_global_flag = italy_soc_cam
+		SIC = {
+				set_country_flag = italy_emp_em
+				
+			}
+		
+    }
+    option = {
+        name = "EVTOPTB500599"
+		change_tag = RME
+		SIC = {
+				country_event = { id = 500604 days = 2 }
+				
+			}
+	    ITA = {
+				all_core = { add_core = RME }
+			}
+		ITR = {
+				all_core = { add_core = RME }
+			}
+    }
+    option = {
+        name = "EVTOPTC500599"
+        THIS = {
+				country_event = { id = 500603 days = 2 }
+				
+			}
+      		
+    }  		
+}
+

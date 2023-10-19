@@ -1,0 +1,76 @@
+political_decisions = {
+    form_spanish_commonwealth = {
+	    picture = spanish_commonwealth
+	    potential = {
+		    OR = {
+			    tag = SPC
+			    tag = IBR
+			    tag = SCR
+			}
+			NOT={exists = SCM}
+		    VOP = {vassal_of = THIS}
+		    VNS = {vassal_of = THIS}
+		    VLP = {vassal_of = THIS}
+		    VNG = {vassal_of = THIS}
+			
+		}
+		allow = {
+		    prestige = 50
+			THIS = {all_core = {is_core = THIS}}
+		}
+		effect = {
+			inherit = VNG
+			inherit = VLP
+			inherit = VNS
+			inherit = VOP
+			change_tag = SCM
+			SPC = {all_core = {remove_core = SPC}}
+			SCR = {all_core = {remove_core = SCR}}
+		    VOP = {all_core = {add_core = THIS}}
+		    VNS = {all_core = {add_core = THIS}}
+		    VLP = {all_core = {add_core = THIS}}
+		    VNG = {all_core = {add_core = THIS}}
+add_accepted_culture = spanish
+add_accepted_culture = catalan
+add_accepted_culture = basque
+add_accepted_culture = galician
+add_accepted_culture = mexican
+add_accepted_culture = mayan
+add_accepted_culture = nahua
+add_accepted_culture = texan
+add_accepted_culture = pueblo
+add_accepted_culture = dakota
+add_accepted_culture = afro_caribbean
+add_accepted_culture = afro_carIBRno
+add_accepted_culture = central_american
+add_accepted_culture = native_american_minor
+add_accepted_culture = zapotec
+add_accepted_culture = tarascan
+add_accepted_culture = herero
+add_accepted_culture = shona
+add_accepted_culture = argentinos
+add_accepted_culture = uruguayos
+add_accepted_culture = paraguayos
+add_accepted_culture = patagonian
+add_accepted_culture = guarani
+add_accepted_culture = quechua
+add_accepted_culture = aimara
+add_accepted_culture = herero
+add_accepted_culture = shona
+add_accepted_culture = peruanos
+add_accepted_culture = bolivianos
+add_accepted_culture = chilenos
+add_accepted_culture = colombianos
+add_accepted_culture = ecuatorianos
+add_accepted_culture = venezolanos
+add_accepted_culture = panamenos
+THIS = {
+				country_event = { id = 500501 days = 2 }
+				
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+}
