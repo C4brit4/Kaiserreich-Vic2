@@ -7,8 +7,9 @@ add_core = MCD
 trade_goods = timber
 life_rating = 35
 1914.1.1 = {
-	owner = SER
-	controller = SER
+	owner = BUL
+	controller = BUL
+	add_core = BUL
 	remove_core = TUR
 }
 1914.1.1 = {
