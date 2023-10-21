@@ -1,0 +1,41 @@
+political_decisions = {
+        cisplatina = {
+        picture = cisplatina
+        potential = {
+            OR = {                
+                tag = BRZ            
+            }
+            NOT = { has_country_flag = accept_uru }
+				
+			
+        }
+
+        allow = {         
+            war = no          
+            URU = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            set_country_flag = accept_uru			
+            URU = {
+				all_core = { add_core = BRZ }
+			}
+			add_accepted_culture = uruguayos
+
+         
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}
