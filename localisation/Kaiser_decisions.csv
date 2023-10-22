@@ -267,3 +267,13 @@ allow_mp_options_title;Enable MP Features;Options multijoueur;Mehrspieleroptione
 allow_mp_options_desc;Enable additional options for multiplayer games.;Active des options suppl�mentaires pour les jeux multijoueurs.;Aktiviert zus�tzliche Optionen f�r 
 disallow_mp_options_title;Disable MP Features;Emp�cher les options multijoueur;Multiplayer-Optionen deaktivieren;;Desactivar Caracter�sticas MP;;;;;;;;x
 disallow_mp_options_desc;Disables additional features for mp.;D�sactive les options suppl�mentaires pour les jeux multijoueurs.;Deaktiviert zus�tzliche Optionen f�r 
+givegrants_title;Get Grants!;Get Grants!;Get Grants!;;Consigue dinero!;;;;;;;;;x
+givegrants_desc;Get Grants by other players!;Get Grants by other players!;Get Grants by other players!;;Consigue dinero de otros jugadores!;;;;;;;;;x
+peru_bolivia_title;Restore the Peru-Bolivian confederation;;;;;;;;;;;;;
+peru_bolivia_desc;Many years ago there was a confederation, the Peru-Bolivian confederation, which was dissolved by our enemies. It is time for it to return.;;;;;;;;;;;;
+cisplatina_title;Recover Cisplatina;;;;;;;;;;;;;
+cisplatina_desc;The empire of Brazil in Uruguay but became independent now has to return to the province of Cisplatina;;;;;;;;;;;;
+pro_reb_title;Recapture the rebel province;;;;;;;;;;;;;
+pro_reb_desc;After the war, Uruguay became independent in an unequal treaty, our country is not in the best conditions. Annexing Uruguay will raise nationalism and they will return.;;;;;;;;;;;;
+pata_title;Annex to the revolt in Patagonia;;;;;;;;;;;;;
+pata_desc;It is now useless to continue with the revolt in the south of Argentina, it is time for them to pass to our direct administration;;;;;;;;;;;;

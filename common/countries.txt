@@ -15,9 +15,10 @@ JAP		= "countries/Japan.txt"
 ITA		= "countries/Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
 
-
-
-
+# Second American Civil War
+CSO     = "countries/Combined Syndicates of America.txt"
+UAS     = "countries/American Union State.txt"
+PSA     = "countries/Pacific States of america.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
@@ -393,4 +394,5 @@ UFE     =   "countries/France-England.txt"
 ICO     =   "countries/Caro.txt"
 RME     =   "countries/Rome.txt"
 SAW     =   "countries/Sardinia-Sicilia.txt"
+PBC		=   "countries/Peru-Bolivia Confederation.txt"
 #AIN             = "countries/Alien Invaders.txt"
