@@ -1,3 +1,9 @@
+-Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+EVTNAME50000;The Restoration of the Showa;x;
+EVTDESC50000;After we restored the imperial authority of the showa, we have to choose the most able faction to rule our country. The Yokuseiha Faction led by Kuhara Fusanosuke, the Kodoha Faction led by Araki Sadao, or the Kakushinha Faction led by Konoe Fumimaro.;x;
+EVTOPTA50000;The Yokuseiha Faction;x;
+EVTOPTB50000;The Kodoha Faction;x;
+EVTOPTC50000;The Kakushinha Faction;x; 
 EVTNAME500401;Spanish Civil War;;;;;;;;;;;;x;
 EVTDESC500401;After the great war, Spain remained neutral. French syndicalists took over the country, and syndicalist influence has become stronger in Aragon. The Carlists blame us for being a weak government and claim that we should return Spain to its former glory. Following this, the CNT also rebelled. It's time to be stronger and show what we are capable of;;;;;;;;;;;;x;
 EVTOPTA500401;Spain will never fall;;;;;;;;;;;;x;
