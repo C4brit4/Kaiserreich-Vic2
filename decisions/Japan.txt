@@ -6,9 +6,8 @@ political_decisions = {
 			tag = JAP
 			NOT = { has_country_flag = showa_restorated }
 			OR = {
-				government = hms_government
-				government = prussian_constitutionalism
 				government = absolute_monarchy
+				government = fascist_dictatorship
 			}
 		}
 		
@@ -19,13 +18,16 @@ political_decisions = {
 		}
 		
 		effect = { 
-			government = fascist_dictatorship
+			add_country_modifier = {
+				name = hirohito
+				duration = -1
+			}
 			any_pop = {
 				ideology = {
 					value = liberal
 					factor = 0.05
 				}
-				militancy = 2
+				consciousness = 1
 			}
 			country_event = 50000
 		}
