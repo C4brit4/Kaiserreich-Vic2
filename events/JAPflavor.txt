@@ -12,7 +12,7 @@ country_event = {
 	title = "EVTNAME50000" #The Restoration of the showa
 	desc = "EVTDESC50000"
 	fire_only_once = yes
-	picture = "showa_restoration"
+	picture = "showa"
 	
 	
 	is_triggered_only = yes
@@ -245,7 +245,7 @@ country_event = {
 	title = "EVTNAME50010" #The Emperor and the democracy
 	desc = "EVTDESC50010"
 	fire_only_once = yes
-	picture = "hirohito"
+	picture = "showa"
 	
 	
 	trigger = {
