@@ -4,11 +4,11 @@ political_decisions = {
 	
 		potential = {
 			tag = JAP
-			NOT = { has_country_flag = showa_restorated }
-			OR = {
-				government = absolute_monarchy
-				government = fascist_dictatorship
-			}
+			#NOT = { has_country_flag = showa_restorated }
+			#OR = {
+			#	government = absolute_monarchy
+			#	government = fascist_dictatorship
+			#}
 		}
 		
 		allow = {
