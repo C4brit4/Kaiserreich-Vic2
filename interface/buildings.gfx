@@ -1,4 +1,65 @@
 objectTypes = {
+
+	EMFXActorType = {
+		name = "manufactory_fine_arts_academy"
+		actorfile = "gfx\anims\Manu_FineartsAcadamy.xac"
+		
+		idle   = "gfx\anims\Static.xsm"
+		
+		scale = 0.8
+	}
+
+	EMFXActorType = {
+		name = "manufactory_trading"
+		actorfile = "gfx\anims\Manu_TradeCompany.xac"
+		
+		idle   = "gfx\anims\Static.xsm"
+		
+		scale = 1.5
+	}
+	
+	EMFXActorType = {
+		name = "City_southamericagfx_0"
+		actorfile = "gfx\anims\City_SA_00.xac"
+		
+		idle   = "gfx\anims\Static.xsm"
+		
+		scale = 1.8
+	}
+	
+	EMFXActorType = {
+		name = "City_easterngfx_3"
+		actorfile = "gfx\anims\City_Eastern_03.xac"
+		
+		idle   = "gfx\anims\Static.xsm"
+		
+		scale = 1.4
+	}
+	
+	EMFXActorType = {
+		name = "City_chinesegfx_3"
+		actorfile = "gfx\anims\City_Asian_03.xac"
+		
+		idle   = "gfx\anims\Static.xsm"
+		
+		scale = 1.5
+	}
+	
+		EMFXActorType = {
+		name = "big_ben"
+		actorfile = "gfx\anims\capital_bigben.xac"
+		idle   = "gfx\anims\static.xsm"
+		scale = 0.7
+			
+	}
+	
+		EMFXActorType = {
+		name = "eiffel_tower"
+		actorfile = "gfx\anims\capital_eiffeltower.xac"
+		idle   = "gfx\anims\static.xsm"
+		scale = 1.25
+			
+	}
 	
 	EMFXActorType = {
 		name = "port_blockade"
@@ -29,67 +90,66 @@ objectTypes = {
 	
 		EMFXActorType = {
 		name = "building_naval_base1"
-		actorfile = "gfx\anims\Navalbase_Early_Empty.xac"
+		actorfile = "gfx\anims\Navalbase_Late_Empty.xac"
 		
-		idle   = "gfx\anims\Navalbase_Early_Animation.xsm"
-		scale = 0.75
-		
+		idle   = "gfx\anims\Navalbase_Late_Animation.xsm"
+		scale = 0.9
 	}
 	
 	EMFXActorType = {
 		name = "building_naval_base1_ships"
-		actorfile = "gfx\anims\Navalbase_Early_Full.xac"
+		actorfile = "gfx\anims\Navalbase_Late_Full.xac"
 		
-		idle   = "gfx\anims\Navalbase_Early_Animation.xsm"
-		scale = 0.75
+		idle   = "gfx\anims\Navalbase_Late_Animation.xsm"
+		scale = 0.9
 	}
 	
 	EMFXActorType = {
 		name = "building_naval_base2"
-		actorfile = "gfx\anims\Navalbase_Early_Empty.xac"
+		actorfile = "gfx\anims\Navalbase_Late_Empty.xac"
 		
-		idle   = "gfx\anims\Navalbase_Early_Animation.xsm"
-		scale = 0.75
+		idle   = "gfx\anims\Navalbase_Late_Animation.xsm"
+		scale = 0.9
 	}
 	
 	EMFXActorType = {
 		name = "building_naval_base2_ships"
-		actorfile = "gfx\anims\Navalbase_Early_Full.xac"
+		actorfile = "gfx\anims\Navalbase_Late_Full.xac"
 		
-		idle   = "gfx\anims\Navalbase_Early_Animation.xsm"
-		scale = 0.75
+		idle   = "gfx\anims\Navalbase_Late_Animation.xsm"
+		scale = 0.9
 	}
 
 	EMFXActorType = {
 		name = "building_naval_base3"
-		actorfile = "gfx\anims\Navalbase_Mid_Empty.xac"
+		actorfile = "gfx\anims\Navalbase_Late_Empty.xac"
 		
-		idle   = "gfx\anims\Navalbase_Mid_Animation.xsm"
-		scale = 0.75
+		idle   = "gfx\anims\Navalbase_Late_Animation.xsm"
+		scale = 0.9
 	}
 	
 	EMFXActorType = {
 		name = "building_naval_base3_ships"
-		actorfile = "gfx\anims\Navalbase_Mid_Full.xac"
+		actorfile = "gfx\anims\Navalbase_Late_Full.xac"
 		
-		idle   = "gfx\anims\Navalbase_Mid_Animation.xsm"
-		scale = 0.75
+		idle   = "gfx\anims\Navalbase_Late_Animation.xsm"
+		scale = 0.9
 	}
 	
 		EMFXActorType = {
 		name = "building_naval_base4"
-		actorfile = "gfx\anims\Navalbase_Mid_Empty.xac"
+		actorfile = "gfx\anims\Navalbase_Late_Empty.xac"
 		
-		idle   = "gfx\anims\Navalbase_Mid_Animation.xsm"
-		scale = 0.75
+		idle   = "gfx\anims\Navalbase_Late_Animation.xsm"
+		scale = 0.9
 	}
 	
 	EMFXActorType = {
 		name = "building_naval_base4_ships"
-		actorfile = "gfx\anims\Navalbase_Mid_Full.xac"
+		actorfile = "gfx\anims\Navalbase_Late_Full.xac"
 		
-		idle   = "gfx\anims\Navalbase_Mid_Animation.xsm"
-		scale = 0.75
+		idle   = "gfx\anims\Navalbase_Late_Animation.xsm"
+		scale = 0.9
 	}
 	
 	EMFXActorType = {
@@ -148,7 +208,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "building_fort"
-		actorfile = "gfx\anims\Fort_Early.xac"
+		actorfile = "gfx\anims\Fort_Late.xac"
 		
 		idle   = "gfx\anims\static.xsm"
 		scale = 1.0
@@ -156,7 +216,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "building_fort2"
-		actorfile = "gfx\anims\Fort_Early.xac"
+		actorfile = "gfx\anims\Fort_Late.xac"
 		
 		idle   = "gfx\anims\static.xsm"
 		scale = 1.0
@@ -164,7 +224,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "building_fort3"
-		actorfile = "gfx\anims\Fort_Mid2.xac"
+		actorfile = "gfx\anims\Fort_Late.xac"
 		
 		idle   = "gfx\anims\static.xsm"
 		scale = 1.0
@@ -172,7 +232,7 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "building_fort4"
-		actorfile = "gfx\anims\Fort_Mid2.xac"
+		actorfile = "gfx\anims\Fort_Late.xac"
 		
 		idle   = "gfx\anims\static.xsm"
 		scale = 1.0
@@ -266,7 +326,7 @@ objectTypes = {
 		actorfile = "gfx\anims\Suez_Canal.xac"
 		
 		idle   = "gfx\anims\static.xsm"
-		scale = 1.0
+		scale = 1.2
 			
 	}
 	

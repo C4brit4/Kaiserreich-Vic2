@@ -4,12 +4,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "PrussianGCPlane3"
-		actorfile = "gfx\anims\GermanPlane_Interwar.xac"
+		actorfile = "gfx\anims\GermanFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -22,12 +22,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "AustriaHungaryGCPlane3"
-		actorfile = "gfx\anims\AustrianPlane_Interwar.xac"
+		actorfile = "gfx\anims\GenericFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -40,12 +40,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "UsGCPlane3"
-		actorfile = "gfx\anims\USPlane_Interwar.xac"
+		actorfile = "gfx\anims\UsFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -58,12 +58,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "BritishGCPlane3"
-		actorfile = "gfx\anims\BritishPlane_Interwar.xac"
+		actorfile = "gfx\anims\BritishFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -76,12 +76,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ChineseGCPlane3"
-		actorfile = "gfx\anims\ChinesePlane_Interwar.xac"
+		actorfile = "gfx\anims\GenericFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -94,12 +94,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "JapaneseGCPlane3"
-		actorfile = "gfx\anims\JapanesePlane_Interwar.xac"
+		actorfile = "gfx\anims\JapaneseFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -112,12 +112,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "RussianGCPlane3"
-		actorfile = "gfx\anims\RussianPlane_Interwar.xac"
+		actorfile = "gfx\anims\SovietFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -130,12 +130,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "ItalianGCPlane3"
-		actorfile = "gfx\anims\ItalianPlane_Interwar.xac"
+		actorfile = "gfx\anims\ItalianFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -148,12 +148,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "SwedishGCPlane3"
-		actorfile = "gfx\anims\SwedishPlane_Interwar.xac"
+		actorfile = "gfx\anims\GenericFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -166,12 +166,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "FrenchGCPlane3"
-		actorfile = "gfx\anims\FrenchPlane_Interwar.xac"
+		actorfile = "gfx\anims\FrenchFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -183,12 +183,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "SpanishGCPlane3"
-		actorfile = "gfx\anims\SpanishPlane_Interwar.xac"
+		actorfile = "gfx\anims\GenericFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -200,12 +200,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "OttomanGCPlane3"
-		actorfile = "gfx\anims\TurkishPlane_Interwar.xac"
+		actorfile = "gfx\anims\GenericFighter.xac"
 		
-		idle   = "gfx\anims\InterwarPlaneIdle.xsm"
-		move   = "gfx\anims\InterwarPlaneMove.xsm"
-		attack = "gfx\anims\InterwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"

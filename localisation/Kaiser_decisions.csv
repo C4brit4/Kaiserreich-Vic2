@@ -1,3 +1,6 @@
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+restoration_of_showa_title;The Restoration of the Showa;x;
+restoration_of_showa_desc;This country used to be a strongest nation, when the showa run the nation. So, if we want to recover our past glory, we have to stage a coup to bring down the actual government and put the showa in the head of the country.;x; 
 Iberia_comi_title;The Iberian Red Federation;;;;;;;;;;;;;
 Iberia_comi_desc;After emerging victorious from the civil war, it is time to unify Iberia once again, but not as before, but rather as a new Iberian Union, a Syndicalist Iberian Union.;;;;;;;;;;;;;
 Carlistas_title;Carlist Victory;;;;;;;;;;;;;
@@ -88,8 +91,8 @@ form_reinounido_brasilandalgarves_title;Reunify the Portuguese crowns;;;;;;;;;;;
 form_reinounido_brasilandalgarves_desc;The chaos in Europe leads us to reunify the recovered empire Brazil;;;;;;;;;;;;
 form_virreinato_del_peru_title;Form Virreinato del Peru!;Form Virreinato del Peru!;Form Virreinato del Peru!;;Forma el Virreinato del Peru!;;;;;;;;;x
 form_virreinato_del_peru_desc;Get back Virreinato del Peru!;Get back Virreinato del Peru!;Get back Virreinato del Peru!;;Consigue devuelta el Virreinato del Peru!;;;;;;;;;x
-form_virreinato_de_nueva_espana_title;Form Virreinato de Nueva España!;Form Virreinato de Nueva España!;Form Virreinato de Nueva España!;;Forma el Virreinato de Nueva España!;;;;;;;;;x
-form_virreinato_de_nueva_espana_desc;Get back Virreinato de Nueva España!;Get back Virreinato de Nueva España!;Get back Virreinato de Nueva España!;;Consigue devuelta el Virreinato de Nueva España!;;;;;;;;;x
+form_virreinato_de_nueva_espana_title;Form Virreinato de Nueva Espaï¿½a!;Form Virreinato de Nueva Espaï¿½a!;Form Virreinato de Nueva Espaï¿½a!;;Forma el Virreinato de Nueva Espaï¿½a!;;;;;;;;;x
+form_virreinato_de_nueva_espana_desc;Get back Virreinato de Nueva Espaï¿½a!;Get back Virreinato de Nueva Espaï¿½a!;Get back Virreinato de Nueva Espaï¿½a!;;Consigue devuelta el Virreinato de Nueva Espaï¿½a!;;;;;;;;;x
 form_virreinato_de_la_plata_title;Form Virreinato de la Plata!;Form Virreinato de la Plata!;Form Virreinato de la Plata!;;Forma el Virreinato de la Plata!;;;;;;;;;x
 form_virreinato_de_la_plata_desc;Get back Virreinato de la Plata!;Get back Virreinato de la Plata!;Get back Virreinato de la Plata!;;Consigue devuelta el Virreinato de la Plata!;;;;;;;;;x
 form_virreinato_de_nueva_granada_title;Form Virreinato de Nueva Granada!;Form Virreinato de Nueva Granada!;Form Virreinato de Nueva Granada!;;Forma el Virreinato de Nueva Granada!;;;;;;;;;x
@@ -184,7 +187,7 @@ Fra_comi_8_title;Accept the Iberian population;;;;;;;;;;;;;
 Fra_comi_8_desc;For a long time the Iberian people were under poor governments, now they are going to have a better life in the French commune;;;;;;;;;;;;
 france_rev_title;The lies of the government;;;;;;;;;;;;;
 france_rev_desc;When we caused the revolution, the idea was to improve the quality of life of the population but the government oppresses us worse than the previous one, it is time for the 3rd republic to return.;;;;;;;;;;;;
-france_rev_2_title;Le retour de la république;;;;;;;;;;;;;
+france_rev_2_title;Le retour de la rï¿½publique;;;;;;;;;;;;;
 france_rev_2_desc;When we caused the revolution, the idea was to improve the quality of life of the population but the government oppresses us worse than the previous one, it is time for the 3rd republic to return.;;;;;;;;;;;;
 france_rev_3_title;The return to Europe;;;;;;;;;;;;;
 france_rev_3_desc;After causing the civil war we have managed to win the war and it is time to plan the Reconstrullion of France;;;;;;;;;;;;
@@ -260,9 +263,17 @@ roman_north_africa_title;Roman North Africa!;Roman North Africa!;Roman North Afr
 roman_north_africa_desc;Let's go to the south mediterran!;Let's go to the south mediterran!;Let's go to the south mediterran!;;Vamos a por el sur del mediterraneo!;;;;;;;;;x
 roman_iberia_title;To iberia!;To iberia!;To iberia!;;A Iberia!;;;;;;;;;x
 roman_iberia_desc;Let's expand to iberia!;Let's expand to iberia!;Let's expand to iberia!;;Vamos a expandirnos hacia Iberia!;;;;;;;;;x
-allow_mp_options_title;Enable MP Features;Options multijoueur;Mehrspieleroptionen;;Permitir Características MP;;;;;;;;x
-allow_mp_options_desc;Enable additional options for multiplayer games.;Active des options supplémentaires pour les jeux multijoueurs.;Aktiviert zusätzliche Optionen für 
-disallow_mp_options_title;Disable MP Features;Empêcher les options multijoueur;Multiplayer-Optionen deaktivieren;;Desactivar Características MP;;;;;;;;x
-disallow_mp_options_desc;Disables additional features for mp.;Désactive les options supplémentaires pour les jeux multijoueurs.;Deaktiviert zusätzliche Optionen für 
+allow_mp_options_title;Enable MP Features;Options multijoueur;Mehrspieleroptionen;;Permitir Caracterï¿½sticas MP;;;;;;;;x
+allow_mp_options_desc;Enable additional options for multiplayer games.;Active des options supplï¿½mentaires pour les jeux multijoueurs.;Aktiviert zusï¿½tzliche Optionen fï¿½r 
+disallow_mp_options_title;Disable MP Features;Empï¿½cher les options multijoueur;Multiplayer-Optionen deaktivieren;;Desactivar Caracterï¿½sticas MP;;;;;;;;x
+disallow_mp_options_desc;Disables additional features for mp.;Dï¿½sactive les options supplï¿½mentaires pour les jeux multijoueurs.;Deaktiviert zusï¿½tzliche Optionen fï¿½r 
 givegrants_title;Get Grants!;Get Grants!;Get Grants!;;Consigue dinero!;;;;;;;;;x
 givegrants_desc;Get Grants by other players!;Get Grants by other players!;Get Grants by other players!;;Consigue dinero de otros jugadores!;;;;;;;;;x
+peru_bolivia_title;Restore the Peru-Bolivian confederation;;;;;;;;;;;;;
+peru_bolivia_desc;Many years ago there was a confederation, the Peru-Bolivian confederation, which was dissolved by our enemies. It is time for it to return.;;;;;;;;;;;;
+cisplatina_title;Recover Cisplatina;;;;;;;;;;;;;
+cisplatina_desc;The empire of Brazil in Uruguay but became independent now has to return to the province of Cisplatina;;;;;;;;;;;;
+pro_reb_title;Recapture the rebel province;;;;;;;;;;;;;
+pro_reb_desc;After the war, Uruguay became independent in an unequal treaty, our country is not in the best conditions. Annexing Uruguay will raise nationalism and they will return.;;;;;;;;;;;;
+pata_title;Annex to the revolt in Patagonia;;;;;;;;;;;;;
+pata_desc;It is now useless to continue with the revolt in the south of Argentina, it is time for them to pass to our direct administration;;;;;;;;;;;;
