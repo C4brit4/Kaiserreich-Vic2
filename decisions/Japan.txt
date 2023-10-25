@@ -1,0 +1,39 @@
+political_decisions = {
+	restoration_of_showa = {
+	picture = hirohito
+	
+		potential = {
+			tag = JAP
+			#NOT = { has_country_flag = showa_restorated }
+			#OR = {
+			#	government = absolute_monarchy
+			#	government = fascist_dictatorship
+			#}
+		}
+		
+		allow = {
+			war = no
+			NOT = {average_militancy = 3}
+			NOT = {average_consciousness = 4}
+		}
+		
+		effect = { 
+			add_country_modifier = {
+				name = hirohito
+				duration = -1
+			}
+			any_pop = {
+				ideology = {
+					value = liberal
+					factor = 0.05
+				}
+				consciousness = 1
+			}
+			country_event = 50000
+		}
+		
+		ai_will_do = { 
+			factor = 1 
+		}
+	}
+}

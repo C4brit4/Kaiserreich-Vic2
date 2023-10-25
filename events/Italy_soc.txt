@@ -7,7 +7,6 @@ country_event = {
 
     trigger = {
     tag  = XXX
-	has_global_flag = italy_soc_cam
 }
   
     
