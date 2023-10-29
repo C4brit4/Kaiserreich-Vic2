@@ -1122,21 +1122,21 @@ guiTypes = {
 		guiButtonType = {
 			name = "pause_bg"
 			quadTextureSprite ="GFX_pause_bg"
-			position = { x= 100 y =29 } 159 87
+			position = { x= 100 y = 27 } 
 			Orientation = "UPPER_LEFT"
 		}
 		
 		guiButtonType = {
 			name = "speed_indicator"
 			quadTextureSprite = "GFX_speed_indicator"
-			position = { x= 333 y = 87 }
+			position = { x= 350 y = 30 }
 			Orientation = "UPPER_LEFT"
 		}
 
 		instantTextBoxType = { 
 			name = "DateText"
 			position = { x = 111 y = 28 }
-			font = "vic_22_black"
+			font = "vic_22"
 			maxWidth = 160
 			maxHeight = 32	
 			format = left
