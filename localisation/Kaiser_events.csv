@@ -182,3 +182,17 @@ EVTOPTC25193;10k;10k;10k;;10k;;;;;;;;;x
 EVTOPTD25193;100k;100k;100k;;100k;;;;;;;;;x
 EVTOPTE25193;1M;1M;1M;;1M;;;;;;;;;x
 EVTOPTF25193;2M;2M;2M;;2M;;;;;;;;;x
+EVTNAME900000;The government crisis ;x;
+EVTDESC900000;One of the most important things for a new administration is time to choose between the ruler of Africa or the cabinet ;x;
+EVTOPTA900000;the ruler of africa is better ;x;
+EVTOPTB900000;the cabinet is the best option ;x;
+EVTNAME900001;Mittleafrika ultimatum ;x;
+EVTDESC900001;We have a ultimatum from mittleafrika ;x;
+EVTOPTA900001;YES ;x;
+EVTOPTB900001;NEVER;x;
+EVTNAME52892;Great Depression ;x;
+EVTDESC52892;After the great war the economy has collapsed the stock market is on the ground could this be the end of the German Empire? ;x;
+EVTOPTA52892;Germany will never fall. ;x;
+EVTNAME59050;Great Depression ;x;
+EVTDESC59050;Germany cannot sustain itself this causes great instability within us its best colony ;x;
+EVTOPTA59050;Dark times are coming ;x;

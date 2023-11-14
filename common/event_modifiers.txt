@@ -637,6 +637,9 @@ stock_market_crash = {
 
 great_depression = {
 	factory_throughput = -0.3
+	mobilisation_size = -0.03
+	mobilization_impact = -0.25
+	mobilization_economy_impact = -0.25
 	rgo_output = -0.3
 	tax_efficiency = -0.05
 	loan_interest = 0.02
@@ -849,6 +852,10 @@ asimilacion = {
 }
 
 contrarevolucion_fra = {
+	
+}
+
+a_new_administration = {
 	
 }
 

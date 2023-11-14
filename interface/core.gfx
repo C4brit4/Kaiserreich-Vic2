@@ -27,8 +27,8 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_icon_religion_small"
-		texturefile = "gfx\\interface\\icon_religion_small.tga"
-		noOfFrames = 13
+		texturefile = "gfx\\interface\\icon_religion_small.dds"
+		noOfFrames = 18
 		loadType = "INGAME"
 	}
 	
@@ -43,7 +43,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_pops_small"
 		texturefile = "gfx\\interface\\pops_small.tga"
-		noOfFrames = 12
+		noOfFrames = 13
 		effectFile = "gfx\\FX\\buttonstate.fx"
 		norefcount = yes
 	}
@@ -51,7 +51,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_pops_small2"
 		texturefile = "gfx\\interface\\pops_small.tga"
-		noOfFrames = 12
+		noOfFrames = 13
 		effectFile = "gfx\\FX\\buttonstate2.fx"
 		norefcount = yes
 	}
@@ -59,7 +59,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_pops_mini"
 		texturefile = "gfx\\interface\\pops_mini.tga"
-		noOfFrames = 12
+		noOfFrames = 13
 		effectFile = "gfx\\FX\\buttonstate.fx"
 		norefcount = yes
 	}
@@ -67,33 +67,33 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_resources_big"
 		texturefile = "gfx\\interface\\resources_big.dds"
-		noOfFrames = 49
+		noOfFrames = 50
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_resources"
 		texturefile = "gfx\\interface\\resources.dds"
-		noOfFrames = 49
+		noOfFrames = 50
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_resources_transparent"
 		texturefile = "gfx\\interface\\resources.dds"
-		noOfFrames = 49
+		noOfFrames = 50
 		norefcount = yes
 		allwaystransparent = yes
 	}
 	spriteType = {
 		name = "GFX_resources_small"
 		texturefile = "gfx\\interface\\resources_small.dds"
-		noOfFrames = 49
+		noOfFrames = 50
 		norefcount = yes
 		allwaystransparent = no
 	}
 	spriteType = {
 		name = "GFX_resources_small_transparent"
 		texturefile = "gfx\\interface\\resources_small.dds"
-		noOfFrames = 49
+		noOfFrames = 50
 		norefcount = yes
 		transparencecheck = yes
 	}
@@ -1239,7 +1239,7 @@ fonts = {
 		fontname = "garamond bold"
 		height = 32
 		charset = "ANSI"		
-		color = 0xff000000	
+		color = 0xffffffdd	
 	}
 
 	font = {
