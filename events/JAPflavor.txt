@@ -91,7 +91,6 @@ country_event = {
 	fire_only_once = yes
 	picture = "national_security_act"
 	
-	
 	trigger = {
 		tag = JAP
 		has_country_flag = "may_incident"
@@ -154,7 +153,6 @@ country_event = {
 	fire_only_once = yes
 	picture = "japans_longest_day"
 	
-	
 	trigger = {
 		tag = JAP
 		has_country_flag = "national_act_rejected"
@@ -202,7 +200,6 @@ country_event = {
 	fire_only_once = yes
 	picture = "ishinha_coup"
 	
-	
 	trigger = {
 		tag = JAP
 		government = military_dictatorship
@@ -246,7 +243,6 @@ country_event = {
 	desc = "EVTDESC50010"
 	fire_only_once = yes
 	picture = "showa"
-	
 	
 	trigger = {
 		tag = JAP
@@ -306,7 +302,6 @@ country_event = {
 	desc = "EVTDESC50011"
 	fire_only_once = yes
 	picture = "ishinha_coup"
-	
 	
 	trigger = {
 		tag = JAP

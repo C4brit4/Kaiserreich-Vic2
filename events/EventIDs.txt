@@ -48,6 +48,8 @@
 # Flavor Events -- 31000 - 48000
 #	37700 -- SPA, Spain
 #	50000 -- JAP, Japan
+#	50050 -- LEP, League of Eigth Provinces
+#	50100 -- Chinese Warlords
 # Clean Up Events -- 60000
 # On Action Events -- 70000
 # CB generation -- 90000
