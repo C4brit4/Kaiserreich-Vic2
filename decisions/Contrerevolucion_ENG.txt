@@ -64,6 +64,7 @@ political_decisions = {
             set_global_flag = contrarevolucion_2
 			CAN = {
 				set_global_flag = contrarevolucion_2
+				set_country_flag = pierde
 				capital = 269
 				primary_culture = british
 			    add_accepted_culture = anglo_canadian

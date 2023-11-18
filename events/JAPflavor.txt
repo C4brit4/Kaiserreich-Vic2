@@ -75,9 +75,11 @@ country_event = {
 			militancy = 2
 		}
 		any_pop = {
-			ideology = {
-				value = liberal
-				factor = 0.05
+			limit = {			
+				ideology = {
+					value = liberal
+					factor = 0.05
+				}
 			}
 			militancy = 3
 		}
@@ -104,23 +106,29 @@ country_event = {
         name = "EVTOPTA50002" #The act is forced, the democracy must prevail
 		set_country_flag = "national_act_accepted"
 		any_pop = {
-			ideology = {
-				value = reactionary
-				factor = 0.05
+			limit = {
+				ideology = {
+					value = reactionary
+					factor = 0.05
+				}			
 			}
 			militancy = 2
 		}
 		any_pop = {
-			ideology = {
-				value = fascist
-				factor = 0.05
+			limit = {
+				ideology = {
+					value = fascist
+					factor = 0.05
+				}			
 			}
 			militancy = 4
 		}
 		any_pop = {
-			ideology = {
-				value = communist
-				factor = 0.05
+			limit = {			
+				ideology = {
+					value = communist
+					factor = 0.05
+				}
 			}
 			militancy = 3
 		}
@@ -130,9 +138,11 @@ country_event = {
         name = "EVTOPTB50002" #The people and the oposition reject the act
 		set_country_flag = "national_act_rejected"
 		any_pop = {
-			ideology = {
-				value = liberal
-				factor = 0.05
+			limit = {
+				ideology = {
+					value = liberal
+					factor = 0.05
+				}
 			}
 			militancy = 2
 		}

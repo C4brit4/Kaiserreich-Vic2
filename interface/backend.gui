@@ -449,7 +449,7 @@ guiTypes = {
 
 		guiButtonType = {
 			name ="country_flag"
-			quadTextureSprite = "GFX_topbarflag"
+			quadTextureSprite = "GFX_topbarflag2"
 			position = { x= 69 y = 15 }
 			buttonText = ""
 			buttonFont = "vic_18_black"
@@ -457,7 +457,7 @@ guiTypes = {
 			
 		iconType = {
 			name ="country_flag_overlay"
-			spriteType = "GFX_topbar_flag_overlay_trans"
+			spriteType = "GFX_topbar_flag_overlay_trans2"
 			position = { x= 62 y = -3 }
 			Orientation = "UPPER_LEFT"
 		}

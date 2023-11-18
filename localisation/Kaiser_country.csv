@@ -69,8 +69,8 @@ UFE;Franco-English Union;;;;;;;;;;;;;
 UFE_ADJ;Franco-English Union;;;;;;;;;;;;;
 ICO;Carolingian empire;;;;;;;;;;;;;
 ICO_ADJ;Carolingian empire;;;;;;;;;;;;;
-RME;Rome Empire;;;;;;;;;;;;;
-RME_ADJ;Rome;;;;;;;;;;;;;
+RME;Roman Empire;;;;;;;;;;;;;
+RME_ADJ;Roman;;;;;;;;;;;;;
 RME_proletarian_dictatorship;Rome Syndicalist Union;;;;;;;;;;;;;
 RME_ADJ_proletarian_dictatorship;Rome Syndicalist;;;;;;;;;;;;;
 SIC_fascist_dictatorship;Italian social republic;;;;;;;;;;;;;
@@ -81,3 +81,5 @@ SAW;Sicily-Piedmont Union;;;;;;;;;;;;;
 SAW_ADJ;Sicily-Piedmont;;;;;;;;;;;;;
 PBC;Peru-Bolivia;Peru-Bolivia;Peru-Bolivia;;Peru-Bolivia;;;;;;;;;x
 PBC_ADJ;Andinian;Andinian;Andinian;;Andina;;;;;;;;;x
+AFR;Africa Union;;;;;;;;;;;;;
+AFR_ADJ;Africa Union;;;;;;;;;;;;;	

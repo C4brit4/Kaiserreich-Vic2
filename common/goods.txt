@@ -78,12 +78,6 @@ raw_material_goods = {
 		money = yes	
 		color = { 253 199 110 }
 	}
-	precious_goods = { 
-		cost = 2.0
-		tradeable = no
-		money = yes	
-		color = { 247 241 61 }
-	}
 }
 
 industrial_goods = {

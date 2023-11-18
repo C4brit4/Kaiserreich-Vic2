@@ -879,13 +879,13 @@ guiTypes = {
 			
 			iconType = {
 				name ="our_relation_icon"
-				spriteType = "GFX_diplo_relation_icon"
-				position = { x = 25 y = 205 }
+				spriteType = "GFX_mapmode_relation"
+				position = { x = 210 y = 206 }
 				Orientation = "UPPER_LEFT"
 			}
 			instantTextBoxType = { 
 				name = "our_relation"
-				position = { x = 45 y = 205 }
+				position = { x = 230 y = 207 }
 				font = "vic_22_black"
 				text = "-200"	
 				maxWidth = 100
@@ -902,7 +902,7 @@ guiTypes = {
 		
 			instantTextBoxType = { 
 				name = "country_name"
-				position = { x = 85 y = 140 }
+				position = { x = 115 y = 140 }
 				font = "vic_22"
 				text = "France"	
 				maxWidth = 190
@@ -912,7 +912,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "country_status"
-				position = { x = 90 y = 170 }
+				position = { x = 112 y = 170 }
 				font = "Arial12_black"
 				text = "Great Power"	
 				maxWidth = 250
@@ -923,7 +923,7 @@ guiTypes = {
 							
 			instantTextBoxType = { 
 				name = "country_gov"
-				position = { x = 90 y = 190 }
+				position = { x = 112 y = 190 }
 				font = "Arial12_black"
 				text = "country_gov"	
 				maxWidth = 250
@@ -933,7 +933,7 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "country_party"
-				position = { x = 90 y = 210 }
+				position = { x = 112 y = 210 }
 				font = "Arial12_black"
 				text = "country_party"	
 				maxWidth = 250

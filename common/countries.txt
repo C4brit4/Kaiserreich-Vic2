@@ -408,3 +408,7 @@ HNN        = "countries/Hunan.txt"
 KUO        = "countries/Kuomintang.txt"
 LIA        = "countries/Liangguang.txt"
 NAN        = "countries/Nanjing.txt"
+
+#
+AFR     = "countries/Africa.txt"
+

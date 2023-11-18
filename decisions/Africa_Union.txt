@@ -1,0 +1,643 @@
+political_decisions = {
+       form_africapic = {
+        picture = form_africapic
+        potential = {
+            OR = {                
+                tag = EGY
+                tag = GMC
+				
+            }
+            NOT = { exists = AFR }
+			
+        }
+
+        allow = {
+            war = no
+            is_greater_power = yes         
+            EGY = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+			}   
+           ETH = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+			}
+            GMC = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+			} 			
+        }
+		
+        
+
+        effect = {
+            prestige = 50
+			change_tag = AFR
+            1686 = { add_core = AFR }	
+            1687 = { add_core = AFR } 
+            1688 = { add_core = AFR }
+            1689 = { add_core = AFR }
+            1685 = { add_core = AFR }
+            1681 = { add_core = AFR }
+            1683 = { add_core = AFR }
+            1682 = { add_core = AFR }
+            1680 = { add_core = AFR }
+            1684 = { add_core = AFR }
+            1691 = { add_core = AFR }	 			 
+			1692 = { add_core = AFR }
+            1690 = { add_core = AFR }
+            1698 = { add_core = AFR }
+            1699 = { add_core = AFR }
+            1694 = { add_core = AFR }
+            1695 = { add_core = AFR }
+            1696 = { add_core = AFR }
+            1693 = { add_core = AFR }
+            2563 = { add_core = AFR }				 
+			2136 = { add_core = AFR }
+			2135 = { add_core = AFR }
+			1705 = { add_core = AFR }				
+			1773 = { add_core = AFR }				
+			1716 = { add_core = AFR } 				
+			1714 = { add_core = AFR }				
+			1715 = { add_core = AFR }				
+			1707 = { add_core = AFR }				
+			1704 = { add_core = AFR }				
+			1717 = { add_core = AFR }	 			
+			1706 = { add_core = AFR }				
+			1703 = { add_core = AFR }				
+			1700 = { add_core = AFR }	 			
+			1713 = { add_core = AFR }				
+			1702 = { add_core = AFR }				
+			1701 = { add_core = AFR }				
+			1709 = { add_core = AFR }				
+			1708 = { add_core = AFR }				
+			1713 = { add_core = AFR }				
+			1711 = { add_core = AFR }				
+			1710 = { add_core = AFR }				
+			1712 = { add_core = AFR }				
+			1720 = { add_core = AFR }				
+			1719 = { add_core = AFR }	 			
+			1718 = { add_core = AFR }				
+			1726 = { add_core = AFR }				
+			1725 = { add_core = AFR }				
+			1727 = { add_core = AFR }				
+			1728 = { add_core = AFR }				
+			1730 = { add_core = AFR }	 			
+			1729 = { add_core = AFR }				
+			1731 = { add_core = AFR }				
+			1744 = { add_core = AFR }				
+			1743 = { add_core = AFR }				
+			1742 = { add_core = AFR }				
+			1732 = { add_core = AFR }				
+			1733 = { add_core = AFR }
+            1734 = { add_core = AFR }
+            1740 = { add_core = AFR }
+            1735 = { add_core = AFR }
+            1736 = { add_core = AFR }
+            1737 = { add_core = AFR }
+            1738 = { add_core = AFR }	
+            1753 = { add_core = AFR }
+            1754 = { add_core = AFR }
+            1752 = { add_core = AFR }
+            1759 = { add_core = AFR }
+            1751 = { add_core = AFR }
+            1750 = { add_core = AFR }
+            1747 = { add_core = AFR }
+            1745 = { add_core = AFR }
+            1765 = { add_core = AFR }
+            1746 = { add_core = AFR }
+            1748 = { add_core = AFR }				
+			1749 = { add_core = AFR }				
+			1755 = { add_core = AFR }				
+			1763 = { add_core = AFR }				
+			1762 = { add_core = AFR }				
+			1764 = { add_core = AFR }				
+			1772 = { add_core = AFR }				
+			2559 = { add_core = AFR }				
+			1770 = { add_core = AFR }				
+			1769 = { add_core = AFR }				
+			1767 = { add_core = AFR }				
+			1768 = { add_core = AFR }				
+			1771 = { add_core = AFR }				
+			1758 = { add_core = AFR }				
+			1766 = { add_core = AFR }				
+			1834 = { add_core = AFR }				
+			2564 = { add_core = AFR }				
+			1835 = { add_core = AFR }				
+			1836 = { add_core = AFR }				
+			1833 = { add_core = AFR }				
+			1837 = { add_core = AFR }				
+			1842 = { add_core = AFR }
+			1838 = { add_core = AFR }
+			1827 = { add_core = AFR }				
+			1828 = { add_core = AFR }				
+			1829 = { add_core = AFR }				
+			1841 = { add_core = AFR }				
+			1839 = { add_core = AFR }				
+			1840 = { add_core = AFR }				
+			1831 = { add_core = AFR }				
+			1830 = { add_core = AFR }				
+			1832 = { add_core = AFR }				
+			1850 = { add_core = AFR }				
+			1849 = { add_core = AFR }				
+			1848 = { add_core = AFR }				
+			1851 = { add_core = AFR }				
+			1854 = { add_core = AFR }				
+			1855 = { add_core = AFR }				
+			1852 = { add_core = AFR } 				
+			1856 = { add_core = AFR }				
+			1857 = { add_core = AFR }				
+			1853 = { add_core = AFR }				
+			1858 = { add_core = AFR }				
+			1875 = { add_core = AFR } 				
+			1863 = { add_core = AFR }				
+			1859 = { add_core = AFR }				
+			1865 = { add_core = AFR }				
+			1874 = { add_core = AFR }				
+			1873 = { add_core = AFR }				
+			1872 = { add_core = AFR }				
+			1871 = { add_core = AFR }				
+			1862 = { add_core = AFR }				
+			1863 = { add_core = AFR }				
+			1859 = { add_core = AFR }				
+			1865 = { add_core = AFR }				
+			1860 = { add_core = AFR }				
+			1861 = { add_core = AFR }				
+			1867 = { add_core = AFR }				
+			1866 = { add_core = AFR }				
+			1869 = { add_core = AFR }				
+			1870 = { add_core = AFR }				
+			1868 = { add_core = AFR }				
+			2030 = { add_core = AFR }
+			2031 = { add_core = AFR }
+			2024 = { add_core = AFR }				
+			2032 = { add_core = AFR }				
+			2027 = { add_core = AFR }				
+			2026 = { add_core = AFR }				
+			2028 = { add_core = AFR }				
+			2033 = { add_core = AFR }				
+			2029 = { add_core = AFR }				
+			2037 = { add_core = AFR }				
+			2048 = { add_core = AFR }				
+			2036 = { add_core = AFR }				
+			2045 = { add_core = AFR }				
+			2038 = { add_core = AFR }				
+			2047 = { add_core = AFR }				
+			2044 = { add_core = AFR }				
+			2043 = { add_core = AFR }				
+			2046 = { add_core = AFR }				
+			2042 = { add_core = AFR }				
+			2040 = { add_core = AFR }				
+			2041 = { add_core = AFR }				
+			2039 = { add_core = AFR }				
+			2017 = { add_core = AFR }				
+			2016 = { add_core = AFR }				
+			2018 = { add_core = AFR }				
+			2067 = { add_core = AFR }				
+			2581 = { add_core = AFR }				
+			2063 = { add_core = AFR }				
+			2056 = { add_core = AFR }				
+			2054 = { add_core = AFR }				
+			2066 = { add_core = AFR }				
+			2065 = { add_core = AFR }	 			
+			2064 = { add_core = AFR }				
+			2060 = { add_core = AFR }				
+			2061 = { add_core = AFR }				
+			2059 = { add_core = AFR }				
+			2054 = { add_core = AFR }				
+			2053 = { add_core = AFR }	 			
+			2057 = { add_core = AFR }				
+			2051 = { add_core = AFR }				
+			2123 = { add_core = AFR }				
+			2124 = { add_core = AFR }				
+			2122 = { add_core = AFR }				
+			2121 = { add_core = AFR }	 			
+			2120 = { add_core = AFR }				
+            2117 = { add_core = AFR }				
+			2116 = { add_core = AFR }				
+			2115 = { add_core = AFR }				
+			2119 = { add_core = AFR }				
+			2118 = { add_core = AFR }				
+			2052 = { add_core = AFR } 				
+			2050 = { add_core = AFR }				
+			2049 = { add_core = AFR }				
+			2113 = { add_core = AFR }				
+			2111 = { add_core = AFR }				
+			2112 = { add_core = AFR }				
+			2114 = { add_core = AFR }				
+			2110 = { add_core = AFR }				
+			2109 = { add_core = AFR }				
+			2104 = { add_core = AFR }				
+			2100 = { add_core = AFR }				
+			2099 = { add_core = AFR }	 			
+			2098 = { add_core = AFR }				
+			2103 = { add_core = AFR }				
+			2101 = { add_core = AFR }				
+			2102 = { add_core = AFR }	
+            2099 = { add_core = AFR }				
+			2098 = { add_core = AFR }				
+			2097 = { add_core = AFR }				
+			2096 = { add_core = AFR }				
+			2092 = { add_core = AFR }				
+			2091 = { add_core = AFR }				
+			2090 = { add_core = AFR }				
+			2089 = { add_core = AFR }				
+			2087 = { add_core = AFR }				
+			2093 = { add_core = AFR }	 			
+			2558 = { add_core = AFR }				
+			2088 = { add_core = AFR }				
+			2086 = { add_core = AFR }				
+			2095 = { add_core = AFR }				
+			2107 = { add_core = AFR }				
+			2106 = { add_core = AFR }
+			2105 = { add_core = AFR }				
+			2074 = { add_core = AFR }				
+			2077 = { add_core = AFR }				
+			2085 = { add_core = AFR }				
+			2084 = { add_core = AFR }				
+			2083 = { add_core = AFR }				
+			2078 = { add_core = AFR }				
+			2082 = { add_core = AFR }				
+			2076 = { add_core = AFR }				
+			2075 = { add_core = AFR }				
+			2108 = { add_core = AFR }				
+			2110 = { add_core = AFR }				
+			2079 = { add_core = AFR }				
+			2080 = { add_core = AFR }				
+			2081 = { add_core = AFR }				
+			2072 = { add_core = AFR }				
+			2071 = { add_core = AFR } 				
+			2073 = { add_core = AFR }				
+			2069 = { add_core = AFR }	
+            2068 = { add_core = AFR }				
+			2070 = { add_core = AFR }				
+			2052 = { add_core = AFR }				
+			2058 = { add_core = AFR }				
+			2055 = { add_core = AFR }	 			
+			2015 = { add_core = AFR }
+            2013 = { add_core = AFR }				
+			2007 = { add_core = AFR }				
+			2008 = { add_core = AFR }				
+			2004 = { add_core = AFR } 				
+			2005 = { add_core = AFR }				
+			2006 = { add_core = AFR }				
+			2003 = { add_core = AFR }				
+			2002 = { add_core = AFR }				
+			1999 = { add_core = AFR }				
+			2009 = { add_core = AFR }				
+			2010 = { add_core = AFR }				
+			2011 = { add_core = AFR }				
+			2014 = { add_core = AFR }				
+			790	 = { add_core = AFR }			
+			2012 = { add_core = AFR }				
+			1987 = { add_core = AFR }				
+			1988 = { add_core = AFR }				
+			2001 = { add_core = AFR }				
+			1985 = { add_core = AFR }				
+			1984 = { add_core = AFR }				
+			1986 = { add_core = AFR }				
+			1989 = { add_core = AFR }				
+			2046 = { add_core = AFR }
+			2043 = { add_core = AFR }				
+			2045 = { add_core = AFR }				
+			2047 = { add_core = AFR }				
+			2044 = { add_core = AFR }				
+			2035 = { add_core = AFR }				
+			2034 = { add_core = AFR }				
+			1991 = { add_core = AFR }				
+			1990 = { add_core = AFR }				
+			1986 = { add_core = AFR }				
+			1984 = { add_core = AFR }				
+			1994 = { add_core = AFR }				
+			1982 = { add_core = AFR }				
+			1983 = { add_core = AFR }				
+			2000 = { add_core = AFR }				
+			2624 = { add_core = AFR }				
+			1974 = { add_core = AFR }	 			
+			1977 = { add_core = AFR }				
+			1975 = { add_core = AFR }				
+			1980 = { add_core = AFR }				
+			1993 = { add_core = AFR }				
+			1992 = { add_core = AFR }				
+			1996 = { add_core = AFR }				
+			1997 = { add_core = AFR }				
+			2020 = { add_core = AFR }				
+			2019 = { add_core = AFR }				
+			1995 = { add_core = AFR }				
+			1998 = { add_core = AFR }				
+			2021 = { add_core = AFR }				
+			2022 = { add_core = AFR }				
+			2023 = { add_core = AFR }				
+			1981 = { add_core = AFR }				
+			1972 = { add_core = AFR }				
+			1973 = { add_core = AFR }				
+			1954 = { add_core = AFR }				
+			1959 = { add_core = AFR }	 			
+			1962 = { add_core = AFR }				
+			1966 = { add_core = AFR }				
+			1965 = { add_core = AFR }				
+			1970 = { add_core = AFR }				
+			1969 = { add_core = AFR }				
+			1956 = { add_core = AFR }				
+			1845 = { add_core = AFR }
+			1846 = { add_core = AFR }				
+			1847 = { add_core = AFR }				
+			1844 = { add_core = AFR }				
+			1843 = { add_core = AFR }				
+			1971 = { add_core = AFR }	 			
+			1968 = { add_core = AFR }				
+			1967 = { add_core = AFR }				
+			1963 = { add_core = AFR }				
+			1960 = { add_core = AFR }				
+			1961 = { add_core = AFR }				
+			1934 = { add_core = AFR }				
+			1933 = { add_core = AFR }				
+			1932 = { add_core = AFR }				
+			1931 = { add_core = AFR }				
+			1935 = { add_core = AFR }				
+			1928 = { add_core = AFR }				
+			1930 = { add_core = AFR }	 			
+			1936 = { add_core = AFR }				
+			1929 = { add_core = AFR }				
+			1937 = { add_core = AFR }				
+			1923 = { add_core = AFR }				
+			1926 = { add_core = AFR }				
+			1924 = { add_core = AFR }				
+			1925 = { add_core = AFR }				
+			1919 = { add_core = AFR }				
+			1920 = { add_core = AFR }	 			
+			1917 = { add_core = AFR }				
+			1914 = { add_core = AFR }				
+			1915 = { add_core = AFR }				
+			1907 = { add_core = AFR }				
+			1910 = { add_core = AFR }				
+			1908 = { add_core = AFR }				
+			1909 = { add_core = AFR }				
+			1894 = { add_core = AFR }	 			
+			1892 = { add_core = AFR }				
+			1897 = { add_core = AFR }				
+			1895 = { add_core = AFR }					
+			1893 = { add_core = AFR }				
+			1896 = { add_core = AFR }				
+			1891 = { add_core = AFR }				
+			1890 = { add_core = AFR }				
+			1888 = { add_core = AFR }				
+			1887 = { add_core = AFR }				
+			1889 = { add_core = AFR }				
+			1886 = { add_core = AFR }				
+			1884 = { add_core = AFR }				
+			1883 = { add_core = AFR }				
+			1885 = { add_core = AFR }				
+			1900 = { add_core = AFR }				
+			1898 = { add_core = AFR }				
+			1899 = { add_core = AFR }				
+			1911 = { add_core = AFR }				
+			1915 = { add_core = AFR }								
+			1916 = { add_core = AFR }				
+			1918 = { add_core = AFR }				
+			1922 = { add_core = AFR }				
+			1921 = { add_core = AFR }				
+			1938 = { add_core = AFR }				
+			1927 = { add_core = AFR }	 			
+			1940 = { add_core = AFR }				
+			1939 = { add_core = AFR }	 			
+			1941 = { add_core = AFR }				
+			1942 = { add_core = AFR }				
+			1943 = { add_core = AFR }			
+			1944 = { add_core = AFR }				
+			1937 = { add_core = AFR }				
+			1950 = { add_core = AFR }				
+			1963 = { add_core = AFR }				
+			1964 = { add_core = AFR }				
+			1819 = { add_core = AFR }				
+			1820 = { add_core = AFR }				
+			1967 = { add_core = AFR }				
+			1818 = { add_core = AFR }				
+			1968 = { add_core = AFR }				
+			1823 = { add_core = AFR }				
+			1822 = { add_core = AFR }				
+			1971 = { add_core = AFR }				
+			1842 = { add_core = AFR }				
+			1841 = { add_core = AFR }				
+			1843 = { add_core = AFR }				
+			1879 = { add_core = AFR }				
+			1880 = { add_core = AFR }				
+			1881 = { add_core = AFR }				
+			1882 = { add_core = AFR }				
+			1883 = { add_core = AFR }				
+			1798 = { add_core = AFR }				
+			1799 = { add_core = AFR } 				
+			1906 = { add_core = AFR }				
+			1905 = { add_core = AFR }				
+			1902 = { add_core = AFR }				
+			1901 = { add_core = AFR }				
+			1903 = { add_core = AFR }				
+			1904 = { add_core = AFR }				
+			1809 = { add_core = AFR }	 			
+			1808 = { add_core = AFR }				
+			1810 = { add_core = AFR }				
+			1811 = { add_core = AFR }				
+			1815 = { add_core = AFR }				
+			1816 = { add_core = AFR }				
+			1877 = { add_core = AFR }				
+			1878 = { add_core = AFR }	 			
+			1792 = { add_core = AFR }	 			
+			1793 = { add_core = AFR }	 			
+			1791 = { add_core = AFR }				
+			1785 = { add_core = AFR }				
+			1788 = { add_core = AFR }				
+			1791 = { add_core = AFR }				
+			1795 = { add_core = AFR }				
+			1796 = { add_core = AFR }				
+			1797 = { add_core = AFR }				
+			1801 = { add_core = AFR }				
+			1794 = { add_core = AFR }				
+			1800 = { add_core = AFR }				
+			1802 = { add_core = AFR }				
+			1804 = { add_core = AFR }				
+			1783 = { add_core = AFR }				
+			2573 = { add_core = AFR }				
+			1876 = { add_core = AFR }				
+			1787 = { add_core = AFR }				
+			1784 = { add_core = AFR }	 			
+			1786 = { add_core = AFR }				
+			1789 = { add_core = AFR }				
+			1790 = { add_core = AFR }				
+			1776 = { add_core = AFR }				
+			1777 = { add_core = AFR }				
+			1778 = { add_core = AFR }				
+			1775 = { add_core = AFR }				
+			1779 = { add_core = AFR }				
+			1780 = { add_core = AFR }				
+			1782 = { add_core = AFR }				
+			1781 = { add_core = AFR }				
+			1774 = { add_core = AFR }				
+			1806 = { add_core = AFR }				
+			2609 = { add_core = AFR }				
+			1803 = { add_core = AFR }				
+			1805 = { add_core = AFR }				
+			1717 = { add_core = AFR }				
+			1722 = { add_core = AFR }				
+			1721 = { add_core = AFR }	 			
+			1724 = { add_core = AFR }				
+			1813 = { add_core = AFR }				
+			1812 = { add_core = AFR }				
+			1814 = { add_core = AFR }				
+			1817 = { add_core = AFR }			
+			1743 = { add_core = AFR }				
+			1741 = { add_core = AFR }				
+			1742 = { add_core = AFR }				
+			1825 = { add_core = AFR }				
+			1826 = { add_core = AFR }				
+			1824 = { add_core = AFR }				
+			1821 = { add_core = AFR }				
+			1773 = { add_core = AFR }				
+			1696 = { add_core = AFR }				
+			1716 = { add_core = AFR }				
+			1695 = { add_core = AFR }				
+			1694 = { add_core = AFR }				
+			1699 = { add_core = AFR }				
+			1698 = { add_core = AFR }				
+			1714 = { add_core = AFR }				
+			1720 = { add_core = AFR }				
+			1693 = { add_core = AFR }				
+			1690 = { add_core = AFR }				
+			1692 = { add_core = AFR }				
+			1691 = { add_core = AFR }				
+			2563 = { add_core = AFR }				
+			1685 = { add_core = AFR }				
+			1682 = { add_core = AFR }				
+			1681 = { add_core = AFR }				
+			1680 = { add_core = AFR }				
+			1683 = { add_core = AFR }				
+			1697 = { add_core = AFR }				
+			1684 = { add_core = AFR }				
+			1715 = { add_core = AFR }				
+			1720 = { add_core = AFR }		
+            2585 = { add_core = AFR }				
+			1739 = { add_core = AFR }		
+            1913 = { add_core = AFR }
+            1912 = { add_core = AFR }	
+            1946 = { add_core = AFR }
+            1948 = { add_core = AFR }
+            1945 = { add_core = AFR }
+            1949 = { add_core = AFR }
+            1952 = { add_core = AFR }
+            1953 = { add_core = AFR }
+            1807 = { add_core = AFR }
+            1864 = { add_core = AFR }
+            2025 = { add_core = AFR }
+            2574 = { add_core = AFR }
+            2635 = { add_core = AFR }
+            1955 = { add_core = AFR }
+            1956 = { add_core = AFR }
+            1957 = { add_core = AFR }
+            1958 = { add_core = AFR }
+            1976 = { add_core = AFR }
+            1978 = { add_core = AFR }
+            1955 = { add_core = AFR }
+            2094 = { add_core = AFR }
+            1947 = { add_core = AFR }
+            1951 = { add_core = AFR }	
+            add_accepted_culture = akan
+			add_accepted_culture = bambara
+			add_accepted_culture = dyula
+			add_accepted_culture = edo
+			add_accepted_culture = african minor
+			add_accepted_culture = bakongo
+			add_accepted_culture = malagasy
+			add_accepted_culture = ewe
+			add_accepted_culture = fon
+			add_accepted_culture = fulbe
+			add_accepted_culture = hausa
+			add_accepted_culture = ibibio
+			add_accepted_culture = itsekari
+			add_accepted_culture = ibo
+			add_accepted_culture = kru
+			add_accepted_culture = mande
+			add_accepted_culture = mossi
+			add_accepted_culture = senufo
+			add_accepted_culture = songhai
+			add_accepted_culture = tiv
+			add_accepted_culture = tuareg
+			add_accepted_culture = wolof
+			add_accepted_culture = yoruba
+			add_accepted_culture = baguirmi
+			add_accepted_culture = lunda
+			add_accepted_culture = fang
+			add_accepted_culture = kanuri
+			add_accepted_culture = kuba
+			add_accepted_culture = luba
+			add_accepted_culture = mongo
+			add_accepted_culture = sara
+			add_accepted_culture = teda
+			add_accepted_culture = afar
+			add_accepted_culture = amhara
+			add_accepted_culture = tigray
+			add_accepted_culture = yoruba
+			add_accepted_culture = beja
+			add_accepted_culture = dinka
+			add_accepted_culture = baganda
+			add_accepted_culture = azande
+			add_accepted_culture = kikuyu
+			add_accepted_culture = luo
+			add_accepted_culture = fur
+			add_accepted_culture = khmer
+			add_accepted_culture = lao
+			add_accepted_culture = korean
+			add_accepted_culture = maasai
+			add_accepted_culture = kru
+			add_accepted_culture = nguni
+			add_accepted_culture = makua
+			add_accepted_culture = iomwe
+			add_accepted_culture = tigray
+			add_accepted_culture = khoisan
+			add_accepted_culture = herero
+			add_accepted_culture = chewa
+			add_accepted_culture = unyamwezi
+			add_accepted_culture = swahili
+			add_accepted_culture = sukuma
+			add_accepted_culture = somali
+			add_accepted_culture = sidama
+			add_accepted_culture = rundi
+			add_accepted_culture = ruanda
+			add_accepted_culture = nuer
+			add_accepted_culture = nuba
+			add_accepted_culture = oromo
+			add_accepted_culture = ovimbundu
+			add_accepted_culture = sena
+			add_accepted_culture = shona
+			add_accepted_culture = sotho
+			add_accepted_culture = tonga
+			add_accepted_culture = tswana
+			add_accepted_culture = xhosa
+			add_accepted_culture = yao
+			add_accepted_culture = zulu
+			add_accepted_culture = maghrebi
+			add_accepted_culture = misri
+			add_accepted_culture = mashriqi
+			add_accepted_culture = bedouin
+			add_accepted_culture = berber
+			add_accepted_culture = maurea
+			add_accepted_culture = sudanese		
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}
