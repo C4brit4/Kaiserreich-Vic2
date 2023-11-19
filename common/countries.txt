@@ -405,7 +405,7 @@ SZC        = "countries/Sichuan Clique.txt"
 #Fragmentation of the League
 ANQ        = "countries/Anqing.txt"
 HNN        = "countries/Hunan.txt"
-KUO        = "countries/Kuomintang.txt"
+KMT        = "countries/Kuomintang.txt"
 LIA        = "countries/Liangguang.txt"
 NAN        = "countries/Nanjing.txt"
 

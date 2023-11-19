@@ -55,7 +55,7 @@ country_event = {
         name = "EVTOPTA50101" #We must accept
 		any_owned = { 
 			limit = { 
-				is_core = LIA 
+				is_core = ANQ 
 			} 
 			remove_core = LEP
 			secede_province = ANQ 
@@ -109,7 +109,7 @@ country_event = {
         name = "EVTOPTA50102" #We must accept
 		any_owned = { 
 			limit = { 
-				is_core = LIA 
+				is_core = HNN 
 			} 
 			remove_core = LEP
 			secede_province = HNN

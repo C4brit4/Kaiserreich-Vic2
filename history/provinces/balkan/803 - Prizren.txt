@@ -1,5 +1,6 @@
 owner = TUR
 controller = TUR
+add_core = ALB
 add_core = TUR
 add_core = SER
 trade_goods = timber
