@@ -259,7 +259,7 @@ guiTypes = {
 		{
 			name ="menu"
 			spriteType = "GFX_menu"
-			position = { x= 75 y = 50 }
+			position = { x= 75 y = -50 }
 			Orientation = "UPPER_LEFT"
 		}
 		
