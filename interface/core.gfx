@@ -1267,3 +1267,13 @@ fonts = {
 	}
 	
 }
+
+####### KAISERREICH FONTS
+
+bitmapfonts = {
+	bitmapfont = {
+		name = "courier_blank"
+		fontname = "courier_blank"
+		color = 0xffffffff	
+	}
+}

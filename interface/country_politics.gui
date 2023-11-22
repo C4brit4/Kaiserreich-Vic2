@@ -2076,22 +2076,6 @@ guiTypes = {
 			position = { x= 4 y = 0 }
 			Orientation = "UPPER_LEFT"
 		}
-		instantTextBoxType = { 
-			name = "decision_name"
-			position = { x = 13 y = 5 }
-			font = "vic_18"
-			text = "GOVERNMENT_NAME"	
-			maxWidth = 540
-			maxHeight = 20
-			fixedsize = yes
-			format = left
-		}
-		iconType = {
-			name ="decision_image"
-			spriteType = "GFX_no_decision_image"
-			position = { x= 12 y = 27 }
-			Orientation = "UPPER_LEFT"
-		}
 		
 		instantTextBoxType = { 
 			name = "decision_desc"
@@ -2123,6 +2107,32 @@ guiTypes = {
 			position = { x = 509 y = 103 }
 			Orientation = "UPPER_LEFT"
 		}
+		
+		iconType = {
+			name ="decision_title_bg"
+			spriteType = "GFX_decision_title"
+			position = { x= -7 y = 87 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		iconType = {
+			name ="decision_image"
+			spriteType = "GFX_no_decision_image"
+			position = { x= 12 y = 17 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		instantTextBoxType = { 
+			name = "decision_name"
+			position = { x = -158 y = 105 }
+			font = "courier_blank"
+			text = "GOVERNMENT_NAME"	
+			maxWidth = 540
+			maxHeight = 20
+			fixedsize = yes
+			format = centre
+		}
+		
 	}
 	
 	##########################

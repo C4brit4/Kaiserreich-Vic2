@@ -6,6 +6,10 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\politics_decision_bg.dds"
 	}
 	spriteType = {
+		name = "GFX_decision_title"
+		texturefile = "gfx\\interface\\decision_title.dds"
+	}
+	spriteType = {
 		name = "GFX_sort_radical"
 		texturefile = "gfx\\interface\\sort_radical.dds"
 	}
