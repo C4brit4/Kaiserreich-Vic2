@@ -391,6 +391,7 @@ ICO     =   "countries/Caro.txt"
 RME     =   "countries/Rome.txt"
 SAW     =   "countries/Sardinia-Sicilia.txt"
 PBC		=   "countries/Peru-Bolivia Confederation.txt"
+LPL		=   "countries/La Plata.txt"
 #AIN             = "countries/Alien Invaders.txt"
 
 #===CHINA===#
