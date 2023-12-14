@@ -1,0 +1,60 @@
+political_decisions = {
+        peru_bolivia = {
+        picture = peru_bolivia
+        potential = {
+            OR = {                
+                tag = PEU
+                tag = BOL                
+            }
+            NOT = { exists = PBC }
+			
+        }
+
+        allow = {         
+            war = no          
+            PEU = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+			BOL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            change_tag = PBC 
+			inherit = PEU
+			inherit = BOL
+            BOL = {
+				all_core = { add_core = PBC }
+			}
+            PEU = {
+				all_core = { add_core = PBC }
+			}
+			add_accepted_culture = peruanos
+			add_accepted_culture = bolivianos
+
+         
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

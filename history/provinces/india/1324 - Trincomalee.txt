@@ -6,4 +6,4 @@ life_rating = 32
 1861.1.1 = { 
 	naval_base = 1
 }
-colonial = yes
+colonial = 2

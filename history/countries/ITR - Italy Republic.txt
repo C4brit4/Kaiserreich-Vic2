@@ -39,7 +39,7 @@ upper_house = {
 
 oob = "/1936/ITA_oob.txt"
 
-
+set_country_flag = democracy_italy		
 prestige = 33
 plurality = 60
 literacy = 0.32

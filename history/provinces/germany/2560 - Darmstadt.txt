@@ -1,5 +1,5 @@
-owner = GER
-controller = GER
+owner = HES
+controller = HES
 add_core = HES
 add_core = GER
 trade_goods = fruit
@@ -10,3 +10,8 @@ life_rating = 40
 #	upgrade = yes
 #}
 1861.1.1 = { railroad = 3 }
+1914.1.1 = {
+	owner = GER
+	controller = GER
+	railroad = 5
+}

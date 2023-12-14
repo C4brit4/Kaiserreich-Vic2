@@ -3,3 +3,7 @@ controller = TUR
 add_core = TUR
 trade_goods = grain
 life_rating = 35
+1914.1.1 = {
+	railroad = 1
+        naval_base = 5
+}

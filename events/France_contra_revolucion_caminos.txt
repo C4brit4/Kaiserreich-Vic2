@@ -13,7 +13,7 @@ country_event = {
 
     option = {
         name = "EVTOPTA500429"
-    	set_country_flag = europa_Napo_rfa
+    	set_country_flag = camino_NFR_napo_1
 		    FRA = {
 				all_core = { add_core = NFR }
 			} 	

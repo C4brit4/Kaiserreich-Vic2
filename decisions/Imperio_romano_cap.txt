@@ -1,0 +1,424 @@
+political_decisions = {
+        roma_cap = {
+	    picture = rome
+        potential = {
+            OR = {                
+                tag = RME
+                                
+            }
+			NOT = { has_country_flag = become_romankingdom }
+        }
+
+        allow = {         
+            war = no          
+            RME = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                		
+			capital = 749
+			set_country_flag = become_romankingdom	
+        }
+		ai_will_do = {
+			factor = 1
+			}
+		}
+		roman_iberia = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = become_romankingdom
+			NOT = {has_country_flag = roman_iberia}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 35
+			SPA_498 = {add_core = THIS}
+			SPA_503 = {add_core = THIS}
+			SPA_487 = {add_core = THIS}
+			SPA_513 = {add_core = THIS}
+			SPA_512 = {add_core = THIS}
+			SPA_484 = {add_core = THIS}
+			POR_525 = {add_core = THIS}
+			POR_521 = {add_core = THIS}
+			854 = {add_core = THIS}
+			517 = {add_core = THIS}
+			add_accepted_culture = spanish
+			add_accepted_culture = portuguese
+			add_accepted_culture = catalan
+			set_country_flag = roman_iberia
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	roman_tunisia = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = become_romankingdom
+			NOT = {has_country_flag = roman_tunisia}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 15
+			TUN_1726 = {add_core = THIS}
+			FRA_1700 = {add_core = THIS}
+			set_country_flag = roman_tunisia
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	roman_east = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = become_romankingdom
+			NOT = {has_country_flag = roman_east}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 15
+			TUR_788 = {add_core = THIS}
+			MON_2582 = {add_core = THIS}
+			AUS_780 = {add_core = THIS}
+			TUR_853 = {add_core = THIS}
+			set_country_flag = roman_east
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	roman_extreme_east = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = become_romankingdom
+			NOT = {has_country_flag = roman_extreme_east}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 15
+			AUS_736 = {add_core = THIS}
+			AUS_768 = {add_core = THIS}
+			AUS_771 = {add_core = THIS}
+			GRE_826 = {add_core = THIS}
+			GRE_837 = {add_core = THIS}
+			EGY_843 = {add_core = THIS}
+			TUR_832 = {add_core = THIS}
+			TUR_819 = {add_core = THIS}
+			TUR_806 = {add_core = THIS}
+			add_accepted_culture = slovene
+			add_accepted_culture = greek
+			add_accepted_culture = serb
+			add_accepted_culture = croat
+			set_country_flag = roman_extreme_east
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	roman_egypt = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = become_romankingdom
+			NOT = {has_country_flag = roman_egypt}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 15
+			EGY = {
+			    all_core = {
+				     limit = {is_core = TUR}
+					 add_core = THIS
+				}
+			}
+			EGY_1746 = {add_core = THIS}
+			1755 = {add_core = THIS}
+			EGY_1750 = {add_core = THIS}
+			EGY_1753 = {add_core = THIS}
+			EGY_1762 = {add_core = THIS}
+			EGY_1758 = {add_core = THIS}
+			EGY_1771 = {add_core = THIS}
+			add_accepted_culture = bedouin
+			add_accepted_culture = misri
+			set_country_flag = roman_egypt
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	roman_north_africa = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = become_romankingdom
+			NOT = {has_country_flag = roman_north_africa}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 15
+			TRI_1743 = {add_core = THIS}
+			EGY_1754 = {add_core = THIS}
+			ALD_1708 = {add_core = THIS}
+			ALD_1704 = {add_core = THIS}
+			MOR_1688 = {add_core = THIS}
+			MOR_1686 = {add_core = THIS}
+			MOR_1683 = {add_core = THIS}
+			MOR_1693 = {add_core = THIS}
+			1696 = {add_core = THIS}
+			1695 = {add_core = THIS}
+			set_country_flag = roman_north_africa
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	roman_iberian_finish = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = roman_iberia
+			has_country_flag = become_romankingdom
+			NOT = {has_country_flag = roman_iberian_finish}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 15
+			SPA_492 = {add_core = THIS}
+			492 = {add_core = THIS}
+			493 = {add_core = THIS}
+			SPA_477 = {add_core = THIS}
+			SPA_474 = {add_core = THIS}
+			POR_518 = {add_core = THIS}
+			add_accepted_culture = galician
+			add_accepted_culture = basque
+			set_country_flag = roman_iberian_finish
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	proclaim_romanempire = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = roman_iberia
+			has_country_flag = roman_iberian_finish
+			has_country_flag = roman_north_africa
+			has_country_flag = become_romankingdom
+			has_country_flag = roman_egypt
+			has_country_flag = roman_east
+			has_country_flag = roman_tunisia
+			has_country_flag = roman_extreme_east
+			NOT = {has_country_flag = proclaim_romanempire}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+			prestige = 300
+		}
+		effect = {
+		    #
+			prestige = 100
+			THIS = {country_event = 60200}
+			add_accepted_culture = french add_accepted_culture = swiss_french
+			add_accepted_culture = breton
+			FRA_455 = {add_core = THIS}
+			460 = {add_core = THIS}
+			FRA_442 = {add_core = THIS}
+			FRA_445 = {add_core = THIS}
+			FRA_448 = {add_core = THIS}
+			FRA_451 = {add_core = THIS}
+			FRA_428 = {add_core = THIS}
+			FRA_411 = {add_core = THIS}
+			FRA_412 = {add_core = THIS}
+			FRA_404 = {add_core = THIS}
+			FRA_425 = {add_core = THIS}
+			FRA_438 = {add_core = THIS}
+			FRA_435 = {add_core = THIS}
+			FRA_420 = {add_core = THIS}
+			FRA_418 = {add_core = THIS}
+			FRA_399 = {add_core = THIS}
+			397 = {add_core = THIS}
+			BEL_394 = {add_core = THIS}
+			BEL_387 = {add_core = THIS}
+			608 = {add_core = THIS}
+			SWI_605 = {add_core = THIS}
+			SWI_603 = {add_core = THIS}
+			SAR = {all_core = {remove_core = SAR}}
+			SIC = {all_core = {remove_core = SIC}}
+			VEN = {all_core = {remove_core = VEN}}
+			LOM = {all_core = {remove_core = LOM}}
+			PAR = {all_core = {remove_core = PAR}}
+			MOD = {all_core = {remove_core = MOD}}
+			TUS = {all_core = {remove_core = TUS}}
+			PAP = {all_core = {remove_core = PAP}}
+			LUC = {all_core = {remove_core = LUC}}
+			ITA = {all_core = {remove_core = ITA}}
+			set_country_flag = proclaim_romanempire
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	rome_balcans = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = proclaim_romanempire
+			NOT = {has_country_flag = rome_balcans}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 100
+			add_accepted_culture = bulgarian
+			add_accepted_culture = romanian
+			AUS_777 = {add_core = THIS}
+			SER_794 = {add_core = THIS}
+			TUR_803 = {add_core = THIS}
+			TUR_809 = {add_core = THIS}
+			TUR_810 = {add_core = THIS}
+			TUR_805 = {add_core = THIS}
+			TUR_674 = {add_core = THIS}
+			set_country_flag = rome_balcans
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	rome_anatolia = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = proclaim_romanempire
+			NOT = {has_country_flag = rome_anatolia}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 100
+			TUR_860 = {add_core = THIS}
+			TUR_855 = {add_core = THIS}
+			TUR_873 = {add_core = THIS}
+			TUR_863 = {add_core = THIS}
+			TUR_869 = {add_core = THIS}
+			TUR_876 = {add_core = THIS}
+			TUR_881 = {add_core = THIS}
+			TUR_884 = {add_core = THIS}
+			TUR_889 = {add_core = THIS}
+			TUR_885 = {add_core = THIS}
+			901 = {add_core = THIS}
+			set_country_flag = rome_anatolia
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	constantinople_instanbul = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			owns = 860
+			NOT={has_country_flag=constantinople_instanbul}
+		}
+		effect = {
+		    #
+			prestige = 10
+			860 = {
+				change_province_name = "Constantinople"
+			}
+			set_country_flag = constantinople_instanbul
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	rome_england = {
+	    picture = rome
+	    potential = {
+		    #   
+			tag = RME
+			has_country_flag = proclaim_romanempire
+			NOT = {has_country_flag = rome_england}
+			
+		}
+		allow = {
+		    RME = {all_core={owner={tag=THIS}}}
+		}
+		effect = {
+		    #
+			prestige = 100
+			ENG_300 = {add_core = THIS}
+			ENG_296 = {add_core = THIS}
+			ENG_273 = {add_core = THIS}
+			ENG_284 = {add_core = THIS}
+			ENG_291 = {add_core = THIS}
+			ENG_280 = {add_core = THIS}
+			ENG_277 = {add_core = THIS}
+			set_country_flag = rome_england
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+    }
+
+

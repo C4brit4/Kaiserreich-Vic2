@@ -21,19 +21,19 @@ objectTypes = {
 
 	EMFXActorType = {	
 		name = "PrussianGCCavalry"	
-		actorfile = "gfx\anims\GermanCav_Pre-war.xac"
-		idle   = "gfx\anims\Pre-warCavalryIdle.xsm"
-		move   = "gfx\anims\Pre-warCavalryMove.xsm"
-		attack = "gfx\anims\Pre-warCavalryAttack.xsm"
+		actorfile = "gfx\anims\GermanCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
 		scale = 4.1
 	}
 
 	EMFXActorType = {	
 		name = "PrussianGCCavalry2"	
-		actorfile = "gfx\anims\GermanCav_Worldwar.xac"
-		idle   = "gfx\anims\WorldwarCavalryIdle.xsm"
-		move   = "gfx\anims\WorldwarCavalryMove.xsm"
-		attack = "gfx\anims\WorldwarCavalryAttack.xsm"
+		actorfile = "gfx\anims\GermanCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
 		scale = 4.1
 	}
 

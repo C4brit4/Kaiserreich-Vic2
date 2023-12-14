@@ -56,7 +56,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_crime_strip"
 		textureFile = "gfx\\interface\\crime_strip.dds"
-		noOfFrames = 9
+		noOfFrames = 12
 	}
 	spriteType = {
 		name = "GFX_party_loyalty_strip"
@@ -71,12 +71,12 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_province_natfocus_strip"
 		textureFile = "gfx\\interface\\province_natfocus_strip.dds"
-		noOfFrames = 31
+		noOfFrames = 38
 	}
 	spriteType = {
 		name = "GFX_province_natfocus_strip_small"
 		textureFile = "gfx\\interface\\province_natfocus_strip_small.dds"
-		noOfFrames = 31
+		noOfFrames = 38
 	}
 	spriteType = {
 		name = "GFX_province_fort_strip"
@@ -246,8 +246,32 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_terrainimg_montane_tundra"
+		texturefile = "gfx\\interface\\terrain_montane_tundra.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_montane_forest"
+		texturefile = "gfx\\interface\\terrain_montane_forest.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_terrainimg_steppe"
 		texturefile = "gfx\\interface\\terrain_steppe.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_savanna"
+		texturefile = "gfx\\interface\\terrain_savanna.tga"
+		norefcount = yes
+	}
+	
+		spriteType = {
+		name = "GFX_terrainimg_semi_desert_mountains"
+		texturefile = "gfx\\interface\\terrain_semi_desert_mountains.tga"
 		norefcount = yes
 	}
 	
@@ -257,15 +281,33 @@ spriteTypes = {
 		norefcount = yes
 	}
 	
+		spriteType = {
+		name = "GFX_terrainimg_floodplain_farmland"
+		texturefile = "gfx\\interface\\terrain_floodplain_farmland.tga"
+		norefcount = yes
+	}
+	
 	spriteType = {
 		name = "GFX_terrainimg_forest"
 		texturefile = "gfx\\interface\\terrain_forest.tga"
 		norefcount = yes
 	}
-
+		
 	spriteType = {
-		name = "GFX_terrainimg_woods"
-		texturefile = "gfx\\interface\\terrain_woods.tga"
+		name = "GFX_terrainimg_boreal"
+		texturefile = "gfx\\interface\\terrain_boreal.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_dryhills"
+		texturefile = "gfx\\interface\\terrain_dryhills.tga"
+		norefcount = yes
+	}
+	
+		spriteType = {
+		name = "GFX_terrainimg_dry_mountains"
+		texturefile = "gfx\\interface\\terrain_dry_mountains.tga"
 		norefcount = yes
 	}
 		
@@ -282,14 +324,14 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_terrainimg_urban"
-		texturefile = "gfx\\interface\\terrain_farmlands.tga"
+		name = "GFX_terrainimg_hills"
+		texturefile = "gfx\\interface\\terrain_hills.tga"
 		norefcount = yes
 	}
 	
-	spriteType = {
-		name = "GFX_terrainimg_hills"
-		texturefile = "gfx\\interface\\terrain_hills.tga"
+		spriteType = {
+		name = "GFX_terrainimg_himalayan_mountains"
+		texturefile = "gfx\\interface\\terrain_himalayan_mountains.tga"
 		norefcount = yes
 	}
 		
@@ -305,6 +347,60 @@ spriteTypes = {
 		norefcount = yes
 	}
 	
+		spriteType = {
+		name = "GFX_terrainimg_jungle_farmland"
+		texturefile = "gfx\\interface\\terrain_jungle_farmland.tga"
+		norefcount = yes
+	}
+	
+			spriteType = {
+		name = "GFX_terrainimg_jungle_hills"
+		texturefile = "gfx\\interface\\terrain_jungle_hills.tga"
+		norefcount = yes
+	}
+	
+				spriteType = {
+		name = "GFX_terrainimg_jungle_mountains"
+		texturefile = "gfx\\interface\\terrain_jungle_mountains.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_semidesert"
+		texturefile = "gfx\\interface\\terrain_semidesert.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_coastal_desert"
+		texturefile = "gfx\\interface\\terrain_coastal_desert.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_small_island"
+		texturefile = "gfx\\interface\\terrain_small_island.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_coral_island"
+		texturefile = "gfx\\interface\\terrain_coral_island.tga"
+		norefcount = yes
+	}
+	
+		spriteType = {
+		name = "GFX_terrainimg_woods"
+		texturefile = "gfx\\interface\\terrain_woods.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban"
+		texturefile = "gfx\\interface\\terrain_urban.tga"
+		norefcount = yes
+	}
+
 	spriteType = {
 		name = "GFX_terrainimg_arctic"
 		texturefile = "gfx\\interface\\terrain_arctic.tga"
@@ -313,9 +409,910 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_terrainimg_ocean"
-		texturefile = "gfx\\interface\\terrain_mountains.tga"
+		texturefile = "gfx\\interface\\terrain_ocean.tga"
 		norefcount = yes
 	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_new_world_montane_tundra"
+		texturefile = "gfx\\interface\\terrain_new_world_montane_tundra.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_new_world_mountain"
+		texturefile = "gfx\\interface\\terrain_new_world_mountain.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_new_world_arctic"
+		texturefile = "gfx\\interface\\terrain_new_world_arctic.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_new_world_small_island"
+		texturefile = "gfx\\interface\\terrain_new_world_small_island.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_new_world_jungle"
+		texturefile = "gfx\\interface\\terrain_new_world_jungle.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_new_world_plains"
+		texturefile = "gfx\\interface\\terrain_new_world_plains.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_new_world_boreal"
+		texturefile = "gfx\\interface\\terrain_new_world_boreal.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_new_world_desert"
+		texturefile = "gfx\\interface\\terrain_new_world_desert.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_new_world_semidesert"
+		texturefile = "gfx\\interface\\terrain_new_world_semidesert.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_canal_suez"
+		texturefile = "gfx\\interface\\terrain_canal_suez.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_canal_panama"
+		texturefile = "gfx\\interface\\terrain_canal_panama.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_canal_kiel"
+		texturefile = "gfx\\interface\\terrain_canal_kiel.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_abu_dubai"
+		texturefile = "gfx\\interface\\terrain_urban_abu_dubai.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_agra"
+		texturefile = "gfx\\interface\\terrain_urban_agra.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_alexandria"
+		texturefile = "gfx\\interface\\terrain_urban_alexandria.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_amman"
+		texturefile = "gfx\\interface\\terrain_urban_amman.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_amsterdam"
+		texturefile = "gfx\\interface\\terrain_urban_amsterdam.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_ankara"
+		texturefile = "gfx\\interface\\terrain_urban_ankara.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_asuncion"
+		texturefile = "gfx\\interface\\terrain_urban_asuncion.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_athens"
+		texturefile = "gfx\\interface\\terrain_urban_athens.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_atlanta"
+		texturefile = "gfx\\interface\\terrain_urban_atlanta.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_baghdad"
+		texturefile = "gfx\\interface\\terrain_urban_baghdad.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_baku"
+		texturefile = "gfx\\interface\\terrain_urban_baku.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_bangkok"
+		texturefile = "gfx\\interface\\terrain_urban_bangkok.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_barcelona"
+		texturefile = "gfx\\interface\\terrain_urban_barcelona.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_beijing"
+		texturefile = "gfx\\interface\\terrain_urban_beijing.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_beirut"
+		texturefile = "gfx\\interface\\terrain_urban_beirut.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_belgrade"
+		texturefile = "gfx\\interface\\terrain_urban_belgrade.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_belfast"
+		texturefile = "gfx\\interface\\terrain_urban_belfast.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_berlin"
+		texturefile = "gfx\\interface\\terrain_urban_berlin.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_bern"
+		texturefile = "gfx\\interface\\terrain_urban_bern.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_bogota"
+		texturefile = "gfx\\interface\\terrain_urban_bogota.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_boston"
+		texturefile = "gfx\\interface\\terrain_urban_boston.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_bratislava"
+		texturefile = "gfx\\interface\\terrain_urban_bratislava.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_brunei"
+		texturefile = "gfx\\interface\\terrain_urban_brunei.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_brussels"
+		texturefile = "gfx\\interface\\terrain_urban_brussels.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_bucharest"
+		texturefile = "gfx\\interface\\terrain_urban_bucharest.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_budapest"
+		texturefile = "gfx\\interface\\terrain_urban_budapest.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_buenos_aires"
+		texturefile = "gfx\\interface\\terrain_urban_buenos_aires.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_cairo"
+		texturefile = "gfx\\interface\\terrain_urban_cairo.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_calcutta"
+		texturefile = "gfx\\interface\\terrain_urban_calcutta.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_caracas"
+		texturefile = "gfx\\interface\\terrain_urban_caracas.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_chicago"
+		texturefile = "gfx\\interface\\terrain_urban_chicago.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_colombo"
+		texturefile = "gfx\\interface\\terrain_urban_colombo.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_copenhagen"
+		texturefile = "gfx\\interface\\terrain_urban_copenhagen.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_damascus"
+		texturefile = "gfx\\interface\\terrain_urban_damascus.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_dhaka"
+		texturefile = "gfx\\interface\\terrain_urban_dhaka.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_dortmund"
+		texturefile = "gfx\\interface\\terrain_urban_dortmund.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_dubai"
+		texturefile = "gfx\\interface\\terrain_urban_dubai.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_dublin"
+		texturefile = "gfx\\interface\\terrain_urban_dublin.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_frankfurt"
+		texturefile = "gfx\\interface\\terrain_urban_frankfurt.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_giza"
+		texturefile = "gfx\\interface\\terrain_urban_giza.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_glasgow"
+		texturefile = "gfx\\interface\\terrain_urban_glasgow.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_guatemala_city"
+		texturefile = "gfx\\interface\\terrain_urban_guatemala_city.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_hanoi"
+		texturefile = "gfx\\interface\\terrain_urban_hanoi.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_havana"
+		texturefile = "gfx\\interface\\terrain_urban_havana.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_helsinki"
+		texturefile = "gfx\\interface\\terrain_urban_helsinki.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_hong_kong"
+		texturefile = "gfx\\interface\\terrain_urban_hong_kong.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_houston"
+		texturefile = "gfx\\interface\\terrain_urban_houston.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_istanbul"
+		texturefile = "gfx\\interface\\terrain_urban_istanbul.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_jakarta"
+		texturefile = "gfx\\interface\\terrain_urban_jakarta.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_jerusalem"
+		texturefile = "gfx\\interface\\terrain_urban_jerusalem.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_johannesburg"
+		texturefile = "gfx\\interface\\terrain_urban_johannesburg.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_kabul"
+		texturefile = "gfx\\interface\\terrain_urban_kabul.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_karachi"
+		texturefile = "gfx\\interface\\terrain_urban_karachi.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_kiev"
+		texturefile = "gfx\\interface\\terrain_urban_kiev.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_krakow"
+		texturefile = "gfx\\interface\\terrain_urban_krakow.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_kuala_lumpur"
+		texturefile = "gfx\\interface\\terrain_urban_kuala_lumpur.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_la_paz"
+		texturefile = "gfx\\interface\\terrain_urban_la_paz.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_leningrad"
+		texturefile = "gfx\\interface\\terrain_urban_leningrad.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_lima"
+		texturefile = "gfx\\interface\\terrain_urban_lima.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_lisbon"
+		texturefile = "gfx\\interface\\terrain_urban_lisbon.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_ljubljana"
+		texturefile = "gfx\\interface\\terrain_urban_ljubljana.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_london"
+		texturefile = "gfx\\interface\\terrain_urban_london.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_los_angeles"
+		texturefile = "gfx\\interface\\terrain_urban_los_angeles.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_luxembourg"
+		texturefile = "gfx\\interface\\terrain_urban_luxembourg.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_madrid"
+		texturefile = "gfx\\interface\\terrain_urban_madrid.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_manama"
+		texturefile = "gfx\\interface\\terrain_urban_manama.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_manila"
+		texturefile = "gfx\\interface\\terrain_urban_manila.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_mecca"
+		texturefile = "gfx\\interface\\terrain_urban_mecca.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_melbourne"
+		texturefile = "gfx\\interface\\terrain_urban_melbourne.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_mexico_city"
+		texturefile = "gfx\\interface\\terrain_urban_mexico_city.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_miami"
+		texturefile = "gfx\\interface\\terrain_urban_miami.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_milan"
+		texturefile = "gfx\\interface\\terrain_urban_milan.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_minsk"
+		texturefile = "gfx\\interface\\terrain_urban_minsk.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_montevideo"
+		texturefile = "gfx\\interface\\terrain_urban_montevideo.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_moscow"
+		texturefile = "gfx\\interface\\terrain_urban_moscow.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_munich"
+		texturefile = "gfx\\interface\\terrain_urban_munich.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_muscat"
+		texturefile = "gfx\\interface\\terrain_urban_muscat.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_naples"
+		texturefile = "gfx\\interface\\terrain_urban_naples.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_new_delhi"
+		texturefile = "gfx\\interface\\terrain_urban_new_delhi.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_new_york"
+		texturefile = "gfx\\interface\\terrain_urban_new_york.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_nicosia"
+		texturefile = "gfx\\interface\\terrain_urban_nicosia.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_nuremberg"
+		texturefile = "gfx\\interface\\terrain_urban_nuremberg.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_odessa"
+		texturefile = "gfx\\interface\\terrain_urban_odessa.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_oslo"
+		texturefile = "gfx\\interface\\terrain_urban_oslo.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_ottawa"
+		texturefile = "gfx\\interface\\terrain_urban_ottawa.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_panama_city"
+		texturefile = "gfx\\interface\\terrain_urban_panama_city.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_paris"
+		texturefile = "gfx\\interface\\terrain_urban_paris.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_phnom_penh"
+		texturefile = "gfx\\interface\\terrain_urban_phnom_penh.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_podgorica"
+		texturefile = "gfx\\interface\\terrain_urban_podgorica.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_port_au_prince"
+		texturefile = "gfx\\interface\\terrain_urban_port_au_prince.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_prague"
+		texturefile = "gfx\\interface\\terrain_urban_prague.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_pretoria"
+		texturefile = "gfx\\interface\\terrain_urban_pretoria.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_pyongyang"
+		texturefile = "gfx\\interface\\terrain_urban_pyongyang.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_quito"
+		texturefile = "gfx\\interface\\terrain_urban_quito.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_riga"
+		texturefile = "gfx\\interface\\terrain_urban_riga.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_rio_de_janeiro"
+		texturefile = "gfx\\interface\\terrain_urban_rio_de_janeiro.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_riyadh"
+		texturefile = "gfx\\interface\\terrain_urban_riyadh.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_rome"
+		texturefile = "gfx\\interface\\terrain_urban_rome.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_sanaa"
+		texturefile = "gfx\\interface\\terrain_urban_sanaa.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_san_francisco"
+		texturefile = "gfx\\interface\\terrain_urban_san_francisco.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_san_juan"
+		texturefile = "gfx\\interface\\terrain_urban_san_juan.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_san_jose"
+		texturefile = "gfx\\interface\\terrain_urban_san_jose.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_san_salvador"
+		texturefile = "gfx\\interface\\terrain_urban_san_salvador.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_santo_domingo"
+		texturefile = "gfx\\interface\\terrain_urban_santo_domingo.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_santiago"
+		texturefile = "gfx\\interface\\terrain_urban_santiago.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_sao_paulo"
+		texturefile = "gfx\\interface\\terrain_urban_sao_paulo.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_sarajevo"
+		texturefile = "gfx\\interface\\terrain_urban_sarajevo.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_seoul"
+		texturefile = "gfx\\interface\\terrain_urban_seoul.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_sevastopol"
+		texturefile = "gfx\\interface\\terrain_urban_sevastopol.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_shanghai"
+		texturefile = "gfx\\interface\\terrain_urban_shanghai.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_skopje"
+		texturefile = "gfx\\interface\\terrain_urban_skopje.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_singapore"
+		texturefile = "gfx\\interface\\terrain_urban_singapore.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_simferopol"
+		texturefile = "gfx\\interface\\terrain_urban_simferopol.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_smyrni"
+		texturefile = "gfx\\interface\\terrain_urban_smyrni.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_sofia"
+		texturefile = "gfx\\interface\\terrain_urban_sofia.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_stockholm"
+		texturefile = "gfx\\interface\\terrain_urban_stockholm.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_sydney"
+		texturefile = "gfx\\interface\\terrain_urban_sydney.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_taipei"
+		texturefile = "gfx\\interface\\terrain_urban_taipei.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_tallinn"
+		texturefile = "gfx\\interface\\terrain_urban_tallinn.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_tbilisi"
+		texturefile = "gfx\\interface\\terrain_urban_tbilisi.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_tehran"
+		texturefile = "gfx\\interface\\terrain_urban_tehran.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_thessaloniki"
+		texturefile = "gfx\\interface\\terrain_urban_thessaloniki.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_tirana"
+		texturefile = "gfx\\interface\\terrain_urban_tirana.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_tegucigalpa"
+		texturefile = "gfx\\interface\\terrain_urban_tegucigalpa.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_trabzon"
+		texturefile = "gfx\\interface\\terrain_urban_trabzon.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_tokyo"
+		texturefile = "gfx\\interface\\terrain_urban_tokyo.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_toronto"
+		texturefile = "gfx\\interface\\terrain_urban_toronto.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_turin"
+		texturefile = "gfx\\interface\\terrain_urban_turin.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_venice"
+		texturefile = "gfx\\interface\\terrain_urban_venice.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_vienna"
+		texturefile = "gfx\\interface\\terrain_urban_vienna.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_vilnius"
+		texturefile = "gfx\\interface\\terrain_urban_vilnius.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_warsaw"
+		texturefile = "gfx\\interface\\terrain_urban_warsaw.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_wellington"
+		texturefile = "gfx\\interface\\terrain_urban_wellington.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_washington"
+		texturefile = "gfx\\interface\\terrain_urban_washington.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_yerevan"
+		texturefile = "gfx\\interface\\terrain_urban_yerevan.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_zagreb"
+		texturefile = "gfx\\interface\\terrain_urban_zagreb.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_zurich"
+		texturefile = "gfx\\interface\\terrain_urban_zurich.tga"
+		norefcount = yes
+	}
+
+	spriteType = {
+		name = "GFX_terrainimg_urban_ulaanbaatar"
+		texturefile = "gfx\\interface\\terrain_urban_ulaanbaatar.tga"
+		norefcount = yes
+	}
+	
 	spriteType = {
 		name = "GFX_invest_rail_button"
 		texturefile = "gfx\\interface\\invest_rail_button.tga"

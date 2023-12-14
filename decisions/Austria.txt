@@ -204,13 +204,6 @@ political_decisions = {
 
         allow = {         
             war = no                     	
-            ITR = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS                       
-                    }
-                }
-            }
 			BOH = {
                     all_core = {
                         OR = {
@@ -460,6 +453,7 @@ political_decisions = {
                         name = danubio
                         duration = 120
                 }
+			inherit = VEN
 			release_vassal = ITR
 			war = {
 	         target = ITR
@@ -631,13 +625,6 @@ political_decisions = {
 
         allow = {         
             war = no                     	
-            ITR = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS                       
-                    }
-                }
-            }
 			BOH = {
                     all_core = {
                         OR = {
