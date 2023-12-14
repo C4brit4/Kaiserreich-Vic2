@@ -5,9 +5,9 @@ culture = ukrainian
 culture = ugrian
 religion = orthodox
 government = democracy
-plurality = 25
+literacy = 0.70
+plurality = 70
 nationalvalue = nv_order
-literacy = 0.10
 civilized = yes
 
 set_country_flag = serfdom_not_abolished
