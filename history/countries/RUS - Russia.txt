@@ -17,22 +17,23 @@ prestige = 80
 
 # Political reforms
 slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
+upper_house_composition = population_equal_weight
+vote_franschise = universal_voting
 public_meetings = yes_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
+press_rights = censored_press
+trade_unions = all_trade_unions
 voting_system = first_past_the_post
 political_parties = underground_parties
 
-# Social Reforms
-wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
-safety_regulations = no_safety
-health_care = no_health_care
+# Social reforms
+wage_reform = low_minimum_wage
+work_hours = fourteen_hours
+safety_regulations = low_safety
+health_care =low_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
-school_reforms = no_schools
+school_reforms = acceptable_schools
+
 
 ruling_party = RUS_conservative
 upper_house = {
@@ -91,8 +92,6 @@ decision = peking_convention
 }
 1861.1.1 = {
 	ruling_party = RUS_liberal
-	plurality = 60
-	literacy = 0.15
 	non_state_culture_literacy = 0.15
 
 # Technologies
@@ -155,20 +154,25 @@ decision = peking_convention
 }
 
 1861.1.1 = {
+
+literacy = 0.87
+plurality = 90
+
 slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
-public_meetings = no_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
-voting_system = jefferson_method
+upper_house_composition = population_equal_weight
+vote_franschise = universal_voting
+public_meetings = yes_meeting
+press_rights = censored_press
+trade_unions = all_trade_unions
+voting_system = first_past_the_post
 political_parties = underground_parties
 
-wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
-safety_regulations = no_safety
-health_care =trinket_health_care
+wage_reform = low_minimum_wage
+work_hours = fourteen_hours
+safety_regulations = low_safety
+health_care =low_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
-school_reforms = no_schools
+school_reforms = acceptable_schools
+
 }
