@@ -10,12 +10,6 @@ reforms_government = {
         icon = 4
 }
 
-secessionist_workers = {
-    pop_consciousness_modifier = 0.1
-    pop_militancy_modifier = 0.1
-    icon = 18
-}
-
 plan_quinquenal = {
         RGO_output = 1
 	RGO_throughput = 1
@@ -637,9 +631,6 @@ stock_market_crash = {
 
 great_depression = {
 	factory_throughput = -0.3
-	mobilisation_size = -0.03
-	mobilization_impact = -0.25
-	mobilization_economy_impact = -0.25
 	rgo_output = -0.3
 	tax_efficiency = -0.05
 	loan_interest = 0.02
@@ -792,33 +783,6 @@ liberian_research_boost = {
 	research_points_modifier = 0.15
 	icon = 5
 }
-
-## JAP - Japan ##
-
-hirohito = {
-	prestige = 0.1
-	icon = 1
-}
-
-yokuseiha_faction = {
-	factory_output = 0.01
-	rgo_output = 0.01
-	icon = 3	
-}
-
-kodoha_faction = {
-	pop_militancy_modifier = -0.025
-	pop_consciousness_modifier = -0.025
-	cb_creation_speed = 0.1	
-	icon = 3
-}
-
-kakushinha_faction = {
-    tax_efficiency = 0.1
-	administrative_efficiency = 0.1
-	icon = 3
-}	
-###
 austria = {
 	
 }
@@ -848,23 +812,9 @@ reforms_government = {
 }
 
 asimilacion = {
-	global_assimilation_rate = 9999
+	global_assimilation_rate = 999
 }
 
 contrarevolucion_fra = {
 	
-}
-
-a_new_administration = {
-	
-}
-
-spy_unrest = {
-	global_pop_militancy_modifier = 0.3
-	war_exhaustion = 0.5
-	icon = 18
-}
-
-spying = {
-	icon = 7
 }

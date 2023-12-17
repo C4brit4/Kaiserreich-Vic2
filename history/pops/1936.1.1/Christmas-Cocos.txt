@@ -1,55 +1,23 @@
-#Christmas-Cocos Region (560) 
-#uncolonized in 1836
-#Christmas Island (60/15POPS) 
+#Christmas-Cocos Region (560)
+#Christmas Island (60/15 POPS)
 2244 = {
-	officers = {
-		culture = yue
-		religion =  mahayana
-		size = 1
-	 } 
-	soldiers = {
-		culture = yue
-		religion =  mahayana
-		size = 7
-	 } 
-	soldiers = {
-		culture = yue
-		religion = mahayana
-		size = 1
-	 } 
-	aristocrats = {
-		culture = yue
-		religion =  mahayana
-		size = 8
-	 } 
-	aristocrats = {
-		culture = yue
-		religion = mahayana
-		size = 1
-	 } 
-	clergymen = {
-		culture = yue
-		religion =  mahayana
-		size = 1
-	 } 
-	artisans = {
-		culture = yue
-		religion =  mahayana
-		size = 5
-	 } 
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 1
-	 } 
 	farmers = {
 		culture = malay
-		religion =  sunni
-		size = 149
-	 } 
+		religion = sunni
+		size = 15
+	}
+}
+#Cocos Islands (500/125 POPS)
+2406 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 5
+	}
+
 	farmers = {
-		culture = yue
-		religion = mahayana
-		size = 30
-	 } 
+		culture = malay
+		religion = sunni
+		size = 120
+	}
 }

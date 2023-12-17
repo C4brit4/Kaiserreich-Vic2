@@ -1,545 +1,922 @@
 #Niger Region (492000)
-#uncolonized in 1836/under the loose control of Sokoto
-#Niamey (288000/72000 POPS)
+#uncolonized in 1936/under the loose control of Sokoto
+#Niamey (144000/36000 POPS)
 1808 = {
 	aristocrats = {
 		culture = fulbe
 		religion = sunni
-		size = 350
+		size = 180.25
 	}
 
 	clergymen = {
 		culture = fulbe
 		religion = sunni
-		size = 200
+		size = 103.0
 	}
 
 	artisans = {
 		culture = fulbe
 		religion = sunni
-		size = 800
+		size = 412.0
 	}
 
 	soldiers = {
 		culture = fulbe
 		religion = sunni
-		size = 200
+		size = 103.0
 	}
 
 	farmers = {
 		culture = fulbe
 		religion = sunni
-		size = 16450
+		size = 8471.75
 	}
 
 	aristocrats = {
 		culture = dyula
 		religion = sunni
-		size = 170
+		size = 77.25
 	}
 
 	clergymen = {
 		culture = dyula
 		religion = sunni
-		size = 100
+		size = 51.5
 	}
 
 	artisans = {
 		culture = dyula
 		religion = sunni
-		size = 500
+		size = 257.5
 	}
 
 	soldiers = {
 		culture = dyula
 		religion = sunni
-		size = 100
+		size = 51.5
 	}
 
 	farmers = {
 		culture = dyula
 		religion = sunni
-		size = 9150
+		size = 4712.25
 	}
 
 	aristocrats = {
 		culture = songhai
 		religion = sunni
-		size = 450
-	}
-	
-	bureaucrats = {
-		culture = songhai
-		religion = sunni
-		size = 450
-	}
-	
-	bureaucrats = {
-		culture = hausa
-		religion = sunni
-		size = 25
+		size = 231.75
 	}
 
 	clergymen = {
 		culture = songhai
 		religion = sunni
-		size = 250
+		size = 128.75
 	}
 
 	artisans = {
 		culture = songhai
 		religion = sunni
-		size = 1150
+		size = 540.75
 	}
 
 	soldiers = {
 		culture = songhai
 		religion = sunni
-		size = 2280
+		size = 128.75
 	}
 
 	farmers = {
 		culture = songhai
 		religion = sunni
-		size = 4050
+		size = 11330.0
 	}
 
-	farmers = {
-		culture = gur
+	aristocrats = {
+		culture = african_minor
 		religion = animist
-		size = 2000
+		size = 10.3
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 25.75
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 15.450000000000001
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 927.0
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3090.0
 	}
 
 	aristocrats = {
 		culture = tuareg
 		religion = sunni
-		size = 250
+		size = 128.75
 	}
 
 	clergymen = {
 		culture = tuareg
 		religion = sunni
-		size = 150
+		size = 77.25
 	}
 
 	artisans = {
 		culture = tuareg
 		religion = sunni
-		size = 700
+		size = 360.5
 	}
 
 	soldiers = {
 		culture = tuareg
 		religion = sunni
-		size = 150
+		size = 77.25
 	}
 
 	farmers = {
 		culture = tuareg
 		religion = sunni
-		size = 10750
+		size = 5536.25
 	}
 }
-#Say (136000/34000 POPS)
+#Say (68000/17000 POPS)
 1809 = {
 	aristocrats = {
 		culture = fulbe
 		religion = sunni
-		size = 150
+		size = 77.25
 	}
 
 	clergymen = {
 		culture = fulbe
 		religion = sunni
-		size = 100
+		size = 51.5
 	}
 
 	artisans = {
 		culture = fulbe
 		religion = sunni
-		size = 500
+		size = 257.5
 	}
 
 	soldiers = {
 		culture = fulbe
 		religion = sunni
-		size = 100
+		size = 51.5
 	}
 
 	farmers = {
 		culture = fulbe
 		religion = sunni
-		size = 7150
+		size = 3682.25
 	}
 
 	aristocrats = {
 		culture = dyula
 		religion = sunni
-		size = 50
+		size = 25.75
 	}
 
 	clergymen = {
 		culture = dyula
 		religion = sunni
-		size = 100
+		size = 51.5
 	}
 
 	artisans = {
 		culture = dyula
 		religion = sunni
-		size = 200
+		size = 103.0
 	}
 
 	soldiers = {
 		culture = dyula
 		religion = sunni
-		size = 50
+		size = 25.75
 	}
 
 	farmers = {
 		culture = dyula
 		religion = sunni
-		size = 3600
+		size = 1854.0
 	}
 
 	aristocrats = {
 		culture = songhai
 		religion = sunni
-		size = 350
+		size = 103.0
 	}
 
 	clergymen = {
 		culture = songhai
 		religion = sunni
-		size = 100
+		size = 51.5
 	}
 
 	artisans = {
 		culture = songhai
 		religion = sunni
-		size = 1000
+		size = 309.0
 	}
 
 	soldiers = {
 		culture = songhai
 		religion = sunni
-		size = 1200
+		size = 77.25
 	}
 
 	farmers = {
 		culture = songhai
 		religion = sunni
-		size = 5350
+		size = 4609.25
 	}
 
-	farmers = {
-		culture = gur
+	aristocrats = {
+		culture = african_minor
 		religion = animist
-		size = 4000
+		size = 77.25
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 51.5
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 206.0
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 51.5
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 3733.75
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2060.0
 	}
 }
-#Dosso (280000/70000 POPS)
+#Dosso (140000/POPS)
 1810 = {
-	soldiers = {
-		culture = songhai
-		religion =  sunni 
-		size = 1164
-	 } 
 	aristocrats = {
 		culture = fulbe
-		religion =  sunni 
-		size = 3880
-	 } 
+		religion = sunni
+		size = 51.5
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 77.25
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 180.25
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 51.5
+	}
+
 	farmers = {
-		culture = hausa
-		religion =  sunni 
-		size = 89503
-	 } 
-}
-#Maradi (280000/70000 POPS)
-1811 = {
-	soldiers = {
-		culture = songhai
-		religion =  sunni 
-		size = 1947
-	 } 
-	aristocrats = {
 		culture = fulbe
-		religion =  sunni 
-		size = 6490
-	 } 
+		religion = sunni
+		size = 2729.5
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 360.5
+	}
+
 	clergymen = {
 		culture = hausa
-		religion =  sunni 
-		size = 1622
-	 } 
+		religion = sunni
+		size = 206.0
+	}
+
 	artisans = {
-		culture = songhai
-		religion =  sunni 
-		size = 1020
-	 } 
+		culture = hausa
+		religion = sunni
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 206.0
+	}
+
 	farmers = {
 		culture = hausa
-		religion =  sunni 
-		size = 9712
-	 } 
+		religion = sunni
+		size = 16737.5
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 25.75
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 51.5
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 103.0
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 25.75
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 1854.0
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3090.0
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 180.25
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 103.0
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 386.25
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 103.0
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 8497.5
+	}
+}
+#Maradi (140000/35000 POPS)
+1811 = {
+	aristocrats = {
+		culture = fulbe
+		religion = sunni
+		size = 10.3
+	}
+
+	clergymen = {
+		culture = fulbe
+		religion = sunni
+		size = 25.75
+	}
+
+	artisans = {
+		culture = fulbe
+		religion = sunni
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = fulbe
+		religion = sunni
+		size = 15.450000000000001
+	}
+
+	farmers = {
+		culture = fulbe
+		religion = sunni
+		size = 927.0
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 463.5
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 257.5
+	}
+
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 1287.5
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 257.5
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 19364.0
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 77.25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 412.0
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 77.25
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 7519.0
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4120.0
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 10.3
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 25.75
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 15.450000000000001
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 927.0
+	}
 }
 #Air Region (144000)
-#uncolonized in 1836/under the rule of Sultan of Agades
-#Agades (168000/42000 POPS)
+#uncolonized in 1936/under the rule of Sultan of Agades
+#Agades (84000/21000 POPS)
 1812 = {
 	aristocrats = {
 		culture = tuareg
 		religion = sunni
-		size = 500
+		size = 257.5
 	}
 
 	clergymen = {
 		culture = tuareg
 		religion = sunni
-		size = 300
+		size = 154.5
 	}
 
 	artisans = {
 		culture = tuareg
 		religion = sunni
-		size = 1100
+		size = 566.5
 	}
 
 	soldiers = {
 		culture = tuareg
 		religion = sunni
-		size = 1100
+		size = 154.5
 	}
 
 	farmers = {
 		culture = tuareg
 		religion = sunni
-		size = 15000
+		size = 9167.0
 	}
 
 	aristocrats = {
 		culture = hausa
 		religion = sunni
-		size = 250
+		size = 128.75
 	}
 
 	clergymen = {
 		culture = hausa
 		religion = sunni
-		size = 150
+		size = 77.25
 	}
 
 	artisans = {
 		culture = hausa
 		religion = sunni
-		size = 700
+		size = 360.5
 	}
 
 	soldiers = {
 		culture = hausa
 		religion = sunni
-		size = 150
+		size = 77.25
 	}
 
 	farmers = {
 		culture = hausa
 		religion = sunni
-		size = 2750
+		size = 4506.25
 	}
 
-	farmers = {
-		culture = baguirmi
+	slaves = {
+		culture = african_minor
 		religion = animist
-		size = 2000
+		size = 6180.0
 	}
 }
 #Arlit (16000/4000 POPS)
 1813 = {
-	soldiers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 1905
-	 } 
 	aristocrats = {
 		culture = tuareg
-		religion =  sunni 
-		size = 6350
-	 } 
+		religion = sunni
+		size = 77.25
+	}
+
 	clergymen = {
 		culture = tuareg
-		religion =  sunni 
-		size = 1587
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 62345
-	 } 
-	farmers = {
-		culture = hausa
-		religion =  sunni 
-		size = 15562
-	 } 
-	farmers = {
-		culture = fulbe
-		religion =  sunni 
-		size = 18575
-	 } 
-}
-#Madama (44000/11000 POPS)
-1814 = {
-	officers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 5
-	 } 
-	soldiers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 21
-	 } 
-	aristocrats = {
-		culture = tuareg
-		religion =  sunni 
-		size = 70
-	 } 
-	bureaucrats = {
-		culture = tuareg
-		religion =  sunni 
-		size = 1
-	 } 
-	capitalists = {
-		culture = tuareg
-		religion =  sunni 
-		size = 8
-	 } 
-	clergymen = {
-		culture = tuareg
-		religion =  sunni 
-		size = 17
-	 } 
+		religion = sunni
+		size = 51.5
+	}
+
 	artisans = {
 		culture = tuareg
-		religion =  sunni 
-		size = 11
-	 } 
-	farmers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 1617
-	 } 
-}
-#Damergu Region (360000)
-#uncolonized in 1836/under the rule of Sultan of Zinder
-#Zinder (464000/116000 POPS)
-1815 = {
+		religion = sunni
+		size = 206.0
+	}
+
 	soldiers = {
-		culture = hausa
-		religion =  sunni 
-		size = 2025
-	 } 
-	aristocrats = {
-		culture = hausa
-		religion =  sunni 
-		size = 6750
-	 } 
-	clergymen = {
-		culture = hausa
-		religion =  sunni 
-		size = 1687
-	 } 
-	artisans = {
-		culture = hausa
-		religion =  sunni 
-		size = 1061
-	 } 
-	farmers = {
-		culture = hausa
-		religion =  sunni 
-		size = 23647
-	 } 
-	farmers = {
-		culture = fulbe
-		religion =  sunni 
-		size = 8562
-	 } 
-	farmers = {
-		culture = kanuri
-		religion =  catholic 
-		size = 13432
-	 } 
+		culture = tuareg
+		religion = sunni
+		size = 51.5
+	}
+
 	farmers = {
 		culture = tuareg
 		religion = sunni
-		size = 67
-	 } 
+		size = 3733.75
+	}
 }
-#under the rule of Kanem-Bornu in 1836
-#Kufe (384000/96000 POPS)
-1816 = {
+#Madama (44000/11000 POPS)
+1814 = {
 	aristocrats = {
 		culture = tuareg
-		religion =  sunni 
-		size = 1130
-	 } 
+		religion = sunni
+		size = 206.0
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 103.0
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 566.5
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 128.75
+	}
+
 	farmers = {
-		culture = fulbe
-		religion =  sunni 
-		size = 3469
-	 } 
+		culture = tuareg
+		religion = sunni
+		size = 6205.75
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 4120.0
+	}
+}
+#Damergu Region (360000)
+#uncolonized in 1936/under the rule of Sultan of Zinder
+#Zinder (228000/57000 POPS)
+1815 = {
+	aristocrats = {
+		culture = hausa
+		religion = sunni
+		size = 772.5
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = sunni
+		size = 412.0
+	}
+
+	artisans = {
+		culture = hausa
+		religion = sunni
+		size = 2060.0
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = sunni
+		size = 412.0
+	}
+
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 32393.5
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 334.75
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 180.25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 927.0
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 1107.25
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 10737.75
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 6180.0
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 77.25
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 51.5
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 257.5
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 51.5
+	}
+
+	farmers = {
+		culture = tuareg
+		religion = sunni
+		size = 3682.25
+	}
+}
+#uncolonized in 1936/under the rule of Sultan of Borno
+#Kufe (96000/24000 POPS)
+1816 = {
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 463.5
+	}
+
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 231.75
+	}
+
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 952.75
+	}
+
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 257.5
+	}
+
 	farmers = {
 		culture = kanuri
-		religion =  catholic 
-		size = 2487
-	 } 
+		religion = sunni
+		size = 14574.5
+	}
+
+	aristocrats = {
+		culture = tuareg
+		religion = sunni
+		size = 10.3
+	}
+
+	clergymen = {
+		culture = tuareg
+		religion = sunni
+		size = 25.75
+	}
+
+	artisans = {
+		culture = tuareg
+		religion = sunni
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 15.450000000000001
+	}
+
 	farmers = {
-		culture = kanuri
-		religion = catholic 
-		size = 113
-	 } 
+		culture = tuareg
+		religion = sunni
+		size = 927.0
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 7210.0
+	}
 }
 #Bilma (36000/9000 POPS)
 1817 = {
-	officers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 5
-	 } 
-	soldiers = {
-		culture = tuareg
-		religion =  sunni 
-		size = 21
-	 } 
 	aristocrats = {
 		culture = tuareg
-		religion =  sunni 
-		size = 70
-	 } 
-	bureaucrats = {
-		culture = tuareg
-		religion =  sunni 
-		size = 1
-	 } 
-	capitalists = {
-		culture = tuareg
-		religion =  sunni 
-		size = 8
-	 } 
+		religion = sunni
+		size = 128.75
+	}
+
 	clergymen = {
 		culture = tuareg
-		religion =  sunni 
-		size = 17
-	 } 
+		religion = sunni
+		size = 77.25
+	}
+
 	artisans = {
 		culture = tuareg
-		religion =  sunni 
-		size = 11
-	 } 
+		religion = sunni
+		size = 360.5
+	}
+
+	soldiers = {
+		culture = tuareg
+		religion = sunni
+		size = 77.25
+	}
+
 	farmers = {
 		culture = tuareg
-		religion =  sunni 
-		size = 1617
-	 } 
+		religion = sunni
+		size = 4506.25
+	}
+
+	aristocrats = {
+		culture = teda
+		religion = sunni
+		size = 25.75
+	}
+
+	clergymen = {
+		culture = teda
+		religion = sunni
+		size = 51.5
+	}
+
+	artisans = {
+		culture = teda
+		religion = sunni
+		size = 103.0
+	}
+
+	soldiers = {
+		culture = teda
+		religion = sunni
+		size = 25.75
+	}
+
+	farmers = {
+		culture = teda
+		religion = sunni
+		size = 1854.0
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2060.0
+	}
 
 }

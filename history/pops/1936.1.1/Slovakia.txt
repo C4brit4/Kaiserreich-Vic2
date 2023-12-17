@@ -1,597 +1,754 @@
-#Slovakia Region (1588000) 
-#under the rule of Austria in 1836  
-#Bratislava (691060/172765 POPS)
+#Slovakia Region (1588000)
+#under the rule of Austria in 1936
+#Bratislava (784000/196000 POPS)
 633 = {
-	aristocrats = {
-		culture = czech
-		religion =  catholic 
-		size = 9421
-	 } 
-	aristocrats = {
-		culture = czech
-		religion = catholic 
-		size = 2068
-	 } 
 	bureaucrats = {
-		culture = czech
-		religion =  catholic 
-		size = 470
-	 } 
+		culture = slovak
+		religion = catholic
+		size = 128.75
+	}
+
 	bureaucrats = {
-		culture = czech
-		religion = catholic 
-		size = 103
-	 } 
-	capitalists = {
-		culture = czech
-		religion =  catholic 
-		size = 1177
-	 } 
-	capitalists = {
-		culture = czech
-		religion = catholic 
-		size = 258
-	 } 
-	clergymen = {
-		culture = czech
-		religion =  catholic 
-		size = 706
-	 } 
-	clergymen = {
-		culture = czech
-		religion = catholic 
-		size = 155
-	 } 
+		culture = south_german
+		religion = catholic
+		size = 463.5
+	}
+
+	officers = {
+		culture = slovak
+		religion = catholic
+		size = 77.25
+	}
+
 	clergymen = {
 		culture = slovak
-		religion =  catholic 
-		size = 4004
-	 } 
-	clergymen = {
-		culture = slovak
-		religion = catholic 
-		size = 878
-	 } 
-	clerks = {
-		culture = slovak
-		religion =  catholic 
-		size = 6451
-	 } 
-	clerks = {
-		culture = slovak
-		religion = catholic 
-		size = 1416
-	 } 
+		religion = catholic
+		size = 1236.0
+	}
+
 	artisans = {
 		culture = slovak
-		religion =  catholic 
-		size = 6129
-	 } 
-	artisans = {
-		culture = slovak
-		religion = catholic 
-		size = 1345
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion =  catholic 
-		size = 19356
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion = catholic 
-		size = 4248
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 98318
-	 } 
-	farmers = {
-		culture = slovak
-		religion = catholic 
-		size = 21582
-	 } 
-	farmers = {
-		culture = gypsy
-		religion =  sunni
-		size = 7065
-	 } 
-	farmers = {
-		culture = gypsy
-		religion = orthodox 
-		size = 1551
-	 } 
-	farmers = {
-		culture = south_german
-		religion =  catholic 
-		size = 11776
-	 } 
-	farmers = {
-		culture = south_german
-		religion = catholic 
-		size = 1585
-	 } 
-	farmers = {
-		culture = polish
-		religion =  catholic 
-		size = 30663
-	 } 
-	farmers = {
-		culture = polish
-		religion = catholic 
-		size = 15511
-	 }
+		religion = catholic
+		size = 6386.0
+	}
+
 	soldiers = {
 		culture = slovak
-		religion = catholic 
-		size = 60000
-	 }  
+		religion = catholic
+		size = 1287.5
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 118604.5
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 2317.5
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 309.0
+	}
+
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 206.0
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 206.0
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 1287.5
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 1206.0
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 15068.0
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 128.75
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 154.5
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 15166.75
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 180.25
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 11330.0
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 206.0
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 8883.75
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 1287.5
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 283.25
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 154.5
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 180.25
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 13390.0
+	}
 }
-#Trencin (342540/85635 POPS)
+#Trencin (228000/57000 POPS)
 634 = {
-	aristocrats = {
-		culture = slovak
-		religion =  catholic 
-		size = 4838
-	 } 
-	aristocrats = {
-		culture = slovak
-		religion = catholic 
-		size = 1062
-	 } 
-	bureaucrats = {
-		culture = slovak
-		religion =  catholic 
-		size = 241
-	 } 
-	bureaucrats = {
-		culture = slovak
-		religion = catholic 
-		size = 53
-	 } 
-	capitalists = {
-		culture = slovak
-		religion =  catholic 
-		size = 604
-	 } 
-	capitalists = {
-		culture = slovak
-		religion = catholic 
-		size = 132
-	 } 
 	clergymen = {
 		culture = slovak
-		religion =  catholic 
-		size = 2419
-	 } 
+		religion = catholic
+		size = 515.0
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 2678.0
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 1515.0
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 48852.0
+	}
+
 	clergymen = {
-		culture = slovak
-		religion = catholic 
-		size = 531
-	 } 
-	clerks = {
-		culture = slovak
-		religion =  catholic 
-		size = 3312
-	 } 
-	clerks = {
-		culture = slovak
-		religion = catholic 
-		size = 727
-	 } 
+		culture = ashkenazi
+		religion = jewish
+		size = 25.75
+	}
+
 	artisans = {
-		culture = slovak
-		religion =  catholic 
-		size = 3147
-	 } 
+		culture = ashkenazi
+		religion = jewish
+		size = 1133.0
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25.75
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 875.5
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 309.0
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 51.5
+	}
+
 	artisans = {
-		culture = slovak
-		religion = catholic 
-		size = 690
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion =  catholic 
-		size = 9939
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion = catholic 
-		size = 2181
-	 } 
+		culture = south_german
+		religion = catholic
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 51.5
+	}
+
 	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 96447
-	 } 
-	farmers = {
-		culture = slovak
-		religion = catholic 
-		size = 21171
-	 } 
+		culture = south_german
+		religion = catholic
+		size = 2523.5
+	}
 }
-#Nitra (3279752/819938 POPS)
+#Nitra (352000/88000 POPS)
 635 = {
-	aristocrats = {
-		culture = slovak
-		religion =  catholic 
-		size = 5608
-	 } 
-	aristocrats = {
-		culture = slovak
-		religion = catholic 
-		size = 1231
-	 } 
-	bureaucrats = {
-		culture = slovak
-		religion =  catholic 
-		size = 280
-	 } 
-	bureaucrats = {
-		culture = slovak
-		religion = catholic 
-		size = 61
-	 } 
-	capitalists = {
-		culture = slovak
-		religion =  catholic 
-		size = 701
-	 } 
-	capitalists = {
-		culture = slovak
-		religion = catholic 
-		size = 153
-	 } 
 	clergymen = {
 		culture = slovak
-		religion =  catholic 
-		size = 2804
-	 } 
+		religion = catholic
+		size = 669.5
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 3502.0
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 1669.5
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 64199.0
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = catholic
+		size = 1133.0
+	}
+
 	clergymen = {
-		culture = slovak
-		religion = catholic 
-		size = 615
-	 } 
-	clerks = {
-		culture = slovak
-		religion =  catholic 
-		size = 3840
-	 } 
-	clerks = {
-		culture = slovak
-		religion = catholic 
-		size = 843
-	 } 
+		culture = hungarian
+		religion = catholic
+		size = 77.25
+	}
+
 	artisans = {
-		culture = slovak
-		religion =  catholic 
-		size = 3648
-	 } 
+		culture = hungarian
+		religion = catholic
+		size = 360.5
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 77.25
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 5562.0
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 51.5
+	}
+
 	artisans = {
-		culture = slovak
-		religion = catholic 
-		size = 800
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion =  catholic 
-		size = 11522
-	 } 
-	craftsmen = {
-		culture = south_german
-		religion = catholic 
-		size = 2529
-	 } 
+		culture = hungarian
+		religion = protestant
+		size = 412.0
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 77.25
+	}
+
 	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 81813
-	 } 
+		culture = hungarian
+		religion = protestant
+		size = 7699.25
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25.75
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1133.0
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25.75
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 875.5
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 51.5
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 51.5
+	}
+
 	farmers = {
 		culture = south_german
-		religion = catholic 
-		size = 14544
-	 } 
+		religion = catholic
+		size = 2832.5
+	}
 }
-#Banska Bystrica (340000/85000 POPS)
+#Banska Bystrica (224000/56000 POPS)
 636 = {
-	aristocrats = {
-		culture = slovak
-		religion =  catholic 
-		size = 5600
-	 } 
-	aristocrats = {
-		culture = slovak
-		religion = catholic 
-		size = 1229
-	 } 
-	bureaucrats = {
-		culture = slovak
-		religion =  catholic 
-		size = 279
-	 } 
-	bureaucrats = {
-		culture = slovak
-		religion = catholic 
-		size = 61
-	 } 
-	capitalists = {
-		culture = slovak
-		religion =  catholic 
-		size = 699
-	 } 
-	capitalists = {
-		culture = slovak
-		religion = catholic 
-		size = 153
-	 } 
 	clergymen = {
 		culture = slovak
-		religion =  catholic 
-		size = 2800
-	 } 
+		religion = catholic
+		size = 489.25
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 2729.5
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 515.0
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 50856.25
+	}
+
 	clergymen = {
-		culture = slovak
-		religion = catholic 
-		size = 614
-	 } 
-	clerks = {
-		culture = slovak
-		religion =  catholic 
-		size = 3835
-	 } 
-	clerks = {
-		culture = slovak
-		religion = catholic 
-		size = 841
-	 } 
+		culture = ashkenazi
+		religion = jewish
+		size = 51.5
+	}
+
 	artisans = {
-		culture = slovak
-		religion =  catholic 
-		size = 3643
-	 } 
-	artisans = {
-		culture = slovak
-		religion = catholic 
-		size = 799
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion =  catholic 
-		size = 11506
-	 } 
-	craftsmen = {
-		culture = south_german
-		religion = catholic 
-		size = 2525
-	 } 
+		culture = ashkenazi
+		religion = jewish
+		size = 1648.0
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25.75
+	}
+
 	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 111650
-	 } 
-	farmers = {
-		culture = south_german
-		religion = catholic 
-		size = 24508
-	 } 
+		culture = ashkenazi
+		religion = jewish
+		size = 1364.75
+	}
 }
 #Felvidek Region (860000) #see Hungary.txt and Ukraine.txt for balance of Region
-#under the rule of Austria in 1836  
-#Kosice (497628/124407POPS)
+#under the rule of Austria in 1936
+#Kosice (712000/178000POPS)
 637 = {
+	bureaucrats = {
+		culture = slovak
+		religion = catholic
+		size = 77.25
+	}
+
+	officers = {
+		culture = slovak
+		religion = catholic
+		size = 77.25
+	}
+
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 1004.25
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 5150.0
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 1130.0
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 96591.25
+	}
+
 	aristocrats = {
 		culture = hungarian
-		religion =  catholic 
-		size = 13079
-	 } 
-	aristocrats = {
-		culture = hungarian
-		religion = catholic 
-		size = 2871
-	 } 
+		religion = catholic
+		size = 3090.0
+	}
+
 	bureaucrats = {
 		culture = hungarian
-		religion =  catholic 
-		size = 653
-	 } 
+		religion = catholic
+		size = 515.0
+	}
+
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 386.25
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 206.0
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 257.5
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 15269.75
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = protestant
+		size = 180.25
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = protestant
+		size = 1133.0
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = protestant
+		size = 206.0
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 19080.75
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 51.5
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1133.0
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25.75
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 849.75
+	}
+
 	bureaucrats = {
-		culture = hungarian
-		religion = catholic 
-		size = 143
-	 } 
-	capitalists = {
-		culture = hungarian
-		religion =  catholic 
-		size = 1634
-	 } 
-	capitalists = {
-		culture = hungarian
-		religion = catholic 
-		size = 358
-	 } 
+		culture = south_german
+		religion = catholic
+		size = 257.5
+	}
+
 	clergymen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 6539
-	 } 
+		culture = south_german
+		religion = catholic
+		size = 283.25
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 154.5
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1287.5
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1257.5
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 22612.75
+	}
+
 	clergymen = {
-		culture = hungarian
-		religion = catholic 
-		size = 1435
-	 } 
-	clerks = {
-		culture = hungarian
-		religion =  catholic 
-		size = 8956
-	 } 
-	clerks = {
-		culture = hungarian
-		religion = catholic 
-		size = 1966
-	 } 
+		culture = ukrainian
+		religion = orthodox
+		size = 77.25
+	}
+
 	artisans = {
-		culture = hungarian
-		religion =  catholic 
-		size = 8508
-	 } 
-	artisans = {
-		culture = hungarian
-		religion = catholic 
-		size = 1867
-	 } 
-	craftsmen = {
-		culture = hungarian
-		religion =  catholic 
-		size = 26870
-	 } 
-	craftsmen = {
-		culture = hungarian
-		religion = catholic 
-		size = 5898
-	 } 
-	farmers = {
-		culture = hungarian
-		religion =  catholic 
-		size = 8961
-	 } 
-	farmers = {
-		culture = hungarian
-		religion = catholic 
-		size = 1967
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 46185
-	 } 
-	farmers = {
-		culture = slovak
-		religion = catholic 
-		size = 43065
-	 } 
+		culture = ukrainian
+		religion = orthodox
+		size = 412.0
+	}
+
+	soldiers = {
+		culture = ukrainian
+		religion = orthodox
+		size = 77.25
+	}
+
 	farmers = {
 		culture = ukrainian
-		religion =  orthodox 
-		size = 6539
-	 } 
+		religion = orthodox
+		size = 8703.5
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 25.75
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 25.75
+	}
+
 	farmers = {
-		culture = ukrainian
-		religion = orthodox 
-		size = 1435
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  sunni
-		size = 49045
-	 } 
-	farmers = {
-		culture = slovak
-		religion = orthodox 
-		size = 10766
-	 } 
+		culture = polish
+		religion = catholic
+		size = 927.0
+	}
 }
-#Roznava (160400/40100 POPS)
+#Roznava (148000/37000 POPS)
 638 = {
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 180.25
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 206.0
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 19183.75
+	}
+
 	aristocrats = {
 		culture = hungarian
-		religion =  catholic 
-		size = 5379
-	 } 
-	aristocrats = {
-		culture = hungarian
-		religion = catholic 
-		size = 1180
-	 } 
-	bureaucrats = {
-		culture = hungarian
-		religion =  catholic 
-		size = 268
-	 } 
-	bureaucrats = {
-		culture = hungarian
-		religion = catholic 
-		size = 59
-	 } 
-	capitalists = {
-		culture = hungarian
-		religion =  catholic 
-		size = 672
-	 } 
-	capitalists = {
-		culture = hungarian
-		religion = catholic 
-		size = 147
-	 } 
+		religion = catholic
+		size = 772.5
+	}
+
 	clergymen = {
 		culture = hungarian
-		religion =  catholic 
-		size = 2689
-	 } 
+		religion = catholic
+		size = 77.25
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 412.0
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = catholic
+		size = 103.0
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = catholic
+		size = 6875.25
+	}
+
 	clergymen = {
 		culture = hungarian
-		religion = catholic 
-		size = 590
-	 } 
-	clerks = {
-		culture = hungarian
-		religion =  catholic 
-		size = 3683
-	 } 
-	clerks = {
-		culture = hungarian
-		religion = catholic 
-		size = 808
-	 } 
+		religion = protestant
+		size = 51.5
+	}
+
 	artisans = {
 		culture = hungarian
-		religion =  catholic 
-		size = 3444
-	 } 
-	artisans = {
+		religion = protestant
+		size = 412.0
+	}
+
+	soldiers = {
 		culture = hungarian
-		religion = catholic 
-		size = 756
-	 } 
+		religion = protestant
+		size = 77.25
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = protestant
+		size = 6669.25
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 51.5
+	}
+
 	artisans = {
-		culture = slovak
-		religion =  catholic 
-		size = 54
-	 } 
-	artisans = {
-		culture = slovak
-		religion = catholic 
-		size = 12
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion =  catholic 
-		size = 11051
-	 } 
-	craftsmen = {
-		culture = slovak
-		religion = catholic 
-		size = 2425
-	 } 
+		culture = ashkenazi
+		religion = jewish
+		size = 1133.0
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25.75
+	}
+
 	farmers = {
-		culture = slovak
-		religion =  catholic 
-		size = 80340
-	 } 
-	farmers = {
-		culture = slovak
-		religion = catholic 
-		size = 17635
-	 } 
-	farmers = {
-		culture = slovak
-		religion =  sunni
-		size = 26896
-	 } 
-	farmers = {
-		culture = slovak
-		religion = orthodox 
-		size = 5904
-	 } 
+		culture = ashkenazi
+		religion = jewish
+		size = 849.75
+	}
 }

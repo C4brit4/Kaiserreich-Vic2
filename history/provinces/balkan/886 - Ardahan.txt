@@ -4,10 +4,3 @@ add_core = TUR
 add_core = ARM
 trade_goods = wool
 life_rating = 35
-naval_base = 5
-1914.1.1 = {
-owner = TUR
-controller = TUR
-add_core = TUR
-	railroad = 1
-}

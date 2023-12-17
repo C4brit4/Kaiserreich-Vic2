@@ -1,13 +1,7 @@
-owner = RUS
-controller = RUS
+owner = USA
+controller = USA
+add_core = USA
 add_core = LSK
 trade_goods = fish
 life_rating = 20
-colonial = 2
-naval_base = 5
-1914.1.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	railroad = 1
-}
+

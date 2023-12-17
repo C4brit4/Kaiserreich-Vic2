@@ -1,6 +1,6 @@
 political_decisions = {
         Italy_empire = {
-	    picture = italia_irredenta
+	    picture = reino_unido
         potential = {
             OR = {                
                 tag = SIC
@@ -12,22 +12,13 @@ political_decisions = {
 
         allow = {         
             war = no          
-            ITC = {
-                OR = {
-                    all_core = {
-                        OR = {
-                            owned_by = THIS
-                        }
-                    }
-                }
-	         }
+            
         }
 		
         
 
         effect = {                
 			change_tag = ITE
-			capital = 749
 			ITA = {
 				all_core = { add_core = ITE }
 			}

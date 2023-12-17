@@ -35,7 +35,7 @@ political_decisions = {
             FRA = {
 				all_core = { add_core = BOR }
 			}
-			inherit = FRA
+			inherit = BOR
 			add_accepted_culture = french
             
          

@@ -1,15 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = ALB
+owner = SER
+controller = SER
 add_core = SER
+add_core = YUG
 trade_goods = timber
 life_rating = 35
-1914.1.1 = {
-	owner = SER
-	controller = SER
-	remove_core = TUR
-}
-1914.1.1 = {
-	railroad = 1
-}

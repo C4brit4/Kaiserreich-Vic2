@@ -1,89 +1,87 @@
-#Greenland (7500)
-#Ruled by Denmark 1836
-#Godthab (4220/1055 POPS)
+#Greenland (9800)
+#Godthab (5600/1400 POPS)
 251 = {
-	officers = {
-		culture = inuit
-		religion =  protestant 
-		size = 6
-	 } 
-	officers = {
-		culture = inuit
-		religion = protestant 
-		size = 1
-	 } 
-	soldiers = {
-		culture = inuit
-		religion =  protestant 
-		size = 27
-	 } 
-	soldiers = {
-		culture = inuit
-		religion = protestant 
-		size = 5
-	 } 
-	aristocrats = {
-		culture = inuit
-		religion =  protestant 
-		size = 92
-	 } 
-	aristocrats = {
-		culture = inuit
-		religion = protestant 
-		size = 17
-	 } 
 	bureaucrats = {
 		culture = danish
-		religion =  protestant 
-		size = 4
-	 } 
-	capitalists = {
-		culture = inuit
-		religion =  protestant 
-		size = 10
-	 } 
-	capitalists = {
-		culture = inuit
-		religion = protestant 
-		size = 2
-	 } 
-	clergymen = {
-		culture = inuit
-		religion =  protestant 
-		size = 22
-	 } 
-	clergymen = {
-		culture = inuit
-		religion = protestant 
-		size = 4
-	 } 
-	artisans = {
-		culture = inuit
-		religion =  protestant 
-		size = 69
-	 } 
-	artisans = {
-		culture = inuit
-		religion = protestant 
-		size = 12
-	 } 
-	farmers = {
-		culture = inuit
-		religion =  protestant 
-		size = 1751
-	 } 
-	farmers = {
-		culture = danish
-		religion = protestant 
-		size = 321
-	 } 
-}
+		religion = protestant
+		size = 25
+	}
 
-#Egedesminde (816/204 POPS)
-2636 = {
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 75
+	}
+
 	farmers = {
 		culture = inuit
 		religion = protestant
-		size = 505
+		size = 1275
+	}
+}
+#Holsteinborg (1600/400 POPS)
+2591 = {
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = inuit
+		religion = protestant
+		size = 385
+	}
+}
+#Augmagsalik (1600/400 POPS)
+2632 = {
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = inuit
+		religion = protestant
+		size = 385
+	}
+}
+#Egedesminde (1000/250 POPS)
+2636 = {
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 3
+	}
+
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 7
+	}
+
+	farmers = {
+		culture = inuit
+		religion = protestant
+		size = 240
 	}
 }

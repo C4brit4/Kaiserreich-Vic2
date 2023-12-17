@@ -48,22 +48,15 @@ add_accepted_culture = zapotec
 add_accepted_culture = tarascan
 add_accepted_culture = herero
 add_accepted_culture = shona
-add_accepted_culture = argentinos
-add_accepted_culture = uruguayos
-add_accepted_culture = paraguayos
+add_accepted_culture = platinean
 add_accepted_culture = patagonian
 add_accepted_culture = guarani
 add_accepted_culture = quechua
 add_accepted_culture = aimara
 add_accepted_culture = herero
 add_accepted_culture = shona
-add_accepted_culture = peruanos
-add_accepted_culture = bolivianos
-add_accepted_culture = chilenos
-add_accepted_culture = colombianos
-add_accepted_culture = ecuatorianos
-add_accepted_culture = venezolanos
-add_accepted_culture = panamenos
+add_accepted_culture = south_andean
+add_accepted_culture = north_andean
 THIS = {
 				country_event = { id = 500501 days = 2 }
 				

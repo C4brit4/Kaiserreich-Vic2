@@ -12,6 +12,5 @@ life_rating = 35
 1861.1.1 = {
 	controller = ITC
 	owner = ITC
-	add_core = ITC
 	add_core = ITA
 }

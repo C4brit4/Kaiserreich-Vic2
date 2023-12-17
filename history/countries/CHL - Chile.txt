@@ -1,5 +1,5 @@
 capital = 2324
-primary_culture = chilenos
+primary_culture = south_andean
 religion = catholic
 government = proletarian_dictatorship
 plurality = 25.0

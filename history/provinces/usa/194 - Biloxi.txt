@@ -4,9 +4,9 @@ add_core = USA
 trade_goods = cotton
 life_rating = 35
 1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
+	controller = USA
+	owner = USA
+	add_core = USA
 	state_building = {
 		level = 1
 		building = fabric_factory
@@ -14,16 +14,3 @@ life_rating = 35
 	}
 }
 1861.1.1 = { railroad = 3 }
-1914.1.1 = {
-	owner = USA
-	controller = USA
-	remove_core = CSA
-	
-	railroad = 5
-	naval_base = 5
-	state_building = {
-		level = 1
-		building = luxury_clothes_factory
-		upgrade = yes
-	}
-}

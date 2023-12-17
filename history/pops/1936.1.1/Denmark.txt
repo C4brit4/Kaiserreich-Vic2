@@ -74,7 +74,7 @@
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 91834.75
+		size = 51834.75
 	}
 }
 #Alborg (152000/38000 POPS)
@@ -106,7 +106,7 @@
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 69900.0
+		size = 29900.0
 	}
 }
 #Ribe (148000/37000 POPS)
@@ -347,7 +347,7 @@
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 150710.0
+		size = 50710.0
 	}
 
 	artisans = {

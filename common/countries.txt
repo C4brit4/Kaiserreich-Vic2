@@ -15,10 +15,9 @@ JAP		= "countries/Japan.txt"
 ITA		= "countries/Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
 
-# Second American Civil War
-CSO     = "countries/Combined Syndicates of America.txt"
-UAS     = "countries/American Union State.txt"
-PSA     = "countries/Pacific States of america.txt"
+
+
+
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
@@ -320,7 +319,11 @@ D50		= "countries/D50.txt"
 
 #===============Kaiserreich===============#
 
-
+LEC        = "countries/Legation Cities.txt"
+LEP        = "countries/League of Eight Provinces.txt"
+QIE        = "countries/Qing Empire.txt"
+SQI        = "countries/Shangdong Clique.txt"
+SZC        = "countries/Sichuan Clique.txt"
 TRS        = "countries/Transamur.txt"
 GEA        = "countries/German East Asia.txt"
 DKU     = "countries/Don Kuban-Union.txt"
@@ -388,28 +391,4 @@ GEC     =   "countries/Germany confederation.txt"
 ZAP     =   "countries/Zapadoslavia.txt"
 UFE     =   "countries/France-England.txt"
 ICO     =   "countries/Caro.txt"
-RME     =   "countries/Rome.txt"
-SAW     =   "countries/Sardinia-Sicilia.txt"
-PBC		=   "countries/Peru-Bolivia Confederation.txt"
-LPL		=   "countries/La Plata.txt"
 #AIN             = "countries/Alien Invaders.txt"
-
-#===CHINA===#
-
-CCH        = "countries/Communist China.txt"
-LEC        = "countries/Legation Cities.txt"
-LEP        = "countries/League of Eight Provinces.txt"
-QIE        = "countries/Qing Empire.txt"
-SQI        = "countries/Shangdong Clique.txt"
-SZC        = "countries/Sichuan Clique.txt"
-
-#Fragmentation of the League
-ANQ        = "countries/Anqing.txt"
-HNN        = "countries/Hunan.txt"
-KMT        = "countries/Kuomintang.txt"
-LIA        = "countries/Liangguang.txt"
-NAN        = "countries/Nanjing.txt"
-
-#
-AFR     = "countries/Africa.txt"
-

@@ -211,22 +211,17 @@ spriteTypes = {
 	########
 	
 	spriteType = {
-		name = "GFX_combatterrain_forest"	
+		name = "GFX_combatterrain_coniferous_forest"	
 		texturefile = "gfx\\interface\\combat_terrain_coniferous.tga"
 	}
 
 	spriteType = {
-		name = "GFX_combatterrain_woods"	
+		name = "GFX_combatterrain_decidious_forest"	
 		texturefile = "gfx\\interface\\combat_terrain_decidious.tga"
 	}
 	
 	spriteType = {
 		name = "GFX_combatterrain_desert"	
-		texturefile = "gfx\\interface\\combat_terrain_desert.tga"
-	}
-	
-	spriteType = {
-		name = "GFX_combatterrain_coastal_desert"	
 		texturefile = "gfx\\interface\\combat_terrain_desert.tga"
 	}
 	

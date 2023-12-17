@@ -5,14 +5,8 @@ add_core = CHE
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
-	remove_core = CHE
-}
-1914.1.1 = {
-	owner = USA
 	controller = USA
-	remove_core = CSA
-	railroad = 3
+	owner = USA
+	add_core = USA
+	remove_core = CHE
 }

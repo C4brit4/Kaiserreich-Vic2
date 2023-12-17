@@ -1,5 +1,5 @@
 capital = 979
-primary_culture = russian
+primary_culture = north_caucasian
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0

@@ -7,7 +7,7 @@ country_event = {
 
     trigger = {
     tag  = ITC  
-	year = 1938
+	days = 51
 }
   
     
@@ -15,11 +15,6 @@ country_event = {
     option = {
         name = "EVTOPTA500599"
 		set_global_flag = italy_soc_cam
-		SIC = {
-				set_country_flag = italy_emp_em
-				
-			}
-		
     }
     option = {
         name = "EVTOPTB500599"

@@ -5,48 +5,40 @@ trade_goods = grain
 life_rating = 40
 state_building = {
 	level = 1
-	building = electric_gear_factory
+	building = luxury_furniture_factory
 	upgrade = yes
 }
+
 state_building = {
-	level = 20
-	building = synthetic_oil_factory
+	level = 1
+	building = ammunition_factory
 	upgrade = yes
 }
 state_building = {
 	level = 1
-	building = telephone_factory
+	building = paper_mill
 	upgrade = yes
 }
 1861.1.1 = {
 	state_building = {
 		level = 2
-		building = radio_factory
+		building = luxury_furniture_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = ammunition_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = paper_mill
 		upgrade = yes
 	}
 	state_building = {
 		level = 1
-		building = automobile_factory
+		building = machine_parts_factory
 		upgrade = yes
 	}
 }
 1861.1.1 = { railroad = 3 }
-1914.1.1 = {
-	railroad = 5
-	
-	state_building = {
-		level = 10
-		building = artillery_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 10
-		building = steel_factory
-		upgrade = yes
-	}
-	state_building = {
-		level = 10
-		building = canned_food_factory
-		upgrade = yes
-	}
-}

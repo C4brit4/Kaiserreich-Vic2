@@ -254,8 +254,8 @@ guiTypes = {
 		
 		guiButtonType = {
 			name ="country_flag"
-			quadTextureSprite = "GFX_diplo_gp_flag2"
-			position = { x= 24 y = -2 }
+			quadTextureSprite = "GFX_topbarflag"
+			position = { x= 27 y = 8 }
 			buttonText = " "
 			buttonFont = "vic_18_black"
 		}
@@ -270,7 +270,7 @@ guiTypes = {
 		iconType = {
 			name ="country_selected"
 			spriteType = "GFX_diplo_selected_gp"
-			position = { x= 32 y = 1 }
+			position = { x= 32 y = 2 }
 			Orientation = "UPPER_LEFT"
 		}
 		

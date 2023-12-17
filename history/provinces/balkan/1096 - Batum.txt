@@ -1,14 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = GEO
+controller = GEO
 add_core = GEO
 trade_goods = tea
 life_rating = 35
-1914.1.1 = {
-owner = TUR
-controller = TUR
-add_core = TUR
-}
-1914.1.1 = {
-	railroad = 1
-}
