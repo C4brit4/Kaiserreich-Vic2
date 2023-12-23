@@ -210,14 +210,6 @@ spriteTypes = {
 		effectFile = "gfx\\FX\\buttonstate.fx"
 		loadType = "FRONTEND"
 	}
-	
-	textSpriteType = {
-		name = "GFX_frontend_back_button"
-		texturefile = "gfx\\interface\\frontend_back_button.dds"
-		noOfFrames = 1
-		effectFile = "gfx\\FX\\buttonstate.fx"
-		loadType = "FRONTEND"
-	}
 	spriteType = {
 		name = "GFX_frontend_campaign_entry"
 		texturefile = "gfx\\interface\\frontend_campaign_entry.dds"

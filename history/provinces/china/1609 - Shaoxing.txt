@@ -10,4 +10,3 @@ controller = LEP
 }
 
 add_core = LEP
-add_core = NAN

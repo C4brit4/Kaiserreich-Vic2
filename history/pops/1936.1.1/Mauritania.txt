@@ -1,337 +1,384 @@
-#Trarza-Brakna Region (276000) 
-#uncolonized in 1836/ruled by Emir of Trarza
-#Nouakchott (92000/23000 POPS) 
+#Trarza-Brakna Region (276000)
+#uncolonized in 1936/ruled by Emir of Trarza
+#Nouakchott (92000/23000 POPS)
 1775 = {
-	officers = {
-		culture = maures
-		religion =  catholic 
-		size = 183
-	 } 
-	soldiers = {
-		culture = maures
-		religion =  catholic 
-		size = 734
-	 } 
-	soldiers = {
-		culture = maures
-		religion = sunni
-		size = 3
-	 } 
-	aristocrats = {
-		culture = maures
-		religion =  catholic 
-		size = 2447
-	 } 
 	aristocrats = {
 		culture = maures
 		religion = sunni
-		size = 12
-	 } 
+		size = 463.5
+	}
+
 	bureaucrats = {
 		culture = maures
-		religion =  catholic 
-		size = 60
-	 } 
-	capitalists = {
-		culture = maures
-		religion =  catholic 
-		size = 305
-	 } 
-	capitalists = {
+		religion = sunni
+		size = 20.6
+	}
+
+	officers = {
 		culture = maures
 		religion = sunni
-		size = 1
-	 } 
-	clergymen = {
-		culture = maures
-		religion =  catholic 
-		size = 611
-	 } 
+		size = 5.15
+	}
+
 	clergymen = {
 		culture = maures
 		religion = sunni
-		size = 3
-	 } 
-	artisans = {
-		culture = maures
-		religion =  catholic 
-		size = 896
-	 } 
+		size = 231.75
+	}
+
 	artisans = {
 		culture = maures
 		religion = sunni
-		size = 4
-	 } 
-	farmers = {
+		size = 952.75
+	}
+
+	soldiers = {
 		culture = maures
-		religion =  catholic 
-		size = 879
-	 } 
+		religion = sunni
+		size = 257.5
+	}
+
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 4
-	 } 
-	farmers = {
-		culture = berber
-		religion =  sunni 
-		size = 52720
-	 } 
+		size = 18668.75
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3090.0
+	}
 }
-#Rosso (72000/18000 POPS) 
+#Rosso (72000/18000 POPS)
 1776 = {
 	aristocrats = {
 		culture = maures
 		religion = sunni
-		size = 350
+		size = 360.5
 	}
 
 	clergymen = {
 		culture = maures
 		religion = sunni
-		size = 175
+		size = 180.25
 	}
 
 	artisans = {
 		culture = maures
 		religion = sunni
-		size = 900
+		size = 927.0
 	}
 
 	soldiers = {
 		culture = maures
 		religion = sunni
-		size = 175
+		size = 180.25
 	}
 
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 11400
+		size = 11742.0
 	}
 
-	farmers = {
-		culture = wolof
-		religion = sunni
-		size = 5000
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 5150.0
 	}
 }
-#uncolonized in 1836/ruled by Emir of Brakna  
-#Aleg (84000/21000 POPS) 
+#uncolonized in 1936/ruled by Emir of Brakna
+#Aleg (84000/21000 POPS)
 1777 = {
 	aristocrats = {
 		culture = maures
 		religion = sunni
-		size = 390
+		size = 401.7
 	}
 
 	bureaucrats = {
 		culture = maures
 		religion = sunni
-		size = 10
+		size = 10.3
 	}
 
 	officers = {
 		culture = maures
 		religion = sunni
-		size = 5
+		size = 5.15
 	}
 
 	clergymen = {
 		culture = maures
 		religion = sunni
-		size = 200
+		size = 206.0
 	}
 
 	artisans = {
 		culture = maures
 		religion = sunni
-		size = 850
+		size = 875.5
 	}
 
 	soldiers = {
 		culture = maures
 		religion = sunni
-		size = 220
+		size = 226.6
 	}
 
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 13325
+		size = 13724.75
 	}
 
-	farmers = {
-		culture = fulbe
-		religion = sunni
-		size = 6000
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 6180.0
 	}
 }
-#Maghama (28000/7000 POPS) 
+#Maghama (28000/7000 POPS)
 1778 = {
 	aristocrats = {
 		culture = maures
-		religion =  sunni 
-		size = 1340
-	 } 
+		religion = sunni
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 77.25
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 283.25
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 77.25
+	}
+
 	farmers = {
-		culture = fulbe
-		religion =  sunni 
-		size = 29200
-	 } 
+		culture = maures
+		religion = sunni
+		size = 3579.25
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3090.0
+	}
 }
-#Adrar-Hodh Region (52000) 
-#uncolonized in 1836/ruled by Emirs of Adrar
-#Shingit (12000/3000 POPS) 
+#Adrar-Hodh Region (52000)
+#uncolonized in 1936/ruled by Emirs of Adrar
+#Shingit (12000/3000 POPS)
 1779 = {
 	aristocrats = {
 		culture = maures
 		religion = sunni
-		size = 40
+		size = 41.2
 	}
 
 	bureaucrats = {
 		culture = maures
 		religion = sunni
-		size = 3
+		size = 3.09
 	}
 
 	officers = {
 		culture = maures
 		religion = sunni
-		size = 7
+		size = 7.21
 	}
 
 	clergymen = {
 		culture = maures
 		religion = sunni
-		size = 75
+		size = 77.25
 	}
 
 	artisans = {
 		culture = maures
 		religion = sunni
-		size = 150
+		size = 154.5
 	}
 
 	soldiers = {
 		culture = maures
 		religion = sunni
-		size = 25
+		size = 25.75
 	}
 
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 2700
+		size = 2781.0
 	}
 }
+#Tichit (12000/3000 POPS)
+1780 = {
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 51.5
+	}
 
-#Walata (28000/7000 POPS) 
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 77.25
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 25.75
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 2781.0
+	}
+}
+#Walata (28000/7000 POPS)
 1781 = {
 	aristocrats = {
 		culture = maures
 		religion = sunni
-		size = 100
+		size = 51.5
 	}
 
 	clergymen = {
 		culture = maures
 		religion = sunni
-		size = 150
+		size = 77.25
 	}
 
 	artisans = {
 		culture = maures
 		religion = sunni
-		size = 300
+		size = 154.5
 	}
 
 	soldiers = {
 		culture = maures
 		religion = sunni
-		size = 50
+		size = 25.75
 	}
 
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 5400
+		size = 2781.0
 	}
 
 	aristocrats = {
-		culture = maures
+		culture = mande
 		religion = sunni
-		size = 75
+		size = 77.25
 	}
 
 	clergymen = {
-		culture = maures
+		culture = mande
 		religion = sunni
-		size = 100
+		size = 103.0
 	}
 
 	artisans = {
-		culture = maures
+		culture = mande
 		religion = sunni
-		size = 200
+		size = 206.0
 	}
 
 	soldiers = {
-		culture = maures
+		culture = mande
 		religion = sunni
-		size = 50
+		size = 51.5
 	}
 
 	farmers = {
-		culture = maures
+		culture = mande
 		religion = sunni
-		size = 3675
+		size = 3785.25
 	}
 }
 #Rio de Oro Region (16000) #see West Sahara.txt for balance of region
-#uncolonized in 1836  
-#Bir Maghrein (16000/4000 POPS) #now part of Mauritania 
+#uncolonized in 1936
+#Bir Maghrein (16000/4000 POPS) #now part of Mauritania
 1782 = {
-	officers = {
-		culture = bedouin
-		religion =  sunni 
-		size = 8
-	 } 
-	soldiers = {
-		culture = bedouin
-		religion =  sunni 
-		size = 33
-	 } 
 	aristocrats = {
 		culture = bedouin
-		religion =  sunni 
-		size = 110
-	 } 
-	bureaucrats = {
-		culture = bedouin
-		religion =  sunni 
-		size = 2
-	 } 
-	capitalists = {
-		culture = bedouin
-		religion =  sunni 
-		size = 13
-	 } 
+		religion = sunni
+		size = 10.3
+	}
+
 	clergymen = {
 		culture = bedouin
-		religion =  sunni 
-		size = 27
-	 } 
+		religion = sunni
+		size = 15.450000000000001
+	}
+
 	artisans = {
 		culture = bedouin
-		religion =  sunni 
-		size = 40
-	 } 
+		religion = sunni
+		size = 51.5
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 25.75
+	}
+
 	farmers = {
 		culture = bedouin
-		religion =  sunni 
-		size = 2397
-	 } 
+		religion = sunni
+		size = 927.0
+	}
+
+	aristocrats = {
+		culture = maures
+		religion = sunni
+		size = 51.5
+	}
+
+	clergymen = {
+		culture = maures
+		religion = sunni
+		size = 77.25
+	}
+
+	artisans = {
+		culture = maures
+		religion = sunni
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = maures
+		religion = sunni
+		size = 25.75
+	}
+
+	farmers = {
+		culture = maures
+		religion = sunni
+		size = 2781.0
+	}
 
 }

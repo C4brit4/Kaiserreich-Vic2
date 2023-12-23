@@ -1,5 +1,5 @@
 capital = 2295
-primary_culture = peruanos
+primary_culture = south_andean
 religion = catholic
 government = presidential_dictatorship
 plurality = 25.0

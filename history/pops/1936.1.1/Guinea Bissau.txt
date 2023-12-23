@@ -1,85 +1,104 @@
 #Casamance Region (108000) #see Senegal.txt and Guinea.txt for balance of region
-#Uncolonized in 1836/Portuguese trade post
+#Uncolonized in 1936/Portuguese trade post
 #Bissau (32000/8000 POPS)
 1877 = {
-	officers = {
-		culture = western_nigritic
-		religion =  catholic 
-		size = 257
-	 } 
-	officers = {
-		culture = western_nigritic
-		religion = animist
-		size = 2
-	 } 
-	soldiers = {
-		culture = western_nigritic
-		religion =  catholic 
-		size = 1030
-	 } 
-	soldiers = {
-		culture = western_nigritic
-		religion = animist
-		size = 10
-	 } 
 	aristocrats = {
-		culture = western_nigritic
-		religion =  catholic 
-		size = 429
-	 } 
-	aristocrats = {
-		culture = western_nigritic
-		religion = animist
-		size = 4
-	 } 
-	aristocrats = {
-		culture = fulbe
-		religion =  sunni 
-		size = 3036
-	 } 
+		culture = portuguese
+		religion = catholic
+		size = 10.3
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 15.450000000000001
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 5.15
+	}
+
 	artisans = {
-		culture = fulbe
-		religion =  sunni 
-		size = 1345
-	 } 
-	farmers = {
-		culture = fulbe
-		religion =  sunni 
-		size = 15920
-	 } 
+		culture = portuguese
+		religion = catholic
+		size = 25.75
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 20.6
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 51.5
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 386.25
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 77.25
+	}
+
 	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 58530
-	 } 
-	farmers = {
+		religion = catholic
+		size = 5665.0
+	}
+
+	slaves = {
 		culture = african_minor
-		religion = animist
-		size = 591
-	 } 
+		religion = catholic
+		size = 2060.0
+	}
 }
-#under the rule of Gabu in 1836
-#Gabu (152000/38000 POPS)
+#Uncolonized in 1936/ruled by kingdom of Gabu
+#Gabu (76000/19000 POPS)
 1878 = {
 	aristocrats = {
-		culture = fulbe
-		religion =  sunni 
-		size = 2250
-	 } 
-	farmers = {
-		culture = fulbe
-		religion =  sunni 
-		size = 1886
-	 } 
+		culture = mande
+		religion = animist
+		size = 206.0
+	}
+
+	clergymen = {
+		culture = mande
+		religion = animist
+		size = 206.0
+	}
+
+	artisans = {
+		culture = mande
+		religion = animist
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = mande
+		religion = animist
+		size = 206.0
+	}
+
 	farmers = {
 		culture = mande
-		religion =  catholic 
-		size = 46305
-	 } 
-	farmers = {
-		culture = mande
-		religion = sunni 
-		size = 467
-	 } 
+		religion = animist
+		size = 14832.0
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 3090.0
+	}
 
 }

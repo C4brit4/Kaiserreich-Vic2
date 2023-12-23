@@ -16,14 +16,14 @@ cavalry_move = {
 }
 
 cavalry_selected = {
-	file = "UI_CavalrySelect.wav"
+	file = "UI_CavalrySelected.wav"
 }
 
 navy_move = {
-	file = "UI_SteamMove.wav"
+	file = "UI_SailMove.wav"
 }
 navy_selected = {
-	file = "UI_SteamSelected.wav"
+	file = "UI_SailSelected.wav"
 }
 
 steam_move = {

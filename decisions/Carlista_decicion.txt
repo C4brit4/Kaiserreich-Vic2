@@ -34,10 +34,10 @@ political_decisions = {
 			}			
 			capital = 487
 			SPC = {
-				country_event = { id = 500799 days = 2 }
+				country_event = { id = 500499 days = 2 }
 				
 			}
-            set_global_flag = car	   
+            set_global_flag = car
         }
 		ai_will_do = {
 			factor = 1

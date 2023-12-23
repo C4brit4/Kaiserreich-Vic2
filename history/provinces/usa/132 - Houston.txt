@@ -9,9 +9,9 @@ controller = USA
 add_core = USA
 }
 1861.1.1 = {
-	controller = CSA
-	owner = CSA
-	add_core = CSA
+	controller = USA
+	owner = USA
+	add_core = USA
 	state_building = {
 		level = 1
 		building = canned_food_factory
@@ -19,8 +19,3 @@ add_core = USA
 	}
 }
 1861.1.1 = { railroad = 2 }
-1914.1.1 = {
-	owner = USA
-	controller = USA
-	remove_core = CSA
-}

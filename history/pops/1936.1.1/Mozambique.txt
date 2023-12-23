@@ -1,1561 +1,1323 @@
 #Gaza Region (872000)
-#uncolonized in 1836
+#uncolonized in 1936
 #Maputo (244000/61000)
 2049 = {
-	officers = {
-		culture = portuguese
-		religion =  catholic 
-		size = 530
-	 } 
-	officers = {
-		culture = portuguese
-		religion = catholic 
-		size = 17
-	 } 
-	soldiers = {
-		culture = portuguese
-		religion =  catholic 
-		size = 2121
-	 } 
-	soldiers = {
-		culture = portuguese
-		religion = catholic 
-		size = 71
-	 } 
-	aristocrats = {
-		culture = portuguese
-		religion =  catholic 
-		size = 4420
-	 } 
-	aristocrats = {
-		culture = portuguese
-		religion = catholic 
-		size = 148
-	 } 
-	aristocrats = {
-		culture = marathi
-		religion =  hindu 
-		size = 1767
-	 } 
-	aristocrats = {
-		culture = avadhi
-		religion = hindu 
-		size = 59
-	 } 
 	aristocrats = {
 		culture = nguni
-		religion =  catholic 
-		size = 884
-	 } 
-	aristocrats = {
-		culture = tonga
-		religion = catholic 
-		size = 29
-	 } 
-	bureaucrats = {
-		culture = nguni
-		religion =  catholic 
-		size = 176
-	 } 
-	bureaucrats = {
-		culture = tonga
-		religion = catholic 
-		size = 5
-	 } 
-	capitalists = {
-		culture = nguni
-		religion =  catholic 
-		size = 883
-	 } 
-	capitalists = {
-		culture = tonga
-		religion = catholic 
-		size = 29
-	 } 
+		religion = animist
+		size = 412.0
+	}
+
 	clergymen = {
 		culture = nguni
-		religion =  catholic 
-		size = 1767
-	 } 
+		religion = animist
+		size = 360.5
+	}
+
+	artisans = {
+		culture = nguni
+		religion = animist
+		size = 1648.0
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 412.0
+	}
+
+	farmers = {
+		culture = nguni
+		religion = animist
+		size = 29097.5
+	}
+
+	slaves = {
+		culture = nguni
+		religion = animist
+		size = 5150.0
+	}
+
+	aristocrats = {
+		culture = tonga
+		religion = animist
+		size = 257.5
+	}
+
 	clergymen = {
 		culture = tonga
-		religion = catholic 
-		size = 59
-	 } 
-	artisans = {
-		culture = nguni
-		religion =  catholic 
-		size = 1948
-	 } 
+		religion = animist
+		size = 231.75
+	}
+
 	artisans = {
 		culture = tonga
-		religion = catholic 
-		size = 65
-	 } 
-	farmers = {
-		culture = nguni
-		religion =  catholic 
-		size = 2136
-	 } 
-	farmers = {
+		religion = animist
+		size = 1802.5
+	}
+
+	soldiers = {
 		culture = tonga
-		religion = catholic 
-		size = 2423
-	 } 
+		religion = animist
+		size = 257.5
+	}
+
 	farmers = {
 		culture = tonga
 		religion = animist
-		size = 1069
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 44202
-	 } 
-	farmers = {
-		culture = african_minor
+		size = 9810.75
+	}
+
+	slaves = {
+		culture = tonga
 		religion = animist
-		size = 1484
-	 } 
-	farmers = {
-		culture = nguni
-		religion =  catholic 
-		size = 10920
-	 } 
-	farmers = {
-		culture = nguni
-		religion = animist
-		size = 366
-	 } 
+		size = 13390.0
+	}
 }
 #Chaimate (280000/70000 POPS)
 2050 = {
-	officers = {
-		culture = tonga
-		religion =  protestant 
-		size = 282
-	 } 
-	officers = {
-		culture = tonga
-		religion = animist
-		size = 9
-	 } 
-	soldiers = {
-		culture = tonga
-		religion =  protestant 
-		size = 1131
-	 } 
-	soldiers = {
-		culture = tonga
-		religion = animist
-		size = 38
-	 } 
 	aristocrats = {
-		culture = tonga
-		religion =  protestant 
-		size = 3773
-	 } 
-	aristocrats = {
-		culture = tonga
+		culture = nguni
 		religion = animist
-		size = 126
-	 } 
-	bureaucrats = {
-		culture = tonga
-		religion =  protestant 
-		size = 93
-	 } 
-	bureaucrats = {
-		culture = tonga
-		religion = animist
-		size = 3
-	 } 
-	capitalists = {
-		culture = tonga
-		religion =  protestant 
-		size = 471
-	 } 
-	capitalists = {
-		culture = tonga
-		religion = animist
-		size = 15
-	 } 
+		size = 412.0
+	}
+
 	clergymen = {
-		culture = tonga
-		religion =  protestant 
-		size = 943
-	 } 
-	clergymen = {
-		culture = tonga
+		culture = nguni
 		religion = animist
-		size = 31
-	 } 
+		size = 360.5
+	}
+
 	artisans = {
-		culture = tonga
-		religion =  protestant 
-		size = 1039
-	 } 
-	artisans = {
-		culture = tonga
+		culture = nguni
 		religion = animist
-		size = 34
-	 } 
-	farmers = {
-		culture = tonga
-		religion =  protestant 
-		size = 4874
-	 } 
+		size = 1648.0
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 412.0
+	}
+
 	farmers = {
 		culture = nguni
 		religion = animist
-		size = 2851
-	 } 
+		size = 23947.5
+	}
+
+	slaves = {
+		culture = nguni
+		religion = animist
+		size = 5150.0
+	}
+
+	aristocrats = {
+		culture = tonga
+		religion = animist
+		size = 309.0
+	}
+
+	clergymen = {
+		culture = tonga
+		religion = animist
+		size = 386.25
+	}
+
+	artisans = {
+		culture = tonga
+		religion = animist
+		size = 1905.5
+	}
+
+	soldiers = {
+		culture = tonga
+		religion = animist
+		size = 412.0
+	}
+
+	farmers = {
+		culture = tonga
+		religion = animist
+		size = 19647.25
+	}
+
+	slaves = {
+		culture = tonga
+		religion = animist
+		size = 16480.0
+	}
 }
 #Inhambane (176000/44000 POPS)
 2051 = {
-	officers = {
-		culture = nguni
-		religion =  catholic 
-		size = 293
-	 } 
-	officers = {
-		culture = nguni
-		religion = animist
-		size = 9
-	 } 
-	soldiers = {
-		culture = nguni
-		religion =  catholic 
-		size = 1172
-	 } 
-	soldiers = {
-		culture = nguni
-		religion = animist
-		size = 39
-	 } 
-	aristocrats = {
-		culture = nguni
-		religion =  catholic 
-		size = 3908
-	 } 
 	aristocrats = {
 		culture = nguni
 		religion = animist
-		size = 131
-	 } 
-	bureaucrats = {
-		culture = nguni
-		religion =  catholic 
-		size = 97
-	 } 
-	bureaucrats = {
-		culture = nguni
-		religion = animist
-		size = 3
-	 } 
-	capitalists = {
-		culture = nguni
-		religion =  catholic 
-		size = 488
-	 } 
-	capitalists = {
-		culture = nguni
-		religion = animist
-		size = 16
-	 } 
-	clergymen = {
-		culture = nguni
-		religion =  catholic 
-		size = 977
-	 } 
+		size = 154.5
+	}
+
 	clergymen = {
 		culture = nguni
 		religion = animist
-		size = 32
-	 } 
-	artisans = {
-		culture = nguni
-		religion =  catholic 
-		size = 1076
-	 } 
+		size = 128.75
+	}
+
 	artisans = {
 		culture = nguni
 		religion = animist
-		size = 36
-	 } 
+		size = 618.0
+	}
+
+	soldiers = {
+		culture = nguni
+		religion = animist
+		size = 154.5
+	}
+
 	farmers = {
+		culture = nguni
+		religion = animist
+		size = 9244.25
+	}
+
+	slaves = {
+		culture = nguni
+		religion = animist
+		size = 2060.0
+	}
+
+	aristocrats = {
 		culture = tonga
-		religion =  protestant 
-		size = 11269
-	 } 
+		religion = animist
+		size = 309.0
+	}
+
+	clergymen = {
+		culture = tonga
+		religion = animist
+		size = 309.0
+	}
+
+	artisans = {
+		culture = tonga
+		religion = animist
+		size = 1442.0
+	}
+
+	soldiers = {
+		culture = tonga
+		religion = animist
+		size = 412.0
+	}
+
 	farmers = {
 		culture = tonga
 		religion = animist
-		size = 1050
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 4894
-	 } 
-	farmers = {
-		culture = african_minor
+		size = 19158.0
+	}
+
+	slaves = {
+		culture = tonga
 		religion = animist
-		size = 1844
-	 } 
+		size = 11330.0
+	}
 }
 #Massekisse (172000/43000 POPS)
 2052 = {
-	officers = {
-		culture = shona
-		religion =  protestant 
-		size = 325
-	 } 
-	officers = {
-		culture = shona
-		religion = animist
-		size = 10
-	 } 
-	soldiers = {
-		culture = shona
-		religion =  protestant 
-		size = 1303
-	 } 
-	soldiers = {
-		culture = shona
-		religion = animist
-		size = 43
-	 } 
 	aristocrats = {
-		culture = shona
-		religion =  protestant 
-		size = 4344
-	 } 
-	aristocrats = {
-		culture = shona
+		culture = nguni
 		religion = animist
-		size = 145
-	 } 
-	bureaucrats = {
-		culture = shona
-		religion =  protestant 
-		size = 108
-	 } 
-	bureaucrats = {
-		culture = shona
-		religion = animist
-		size = 3
-	 } 
-	capitalists = {
-		culture = shona
-		religion =  protestant 
-		size = 542
-	 } 
-	capitalists = {
-		culture = shona
-		religion = animist
-		size = 18
-	 } 
+		size = 51.5
+	}
+
 	clergymen = {
-		culture = shona
-		religion =  protestant 
-		size = 1085
-	 } 
-	clergymen = {
-		culture = shona
+		culture = nguni
 		religion = animist
-		size = 36
-	 } 
+		size = 515.0
+	}
+
 	artisans = {
-		culture = shona
-		religion =  protestant 
-		size = 1196
-	 } 
-	artisans = {
-		culture = shona
+		culture = nguni
 		religion = animist
-		size = 40
-	 } 
-	farmers = {
-		culture = shona
+		size = 206.0
+	}
+
+	soldiers = {
+		culture = nguni
 		religion = animist
-		size = 466
-	 } 
-	farmers = {
-		culture = sena
-		religion =  protestant 
-		size = 1085
-	 } 
-	farmers = {
-		culture = sena
-		religion = animist
-		size = 36
-	 } 
+		size = 51.5
+	}
+
 	farmers = {
 		culture = nguni
-		religion =  catholic 
-		size = 2728
-	 } 
-	farmers = {
-		culture = african_minor
 		religion = animist
-		size = 2779
-	 } 
+		size = 3759.5
+	}
+
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 360.5
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 386.25
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 1854.0
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 412.0
+	}
+
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 40556.25
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 23381.0
+	}
 
 }
 #Zambezia Region (912000)
-#Ruled (loosely) by Portugal in 1836)
+#Ruled (loosely) by Portugal in 1936)
 #Sena (176000/43000 POPS)
 2053 = {
-	officers = {
-		culture = sena
-		religion =  protestant 
-		size = 67
-	 } 
-	officers = {
-		culture = sena
-		religion = animist
-		size = 2
-	 } 
-	soldiers = {
-		culture = sena
-		religion =  protestant 
-		size = 272
-	 } 
-	soldiers = {
-		culture = sena
-		religion = animist
-		size = 9
-	 } 
 	aristocrats = {
-		culture = sena
-		religion =  protestant 
-		size = 909
-	 } 
-	aristocrats = {
-		culture = sena
-		religion = animist
-		size = 30
-	 } 
+		culture = portuguese
+		religion = catholic
+		size = 206.0
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 61.800000000000004
+	}
+
 	bureaucrats = {
-		culture = sena
-		religion =  protestant 
-		size = 22
-	 } 
-	capitalists = {
-		culture = sena
-		religion =  protestant 
-		size = 113
-	 } 
-	capitalists = {
-		culture = sena
-		religion = animist
-		size = 3
-	 } 
-	clergymen = {
-		culture = sena
-		religion =  protestant 
-		size = 227
-	 } 
-	clergymen = {
-		culture = sena
-		religion = animist
-		size = 7
-	 } 
+		culture = portuguese
+		religion = catholic
+		size = 92.7
+	}
+
 	artisans = {
-		culture = sena
-		religion =  protestant 
-		size = 250
-	 } 
-	artisans = {
-		culture = sena
+		culture = portuguese
+		religion = catholic
+		size = 1030.0
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 154.5
+	}
+
+	aristocrats = {
+		culture = shona
 		religion = animist
-		size = 8
-	 } 
-	farmers = {
-		culture = sena
-		religion =  protestant 
-		size = 20455
-	 } 
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 154.5
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 721.0
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 154.5
+	}
+
 	farmers = {
 		culture = shona
 		religion = animist
-		size = 687
-	 } 
+		size = 6025.5
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 8240.0
+	}
+
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 257.5
+	}
+
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 206.0
+	}
+
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 1133.0
+	}
+
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 257.5
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 17201.0
+	}
+
+	slaves = {
+		culture = sena
+		religion = animist
+		size = 3605.0
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 25.75
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 1004.25
+	}
 }
 #Quelimane (84000/21000 POPS)
 2059 = {
-	officers = {
-		culture = sena
-		religion =  catholic 
-		size = 443
-	 } 
-	officers = {
-		culture = nyasa
-		religion = animist
-		size = 14
-	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 25.75
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 334.75
+	}
+
 	soldiers = {
-		culture = sena
-		religion =  catholic 
-		size = 1773
-	 } 
-	soldiers = {
-		culture = nyasa
-		religion = animist
-		size = 59
-	 } 
+		culture = portuguese
+		religion = catholic
+		size = 51.5
+	}
+
 	aristocrats = {
 		culture = sena
-		religion =  catholic 
-		size = 5911
-	 } 
+		religion = animist
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 128.75
+	}
+
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 669.5
+	}
+
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 154.5
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 10222.75
+	}
+
+	slaves = {
+		culture = sena
+		religion = animist
+		size = 2060.0
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 25.75
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 1004.25
+	}
+
 	aristocrats = {
-		culture = nyasa
-		religion = animist
-		size = 198
-	 } 
-	bureaucrats = {
-		culture = sena
-		religion =  catholic 
-		size = 147
-	 } 
-	bureaucrats = {
-		culture = nyasa
-		religion = animist
-		size = 4
-	 } 
-	capitalists = {
-		culture = sena
-		religion =  catholic 
-		size = 738
-	 } 
-	capitalists = {
-		culture = nyasa
-		religion = animist
-		size = 24
-	 } 
-	clergymen = {
-		culture = sena
-		religion =  catholic 
-		size = 1477
-	 } 
-	clergymen = {
-		culture = nyasa
-		religion = animist
-		size = 49
-	 } 
-	artisans = {
-		culture = sena
-		religion =  catholic 
-		size = 1628
-	 } 
-	artisans = {
-		culture = nyasa
-		religion = animist
-		size = 54
-	 } 
-	farmers = {
-		culture = sena
-		religion =  catholic 
-		size = 2659
-	 } 
-	farmers = {
-		culture = nyasa
-		religion = animist
-		size = 89
-	 } 
-	farmers = {
 		culture = african_minor
-		religion =  catholic 
-		size = 130309
-	 } 
+		religion = animist
+		size = 77.25
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 77.25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 360.5
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 77.25
+	}
+
 	farmers = {
 		culture = african_minor
 		religion = animist
-		size = 4377
-	 } 
+		size = 1467.75
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 5150.0
+	}
 }
-#Uncolonized in 1836
+#Uncolonized in 1936
 #Tete (104000/26000 POPS)
 2054 = {
-	officers = {
-		culture = lomwe
-		religion =  protestant 
-		size = 67
-	 } 
-	officers = {
-		culture = lomwe
-		religion = animist
-		size = 2
-	 } 
-	soldiers = {
-		culture = lomwe
-		religion =  protestant 
-		size = 272
-	 } 
-	soldiers = {
-		culture = lomwe
-		religion = animist
-		size = 9
-	 } 
 	aristocrats = {
-		culture = lomwe
-		religion =  protestant 
-		size = 909
-	 } 
+		culture = shona
+		religion = animist
+		size = 103.0
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 128.75
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 515.0
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 154.5
+	}
+
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 7338.75
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 3090.0
+	}
+
 	aristocrats = {
-		culture = lomwe
+		culture = african_minor
 		religion = animist
-		size = 30
-	 } 
-	bureaucrats = {
-		culture = lomwe
-		religion =  protestant 
-		size = 22
-	 } 
-	capitalists = {
-		culture = lomwe
-		religion =  protestant 
-		size = 113
-	 } 
-	capitalists = {
-		culture = lomwe
-		religion = animist
-		size = 3
-	 } 
+		size = 77.25
+	}
+
 	clergymen = {
-		culture = lomwe
-		religion =  protestant 
-		size = 227
-	 } 
+		culture = african_minor
+		religion = animist
+		size = 77.25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 412.0
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 103.0
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 4995.5
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2575.0
+	}
+
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 77.25
+	}
+
 	clergymen = {
-		culture = lomwe
+		culture = sena
 		religion = animist
-		size = 7
-	 } 
+		size = 77.25
+	}
+
 	artisans = {
-		culture = lomwe
-		religion =  protestant 
-		size = 250
-	 } 
-	artisans = {
-		culture = lomwe
+		culture = sena
 		religion = animist
-		size = 8
-	 } 
-	farmers = {
-		culture = lomwe
-		religion =  protestant 
-		size = 20455
-	 } 
-	farmers = {
-		culture = lomwe
+		size = 360.5
+	}
+
+	soldiers = {
+		culture = sena
 		religion = animist
-		size = 687
-	 } 
+		size = 77.25
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 6617.75
+	}
 }
 #Songo (164000/41000 POPS)
 2055 = {
-	officers = {
-		culture = sena
-		religion =  protestant 
-		size = 67
-	 } 
-	officers = {
-		culture = sena
-		religion = animist
-		size = 2
-	 } 
-	soldiers = {
-		culture = sena
-		religion =  protestant 
-		size = 272
-	 } 
-	soldiers = {
-		culture = sena
-		religion = animist
-		size = 9
-	 } 
 	aristocrats = {
-		culture = sena
-		religion =  protestant 
-		size = 909
-	 } 
-	aristocrats = {
-		culture = sena
+		culture = shona
 		religion = animist
-		size = 30
-	 } 
-	bureaucrats = {
-		culture = sena
-		religion =  protestant 
-		size = 22
-	 } 
-	capitalists = {
-		culture = sena
-		religion =  protestant 
-		size = 113
-	 } 
-	capitalists = {
-		culture = sena
-		religion = animist
-		size = 3
-	 } 
-	clergymen = {
-		culture = sena
-		religion =  protestant 
-		size = 227
-	 } 
+		size = 463.5
+	}
+
 	clergymen = {
 		culture = shona
 		religion = animist
-		size = 7
-	 } 
-	artisans = {
-		culture = sena
-		religion =  protestant 
-		size = 250
-	 } 
+		size = 412.0
+	}
+
 	artisans = {
 		culture = shona
 		religion = animist
-		size = 8
-	 } 
-	farmers = {
-		culture = sena
-		religion =  protestant 
-		size = 10455
-	 } 
+		size = 2060.0
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 463.5
+	}
+
 	farmers = {
 		culture = shona
 		religion = animist
-		size = 687
-	 } 
+		size = 28531.0
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 10300.0
+	}
 }
 #Zombo (104000/26000 POPS)
 2056 = {
-	officers = {
-		culture = lomwe
-		religion =  protestant 
-		size = 67
-	 } 
-	officers = {
-		culture = lomwe
-		religion = animist
-		size = 2
-	 } 
-	soldiers = {
-		culture = lomwe
-		religion =  protestant 
-		size = 272
-	 } 
-	soldiers = {
-		culture = lomwe
-		religion = animist
-		size = 9
-	 } 
 	aristocrats = {
-		culture = lomwe
-		religion =  protestant 
-		size = 909
-	 } 
-	aristocrats = {
-		culture = lomwe
+		culture = african_minor
 		religion = animist
-		size = 30
-	 } 
-	bureaucrats = {
-		culture = lomwe
-		religion =  protestant 
-		size = 22
-	 } 
-	capitalists = {
-		culture = lomwe
-		religion =  protestant 
-		size = 113
-	 } 
-	capitalists = {
-		culture = lomwe
-		religion = animist
-		size = 3
-	 } 
+		size = 103.0
+	}
+
 	clergymen = {
-		culture = lomwe
-		religion =  protestant 
-		size = 227
-	 } 
-	clergymen = {
-		culture = lomwe
+		culture = african_minor
 		religion = animist
-		size = 7
-	 } 
+		size = 103.0
+	}
+
 	artisans = {
-		culture = lomwe
-		religion =  protestant 
-		size = 250
-	 } 
-	artisans = {
-		culture = lomwe
+		culture = african_minor
 		religion = animist
-		size = 8
-	 } 
-	farmers = {
-		culture = lomwe
-		religion =  protestant 
-		size = 10455
-	 } 
+		size = 515.0
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 103.0
+	}
+
 	farmers = {
 		culture = african_minor
 		religion = animist
-		size = 687
-	 } 
+		size = 7313.0
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2163.0
+	}
+
+	aristocrats = {
+		culture = shona
+		religion = animist
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = shona
+		religion = animist
+		size = 128.75
+	}
+
+	artisans = {
+		culture = shona
+		religion = animist
+		size = 669.5
+	}
+
+	soldiers = {
+		culture = shona
+		religion = animist
+		size = 154.5
+	}
+
+	farmers = {
+		culture = shona
+		religion = animist
+		size = 9192.75
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 3090.0
+	}
+
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 30.900000000000002
+	}
+
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 61.800000000000004
+	}
+
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 51.5
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 2791.3
+	}
 }
 #Sofala (144000/36000 POPS)
 2057 = {
-	officers = {
-		culture = sena
-		religion =  protestant 
-		size = 188
-	 } 
-	officers = {
-		culture = southern_bantu
-		religion = animist
-		size = 6
-	 } 
-	soldiers = {
-		culture = sena
-		religion =  protestant 
-		size = 757
-	 } 
-	soldiers = {
-		culture = southern_bantu
-		religion = animist
-		size = 25
-	 } 
 	aristocrats = {
-		culture = sena
-		religion =  protestant 
-		size = 2525
-	 } 
-	aristocrats = {
-		culture = southern_bantu
+		culture = shona
 		religion = animist
-		size = 84
-	 } 
-	bureaucrats = {
-		culture = sena
-		religion =  protestant 
-		size = 62
-	 } 
-	bureaucrats = {
-		culture = southern_bantu
-		religion = animist
-		size = 2
-	 } 
-	capitalists = {
-		culture = sena
-		religion =  protestant 
-		size = 315
-	 } 
-	capitalists = {
-		culture = southern_bantu
-		religion = animist
-		size = 10
-	 } 
+		size = 103.0
+	}
+
 	clergymen = {
-		culture = sena
-		religion =  protestant 
-		size = 630
-	 } 
-	clergymen = {
-		culture = southern_bantu
+		culture = shona
 		religion = animist
-		size = 21
-	 } 
+		size = 103.0
+	}
+
 	artisans = {
-		culture = sena
-		religion =  protestant 
-		size = 695
-	 } 
-	artisans = {
-		culture = southern_bantu
+		culture = shona
 		religion = animist
-		size = 23
-	 } 
-	farmers = {
-		culture = sena
-		religion =  protestant 
-		size = 13964
-	 } 
-	farmers = {
-		culture = southern_bantu
+		size = 412.0
+	}
+
+	soldiers = {
+		culture = shona
 		religion = animist
-		size = 1140
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 2836
-	 } 
+		size = 103.0
+	}
+
 	farmers = {
 		culture = shona
 		religion = animist
-		size = 767
-	 } 
+		size = 5974.0
+	}
+
+	slaves = {
+		culture = shona
+		religion = animist
+		size = 2575.0
+	}
+
+	aristocrats = {
+		culture = sena
+		religion = animist
+		size = 128.75
+	}
+
+	clergymen = {
+		culture = sena
+		religion = animist
+		size = 103.0
+	}
+
+	artisans = {
+		culture = sena
+		religion = animist
+		size = 540.75
+	}
+
+	soldiers = {
+		culture = sena
+		religion = animist
+		size = 154.5
+	}
+
+	farmers = {
+		culture = sena
+		religion = animist
+		size = 10403.0
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 154.5
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 721.0
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 154.5
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 8085.5
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 6180.0
+	}
+
+	clergymen = {
+		culture = swahili
+		religion = sunni
+		size = 25.75
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 1004.25
+	}
 }
 #Mossurize (136000/34000 POPS)
 2058 = {
-	officers = {
-		culture = shona
-		religion =  protestant 
-		size = 188
-	 } 
-	officers = {
-		culture = shona
-		religion = animist
-		size = 6
-	 } 
-	soldiers = {
-		culture = shona
-		religion =  protestant 
-		size = 757
-	 } 
-	soldiers = {
-		culture = shona
-		religion = animist
-		size = 25
-	 } 
-	aristocrats = {
-		culture = shona
-		religion =  protestant 
-		size = 2525
-	 } 
 	aristocrats = {
 		culture = shona
 		religion = animist
-		size = 84
-	 } 
-	bureaucrats = {
-		culture = shona
-		religion =  protestant 
-		size = 62
-	 } 
-	bureaucrats = {
-		culture = shona
-		religion = animist
-		size = 2
-	 } 
-	capitalists = {
-		culture = shona
-		religion =  protestant 
-		size = 315
-	 } 
-	capitalists = {
-		culture = shona
-		religion = animist
-		size = 10
-	 } 
-	clergymen = {
-		culture = shona
-		religion =  protestant 
-		size = 630
-	 } 
+		size = 360.5
+	}
+
 	clergymen = {
 		culture = shona
 		religion = animist
-		size = 21
-	 } 
-	artisans = {
-		culture = shona
-		religion =  protestant 
-		size = 695
-	 } 
+		size = 386.25
+	}
+
 	artisans = {
 		culture = shona
 		religion = animist
-		size = 23
-	 } 
-	farmers = {
+		size = 1802.5
+	}
+
+	soldiers = {
 		culture = shona
-		religion =  protestant 
-		size = 9645
-	 } 
+		religion = animist
+		size = 360.5
+	}
+
 	farmers = {
 		culture = shona
 		religion = animist
-		size = 1331
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 7155
-	 } 
-	farmers = {
-		culture = african_minor
+		size = 21913.25
+	}
+
+	slaves = {
+		culture = shona
 		religion = animist
-		size = 576
-	 } 
+		size = 10300.0
+	}
+
 }
 #Mocambique Region (964000)
-#Ruled by Portugal 1836
+#Ruled by Portugal 1936
 #Mocambique (88000/22000 POPS)
 2060 = {
-	officers = {
-		culture = portuguese
-		religion =  catholic 
-		size = 457
-	 } 
-	officers = {
-		culture = portuguese
-		religion = catholic 
-		size = 15
-	 } 
-	soldiers = {
-		culture = makua
-		religion =  catholic 
-		size = 1831
-	 } 
-	soldiers = {
-		culture = portuguese
-		religion = catholic 
-		size = 61
-	 } 
 	aristocrats = {
 		culture = portuguese
-		religion =  catholic 
-		size = 6104
-	 } 
-	aristocrats = {
-		culture = makua
-		religion = animist
-		size = 205
-	 } 
-	bureaucrats = {
-		culture = portuguese
-		religion =  catholic 
-		size = 151
-	 } 
-	bureaucrats = {
-		culture = makua
-		religion = animist
-		size = 5
-	 } 
-	capitalists = {
-		culture = portuguese
-		religion =  catholic 
-		size = 762
-	 } 
-	capitalists = {
-		culture = makua
-		religion = animist
-		size = 25
-	 } 
+		religion = catholic
+		size = 283.25
+	}
+
 	clergymen = {
 		culture = portuguese
-		religion =  catholic 
-		size = 1525
-	 } 
+		religion = catholic
+		size = 51.5
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 25.75
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 618.0
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 51.5
+	}
+
+	aristocrats = {
+		culture = makua
+		religion = animist
+		size = 206.0
+	}
+
 	clergymen = {
 		culture = makua
 		religion = animist
-		size = 51
-	 } 
-	artisans = {
-		culture = portuguese
-		religion =  catholic 
-		size = 1682
-	 } 
+		size = 206.0
+	}
+
 	artisans = {
 		culture = makua
 		religion = animist
-		size = 56
-	 } 
-	farmers = {
-		culture = portuguese
-		religion =  catholic 
-		size = 2745
-	 } 
+		size = 1081.5
+	}
+
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 257.5
+	}
+
 	farmers = {
 		culture = makua
 		religion = animist
-		size = 92
-	 } 
-	farmers = {
-		culture = makua
-		religion =  protestant 
-		size = 34576
-	 } 
-	farmers = {
+		size = 13699.0
+	}
+
+	slaves = {
 		culture = makua
 		religion = animist
-		size = 4520
-	 } 
+		size = 6180.0
+	}
 }
-#uncolonized in 1836
+#uncolonized in 1936
 #Angoche (128000/32000 POPS)
 2061 = {
-	officers = {
-		culture = makua
-		religion =  protestant 
-		size = 230
-	 } 
-	officers = {
-		culture = makua
-		religion = animist
-		size = 7
-	 } 
-	soldiers = {
-		culture = makua
-		religion =  protestant 
-		size = 922
-	 } 
-	soldiers = {
-		culture = makua
-		religion = animist
-		size = 31
-	 } 
-	aristocrats = {
-		culture = makua
-		religion =  protestant 
-		size = 3076
-	 } 
 	aristocrats = {
 		culture = makua
 		religion = animist
-		size = 103
-	 } 
-	bureaucrats = {
-		culture = makua
-		religion =  protestant 
-		size = 76
-	 } 
-	bureaucrats = {
-		culture = makua
-		religion = animist
-		size = 2
-	 } 
-	capitalists = {
-		culture = makua
-		religion =  protestant 
-		size = 384
-	 } 
-	capitalists = {
-		culture = makua
-		religion = animist
-		size = 12
-	 } 
-	clergymen = {
-		culture = makua
-		religion =  protestant 
-		size = 769
-	 } 
+		size = 103.0
+	}
+
 	clergymen = {
 		culture = makua
 		religion = animist
-		size = 25
-	 } 
-	artisans = {
-		culture = makua
-		religion =  protestant 
-		size = 847
-	 } 
+		size = 103.0
+	}
+
 	artisans = {
 		culture = makua
 		religion = animist
-		size = 28
-	 } 
+		size = 721.0
+	}
+
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 206.0
+	}
+
 	farmers = {
 		culture = makua
-		religion =  protestant 
-		size = 29205
-	 } 
+		religion = animist
+		size = 5047.0
+	}
+
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 9270.0
+	}
+
+	aristocrats = {
+		culture = makua
+		religion = sunni
+		size = 154.5
+	}
+
+	clergymen = {
+		culture = makua
+		religion = sunni
+		size = 154.5
+	}
+
+	artisans = {
+		culture = makua
+		religion = sunni
+		size = 772.5
+	}
+
+	soldiers = {
+		culture = makua
+		religion = sunni
+		size = 206.0
+	}
+
 	farmers = {
+		culture = makua
+		religion = sunni
+		size = 13132.5
+	}
+
+	clergymen = {
 		culture = swahili
 		religion = sunni
-		size = 2324
-	 } 
+		size = 77.25
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 3012.75
+	}
 }
 #Ibo (208000/52000 POPS)
 2063 = {
-	officers = {
-		culture = makua
-		religion =  protestant 
-		size = 370
-	 } 
-	officers = {
-		culture = makua
-		religion = animist
-		size = 12
-	 } 
-	soldiers = {
-		culture = makua
-		religion =  protestant 
-		size = 1483
-	 } 
-	soldiers = {
-		culture = makua
-		religion = animist
-		size = 49
-	 } 
-	aristocrats = {
-		culture = makua
-		religion =  protestant 
-		size = 4943
-	 } 
 	aristocrats = {
 		culture = makua
 		religion = animist
-		size = 166
-	 } 
-	bureaucrats = {
-		culture = makua
-		religion =  protestant 
-		size = 122
-	 } 
-	bureaucrats = {
-		culture = makua
-		religion = animist
-		size = 4
-	 } 
-	capitalists = {
-		culture = makua
-		religion =  protestant 
-		size = 617
-	 } 
-	capitalists = {
-		culture = makua
-		religion = animist
-		size = 20
-	 } 
-	clergymen = {
-		culture = makua
-		religion =  protestant 
-		size = 1235
-	 } 
+		size = 515.0
+	}
+
 	clergymen = {
 		culture = makua
 		religion = animist
-		size = 41
-	 } 
-	artisans = {
-		culture = makua
-		religion =  protestant 
-		size = 1362
-	 } 
+		size = 515.0
+	}
+
 	artisans = {
 		culture = makua
 		religion = animist
-		size = 45
-	 } 
+		size = 2575.0
+	}
+
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 515.0
+	}
+
 	farmers = {
 		culture = makua
-		religion =  protestant 
-		size = 11206
-	 } 
-	farmers = {
+		religion = animist
+		size = 37080.0
+	}
+
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 10300.0
+	}
+
+	clergymen = {
 		culture = swahili
 		religion = sunni
-		size = 3735
-	 } 
+		size = 51.5
+	}
+
+	artisans = {
+		culture = swahili
+		religion = sunni
+		size = 2008.5
+	}
 }
 #Nampula (208000/52000 POPS)
 2064 = {
-	officers = {
-		culture = makua
-		religion =  protestant 
-		size = 230
-	 } 
-	officers = {
-		culture = makua
-		religion = animist
-		size = 7
-	 } 
-	soldiers = {
-		culture = makua
-		religion =  protestant 
-		size = 922
-	 } 
-	soldiers = {
-		culture = makua
-		religion = animist
-		size = 31
-	 } 
 	aristocrats = {
-		culture = makua
-		religion =  protestant 
-		size = 3076
-	 } 
-	aristocrats = {
-		culture = makua
+		culture = yao
 		religion = animist
-		size = 103
-	 } 
-	bureaucrats = {
-		culture = makua
-		religion =  protestant 
-		size = 76
-	 } 
-	bureaucrats = {
-		culture = makua
-		religion = animist
-		size = 2
-	 } 
-	capitalists = {
-		culture = makua
-		religion =  protestant 
-		size = 384
-	 } 
-	capitalists = {
-		culture = makua
-		religion = animist
-		size = 12
-	 } 
-	clergymen = {
-		culture = makua
-		religion =  protestant 
-		size = 769
-	 } 
+		size = 257.5
+	}
+
 	clergymen = {
 		culture = yao
 		religion = animist
-		size = 25
-	 } 
-	artisans = {
-		culture = makua
-		religion =  protestant 
-		size = 847
-	 } 
+		size = 257.5
+	}
+
 	artisans = {
 		culture = yao
 		religion = animist
-		size = 28
-	 } 
-	farmers = {
-		culture = makua
-		religion =  protestant 
-		size = 19205
-	 } 
+		size = 1287.5
+	}
+
+	soldiers = {
+		culture = yao
+		religion = animist
+		size = 309.0
+	}
+
 	farmers = {
 		culture = yao
 		religion = animist
-		size = 2324
-	 } 
+		size = 22608.5
+	}
+
+	slaves = {
+		culture = yao
+		religion = animist
+		size = 1030.0
+	}
+
+	aristocrats = {
+		culture = makua
+		religion = animist
+		size = 206.0
+	}
+
+	clergymen = {
+		culture = makua
+		religion = animist
+		size = 206.0
+	}
+
+	artisans = {
+		culture = makua
+		religion = animist
+		size = 927.0
+	}
+
+	soldiers = {
+		culture = makua
+		religion = animist
+		size = 206.0
+	}
+
+	farmers = {
+		culture = makua
+		religion = animist
+		size = 10815.0
+	}
+
+	slaves = {
+		culture = makua
+		religion = animist
+		size = 7210.0
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 8240.0
+	}
 }
 #Milange (108000/27000 POPS)
 2065 = {
-	officers = {
-		culture = yao
-		religion =  catholic 
-		size = 443
-	 } 
-	officers = {
-		culture = yao
-		religion = animist
-		size = 14
-	 } 
-	soldiers = {
-		culture = yao
-		religion =  catholic 
-		size = 1773
-	 } 
-	soldiers = {
-		culture = yao
-		religion = animist
-		size = 59
-	 } 
 	aristocrats = {
-		culture = yao
-		religion =  catholic 
-		size = 5911
-	 } 
-	aristocrats = {
-		culture = yao
+		culture = sena
 		religion = animist
-		size = 198
-	 } 
-	bureaucrats = {
-		culture = yao
-		religion =  catholic 
-		size = 147
-	 } 
-	bureaucrats = {
-		culture = yao
-		religion = animist
-		size = 4
-	 } 
-	capitalists = {
-		culture = yao
-		religion =  catholic 
-		size = 738
-	 } 
-	capitalists = {
-		culture = yao
-		religion = animist
-		size = 24
-	 } 
+		size = 257.5
+	}
+
 	clergymen = {
-		culture = yao
-		religion =  catholic 
-		size = 1477
-	 } 
-	clergymen = {
-		culture = yao
+		culture = sena
 		religion = animist
-		size = 49
-	 } 
+		size = 257.5
+	}
+
 	artisans = {
-		culture = yao
-		religion =  catholic 
-		size = 1628
-	 } 
-	artisans = {
-		culture = yao
+		culture = sena
 		religion = animist
-		size = 54
-	 } 
-	farmers = {
-		culture = yao
-		religion =  catholic 
-		size = 5615
-	 } 
-	farmers = {
-		culture = nyasa
+		size = 1287.5
+	}
+
+	soldiers = {
+		culture = sena
 		religion = animist
-		size = 188
-	 } 
+		size = 309.0
+	}
+
 	farmers = {
 		culture = sena
-		religion =  protestant 
-		size = 12069
-	 } 
-	farmers = {
-		culture = nyasa
 		religion = animist
-		size = 2085
-	 } 
-	farmers = {
-		culture = makua
-		religion =  protestant 
-		size = 16255
-	 } 
-	farmers = {
-		culture = makua
+		size = 19003.5
+	}
+
+	slaves = {
+		culture = sena
 		religion = animist
-		size = 546
-	 } 
-	farmers = {
-		culture = african_minor
-		religion =  catholic 
-		size = 19028
-	 } 
-	farmers = {
+		size = 3605.0
+	}
+
+	aristocrats = {
 		culture = african_minor
 		religion = animist
-		size = 1646
-	 } 
+		size = 25.75
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 51.5
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 154.5
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 25.75
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 772.5
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 2060.0
+	}
 
 }
 #Mataka (224000/56000 POPS)
 2581 = {
-	officers = {
-		culture = yao
-		religion =  catholic 
-		size = 269
-	 } 
-	officers = {
-		culture = yao
-		religion = animist
-		size = 9
-	 } 
-	soldiers = {
-		culture = yao
-		religion =  catholic 
-		size = 1079
-	 } 
-	soldiers = {
-		culture = yao
-		religion = animist
-		size = 36
-	 } 
-	aristocrats = {
-		culture = yao
-		religion =  catholic 
-		size = 3599
-	 } 
 	aristocrats = {
 		culture = yao
 		religion = animist
-		size = 120
-	 } 
-	bureaucrats = {
-		culture = yao
-		religion =  catholic 
-		size = 89
-	 } 
-	bureaucrats = {
-		culture = yao
-		religion = animist
-		size = 3
-	 } 
-	capitalists = {
-		culture = yao
-		religion =  catholic 
-		size = 449
-	 } 
-	capitalists = {
-		culture = yao
-		religion = animist
-		size = 15
-	 } 
-	clergymen = {
-		culture = yao
-		religion =  catholic 
-		size = 899
-	 } 
+		size = 463.5
+	}
+
 	clergymen = {
 		culture = yao
 		religion = animist
-		size = 30
-	 } 
-	artisans = {
-		culture = yao
-		religion =  catholic 
-		size = 991
-	 } 
+		size = 412.0
+	}
+
 	artisans = {
 		culture = yao
 		religion = animist
-		size = 33
-	 } 
-	farmers = {
-		culture = yao
-		religion =  catholic 
-		size = 10615
-	 } 
-	farmers = {
+		size = 2163.0
+	}
+
+	soldiers = {
 		culture = yao
 		religion = animist
-		size = 356
-	 } 
+		size = 463.5
+	}
+
 	farmers = {
-		culture = lomwe
-		religion =  protestant 
-		size = 18485
-	 } 
-	farmers = {
-		culture = lomwe
+		culture = yao
 		religion = animist
-		size = 1964
-	 } 
-	farmers = {
-		culture = makua
-		religion =  protestant 
-		size = 11855
-	 } 
-	farmers = {
-		culture = makua
+		size = 36668.0
+	}
+
+	slaves = {
+		culture = yao
 		religion = animist
-		size = 398
-	 } 
+		size = 2060.0
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 15450.0
+	}
 }

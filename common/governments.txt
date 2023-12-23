@@ -100,13 +100,4 @@ democracy = {
 	appoint_ruling_party = no
 }
  
-military_dictatorship =
-{
-	#which ideology of parties.
-	reactionary = yes
-	fascist = yes
-	
-	election = no
-	appoint_ruling_party = yes
-	flagType = fascist
-}
+

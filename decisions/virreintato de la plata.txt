@@ -8,7 +8,7 @@ political_decisions = {
                 tag = IBE
             }
             NOT = { exists = VLP }
-			has_country_flag = third_expedition
+			has_global_flag = third_expedition
         }
 
         allow = {

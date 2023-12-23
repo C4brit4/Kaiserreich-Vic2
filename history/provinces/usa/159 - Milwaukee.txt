@@ -8,14 +8,8 @@ colony = 2
 	colony = 0
 	state_building = {
 		level = 1
-		building = automobile_factory
+		building = lumber_mill
 		upgrade = yes
 	}
 }
 1861.1.1 = { railroad = 3 }
-1914.1.1 = { railroad = 5 }
-	state_building = {
-		level = 3
-		building = artillery_factory
-		upgrade = yes
-	}

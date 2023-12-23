@@ -1,7 +1,6 @@
 owner = FRA
 controller = FRA
 add_core = FRA
-add_core = OCC
 trade_goods = fruit
 life_rating = 31
 #state_building = {
@@ -17,12 +16,3 @@ life_rating = 31
 	}
 }
 1861.1.1 = { railroad = 3 }
-1914.1.1 = {
-	railroad = 5
-	
-	state_building = {
-		level = 2
-		building = steamer_shipyard
-		upgrade = yes
-	}
-}

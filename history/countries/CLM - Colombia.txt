@@ -1,5 +1,5 @@
 capital = 2247
-primary_culture = colombianos
+primary_culture = north_andean
 religion = catholic
 government = democracy
 plurality = 25.0

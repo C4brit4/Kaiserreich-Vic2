@@ -1,5 +1,5 @@
 capital = 2344
-primary_culture = uruguayos
+primary_culture = platinean
 religion = catholic
 government = democracy
 plurality = 25.0

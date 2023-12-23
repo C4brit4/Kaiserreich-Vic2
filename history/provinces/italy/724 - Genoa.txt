@@ -8,7 +8,7 @@ naval_base = 1
 1861.1.1 = {
 	controller = ITC
 	owner = ITC
-	add_core = ITC
+	add_core = ITA
 }
 1861.1.1 = { 
 	railroad = 2 

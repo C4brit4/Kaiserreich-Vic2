@@ -7,7 +7,6 @@ political_decisions = {
                                 
             }
 			has_global_flag = contrarevolucion_2
-			NOT={has_country_flag = pierde}
         }
 
         allow = {         
@@ -20,7 +19,6 @@ political_decisions = {
         effect = {                
             prestige = 35
 			set_country_flag = camino_eng_comi_emp
-			set_country_flag = pierde
             inherit = CAN
             
         }

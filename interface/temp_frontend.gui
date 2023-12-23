@@ -37,14 +37,42 @@ guiTypes = {
 			{
 				name ="frontend_backdrop"
 				spriteType = "GFX_frontend_main_bg"
-				position = { x= -960 y = -326 }
+				position = { x= -930 y = -326 }
 				Orientation = "CENTER"
 			}
 		iconType =
 			{
 				name ="frontend_toptile1"
 				spriteType = "GFX_frontend_toptile"
-				position = { x= -960 y = -601 }
+				position = { x= -1500 y = -601 }
+				Orientation = "CENTER"
+			}
+		iconType =
+			{
+				name ="frontend_toptile2"
+				spriteType = "GFX_frontend_toptile"
+				position = { x= -751 y = -601 }
+				Orientation = "CENTER"
+			}
+		iconType =
+			{
+				name ="frontend_toptile3"
+				spriteType = "GFX_frontend_toptile"
+				position = { x= -2 y = -601 }
+				Orientation = "CENTER"
+			}
+		iconType =
+			{
+				name ="frontend_toptile4"
+				spriteType = "GFX_frontend_toptile"
+				position = { x= 747 y = -601 }
+				Orientation = "CENTER"
+			}
+		iconType =
+			{
+				name ="frontend_toptile5"
+				spriteType = "GFX_frontend_toptile"
+				position = { x= 1496 y = -601 }
 				Orientation = "CENTER"
 			}
 		iconType =
@@ -1965,7 +1993,7 @@ guiTypes = {
 			name = "name"
 			position = { x = 45 y =-5 }
 			format = left
-			font = "vic_18_black"
+			font = "vic_18"
 			maxWidth = 172
 			maxHeight = 32	
 			Orientation = "UPPER_LEFT"

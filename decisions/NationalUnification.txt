@@ -293,7 +293,8 @@ political_decisions = {
 		news_desc_medium = "form_italy_NEWS_MEDIUM"
 		news_desc_short = "form_italy_NEWS_SHORT"
 		potential = {
-				has_country_flag = democracy_italy		
+			tag = ITR
+			
 			NOT = {
 				exists = ITA
 			}
@@ -496,7 +497,6 @@ political_decisions = {
 				tag = ECU
 				tag = CLM
 				tag = VNZ
-				tag = PNM
 			}
 			NOT = {
 				exists = GCO
@@ -504,6 +504,7 @@ political_decisions = {
 		}	
 		allow = {
 			war = no
+			is_greater_power = yes
 			GCO = {
 				all_core = {
 					owner = {
@@ -519,10 +520,6 @@ political_decisions = {
 		
 		effect = {
 			prestige = 10
-			add_accepted_culture = colombianos
-			add_accepted_culture = ecuatorianos
-			add_accepted_culture = venezolanos
-			add_accepted_culture = panamenos
 			any_country = {
 				limit = {
 					vassal_of = THIS

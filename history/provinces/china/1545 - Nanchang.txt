@@ -6,4 +6,3 @@ trade_goods = timber
 life_rating = 32
 
 add_core = LEP
-add_core = NAN

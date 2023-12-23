@@ -6,10 +6,6 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\politics_decision_bg.dds"
 	}
 	spriteType = {
-		name = "GFX_decision_title"
-		texturefile = "gfx\\interface\\decision_title.dds"
-	}
-	spriteType = {
 		name = "GFX_sort_radical"
 		texturefile = "gfx\\interface\\sort_radical.dds"
 	}
@@ -75,8 +71,8 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_politics_rebel_strip"
-		texturefile = "gfx\\interface\\politics_rebel_strip.dds"
-		noOfFrames = 18
+		texturefile = "gfx\\interface\\politics_rebel_strip.tga"
+		noOfFrames = 6
 	}
 	spriteType = {
 		name = "GFX_politics_tab_button"
@@ -85,19 +81,19 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_politics_rebel_strip_trans"
-		texturefile = "gfx\\interface\\politics_rebel_strip.dds"
-		noOfFrames = 18
+		texturefile = "gfx\\interface\\politics_rebel_strip.tga"
+		noOfFrames = 6
 		allwaystransparent = yes
 	}
 	spriteType = {
 		name = "GFX_movement_strip_political"
-		texturefile = "gfx\\interface\\movement_strip_political.dds"
-		noOfFrames = 11
+		texturefile = "gfx\\interface\\movement_strip_political.tga"
+		noOfFrames = 8
 	}
 	spriteType = {
 		name = "GFX_movement_strip_social"
-		texturefile = "gfx\\interface\\movement_strip_social.dds"
-		noOfFrames = 9
+		texturefile = "gfx\\interface\\movement_strip_social.tga"
+		noOfFrames = 7
 	}
 	
 	spriteType = {
@@ -145,48 +141,6 @@ spriteTypes = {
 		name = "GFX_politics_slavery"
 		texturefile = "gfx\\interface\\politics_slavery.dds"
 	}
-	
-	spriteType = {
-		name = "GFX_politics_conscription"
-		texturefile = "gfx\\interface\\politics_conscription.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_politics_bureaucracy"
-		texturefile = "gfx\\interface\\politics_bureaucracy.dds"
-		}
-
-	
-	spriteType = {
-		name = "GFX_politics_borders"
-		texturefile = "gfx\\interface\\politics_borders.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_politics_penal"
-		texturefile = "gfx\\interface\\politics_penal.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_politics_citizens_rights"
-		texturefile = "gfx\\interface\\politics_citizens_rights.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_politics_border_policy"
-		texturefile = "gfx\\interface\\politics_border_policy.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_politics_child_labor"
-		texturefile = "gfx\\interface\\politics_child_labor.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_politics_penal_system"
-		texturefile = "gfx\\interface\\politics_penal_system.dds"
-	}
-	
 	spriteType = {
 		name = "GFX_politics_healthcare"
 		texturefile = "gfx\\interface\\politics_healthcare.dds"
@@ -228,17 +182,6 @@ spriteTypes = {
 		name = "GFX_politics_military_constructions"
 		texturefile = "gfx\\interface\\politics_military_constructions.dds"
 	}
-	
-	spriteType = {
-		name = "GFX_politics_firearms_production"
-		texturefile = "gfx\\interface\\politics_firearms_production.dds"
-	}
-	
-	#spriteType = {
-	#	name = "GFX_politics_guild_reform"
-	#	texturefile = "gfx\\interface\\politics_guild_reform.dds"
-	#}
-	
 	spriteType = {
 		name = "GFX_politics_officer_training"
 		texturefile = "gfx\\interface\\politics_officer_training.dds"
@@ -251,17 +194,6 @@ spriteTypes = {
 		name = "GFX_politics_foreign_naval_units"
 		texturefile = "gfx\\interface\\politics_foreign_naval_units.dds"
 	}
-	
-	spriteType = {
-		name = "GFX_politics_foreign_artillery"
-		texturefile = "gfx\\interface\\politics_foreign_artillery.dds"
-	}
-	
-	spriteType = {
-		name = "GFX_politics_naval_supplies_reform"
-		texturefile = "gfx\\interface\\politics_naval_supplies_reform.dds"
-	}
-	
 	spriteType = {
 		name = "GFX_politics_naval_training"
 		texturefile = "gfx\\interface\\politics_naval_training.dds"
@@ -286,17 +218,6 @@ spriteTypes = {
 		name = "GFX_politics_education_reform"
 		texturefile = "gfx\\interface\\politics_education_reform.dds"
 	}
-	
-	spriteType = {
-		name = "GFX_politics_research_reform"
-		texturefile = "gfx\\interface\\politics_research_reform.dds"
-	}
-
-	spriteType = {
-		name = "GFX_politics_monetary_reform"
-		texturefile = "gfx\\interface\\politics_monetary_reform.dds"
-	}
-	
 	spriteType = {
 		name = "GFX_politics_transportation_system"
 		texturefile = "gfx\\interface\\politics_transportation_system.dds"
@@ -376,7 +297,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_politics_nationalvalue"
 		texturefile = "gfx\\interface\\politics_nationalvalue.tga"
-		noOfFrames = 6
+		noOfFrames = 3
 	}
 	spriteType = {
 		name = "GFX_politics_pluralism"
@@ -412,7 +333,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_politics_selectparty_entrybg"
-		texturefile = "gfx\\interface\\politics_selectparty_entrybg.dds"
+		texturefile = "gfx\\interface\\politics_selectparty_entrybg.tga"
 	}
 	
 	PieChartType = {

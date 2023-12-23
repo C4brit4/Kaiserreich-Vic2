@@ -27,8 +27,8 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_icon_religion_small"
-		texturefile = "gfx\\interface\\icon_religion_small.dds"
-		noOfFrames = 18
+		texturefile = "gfx\\interface\\icon_religion_small.tga"
+		noOfFrames = 13
 		loadType = "INGAME"
 	}
 	
@@ -43,7 +43,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_pops_small"
 		texturefile = "gfx\\interface\\pops_small.tga"
-		noOfFrames = 13
+		noOfFrames = 12
 		effectFile = "gfx\\FX\\buttonstate.fx"
 		norefcount = yes
 	}
@@ -51,7 +51,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_pops_small2"
 		texturefile = "gfx\\interface\\pops_small.tga"
-		noOfFrames = 13
+		noOfFrames = 12
 		effectFile = "gfx\\FX\\buttonstate2.fx"
 		norefcount = yes
 	}
@@ -59,7 +59,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_pops_mini"
 		texturefile = "gfx\\interface\\pops_mini.tga"
-		noOfFrames = 13
+		noOfFrames = 12
 		effectFile = "gfx\\FX\\buttonstate.fx"
 		norefcount = yes
 	}
@@ -67,33 +67,33 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_resources_big"
 		texturefile = "gfx\\interface\\resources_big.dds"
-		noOfFrames = 50
+		noOfFrames = 49
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_resources"
 		texturefile = "gfx\\interface\\resources.dds"
-		noOfFrames = 50
+		noOfFrames = 49
 		norefcount = yes
 	}
 	spriteType = {
 		name = "GFX_resources_transparent"
 		texturefile = "gfx\\interface\\resources.dds"
-		noOfFrames = 50
+		noOfFrames = 49
 		norefcount = yes
 		allwaystransparent = yes
 	}
 	spriteType = {
 		name = "GFX_resources_small"
 		texturefile = "gfx\\interface\\resources_small.dds"
-		noOfFrames = 50
+		noOfFrames = 49
 		norefcount = yes
 		allwaystransparent = no
 	}
 	spriteType = {
 		name = "GFX_resources_small_transparent"
 		texturefile = "gfx\\interface\\resources_small.dds"
-		noOfFrames = 50
+		noOfFrames = 49
 		norefcount = yes
 		transparencecheck = yes
 	}
@@ -1239,7 +1239,7 @@ fonts = {
 		fontname = "garamond bold"
 		height = 32
 		charset = "ANSI"		
-		color = 0xffffffdd	
+		color = 0xff000000	
 	}
 
 	font = {
@@ -1266,14 +1266,4 @@ fonts = {
 		color = 0xffffffff
 	}
 	
-}
-
-####### KAISERREICH FONTS
-
-bitmapfonts = {
-	bitmapfont = {
-		name = "courier_blank"
-		fontname = "courier_blank"
-		color = 0xffffffff	
-	}
 }

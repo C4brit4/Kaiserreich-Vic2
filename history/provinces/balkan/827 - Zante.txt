@@ -1,13 +1,6 @@
-owner = ION
-controller = ION
+owner = GRE
+controller = GRE
 add_core = ION
 add_core = GRE
 trade_goods = fish
 life_rating = 35
-1914.1.1 = {
-	owner = GRE
-	controller = GRE
-}
-1914.1.1 = {
-	railroad = 1
-}

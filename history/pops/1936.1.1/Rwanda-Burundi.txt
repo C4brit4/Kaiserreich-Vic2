@@ -1,190 +1,92 @@
-#Ruanda-Urundi Region (944000)  
-#uncolonized in 1836/ruled by kingdom of Rwanda
-#Kigali (496000/124000 POPS) 
+#Ruanda-Urundi Region (944000)
+#uncolonized in 1936/ruled by kingdom of Rwanda
+#Kigali (496000/124000 POPS)
 2034 = {
-	officers = {
-		culture = ruanda
-		religion =  catholic 
-		size = 1806
-	 } 
-	officers = {
-		culture = ruanda
-		religion = animist
-		size = 22
-	 } 
-	soldiers = {
-		culture = ruanda
-		religion =  catholic 
-		size = 7225
-	 } 
-	soldiers = {
-		culture = ruanda
-		religion = animist
-		size = 91
-	 } 
-	aristocrats = {
-		culture = ruanda
-		religion =  catholic 
-		size = 24085
-	 } 
 	aristocrats = {
 		culture = ruanda
 		religion = animist
-		size = 304
-	 } 
-	bureaucrats = {
-		culture = ruanda
-		religion =  catholic 
-		size = 601
-	 } 
+		size = 2523.5
+	}
+
 	bureaucrats = {
 		culture = ruanda
 		religion = animist
-		size = 7
-	 } 
-	capitalists = {
-		culture = ruanda
-		religion =  catholic 
-		size = 3009
-	 } 
-	capitalists = {
+		size = 25.75
+	}
+
+	officers = {
 		culture = ruanda
 		religion = animist
-		size = 38
-	 } 
-	clergymen = {
-		culture = ruanda
-		religion =  catholic 
-		size = 6020
-	 } 
+		size = 128.75
+	}
+
 	clergymen = {
 		culture = ruanda
 		religion = animist
-		size = 76
-	 } 
-	artisans = {
-		culture = ruanda
-		religion =  catholic 
-		size = 4063
-	 } 
+		size = 1802.5
+	}
+
 	artisans = {
 		culture = ruanda
 		religion = animist
-		size = 51
-	 } 
-	farmers = {
+		size = 6386.0
+	}
+
+	soldiers = {
 		culture = ruanda
-		religion =  catholic 
-		size = 158975
-	 } 
+		religion = animist
+		size = 1287.5
+	}
+
 	farmers = {
 		culture = ruanda
 		religion = animist
-		size = 5809
-	 } 
-	farmers = {
-		culture = ruanda
-		religion =  catholic 
-		size = 16340
-	 } 
-	farmers = {
-		culture = ruanda
-		religion = animist
-		size = 1219
-	 } 
+		size = 116596.0
+	}
 }
-#uncolonized in 1836/ruled by kingdom of Burundi
-#Usumbura (448000/112000 POPS) 
+#uncolonized in 1936/ruled by kingdom of Burundi
+#Usumbura (448000/112000 POPS)
 2035 = {
-	officers = {
-		culture = ruanda
-		religion =  catholic 
-		size = 1763
-	 } 
-	officers = {
-		culture = ruanda
-		religion = animist
-		size = 8
-	 } 
-	soldiers = {
-		culture = ruanda
-		religion =  catholic 
-		size = 7053
-	 } 
-	soldiers = {
-		culture = ruanda
-		religion = animist
-		size = 35
-	 } 
 	aristocrats = {
-		culture = ruanda
-		religion =  catholic 
-		size = 23511
-	 } 
-	aristocrats = {
-		culture = ruanda
+		culture = rundi
 		religion = animist
-		size = 118
-	 } 
+		size = 2240.25
+	}
+
 	bureaucrats = {
-		culture = ruanda
-		religion =  catholic 
-		size = 587
-	 } 
-	bureaucrats = {
-		culture = ruanda
+		culture = rundi
 		religion = animist
-		size = 2
-	 } 
-	capitalists = {
-		culture = ruanda
-		religion =  catholic 
-		size = 2938
-	 } 
-	capitalists = {
-		culture = ruanda
+		size = 15.450000000000001
+	}
+
+	officers = {
+		culture = rundi
 		religion = animist
-		size = 14
-	 } 
+		size = 113.3
+	}
+
 	clergymen = {
-		culture = ruanda
-		religion =  catholic 
-		size = 5877
-	 } 
-	clergymen = {
-		culture = ruanda
+		culture = rundi
 		religion = animist
-		size = 29
-	 } 
+		size = 1158.75
+	}
+
 	artisans = {
-		culture = ruanda
-		religion =  catholic 
-		size = 2263
-	 } 
-	artisans = {
-		culture = ruanda
+		culture = rundi
 		religion = animist
-		size = 11
-	 } 
-	farmers = {
-		culture = ruanda
-		religion =  catholic 
-		size = 161509
-	 } 
-	farmers = {
-		culture = ruanda
+		size = 5768.0
+	}
+
+	soldiers = {
+		culture = rundi
 		religion = animist
-		size = 2319
-	 } 
+		size = 1158.75
+	}
+
 	farmers = {
-		culture = ruanda
-		religion =  catholic 
-		size = 12291
-	 } 
-	farmers = {
-		culture = ruanda
+		culture = rundi
 		religion = animist
-		size = 413
-	 } 
+		size = 104905.5
+	}
 
 }

@@ -1,19 +1,13 @@
 owner = GLO
 controller = GLO
+add_core = GLO
 add_core = KRA
 add_core = POL
 add_core = PLC
-add_core = GLO
 trade_goods = coal
 life_rating = 40
 1861.1.1 = {
-	owner = AUS
-	controller = AUS
+	owner = GLO
+controller = GLO
 }
 1861.1.1 = { railroad = 3 }
-1914.1.1 = {
-owner = GLO
-controller = GLO
-add_core = GLO
-	railroad = 4
-}
