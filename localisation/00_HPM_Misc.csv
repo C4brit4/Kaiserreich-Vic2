@@ -114,7 +114,6 @@ ibadi;Ibadi;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 HAS_RECENTLY_LOST_WAR;Have lost a war in the last five years.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
 NOT_IN_ELECTION_CAMPAIGN;is NOT in an election campaign.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
 PEACE_WE_DECLINE_2;We have declined the peace offer from;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
-PEACE_WE_ACCEPT_2;We have accepted a peace offer from;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
 CALCULATED_WARSCORE;Peace offer value: $VAL$;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
 CRISIS_BACK_DOWN_WE_DECLINE_2;We have declined the peace offer from;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
 HAVE_LESS_VASSALS_THAN;Have less vassals than ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -153,7 +152,6 @@ enforce_conference_decision;Enforce Deliberation;;;;;;;;;;;;;;;x;;;;
 enforce_conference_decision_desc;Force a 即country劬 to abide to the 即Great Powers劬 deliberation.;;;;;;;;;;;;;;;;x
 enforce_conference_decision_short;Abide to the 即Great Powers劬 deliberation.;;;;;;;;;;;;;;;;;;;;;;x;;;;
 enforce_conference_decision_setup;Force a 即country劬 to abide to the 即Great Powers劬 deliberation.;;;;;;;;;;;;;;;;;;;;;;;x
-yes_to_congo;Voted Yes for the Congo Free State.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 no_to_congo;Votes No for the Congo Free State.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 abstained_to_congo;Abstain from Voting.;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 admin_spen;AI Administration Spending;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -318,7 +316,6 @@ caucasian;Caucasian;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 botanical_expedition_threatened;Botanical Expedition Threatened;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 participates_in_botanical_expedition;Participates in Botanical Expedition;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ANY_POP_IN_PROVINCE_STARTS;Any Pop;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-IS_RELIGION;The state religion is;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 house_of_rashid_exiled;House of Rashid Exiled;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 house_of_saud_returned;House of Saud Returned;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 house_of_saud_exiled;House of Saud Exiled;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -370,7 +367,6 @@ MODIFIER_LAND_DEFENSE;Land Unit Defense;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 MODIFIER_NAVAL_DEFENSE;Naval Unit Defense;;;;;;;;;;;;;;;;;;;;;;;;;x
 PV_CLERGY_LIT_PROVIDES;Intellectuals provinces: $VAL$;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 PV_CLERGY_LIT_NUM;$NUM$ of your population are Intellectuals (Optimal $OPT$): $VAL$;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-EDU_DESC;The educational budget is used to pay the intellectuals and to produce research points.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
 PV_CLERGY_LIT_DESC1;$NUM$ of your population in $LOC$ are Intellectuals.;;;;;;;;;;;;;;;;;;;;;;;;;;x
 POP_CON_CLERGY;Intellectuals;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 clergymen;Intellectuals;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
