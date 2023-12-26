@@ -1,5 +1,7 @@
 capital = 300
 primary_culture = british
+culture = scottish
+culture = welsh
 culture = anglo_canadian
 religion = protestant
 government = proletarian_dictatorship

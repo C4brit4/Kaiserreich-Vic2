@@ -1,0 +1,31 @@
+country_event = {
+    id = 500608
+    title = "EVTNAME500608"
+    desc = "EVTDESC500608"
+    picture = Spanish Civil war
+    fire_only_once = yes
+
+    trigger = {
+    tag  = XXX
+        
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA500608"
+			ai_chance = {factor = 85}
+			AUS = {
+				country_event = { id = 500609 days = 2 }
+				
+			}
+ 		
+    } 		   
+    option = {
+        name = "EVTOPTB500608"
+		ITR = {
+				all_core = { add_core = AUS }
+			} 
+    } 	
+}
+

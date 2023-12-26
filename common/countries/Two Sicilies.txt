@@ -1,5 +1,7 @@
 color = { 73  152  76 }
-graphical_culture = Generic
+fascist_dictatorship = { 85 107 47 }
+proletarian_dictatorship = { 206  9  0 }
+graphical_culture = ItalianGC
 
 party = {
 	name = "SIC_reactionary"

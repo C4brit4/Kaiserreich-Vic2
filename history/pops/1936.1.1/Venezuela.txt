@@ -1,1018 +1,1700 @@
-#Caracas Region (602000)
-#Caracas (412000/103000 POPS)
+#Caracas Region (332000)
+#Ruled by Venezuela 1836
+#Caracas (224000/56000 POPS)
 2264 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 1125
-	}
-
-	bureaucrats = {
-		culture = north_andean
-		religion = catholic
-		size = 1125
-	}
-
 	officers = {
-		culture = north_andean
-		religion = catholic
-		size = 200
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 1100
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 3550
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 561
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 27
+	 } 
 	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 5000
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 65500
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 925
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 2246
+	 } 
 	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1500
-	}
-
+		culture = venezolanos
+		religion = catholic 
+		size = 112
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 11725
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 584
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 292
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 14
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1464
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 73
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2930
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 146
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 511
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 9737
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 485
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 31262
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1558
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 4964
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 14656
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 730
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 79145
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 3946
+	 } 
 	farmers = {
 		culture = afro_caribeno
-		religion = catholic
-		size = 14000
-	}
-
-	slaves = {
+		religion =  catholic 
+		size = 29313
+	 } 
+	farmers = {
 		culture = afro_caribeno
-		religion = catholic
-		size = 9000
-	}
+		religion = catholic 
+		size = 1461
+	 } 
 }
-#Cumana (40000/10000 POPS)
+#Cumana (24000/6000 POPS)
 2267 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 125
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 635
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 1500
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 6000
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 40
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1100
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 500
-	}
-}
-#San Felipe (82000/20500 POPS)
-2268 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 225
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 1250
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 2500
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 13000
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 2400
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 825
-	}
-}
-#Guiria (68000/17000 POPS)
-2269 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 200
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 975
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 2000
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 12000
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 40
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1600
-	}
-}
-#Llanos Region (135000)
-#Guanare (24000/6000 POPS)
-2265 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 100
-	}
-
-	bureaucrats = {
-		culture = north_andean
-		religion = catholic
-		size = 250
-	}
-
 	officers = {
-		culture = north_andean
-		religion = catholic
-		size = 50
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 525
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 250
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 3250
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 20
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 800
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 620
-	}
-}
-#Calabozo (62000/15500 POPS)
-2266 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 225
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 675
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 1500
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 10000
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 2000
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 825
-	}
-}
-#Barinas (49000/12250 POPS)
-2274 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 175
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 1100
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 500
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 6000
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 800
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 615
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = catholic
-		size = 300
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = catholic
-		size = 2550
-	}
-}
-#Zulia Region (584000)
-#Maracaibo (155000/38750 POPS)
-2270 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 550
-	}
-
-	bureaucrats = {
-		culture = north_andean
-		religion = catholic
-		size = 1250
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 120
+	 } 
 	officers = {
-		culture = north_andean
-		religion = catholic
-		size = 275
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 275
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 1500
-	}
-
+		culture = venezolanos
+		religion = catholic 
+		size = 6
+	 } 
 	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 3000
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 15000
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1325
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 486
+	 } 
 	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1500
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 9000
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 3500
-	}
-
-	clergymen = {
-		culture = guajiro
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = guajiro
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = guajiro
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = guajiro
-		religion = catholic
-		size = 1350
-	}
-}
-#Valera (196000/49000 POPS)
-2271 = {
+		culture = venezolanos
+		religion = catholic 
+		size = 24
+	 } 
 	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 650
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 300
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 2050
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 2500
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 36000
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 4000
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1700
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = catholic
-		size = 1350
-	}
-}
-#Coro (86000/21500 POPS)
-2272 = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2543
+	 } 
 	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 325
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 1050
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 1500
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 12500
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 4000
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1700
-	}
-}
-#Barquisimento (147000/36750 POPS)
-2273 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 525
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 225
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 5000
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 3000
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 22000
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 4000
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1700
-	}
-}
-#Orinoco Region (175000)
-#Angostura (37000/9250 POPS)
-2275 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 175
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 250
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 5675
-	}
-
-	aristocrats = {
-		culture = amazonian
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = amazonian
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = amazonian
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = amazonian
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = amazonian
-		religion = animist
-		size = 2700
-	}
-}
-#Curiapo (118000/29500 POPS)
-2276 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
-		size = 550
-	}
-
+		culture = venezolanos
+		religion = catholic 
+		size = 126
+	 } 
 	bureaucrats = {
-		culture = north_andean
-		religion = catholic
-		size = 175
-	}
-
-	officers = {
-		culture = north_andean
-		religion = catholic
-		size = 50
-	}
-
-	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 225
-	}
-
-	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 2200
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 20000
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 250
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 3625
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1300
-	}
-}
-#El Jobal (16000/4000 POPS)
-2277 = {
-	aristocrats = {
-		culture = north_andean
-		religion = catholic
+		culture = venezolanos
+		religion =  catholic 
+		size = 62
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 3
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 317
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
 		size = 15
-	}
-
+	 } 
 	clergymen = {
-		culture = north_andean
-		religion = catholic
-		size = 25
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 635
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 31
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2223
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 110
+	 } 
 	artisans = {
-		culture = north_andean
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = north_andean
-		religion = catholic
-		size = 10
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 2111
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 105
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 6779
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 338
+	 } 
 	farmers = {
-		culture = north_andean
-		religion = catholic
-		size = 900
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 13329
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 664
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion =  catholic 
+		size = 13351
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic 
+		size = 665
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1078
+	 } 
+}
+#San Felipe (44000/11000 POPS)
+2268 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 232
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 932
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 46
+	 } 
 	aristocrats = {
-		culture = amazonian
-		religion = animist
-		size = 50
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 4867
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 242
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 120
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 6
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 607
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 30
+	 } 
 	clergymen = {
-		culture = amazonian
-		religion = animist
-		size = 75
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 1216
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 60
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 4254
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 212
+	 } 
 	artisans = {
-		culture = amazonian
-		religion = animist
-		size = 150
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 4041
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 201
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 12976
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 647
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 15771
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 786
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 6659
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 3822
+	 } 
+}
+#Guiria (40000/10000 POPS)
+2269 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 115
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 5
+	 } 
 	soldiers = {
-		culture = amazonian
-		religion = animist
+		culture = venezolanos
+		religion =  catholic 
+		size = 462
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2419
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 120
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 60
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 301
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 15
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 604
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 30
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2114
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 105
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2008
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 100
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 6450
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 321
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2679
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 632
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 3266
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1658
+	 } 
+}
+#Llanos Region (88000)
+#Ruled by Venezuela 1836
+#Guanare (16000/4000 POPS)
+2265 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 96
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 4
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 386
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 19
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2019
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 252
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 12
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 504
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
 		size = 25
-	}
-
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1764
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 88
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1676
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 83
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 5383
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 268
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 10582
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 527
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 7765
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1384
+	 } 
+}
+#Calabozo (40000/10000 POPS)
+2266 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 61
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 247
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 12
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1295
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 64
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 32
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 161
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 8
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 323
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 16
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1132
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 56
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1075
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 53
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 3453
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 172
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 24600
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1226
+	 } 
+}
+#Barinas (32000/8000 POPS)
+2274 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 100
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 404
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2114
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 105
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 52
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 263
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 13
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 528
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 26
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1847
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 92
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1755
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 87
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 5637
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 281
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 7381
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 368
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 12775
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1634
+	 } 
+}
+#Zulia Region (378000)
+#Ruled by Venezuela 1836
+#Maracaibo (100000/25000 POPS)
+2270 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 305
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 15
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1224
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 61
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 6391
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 318
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 159
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 7
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 798
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 39
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1597
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 79
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 5586
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 278
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 5307
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 264
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 17040
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 849
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 3490
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1670
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 47879
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 4382
+	 } 
+}
+#Valera (128000/32000 POPS)
+2271 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 224
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 901
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 44
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 4705
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 234
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 117
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 5
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 587
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 29
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1176
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 58
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 4112
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 205
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 3907
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 194
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 12545
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 625
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 35244
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1757
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 14111
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2698
+	 } 
+}
+#Coro (56000/14000 POPS)
+2272 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 78
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 313
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 15
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1638
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 81
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 40
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 204
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 10
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 409
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 20
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1431
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 71
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1360
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 67
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 4367
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 217
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 5310
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 264
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 15803
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1286
+	 } 
+}
+#Barquisimento (96000/24000 POPS)
+2273 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 145
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 7
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 585
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 29
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 3057
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 152
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 76
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 3
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 381
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 19
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 763
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 38
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2672
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 133
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2538
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 126
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 8151
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 406
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 10672
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 532
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 17391
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2363
+	 } 
+}
+#Orinoco Region (152000)
+#Ruled by Venezuela 1836
+#Angostura (32000/8000 POPS)
+2275 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 120
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 481
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2514
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 125
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 62
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 3
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 314
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 15
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 628
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 31
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2198
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 109
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2087
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 104
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 6704
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 334
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 8776
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 437
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 18976
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1943
+	 } 
+}
+#Curiapo (104000/26000 POPS)
+2276 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 86
+	 } 
+	officers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 4
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 349
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 17
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1828
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 91
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 45
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 228
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 11
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 457
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 22
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1598
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 79
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1518
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 75
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 4875
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 243
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 13699
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 683
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 11031
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1048
+	 } 
+}
+#under "rule" of Venezuela 1836
+#El Jobal (12000/4000 POPS)
+2277 = {
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 12
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 50
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 266
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 13
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 6
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 33
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 66
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 3
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 232
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 11
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 220
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 11
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 710
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 35
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1600
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 79
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 3467
+	 } 
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 2700
-	}
+		size = 172
+	 } 
 }
 #San Fernando de Atabapo (4000/1000 POPS)
 2278 = {
-	aristocrats = {
-		culture = amazonian
-		religion = animist
+	officers = {
+		culture = venezolanos
+		religion =  catholic 
 		size = 10
-	}
-
-	clergymen = {
-		culture = amazonian
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = amazonian
-		religion = animist
-		size = 50
-	}
-
+	 } 
 	soldiers = {
-		culture = amazonian
-		religion = animist
-		size = 15
-	}
-
+		culture = venezolanos
+		religion =  catholic 
+		size = 44
+	 } 
+	soldiers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 238
+	 } 
+	aristocrats = {
+		culture = venezolanos
+		religion = catholic 
+		size = 11
+	 } 
+	bureaucrats = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 5
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 29
+	 } 
+	capitalists = {
+		culture = venezolanos
+		religion = catholic 
+		size = 1
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 59
+	 } 
+	clergymen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 2
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 207
+	 } 
+	clerks = {
+		culture = venezolanos
+		religion = catholic 
+		size = 10
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 197
+	 } 
+	artisans = {
+		culture = venezolanos
+		religion = catholic 
+		size = 9
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 634
+	 } 
+	craftsmen = {
+		culture = venezolanos
+		religion = catholic 
+		size = 31
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 1251
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion = catholic 
+		size = 62
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion =  catholic 
+		size = 595
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic 
+		size = 29
+	 } 
+	farmers = {
+		culture = venezolanos
+		religion =  catholic 
+		size = 2678
+	 } 
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 900
-	}
+		size = 133
+	 } 
+
 }

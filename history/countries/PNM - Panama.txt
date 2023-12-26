@@ -1,6 +1,5 @@
 capital = 2204
-primary_culture = central_american
-culture = north_andean
+primary_culture = panamenos
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.1

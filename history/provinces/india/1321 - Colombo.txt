@@ -4,4 +4,4 @@ trade_goods = fruit
 life_rating = 32
 
 
-colonial = yes
+colonial = 2

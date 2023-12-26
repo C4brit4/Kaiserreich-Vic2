@@ -1,120 +1,239 @@
-#Hispanola Region (209000) #see Haiti.txt for balance of region
-#Santo Domingo (115000/28750 POPS)
+#Hispanola Region (124000) #see Haiti.txt for balance of region
+#Ruled by Haiti 1836
+#Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
+	officers = {
+		culture = spanish
+		religion =  catholic 
+		size = 367
+	 } 
+	officers = {
+		culture = spanish
+		religion = catholic 
+		size = 13
+	 } 
+	soldiers = {
+		culture = spanish
+		religion =  catholic 
+		size = 1470
+	 } 
+	soldiers = {
+		culture = spanish
+		religion = catholic 
+		size = 53
+	 } 
 	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 500
-	}	
-	
+		culture = spanish
+		religion =  catholic 
+		size = 21635
+	 } 
+	aristocrats = {
+		culture = spanish
+		religion = catholic 
+		size = 784
+	 } 
 	bureaucrats = {
-		culture = caribeno
-		religion = catholic
-		size = 250
-	}
-	
+		culture = spanish
+		religion =  catholic 
+		size = 540
+	 } 
+	bureaucrats = {
+		culture = spanish
+		religion = catholic 
+		size = 19
+	 } 
+	capitalists = {
+		culture = spanish
+		religion =  catholic 
+		size = 2703
+	 } 
+	capitalists = {
+		culture = spanish
+		religion = catholic 
+		size = 98
+	 } 
 	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 240
-	}
-
+		culture = spanish
+		religion =  catholic 
+		size = 5408
+	 } 
+	clergymen = {
+		culture = spanish
+		religion = catholic 
+		size = 196
+	 } 
+	clerks = {
+		culture = spanish
+		religion =  catholic 
+		size = 14186
+	 } 
+	clerks = {
+		culture = spanish
+		religion = catholic 
+		size = 514
+	 } 
 	artisans = {
+		culture = spanish
+		religion =  catholic 
+		size = 13477
+	 } 
+	artisans = {
+		culture = spanish
+		religion = catholic 
+		size = 488
+	 } 
+	craftsmen = {
+		culture = spanish
+		religion =  catholic 
+		size = 26750
+	 } 
+	craftsmen = {
+		culture = spanish
+		religion = catholic 
+		size = 970
+	 } 
+	craftsmen = {
+		culture = afro_caribeno
+		religion =  catholic 
+		size = 16518
+	 } 
+	craftsmen = {
 		culture = caribeno
-		religion = catholic
-		size = 590
-	}
-
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 2125
-	}
-
+		religion = catholic 
+		size = 599
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion =  catholic 
+		size = 42978
+	 } 
 	farmers = {
 		culture = caribeno
-		religion = catholic
-		size = 10395
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 85
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 845
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 170
-	}
-
+		religion = catholic 
+		size = 1558
+	 } 
 	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 15800
-	}
+		culture = caribeno
+		religion =  catholic 
+		size = 394844
+	 } 
+	farmers = {
+		culture = caribeno
+		religion = catholic 
+		size = 14320
+	 } 
 }
-#La Vega (94000/23500 POPS)
+#La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
+	officers = {
+		culture = spanish
+		religion =  catholic 
+		size = 17
+	 } 
+	soldiers = {
+		culture = spanish
+		religion =  catholic 
+		size = 71
+	 } 
+	soldiers = {
+		culture = spanish
+		religion = catholic 
+		size = 2
+	 } 
 	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 420
-	}
-
+		culture = spanish
+		religion =  catholic 
+		size = 1061
+	 } 
+	aristocrats = {
+		culture = spanish
+		religion = catholic 
+		size = 38
+	 } 
+	bureaucrats = {
+		culture = spanish
+		religion =  catholic 
+		size = 26
+	 } 
+	capitalists = {
+		culture = spanish
+		religion =  catholic 
+		size = 132
+	 } 
+	capitalists = {
+		culture = spanish
+		religion = catholic 
+		size = 4
+	 } 
 	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 170
-	}
-
+		culture = spanish
+		religion =  catholic 
+		size = 265
+	 } 
+	clergymen = {
+		culture = spanish
+		religion = catholic 
+		size = 9
+	 } 
+	clerks = {
+		culture = spanish
+		religion =  catholic 
+		size = 695
+	 } 
+	clerks = {
+		culture = spanish
+		religion = catholic 
+		size = 25
+	 } 
 	artisans = {
+		culture = spanish
+		religion =  catholic 
+		size = 661
+	 } 
+	artisans = {
+		culture = spanish
+		religion = catholic 
+		size = 23
+	 } 
+	craftsmen = {
+		culture = spanish
+		religion =  catholic 
+		size = 1315
+	 } 
+	craftsmen = {
+		culture = spanish
+		religion = catholic 
+		size = 47
+	 } 
+	craftsmen = {
+		culture = afro_caribeno
+		religion =  catholic 
+		size = 807
+	 } 
+	craftsmen = {
 		culture = caribeno
-		religion = catholic
-		size = 670
-	}
-
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 2130
-	}
-
+		religion = catholic 
+		size = 29
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion =  catholic 
+		size = 2111
+	 } 
 	farmers = {
 		culture = caribeno
-		religion = catholic
-		size = 12050
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 85
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 500
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 125
-	}
-
+		religion = catholic 
+		size = 76
+	 } 
 	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 9350
-	}
+		culture = caribeno
+		religion =  catholic 
+		size = 19372
+	 } 
+	farmers = {
+		culture = caribeno
+		religion = catholic 
+		size = 702
+	 } 
 
 }

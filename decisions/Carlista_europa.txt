@@ -7,7 +7,7 @@ political_decisions = {
                                 
             }
             NOT = { exists = IBR }
-			has_global_flag = camino_eu	
+			has_country_flag = camino_eu	
         }
 
         allow = {         
@@ -63,8 +63,8 @@ political_decisions = {
                 tag = SPC
                 tag = IBR               
             }
-			NOT = {has_global_flag = camino_eu_2}
-			has_global_flag = camino_eu	
+			NOT = {has_country_flag = camino_eu_2}
+			has_country_flag = camino_eu	
         }
 
         allow = {         
@@ -83,7 +83,7 @@ political_decisions = {
         
 
         effect = { 
-            has_global_flag = camino_eu_2		
+            has_country_flag = camino_eu_2		
             766 = {add_core = THIS}	
             765 = {add_core = THIS}        
         }
@@ -98,8 +98,8 @@ political_decisions = {
                 tag = SPC
                 tag = IBR               
             }
-			NOT = {has_global_flag = camino_eu_3}
-			has_global_flag = camino_eu_2	
+			NOT = {has_country_flag = camino_eu_3}
+			has_country_flag = camino_eu_2	
         }
 
         allow = {         
@@ -118,7 +118,7 @@ political_decisions = {
         
 
         effect = { 
-            has_global_flag = camino_eu_3		
+            has_country_flag = camino_eu_3		
             753 = {add_core = THIS}	
                754 = {add_core = THIS}
                755 = {add_core = THIS}	
@@ -145,8 +145,8 @@ political_decisions = {
                 tag = SPC
                 tag = IBR               
             }
-			NOT = {has_global_flag = camino_eu_4}
-			has_global_flag = camino_eu_3	
+			NOT = {has_country_flag = camino_eu_4}
+			has_country_flag = camino_eu_3	
         }
 
         allow = {         
@@ -165,7 +165,7 @@ political_decisions = {
         
 
         effect = { 
-            has_global_flag = camino_eu_4		
+            has_country_flag = camino_eu_4		
             BEL = {
 				all_core = { add_core = THIS }
 			}
@@ -183,8 +183,8 @@ political_decisions = {
                 tag = SPC
                 tag = IBR               
             }
-			NOT = {has_global_flag = camino_eu_5}
-			has_global_flag = camino_eu_4	
+			NOT = {has_country_flag = camino_eu_5}
+			has_country_flag = camino_eu_4	
         }
 
         allow = {         
@@ -203,7 +203,7 @@ political_decisions = {
         
 
         effect = { 
-            has_global_flag = camino_eu_5		
+            has_country_flag = camino_eu_5		
             NET = {
 				all_core = { add_core = THIS }
 			}

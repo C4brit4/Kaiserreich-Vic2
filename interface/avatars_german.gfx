@@ -21,11 +21,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "PrussianGCInfantry"
-		actorfile = "gfx\anims\GermanInf_Pre-war.xac"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
 		
-		idle   = "gfx\anims\Pre-warInfantryIdle.xsm"
-		move   = "gfx\anims\Pre-warInfantryMove.xsm"
-		attack = "gfx\anims\Pre-warInfantryAttack.xsm"
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -38,11 +38,11 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "PrussianGCInfantry2"
-		actorfile = "gfx\anims\GermanInf_Worldwar.xac"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
 		
-		idle   = "gfx\anims\WorldwarInfantryIdle.xsm"
-		move   = "gfx\anims\WorldwarInfantryMove.xsm"
-		attack = "gfx\anims\WorldwarInfantryAttack.xsm"
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -55,11 +55,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "PrussianGCEngineer"
-		actorfile = "gfx\anims\GermanEng_Pre-war.xac"
+		actorfile = "gfx\anims\GermanEng_Interwar.xac"
 		
-		idle   = "gfx\anims\Pre-warEngineerIdle.xsm"
-		move   = "gfx\anims\Pre-warEngineerMove.xsm"
-		attack = "gfx\anims\Pre-warEngineerAttack.xsm"
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -72,11 +72,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "PrussianGCEngineer2"
-		actorfile = "gfx\anims\GermanEng_Worldwar.xac"
+		actorfile = "gfx\anims\GermanEng_Interwar.xac"
 		
-		idle   = "gfx\anims\WorldwarEngineerIdle.xsm"
-		move   = "gfx\anims\WorldwarEngineerMove.xsm"
-		attack = "gfx\anims\WorldwarEngineerAttack.xsm"
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -89,11 +89,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "PrussianGCGuard"
-		actorfile = "gfx\anims\GermanGua-Pre-war.xac"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
 		
-		idle   = "gfx\anims\Pre-warGuardIdle.xsm"
-		move   = "gfx\anims\Pre-warGuardMove.xsm"
-		attack = "gfx\anims\Pre-warGuardAttack.xsm"
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -106,11 +106,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "PrussianGCGuard2"
-		actorfile = "gfx\anims\GermanGua_Worldwar.xac"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
 		
-		idle   = "gfx\anims\WorldwarGuardIdle.xsm"
-		move   = "gfx\anims\WorldwarGuardMove.xsm"
-		attack = "gfx\anims\WorldwarGuardAttack.xsm"
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -123,11 +123,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "PrussianGCArtillery"
-		actorfile = "gfx\anims\GermanArt_Pre-war.xac"
+		actorfile = "gfx\anims\GermanArt_Interwar.xac"
 		
-		idle   = "gfx\anims\Pre-warArtilleryIdle.xsm"
-		move   = "gfx\anims\Pre-warArtilleryMove.xsm"
-		attack = "gfx\anims\Pre-warArtilleryAttack.xsm"
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -140,11 +140,11 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "PrussianGCArtillery2"
-		actorfile = "gfx\anims\GermanArt_Worldwar.xac"
+		actorfile = "gfx\anims\GermanArt_Interwar.xac"
 		
-		idle   = "gfx\anims\WorldwarArtilleryIdle.xsm"
-		move   = "gfx\anims\WorldwarArtilleryMove.xsm"
-		attack = "gfx\anims\WorldwarArtilleryAttack.xsm"
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
 		scale = 6.3
 		
 		attach = {
@@ -157,12 +157,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "PrussianGCPlane"
-		actorfile = "gfx\anims\GermanPlane_Pre-war.xac"
+		actorfile = "gfx\anims\GermanFighter.xac"
 		
-		idle   = "gfx\anims\Pre-warPlaneIdle.xsm"
-		move   = "gfx\anims\Pre-warPlaneMove.xsm"
-		attack = "gfx\anims\Pre-warPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -173,13 +173,13 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "PrussianGCPlane2"
-		actorfile = "gfx\anims\GermanPlane_Worldwar.xac"
+		name = "PrussianGCPlane"
+		actorfile = "gfx\anims\GermanFighter.xac"
 		
-		idle   = "gfx\anims\WorldwarPlaneIdle.xsm"
-		move   = "gfx\anims\WorldwarPlaneMove.xsm"
-		attack = "gfx\anims\WorldwarPlaneAttack.xsm"
-		scale = 6.3
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
 		
 		attach = {
 			name = "InfantryShadowblob"

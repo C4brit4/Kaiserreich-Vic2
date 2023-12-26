@@ -4,4 +4,4 @@ controller = SPA
 trade_goods = fish
 life_rating = 30
 
-add_core = SPA
+colonial = 2
