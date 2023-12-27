@@ -3,3 +3,6 @@ controller = GRE
 add_core = GRE
 trade_goods = cotton
 life_rating = 35
+1914.1.1 = {
+	railroad = 1
+}

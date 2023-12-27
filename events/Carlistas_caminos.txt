@@ -1,7 +1,7 @@
 country_event = {
-    id = 500499
-    title = "EVTNAME500499"
-    desc = "EVTDESC500499"
+    id = 500799
+    title = "EVTNAME500799"
+    desc = "EVTDESC500799"
     picture = Spanish Civil war
     fire_only_once = yes
 
@@ -13,12 +13,12 @@ country_event = {
     
 
     option = {
-        name = "EVTOPTA500499"
-		set_global_flag = camino_eu			   
+        name = "EVTOPTA500799"
+		set_country_flag = camino_eu	   
     }
     option = {
-        name = "EVTOPTB500499"
-		set_global_flag = third_expedition		   
+        name = "EVTOPTB500799"
+		set_country_flag = third_expedition	   
     } 	
 }
 

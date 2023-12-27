@@ -1,7 +1,8 @@
 capital = 2247
-primary_culture = north_andean
-culture = afro_brazilian
-culture = brazilian
+primary_culture = colombianos
+culture = ecuatorianos
+culture = venezolanos
+culture = panamenos
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0

@@ -1,0 +1,31 @@
+political_decisions = {
+	war_with_the_league= {
+        picture = warlord_china
+        
+		potential = {
+            is_vassal_of = LEP
+			has_country_flag = chinese_warlord
+        }
+
+        allow = {         
+			average_militancy = 2
+			average_consciousness = 3
+        }
+		
+        effect = {             		
+            LEP = { country_event = 50105 }   
+        }
+		
+		ai_will_do = {
+			factor = 0.25
+			modifier = {           
+				factor = 4
+				THIS = { military_score = LEP}
+			}
+			modifier = {           
+				factor = 2
+				LEP = { war = yes }
+			}
+		}
+    }
+}

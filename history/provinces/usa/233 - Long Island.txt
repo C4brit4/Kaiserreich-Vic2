@@ -8,3 +8,7 @@ life_rating = 35
 	railroad = 3 
 	naval_base = 3
 }
+1914.1.1 = { 
+	railroad = 5
+	naval_base = 5
+}

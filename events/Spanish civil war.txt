@@ -2,7 +2,7 @@ country_event = {
     id = 500401
     title = "EVTNAME500401"
     desc = "EVTDESC500401"
-    picture = Spanish Civil war
+    picture = spanish_civil_war
     fire_only_once = yes
 
     trigger = {

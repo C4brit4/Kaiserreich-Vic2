@@ -1,6 +1,8 @@
-owner = CAN
-controller = CAN
+owner = FRA
+controller = FRA
 trade_goods = fish
 life_rating = 35
 colonial = 2
-add_core = CAN
+1914.1.1 = {
+	railroad = 3
+}

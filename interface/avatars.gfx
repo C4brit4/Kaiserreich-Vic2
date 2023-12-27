@@ -12,53 +12,106 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "GenericInfantry"
-		actorfile = "gfx\anims\generic_euro_infantry.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
-	}
-	
-	EMFXActorType = {
-		name = "GenericInfantry2"
-		actorfile = "gfx\anims\Generic_Euro_Infantry2.xac"
-		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
-		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
 		}
-	}
-	
-	EMFXActorType = {
-		name = "GenericGun1"
-		actorfile = "gfx\anims\Generic_Gun1.xac"
-		scale = 1.0
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
 		name = "GenericHelmet1"
-		actorfile = "gfx\anims\Generic_Helmet1.xac"
-		scale = 1.00
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
 	}
 	
 	EMFXActorType = {
 		name = "GenericHelmet2"
-		actorfile = "gfx\anims\Generic_Helmet1.xac"
-		scale = 1.00
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericInfantry2"
+		actorfile = "gfx\anims\GenericInfantry.xac"
+		
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
+		
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
+		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
 	}	
+	
 	EMFXActorType = {
 		name = "InfantryShadowblob"
 		actorfile = "gfx\anims\Infantry_shadowblob.xac"
@@ -107,12 +160,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "BritishGCInfantry"
-		actorfile = "gfx\anims\british_infantry.xac"
+		actorfile = "gfx\anims\BritishInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -129,12 +182,12 @@ objectTypes = {
 	
 		EMFXActorType = {
 		name = "BritishGCInfantry2"
-		actorfile = "gfx\anims\british_infantry2.xac"
+		actorfile = "gfx\anims\BritishInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -149,15 +202,14 @@ objectTypes = {
 		scale = 1.00
 	}
 	
-	
 	EMFXActorType = {
 		name = "FrenchGCInfantry"
-		actorfile = "gfx\anims\french_infantry.xac"
+		actorfile = "gfx\anims\FrenchInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -175,12 +227,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "FrenchGCInfantry2"
-		actorfile = "gfx\anims\french_infantry2.xac"
+		actorfile = "gfx\anims\FrenchInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -198,12 +250,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "UsGCInfantry"
-		actorfile = "gfx\anims\Us_Infantry.xac"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -221,12 +273,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "UsGCInfantry2"
-		actorfile = "gfx\anims\Us_Infantry2.xac"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -244,12 +296,12 @@ objectTypes = {
 	
 	EMFXActorType = {	
 		name = "ConfederateGCInfantry"	
-		actorfile = "gfx\anims\Csa_Infantry.xac"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -267,12 +319,12 @@ objectTypes = {
 	
 	EMFXActorType = {	
 		name = "ConfederateGCInfantry2"	
-		actorfile = "gfx\anims\Csa_Infantry2.xac"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -290,12 +342,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "RussianGCInfantry"
-		actorfile = "gfx\anims\russian_infantry.xac"
+		actorfile = "gfx\anims\RussianInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 
 		attach = {
 			name = "InfantryShadowblob"
@@ -313,12 +365,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "RussianGCInfantry2"
-		actorfile = "gfx\anims\Russian_Infantry2.xac"
+		actorfile = "gfx\anims\RussianInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 
 		attach = {
 			name = "InfantryShadowblob"
@@ -336,12 +388,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "OttomanGCInfantry"
-		actorfile = "gfx\anims\Ottoman_Infantry.xac"
+		actorfile = "gfx\anims\TurkishInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -359,12 +411,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "OttomanGCInfantry2"
-		actorfile = "gfx\anims\Ottoman_Infantry2.xac"
+		actorfile = "gfx\anims\TurkishInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -376,12 +428,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "PrussianGCInfantry"
-		actorfile = "gfx\anims\Prussian_Infantry.xac"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -399,12 +451,12 @@ objectTypes = {
 	
 		EMFXActorType = {
 		name = "PrussianGCInfantry2"
-		actorfile = "gfx\anims\Prussian_Infantry2.xac"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -422,12 +474,58 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "AustriaHungaryGCInfantry"
-		actorfile = "gfx\anims\AustriaHungery_Infantry.xac"
+		actorfile = "gfx\anims\AustrianInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+    EMFXActorType = {
+		name = "AustriaHungaryGCHelmet1"
+		actorfile = "gfx\anims\AustriaHungery_Helmet1.xac"
+		scale = 1.00
+	}
+	
+	EMFXActorType = {
+		name = "AustriaHungaryGCInfantry2"
+		actorfile = "gfx\anims\AustrianInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "AustriaHungaryGCHelmet2"
+		actorfile = "gfx\anims\AustriaHungery_Helmet21.xac"
+		scale = 1.00
+	}
+	
+	EMFXActorType = {
+		name = "HungarianGCInfantry"
+		actorfile = "gfx\anims\AustrianInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -439,18 +537,18 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "AustriaHungaryGCHelmet1"
-		actorfile = "gfx\anims\AustriaHungery_Helmet1.xac"
+		actorfile = "gfx\anims\AustriaHungery_Helmet21.xac"
 		scale = 1.00
 	}
 	
 	EMFXActorType = {
-		name = "AustriaHungaryGCInfantry2"
-		actorfile = "gfx\anims\Austria_Hungery_Infantry2.xac"
+		name = "HungarianGCInfantry2"
+		actorfile = "gfx\anims\AustrianInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -468,12 +566,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "SwedishGCInfantry"
-		actorfile = "gfx\anims\Swedish_Infantry.xac"
+		actorfile = "gfx\anims\SwedishInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -491,12 +589,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "SwedishGCInfantry2"
-		actorfile = "gfx\anims\Swedish_Infantry2.xac"
+		actorfile = "gfx\anims\SwedishInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -514,12 +612,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "JapaneseGCInfantry"
-		actorfile = "gfx\anims\Japanese_Infantry.xac"
+		actorfile = "gfx\anims\JapaneseInf_Interwar.xac"
 		
-		idle   = "gfx\anims\Japanese_idle.xsm"
-		move   = "gfx\anims\Japanese_moving.xsm"
-		attack = "gfx\anims\Japanese_Attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -530,12 +628,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "JapaneseGCInfantry2"
-		actorfile = "gfx\anims\Japanese_Infantry2.xac"
+		actorfile = "gfx\anims\JapaneseInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -552,12 +650,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "ItalianGCInfantry"
-		actorfile = "gfx\anims\Italian_infantry.xac"
+		actorfile = "gfx\anims\ItalianInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -574,12 +672,12 @@ objectTypes = {
 	
 		EMFXActorType = {
 		name = "ItalianGCInfantry2"
-		actorfile = "gfx\anims\Italian_Infantry2.xac"
+		actorfile = "gfx\anims\ItalianInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -596,12 +694,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "ChineseGCInfantry"
-		actorfile = "gfx\anims\Chinese_infantry.xac"
+		actorfile = "gfx\anims\ChineseInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -618,12 +716,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "ChineseGCInfantry2"
-		actorfile = "gfx\anims\Chinese_infantry2.xac"
+		actorfile = "gfx\anims\ChineseInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -640,12 +738,12 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "SpanishGCInfantry"
-		actorfile = "gfx\anims\Spanish_Infantry.xac"
+		actorfile = "gfx\anims\SpanishInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -662,12 +760,12 @@ objectTypes = {
 	
 	EMFXActorType = {
 		name = "SpanishGCInfantry2"
-		actorfile = "gfx\anims\Spanish_Infantry2.xac"
+		actorfile = "gfx\anims\SpanishInf_Interwar.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -684,246 +782,512 @@ objectTypes = {
 		
 	EMFXActorType = {
 		name = "MoroccoGCInfantry"
-		actorfile = "gfx\anims\Generic_Arab_Infantry.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "MoroccoGCHelmet1"
-		actorfile = "gfx\anims\Ottoman_Helmet1.xac"
-		scale = 1.00
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
 	}
 	
 	EMFXActorType = {
 		name = "AsianGCInfantry"
-		actorfile = "gfx\anims\Generic_Asian_Infantry.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "AsianGCHelmet1"
-		actorfile = "gfx\anims\Generic_Asian_Helmet1.xac"
-		scale = 1.00
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
 	}
 
 	EMFXActorType = {
 		name = "AsianGCInfantry2"
-		actorfile = "gfx\anims\Generic_Asian_Infantry2.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "AsianGCHelmet2"
-		actorfile = "gfx\anims\Generic_Asian_Helmet21.xac"
-		scale = 1.00
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
 	}
 	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
 	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
+	}
 	
 	EMFXActorType = {
 		name = "IndianGCInfantry"
-		actorfile = "gfx\anims\Generic_Indian_Infantry.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "IndianGCHelmet1"
-		actorfile = "gfx\anims\Generic_Indian_Helmet1.xac"
-		scale = 1.00
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
 	}
 	
 	EMFXActorType = {
 		name = "IndianGCInfantry2"
-		actorfile = "gfx\anims\Generic_Indian_Infantry2.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
 	}
 		
 	EMFXActorType = {
 		name = "AfricanGCInfantry"
-		actorfile = "gfx\anims\Generic_African_Infantry2.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "AfricanGCHelmet1"
-		actorfile = "gfx\anims\Generic_African_Helmet21.xac"
-		scale = 1.00
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
 	}
 	
 	EMFXActorType = {
 		name = "AfricanGCInfantry2"
-		actorfile = "gfx\anims\Generic_African_Infantry.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "AfricanGCHelmet2"
-		actorfile = "gfx\anims\Generic_African_Helmet1.xac"
-		scale = 1.00
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
 	}
 	
 	EMFXActorType = {
 		name = "MiddleEasternGCInfantry"
-		actorfile = "gfx\anims\Generic_Arab_Infantry.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "MiddleEasternGCHelmet1"
-		actorfile = "gfx\anims\Generic_Arab_Helmet1.xac"
-		scale = 1.00
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
 	}
 	
-		EMFXActorType = {
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
 		name = "MiddleEasternGCInfantry2"
-		actorfile = "gfx\anims\Generic_Arab_Infantry2.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "MiddleEasternGCHelmet21"
-		actorfile = "gfx\anims\Generic_Arab_Helmet21.xac"
-		scale = 1.00
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
 	}
 		
 	EMFXActorType = {
 		name = "SouthAmericanGCInfantry"
-		actorfile = "gfx\anims\Generic_SA_Infantry.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
-	}
-	
-	EMFXActorType = {
-		name = "SouthAmericanGCHelmet1"
-		actorfile = "gfx\anims\Generic_SA_Helmet1.xac"
-		scale = 1.00
-	}
-	
-		EMFXActorType = {
-		name = "MiddleEasternGCHelmet21"
-		actorfile = "gfx\anims\Generic_Arab_Helmet21.xac"
-		scale = 1.00
-	}
-		
-	EMFXActorType = {
-		name = "SouthAmericanGCInfantry2"
-		actorfile = "gfx\anims\Generic_SA_Infantry2.xac"
-		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
-		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
 		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "SouthAmericanGCHelmet2"
-		actorfile = "gfx\anims\Generic_SA_Helmet21.xac"
-		scale = 1.00
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
 	}
 	
 	
@@ -983,50 +1347,953 @@ objectTypes = {
 
 	EMFXActorType = {
 		name = "EuropeanGCInfantry"
-		actorfile = "gfx\anims\generic_euro_infantry.xac"
+		actorfile = "gfx\anims\GenericInfantry.xac"
 		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
 		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
 		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
 	}
 	
 	EMFXActorType = {
-		name = "EuropeanGCInfantry2"
-		actorfile = "gfx\anims\Generic_Euro_Infantry2.xac"
-		
-		idle   = "gfx\anims\infantry_idle_3.xsm"
-		move   = "gfx\anims\infantry_moving.xsm"
-		attack = "gfx\anims\infantry_attack.xsm"
-		scale = 1.5
-		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
-		}
-	}
-	
-	EMFXActorType = {
-		name = "EuropeanGCGun1"
-		actorfile = "gfx\anims\Generic_Gun1.xac"
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
 		scale = 1.0
 	}
 	
 	EMFXActorType = {
-		name = "EuropeanGCHelmet1"
-		actorfile = "gfx\anims\Generic_Helmet1.xac"
-		scale = 1.00
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
 	}
+
+	
 	EMFXActorType = {
-		name = "EuropeanGCHelmet2"
-		actorfile = "gfx\anims\Generic_Helmet1.xac"
-		scale = 1.00
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
 	}
-}	
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "EuropeanGCInfantry2"
+		actorfile = "gfx\anims\GenericInfantry.xac"
+		
+		idle   = "gfx\anims\InfantryIdleA.xsm"
+		move   = "gfx\anims\InfantryMove.xsm"
+		attack = "gfx\anims\InfantryAttackC.xsm"
+		
+		animation = {
+			name = "retreat"
+			file = "gfx\anims\InfantryRetreat.xsm"
+		}
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\InfantryAttackMove.xsm"
+		}
+		
+		scale = 1.5
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet1"
+		actorfile = "gfx\anims\GenericHelmet1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericHelmet2"
+		actorfile = "gfx\anims\GenericHelmet2.xac"
+		scale = 1.0
+	}
+
+	
+	EMFXActorType = {
+		name = "GenericGun1"
+		actorfile = "gfx\anims\GenericGun1.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun2"
+		actorfile = "gfx\anims\GenericGun2.xac"
+		scale = 1.0
+	}
+	
+	EMFXActorType = {
+		name = "GenericGun3"
+		actorfile = "gfx\anims\GermanGun3.xac"
+		scale = 1.0
+	}
+	
+    EMFXActorType = {
+		name = "BritishGCEngineer"
+		actorfile = "gfx\anims\BritishEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+	}
+	
+    EMFXActorType = {
+		name = "AustriaHungaryGCEngineer"
+		actorfile = "gfx\anims\AustrianEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "HungarianGCEngineer"
+		actorfile = "gfx\anims\AustrianEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "ChineseGCEngineer"
+		actorfile = "gfx\anims\ChineseEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "JapaneseGCEngineer"
+		actorfile = "gfx\anims\JapaneseEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "RussianGCEngineer"
+		actorfile = "gfx\anims\RussianEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+    EMFXActorType = {
+		name = "ItalianGCEngineer"
+		actorfile = "gfx\anims\ItalianEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "SwedishGCEngineer"
+		actorfile = "gfx\anims\SwedishEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "FrenchGCEngineer"
+		actorfile = "gfx\anims\FrenchEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "SpanishGCEngineer"
+		actorfile = "gfx\anims\SpanishEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "OttomanGCEngineer"
+		actorfile = "gfx\anims\TurkishEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "UsGCEngineer"
+		actorfile = "gfx\anims\USEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCEngineer"
+		actorfile = "gfx\anims\GermanEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCArtillery"
+		actorfile = "gfx\anims\GermanArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "AustriaHungaryGCArtillery"
+		actorfile = "gfx\anims\AustrianArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "HungarianGCArtillery"
+		actorfile = "gfx\anims\AustrianArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "UsGCArtillery"
+		actorfile = "gfx\anims\USArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "BritishGCArtillery"
+		actorfile = "gfx\anims\BritishArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "ChineseGCArtillery"
+		actorfile = "gfx\anims\ChineseArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "JapaneseGCArtillery"
+		actorfile = "gfx\anims\JapaneseArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "RussianGCArtillery"
+		actorfile = "gfx\anims\RussianArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCArtillery"
+		actorfile = "gfx\anims\ItalianArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "SwedishGCArtillery"
+		actorfile = "gfx\anims\SwedishArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "FrenchGCArtillery"
+		actorfile = "gfx\anims\FrenchArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "SpanishGCArtillery"
+		actorfile = "gfx\anims\SpanishArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "OttomanGCArtillery"
+		actorfile = "gfx\anims\TurkishArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+		
+	EMFXActorType = {
+		name = "GenericPlane"
+		actorfile = "gfx\anims\GenericFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCPlane"
+		actorfile = "gfx\anims\GermanFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "JapaneseGCPlane"
+		actorfile = "gfx\anims\JapaneseFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "BritishGCPlane"
+		actorfile = "gfx\anims\BritishFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "UsGCPlane"
+		actorfile = "gfx\anims\UsFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "RussianGCPlane"
+		actorfile = "gfx\anims\SovietFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCPlane"
+		actorfile = "gfx\anims\ItalianFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "FrenchGCPlane"
+		actorfile = "gfx\anims\FrenchFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "RomanianGCPlane"
+		actorfile = "gfx\anims\GenericFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "UsGCBomber"
+		actorfile = "gfx\anims\UsBomber.xac"
+		
+		idle   = "gfx\anims\bomberflying.xsm"
+		move   = "gfx\anims\bomberflying.xsm"
+		attack = "gfx\anims\bomberunderattack.xsm"
+		scale = 3.0
+		
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCBomber"
+		actorfile = "gfx\anims\ItalianBomber.xac"
+		
+		idle   = "gfx\anims\bomberflying.xsm"
+		move   = "gfx\anims\bomberflying.xsm"
+		attack = "gfx\anims\bomberunderattack.xsm"
+		scale = 3.0
+		
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "FrenchGCBomber"
+		actorfile = "gfx\anims\FrenchBomber.xac"
+		
+		idle   = "gfx\anims\bomberflying.xsm"
+		move   = "gfx\anims\bomberflying.xsm"
+		attack = "gfx\anims\bomberunderattack.xsm"
+		scale = 3.0
+		
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "BritishGCBomber"
+		actorfile = "gfx\anims\BritishBomber.xac"
+		
+		idle   = "gfx\anims\bomberflying.xsm"
+		move   = "gfx\anims\bomberflying.xsm"
+		attack = "gfx\anims\bomberunderattack.xsm"
+		scale = 3.0
+		
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCBomber"
+		actorfile = "gfx\anims\GermanBomber.xac"
+		
+		idle   = "gfx\anims\bomberflying.xsm"
+		move   = "gfx\anims\bomberflying.xsm"
+		attack = "gfx\anims\bomberunderattack.xsm"
+		scale = 2.9
+						
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "GenericBomber"
+		actorfile = "gfx\anims\GenericBomber.xac"
+		
+		idle   = "gfx\anims\bomberflying.xsm"
+		move   = "gfx\anims\bomberflying.xsm"
+		attack = "gfx\anims\bomberunderattack.xsm"
+		scale = 3.0
+		
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "RussianGCBomber"
+		actorfile = "gfx\anims\SovietBomber.xac"
+		
+		idle   = "gfx\anims\bomberflying.xsm"
+		move   = "gfx\anims\bomberflying.xsm"
+		attack = "gfx\anims\bomberunderattack.xsm"
+		scale = 2.85
+		
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "JapaneseGCBomber"
+		actorfile = "gfx\anims\JapaneseBomber.xac"
+		
+		idle   = "gfx\anims\bomberflying.xsm"
+		move   = "gfx\anims\bomberflying.xsm"
+		attack = "gfx\anims\bomberunderattack.xsm"
+		scale = 3.0
+		
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "RomanianGCBomber"
+		actorfile = "gfx\anims\AXMV_ROM_Tactical2.xac"
+		
+		idle   = "gfx\anims\AXMV_ROM_cas_1_idle.xsm"
+		move   = "gfx\anims\AXMV_ROM_cas_1_idle.xsm"
+		attack = "gfx\anims\AXMV_ROM_cas_1_idle.xsm"
+		scale = 3.0
+		
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "HungarianGCBomber"
+		actorfile = "gfx\anims\AXMV_HUN_Tactical2.xac"
+		
+		idle   = "gfx\anims\AXMV_ROM_cas_1_idle.xsm"
+		move   = "gfx\anims\AXMV_ROM_cas_1_idle.xsm"
+		attack = "gfx\anims\AXMV_ROM_cas_1_idle.xsm"
+		scale = 3.0
+		
+		animation = {
+			name = "rotate"
+			file = "gfx\anims\FighterRotate.xsm"
+		}
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCMech"
+		actorfile = "gfx\anims\GermanMech.xac"
+		scale = 1.2
+		
+		animation = {
+			name = "idle"
+			file = "gfx\anims\GermanMechIdle.xsm"
+			defaultAnimationTime = 0.0
+		}
+		
+		animation = {
+			name = "move"
+			file = "gfx\anims\GermanMechMove.xsm"
+			defaultAnimationTime = 2.0
+		}
+		
+		animation = {
+			name = "attack"
+			file = "gfx\anims\GermanMechAttack.xsm"
+			defaultAnimationTime = 0.0
+		}	
+	}
+	
+	EMFXActorType = {
+		name = "UsGCMech"
+		actorfile = "gfx\anims\UsMech.xac"
+		scale = 1.2
+		
+				
+		animation = {
+			name = "idle"
+			file = "gfx\anims\UsMechIdle.xsm"
+			defaultAnimationTime = 0.0
+		}
+		
+		animation = {
+			name = "move"
+			file = "gfx\anims\UsMechMove.xsm"
+			defaultAnimationTime = 2.0
+		}
+		
+		animation = {
+			name = "attack"
+			file = "gfx\anims\UsMechAttack.xsm"
+			defaultAnimationTime = 0.0
+		}	
+	}
+	
+	EMFXActorType = {
+		name = "GenericMech"
+		actorfile = "gfx\anims\GenericMech.xac"
+		scale = 1.30
+			
+		animation = {
+			name = "idle"
+			file = "gfx\anims\GenericMechIdle.xsm"
+			defaultAnimationTime = 0.0
+		}
+		
+		animation = {
+			name = "move"
+			file = "gfx\anims\GenericMechMove.xsm"
+			defaultAnimationTime = 2.0
+		}
+		
+		animation = {
+			name = "attack"
+			file = "gfx\anims\GenericMechAttack.xsm"
+			defaultAnimationTime = 0.0
+		}		
+
+	}
+	
+	EMFXActorType = {
+		name = "ItalianGCMech"
+		actorfile = "gfx\anims\ITAV_Mech0.xac"
+		retargeting = yes
+		scale = 1.0
+		
+		animation = {
+			name = "idle"
+			file = "gfx\anims\ITAV_Mech0Idle.xsm"
+			defaultAnimationTime = 0.0
+		}
+		
+		animation = {
+			name = "move"
+			file = "gfx\anims\ITAV_Mech0Move.xsm"
+			defaultAnimationTime = 2.0
+		}
+		
+		animation = {
+			name = "attack"
+			file = "gfx\anims\ITAV_Mech0Attack.xsm"
+			defaultAnimationTime = 0.0
+		}
+		
+		animation = {
+			name = "attackmove"
+			file = "gfx\anims\ITAV_Mech0Idle.xsm"
+			defaultAnimationTime = 0.8
+		}		
+	}
+	
+}

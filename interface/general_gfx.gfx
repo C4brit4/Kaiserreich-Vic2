@@ -7,8 +7,8 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_icon_religion"
-		texturefile = "gfx\\interface\\icon_religion.tga"
-		noOfFrames = 14
+		texturefile = "gfx\\interface\\icon_religion.dds"
+		noOfFrames = 18
 		norefcount = yes
 	}
 	spriteType = {
@@ -35,10 +35,41 @@ spriteTypes = {
 		effectFile = "gfx\\FX\\maskedflag.fx"
 	}
 	maskedShieldType = {
+		name = "GFX_diplo_gp_flag2"
+		textureFile1 = "gfx\\interface\\diplo_gp_overlay2.tga"
+		textureFile2 = "gfx\\interface\\diplo_gp_mask2.tga"
+		effectFile = "gfx\\FX\\maskedflag.fx"
+	}
+	maskedShieldType = {
 		name = "GFX_diplo_2nd_flag"
 		textureFile1 = "gfx\\interface\\diplo_2nd_overlay.tga"
 		textureFile2 = "gfx\\interface\\diplo_gp_mask.tga"
 		effectFile = "gfx\\FX\\maskedflag.fx"
+	}
+	maskedShieldType = {
+		name = "GFX_flag_new"
+		textureFile1 = "gfx\\interface\\flag_overlay_new.tga"
+		textureFile2 = "gfx\\interface\\flag_mask_new.tga"
+		effectFile = "gfx\\FX\\maskedflag.fx"
+	}
+	maskedShieldType = {
+		name = "GFX_flag_new_transp"
+		textureFile1 = "gfx\\interface\\flag_overlay_new.tga"
+		textureFile2 = "gfx\\interface\\flag_mask_new.tga"
+		effectFile = "gfx\\FX\\maskedflag.fx"
+		allwaystransparent = yes
+	}
+	maskedShieldType = {
+		name = "GFX_flag_popup"
+		textureFile1 = "gfx\\interface\\popup_flag_overlay.tga"
+		textureFile2 = "gfx\\interface\\popup_flag_mask.tga"
+		effectFile = "gfx\\FX\\maskedflag.fx"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_toggle_default"
+		textureFile = "gfx\\interface\\toggle_default.tga"
+		noOfFrames = 2
 	}
 	maskedShieldType = {
 		name = "GFX_flag_new"
@@ -127,6 +158,10 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\sortbutton_132.tga"
 	}
 	textSpriteType = {
+		name = "GFX_sortbutton_1322"
+		texturefile = "gfx\\interface\\sortbutton_1322.tga"
+	}
+	textSpriteType = {
 		name = "GFX_sortbutton_120"
 		texturefile = "gfx\\interface\\sortbutton_120.tga"
 	}
@@ -199,12 +234,24 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\sort_military_rank.dds"
 	}
 	spriteType = {
+		name = "GFX_sort_military_rank2"
+		texturefile = "gfx\\interface\\sort_military_rank2.dds"
+	}
+	spriteType = {
 		name = "GFX_sort_industry_rank"
 		texturefile = "gfx\\interface\\sort_industry_rank.dds"
 	}
 	spriteType = {
+		name = "GFX_sort_industry_rank2"
+		texturefile = "gfx\\interface\\sort_industry_rank2.dds"
+	}
+	spriteType = {
 		name = "GFX_sort_prestige_rank"
 		texturefile = "gfx\\interface\\sort_prestige_rank.dds"
+	}
+	spriteType = {
+		name = "GFX_sort_prestige_rank2"
+		texturefile = "gfx\\interface\\sort_prestige_rank2.dds"
 	}
 	spriteType = {
 		name = "GFX_sortbutton_soi"
@@ -300,7 +347,6 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\progress_overlay_16_64.dds"
 		allwaystransparent = yes
 	}
-	
 	spriteType = {
 		name = "GFX_popup_label_bg"
 		texturefile = "gfx\\interface\\popup_label_bg.tga"
@@ -322,6 +368,20 @@ spriteTypes = {
 		size= {x=190 y=310 }		
 		textureFile ="gfx\\interface\\tiles_dialog_diplo.tga"
 		borderSize = { x=94 y=94 }
+	}
+	
+	maskedShieldType = {
+		name = "GFX_topbarflag2"
+		textureFile1 = "gfx\\interface\\topbarflag_shadow2.tga"
+		textureFile2 = "gfx\\interface\\topbarflag_mask2.tga"
+		effectFile = "gfx\\FX\\maskedflag.fx"
+	}
+	
+	spriteType = {
+		name = "GFX_topbar_flag_overlay_trans2"
+		texturefile = "gfx\\interface\\topbar_flag_overlay2.dds"
+		noOfFrames = 4
+		allwaystransparent = yes
 	}
 	
 }

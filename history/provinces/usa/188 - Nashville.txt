@@ -19,9 +19,9 @@ party_loyalty = {
 	ideology = conservative
 	loyalty_value = 20
 	}
-	controller = USA
-	owner = USA
-	add_core = USA
+	controller = CSA
+	owner = CSA
+	add_core = CSA
 	state_building = {
 		level = 1
 		building = liquor_distillery
@@ -34,3 +34,41 @@ party_loyalty = {
 	}
 }
 1861.1.1 = { railroad = 3 }
+1914.1.1 = {
+	owner = USA
+	controller = USA
+	remove_core = CSA
+	
+	railroad = 5
+	
+	state_building = {
+		level = 1
+		building = dye_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = ammunition_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = explosives_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = artillery_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = steel_factory
+		upgrade = yes
+	}
+}
