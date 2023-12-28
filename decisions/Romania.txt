@@ -1,0 +1,32 @@
+political_decisions = {
+	reconquest_of_transilvania = {
+		picture = reconquest_of_transilvania
+		potential = {
+			tag = ROM
+		}
+		allow = {
+			war = no
+			prestige = 45
+			military_power = 50
+		}
+		effect = {
+			badboy = 5
+			prestige = 15
+			HUN_660 = {add_core = THIS}
+			HUN_659 = {add_core = THIS}
+			HUN_657 = {add_core = THIS}
+			HUN_2533 = {add_core = THIS}
+			HUN_656 = {add_core = THIS}
+			HUN_655 = {add_core = THIS}
+			HUN_654 = {add_core = THIS}
+			HUN_661 = {add_core = THIS}
+			HUN_653 = {add_core = THIS}
+			HUN_652 = {add_core = THIS}
+			HUN_647 = {add_core = THIS}
+			HUN_651 = {add_core = THIS}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
