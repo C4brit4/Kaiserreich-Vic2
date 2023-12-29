@@ -1,4 +1,4 @@
-color = { 236  159  89 }
+color = { 0  19  178 }
 graphical_culture = SouthAmericanGC
 
 party = {
@@ -171,30 +171,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Almirante Montt" Antofagasta Atacama Iquique Latorre O'Higgins República "San Martín" "Santiago de Chile" Valparaíso
+		"Almirante Montt" Antofagasta Atacama Iquique Latorre O'Higgins Rep blica "San Mart n" "Santiago de Chile" Valpara so
 	}
 	ironclad = {
-		"Almirante Williams" Austral Blanco "Blanco Encalada" "Capitán Prat" Cochrane "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado"
+		"Almirante Williams" Austral Blanco "Blanco Encalada" "Capit n Prat" Cochrane "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado"
 	}
 	manowar = {
-		Abtao Águila Araucano Chacabuco Fortunata Galvarino Lautaro O'Higgins Potrillo "San Martín" 
+		Abtao  guila Araucano Chacabuco Fortunata Galvarino Lautaro O'Higgins Potrillo "San Mart n" 
 	}
 	cruiser = {
-		Aguamarina Diamante "Director Eyzaguirre" "Director Freire" Esmeralda Llullaillaco Parinacota "Presidente Errázuriz" "Presidente Pinto" Tupungato
+		Aguamarina Diamante "Director Eyzaguirre" "Director Freire" Esmeralda Llullaillaco Parinacota "Presidente Err zuriz" "Presidente Pinto" Tupungato
 	}
 	frigate = {
-		Aisén Araucania Arica Biobío Coquimbo "Los Lagos" "Los Ríos" Maule Tarapacá Valdivia
+		Ais n Araucania Arica Biob o Coquimbo "Los Lagos" "Los R os" Maule Tarapac  Valdivia
 	}
 	monitor = {
-		Anganemon Butapichón Colo-Colo Curiñancu Guaiquimilla Huáscar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
+		Anganemon Butapich n Colo-Colo Curi ancu Guaiquimilla Hu scar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
 	}
 	clipper_transport = { 
-		 Coihaique Concepción Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
-		"San José" "San Pedro" "San Rafael" "Santa Inés" "Santa María" Santiago Sarmiento Talca Temuco Yulton
+		 Coihaique Concepci n Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
+		"San Jos " "San Pedro" "San Rafael" "Santa In s" "Santa Mar a" Santiago Sarmiento Talca Temuco Yulton
 	}
 	steam_transport = { 
-		Coihaique Concepción Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
-		"San José" "San Pedro" "San Rafael" "Santa Inés" "Santa María" Santiago Sarmiento Talca Temuco Yulton
+		Coihaique Concepci n Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
+		"San Jos " "San Pedro" "San Rafael" "Santa In s" "Santa Mar a" Santiago Sarmiento Talca Temuco Yulton
 	}
 	commerce_raider = {
 		"Almirante Condell" "Almirante Lynch" Angamos Aquiles Casma Chacabuco Chipana Covadonga Magallanes Orompello

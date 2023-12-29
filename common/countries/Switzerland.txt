@@ -1,4 +1,4 @@
-color = { 160  82  45 }
+color = { 193  82  81 }
 graphical_culture = EuropeanGC
 
 party = {
@@ -143,22 +143,22 @@ party = {
 
 unit_names = {
 	dreadnought = {
-			"Werner Stauffacher" "Walter Fürst" "Arnold von Melchtal" "Wilhelm Tell"	
+			"Werner Stauffacher" "Walter F rst" "Arnold von Melchtal" "Wilhelm Tell"	
 	}
 	ironclad = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal L man Linth Lugano Luzern Oberland R tien S ntis Schaffhausen Solothurn Thurgau Waldst tte Wallis Z rich
 	}
 	manowar = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal L man Linth Lugano Luzern Oberland R tien S ntis Schaffhausen Solothurn Thurgau Waldst tte Wallis Z rich
 	}
 	cruiser = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal L man Linth Lugano Luzern Oberland R tien S ntis Schaffhausen Solothurn Thurgau Waldst tte Wallis Z rich 
 	}
 	frigate = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal L man Linth Lugano Luzern Oberland R tien S ntis Schaffhausen Solothurn Thurgau Waldst tte Wallis Z rich 
 	}
 	monitor = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal L man Linth Lugano Luzern Oberland R tien S ntis Schaffhausen Solothurn Thurgau Waldst tte Wallis Z rich 
 	}
 	clipper_transport = { 
 			
@@ -167,6 +167,6 @@ unit_names = {
 			
 	}
 	commerce_raider = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal L man Linth Lugano Luzern Oberland R tien S ntis Schaffhausen Solothurn Thurgau Waldst tte Wallis Z rich 
 	}
 }

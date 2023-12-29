@@ -1,4 +1,4 @@
-color = { 161  139  40 }
+color = { 177  177  177 }
 graphical_culture = EuropeanGC
 
 party = {
@@ -101,22 +101,22 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Jan Hus" "Karel IV" "Prokop Veliký" "Jan Žižka" "Josef Ressel" 
+		"Jan Hus" "Karel IV" "Prokop Velik " "Jan  i ka" "Josef Ressel" 
 	}
 	ironclad = {
 		Praha Brno Ostrava Plzen Liberec 
 	}
 	manowar = {
-		Milešovka Lovos Hazmburk Koštálov "Ceské Stredohorí" 
+		Mile ovka Lovos Hazmburk Ko t lov "Cesk  Stredohor " 
 	}
 	cruiser = {
 		Jizera Metuje Morava Svratka Olza  
 	}
 	frigate = {
-		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Antonín Kraft" "František Xaver Dušek" 
+		"Jan Dismas Zelenka" " imon Brixi" "Franti ek Tuma" "Anton n Kraft" "Franti ek Xaver Du ek" 
 	}
 	monitor = {
-		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Jan Kupecký" "Karel Škréta" 
+		"Petr Brandl" "V clav Hollar" "Jan Jahn" "Jan Kupeck " "Karel  kr ta" 
 	}
 	clipper_transport = {
 		
@@ -125,6 +125,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		"Pražský hrad" Vyšehrad Zbraslav Kolodeje Chvaly 
+		"Pra sk  hrad" Vy ehrad Zbraslav Kolodeje Chvaly 
 	}
 }

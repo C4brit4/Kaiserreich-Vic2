@@ -1,4 +1,4 @@
-color = { 217  224  179 }
+color = { 74  147  254 }
 graphical_culture = SouthAmericanGC
 
 party = {
@@ -129,32 +129,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Capitán Cabral" "Capitán Ortíz" Haumaitá Itaipú Nanawa Paraguya "Rodríguez de Francia" Tebicuary "Teniente Fariña" Yhaguy
+		"Capit n Cabral" "Capit n Ort z" Haumait  Itaip  Nanawa Paraguya "Rodr guez de Francia" Tebicuary "Teniente Fari a" Yhaguy
 	}
 	ironclad = {
-		"General Yegros" Jejuí "Márquez de Olinda" Paraguarí Pirabebé "Francisco Solano López" Salto Tacuarí Ygurey Yporá
+		"General Yegros" Jeju  "M rquez de Olinda" Paraguar  Pirabeb  "Francisco Solano L pez" Salto Tacuar  Ygurey Ypor 
 	}
 	manowar = {
-		Encarnación "San José" "San Juan" "San Juan Bautista" "San Lorenzo" "San Pedro" "Santa Ana" "Santa María" "Santa Marta" "Santísima Trinidad"
+		Encarnaci n "San Jos " "San Juan" "San Juan Bautista" "San Lorenzo" "San Pedro" "Santa Ana" "Santa Mar a" "Santa Marta" "Sant sima Trinidad"
 	}
 	cruiser = {
-		Areguá Asunción Caaguazú "Cerro Peró" "Ciudad del Este" Concepción "Fuerte Olimpo" Itauguá Ñeembucú Villarica
+		Aregu  Asunci n Caaguaz  "Cerro Per " "Ciudad del Este" Concepci n "Fuerte Olimpo" Itaugu   eembuc  Villarica
 	}
 	frigate = {
-		"Alto Paraguay" "Bajo Paraguay" Boquerón Constitución "Gran Chaco" Independencia Libertad "Patria Paraguaya" "Presidente Hayes" República
+		"Alto Paraguay" "Bajo Paraguay" Boquer n Constituci n "Gran Chaco" Independencia Libertad "Patria Paraguaya" "Presidente Hayes" Rep blica
 	}
 	monitor = {
-		"Carlos Antonio López" Guaraní Jopará Nivaclé Paraná Pilcomayo "Río Paraguay" "Salto de Guairá" "San Francisco Javier" "San Ignacio de Loyola"
+		"Carlos Antonio L pez" Guaran  Jopar  Nivacl  Paran  Pilcomayo "R o Paraguay" "Salto de Guair " "San Francisco Javier" "San Ignacio de Loyola"
 	}
 	clipper_transport = { 
-		Angostura "Estrella de los Mares" Gigante Intrépida Júpiter Libre Marte Neptuno Plutón Reducción
-		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Mónica" Saturno Sirena Tetis Veloz
+		Angostura "Estrella de los Mares" Gigante Intr pida J piter Libre Marte Neptuno Plut n Reducci n
+		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa M nica" Saturno Sirena Tetis Veloz
 	}
 	steam_transport = { 
-		Angostura "Estrella de los Mares" Gigante Intrépida Júpiter Libre Marte Neptuno Plutón Reducción
-		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Mónica" Saturno Sirena Tetis Veloz
+		Angostura "Estrella de los Mares" Gigante Intr pida J piter Libre Marte Neptuno Plut n Reducci n
+		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa M nica" Saturno Sirena Tetis Veloz
 	}
 	commerce_raider = {
-		Azote Destructor Fervor Héroe Relámpago Tempestad Terror Triunfo Trueno Victoria
+		Azote Destructor Fervor H roe Rel mpago Tempestad Terror Triunfo Trueno Victoria
 	}
 }

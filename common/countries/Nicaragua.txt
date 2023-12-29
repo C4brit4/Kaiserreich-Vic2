@@ -1,4 +1,4 @@
-color = { 113  138  183 }
+color = { 189  25  53 }
 graphical_culture = Generic
 
 party = {
@@ -101,32 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Cristóbal Colón" Diriangén "Emiliano Chamorro" "Fruto Chamorro" "José Núñez" Libertad "Manuel de la Cerda" Nicaragua Nicarao "Patricio Rivas"
+		"Crist bal Col n" Diriang n "Emiliano Chamorro" "Fruto Chamorro" "Jos  N  ez" Libertad "Manuel de la Cerda" Nicaragua Nicarao "Patricio Rivas"
 	}
 	ironclad = {
-		Caribe Cocibolca Coco Escondido "Hernández de Córdoba" Intendencia Prinzapolka "Río Grande" "San Juan" Xolotlán
+		Caribe Cocibolca Coco Escondido "Hern ndez de C rdoba" Intendencia Prinzapolka "R o Grande" "San Juan" Xolotl n
 	}
 	manowar = {
-		Avance Colón Florida Navegante "Sagrada Familia" "San José" "Santa María" Santiago Ventoso Ventura
+		Avance Col n Florida Navegante "Sagrada Familia" "San Jos " "Santa Mar a" Santiago Ventoso Ventura
 	}
 	cruiser = {
-		Caribí Chorotega Descubridor Dirián Matagalpa Miskito Nagrandano Niquirano Rama Sumo
+		Carib  Chorotega Descubridor Diri n Matagalpa Miskito Nagrandano Niquirano Rama Sumo
 	}
 	frigate = {
-		Boaco Carazo Estelí Granada Jinotega León Madriz Managua Masaya "San Carlos"
+		Boaco Carazo Estel  Granada Jinotega Le n Madriz Managua Masaya "San Carlos"
 	}
 	monitor = {
-		Concepción Consiguina "Las Lajas" "Las Pilas" Maderas Mombacho Momotombo Rota "San Cristóbal" Telica
+		Concepci n Consiguina "Las Lajas" "Las Pilas" Maderas Mombacho Momotombo Rota "San Crist bal" Telica
 	}
 	clipper_transport = {
 		Beatriz Centroamericana Chocoyo Fauna Flora Guardabarranco Indesplazable Inmaculada Jaguar Laura
-		"Mono Araña" Nicaragüita Ocelote Patricia Raquel Salvaje Sirena Titánico Tortuga Tucán
+		"Mono Ara a" Nicarag ita Ocelote Patricia Raquel Salvaje Sirena Tit nico Tortuga Tuc n
 	}
 	steam_transport = {
 		Beatriz Centroamericana Chocoyo Fauna Flora Guardabarranco Indesplazable Inmaculada Jaguar Laura
-		"Mono Araña" Nicaragüita Ocelote Patricia Raquel Salvaje Sirena Titánico Tortuga Tucán
+		"Mono Ara a" Nicarag ita Ocelote Patricia Raquel Salvaje Sirena Tit nico Tortuga Tuc n
 	}
 	commerce_raider = {
-		Destructor Feroz Invencible Mortal Neptuno Nicaragüense República Sirena Terremoto Tritón
+		Destructor Feroz Invencible Mortal Neptuno Nicarag ense Rep blica Sirena Terremoto Trit n
 	}
 }
