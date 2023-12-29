@@ -1,7 +1,7 @@
-owner = CRO
-controller = CRO
+owner = SER
+controller = SER
 
-add_core = CRO
+add_core = SER
 add_core = MON
 trade_goods = fruit
 life_rating = 35
