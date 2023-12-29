@@ -1,5 +1,5 @@
-owner = SER
-controller = SER
+owner = BUL
+controller = BUL
 add_core = SER
 trade_goods = grain
 life_rating = 35
