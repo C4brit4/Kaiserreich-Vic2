@@ -1,0 +1,345 @@
+
+#ID's 50000 - 50099
+
+#50000 - The Restoration of the showa
+#50001-50002 - Obligatory Events
+#50003-50006 - Restorationist Path
+#50010-50012 - Democratic Path
+
+
+country_event = {
+	id = 50000
+	title = "EVTNAME50000" #The Restoration of the showa
+	desc = "EVTDESC50000"
+	fire_only_once = yes
+	picture = "showa"
+	
+	
+	is_triggered_only = yes
+	
+	option = {
+        name = "EVTOPTA50000"
+        set_country_flag = yokuseiha_faction_selected
+		set_country_flag = showa_restorated
+		add_country_modifier = {
+			name = yokuseiha_faction
+			duration = -1
+		}
+    }
+	
+	option = {
+        name = "EVTOPTB50000"
+        set_country_flag = kodoha_faction_selected
+		set_country_flag = showa_restorated
+		add_country_modifier = {
+			name = kodoha_faction
+			duration = -1
+		}		
+    }
+	
+	option = {
+        name = "EVTOPTC50000"
+        set_country_flag = kakushinha_faction_selected
+		set_country_flag = showa_restorated
+		add_country_modifier = {
+			name = kakushinha_faction
+			duration = -1
+		}		
+    }
+}
+
+country_event = {
+	id = 50001
+	title = "EVTNAME50001" #The Incident of the 15th of May
+	desc = "EVTDESC50001"
+	fire_only_once = yes
+	picture = "may_incident"
+	
+	
+	trigger = {
+		tag = JAP
+	}
+	
+	mean_time_to_happen = { 
+		months = 6
+	}
+	
+	option = {
+        name = "EVTOPTA50001" #This is a National disaster
+		set_country_flag = "may_incident"
+		any_pop = {
+			ideology = {
+				value = socialist
+				factor = 0.05
+			}
+			militancy = 2
+		}
+		any_pop = {
+			limit = {			
+				ideology = {
+					value = liberal
+					factor = 0.05
+				}
+			}
+			militancy = 3
+		}
+    }
+}
+
+country_event = {
+	id = 50002
+	title = "EVTNAME50002" #The National Security Act
+	desc = "EVTDESC50002"
+	fire_only_once = yes
+	picture = "national_security_act"
+	
+	trigger = {
+		tag = JAP
+		has_country_flag = "may_incident"
+	}
+	
+	mean_time_to_happen = { 
+		months = 6
+	}
+	
+	option = {
+        name = "EVTOPTA50002" #The act is forced, the democracy must prevail
+		set_country_flag = "national_act_accepted"
+		any_pop = {
+			limit = {
+				ideology = {
+					value = reactionary
+					factor = 0.05
+				}			
+			}
+			militancy = 2
+		}
+		any_pop = {
+			limit = {
+				ideology = {
+					value = fascist
+					factor = 0.05
+				}			
+			}
+			militancy = 4
+		}
+		any_pop = {
+			limit = {			
+				ideology = {
+					value = communist
+					factor = 0.05
+				}
+			}
+			militancy = 3
+		}
+    }
+	
+	option = {
+        name = "EVTOPTB50002" #The people and the oposition reject the act
+		set_country_flag = "national_act_rejected"
+		any_pop = {
+			limit = {
+				ideology = {
+					value = liberal
+					factor = 0.05
+				}
+			}
+			militancy = 2
+		}
+		any_pop = {
+			ideology = {
+				value = socialist
+				factor = 0.05
+			}
+			militancy = 3
+		}
+    }
+}
+
+country_event = {
+	id = 50003
+	title = "EVTNAME50003" #The Longest Day
+	desc = "EVTDESC50003"
+	fire_only_once = yes
+	picture = "japans_longest_day"
+	
+	trigger = {
+		tag = JAP
+		has_country_flag = "national_act_rejected"
+	}
+	
+	mean_time_to_happen = { 
+		months = 2
+	}
+	
+	option = {
+        name = "EVTOPTA50003" #Banzai!
+		government = military_dictatorship
+		remove_country_modifier = hirohito
+		any_pop = {
+			ideology = {
+				value = liberal
+				factor = 0.05
+			}
+			consciousness = 2
+		}
+		any_pop = {
+			ideology = {
+				value = socialist
+				factor = 0.05
+			}
+			militancy = 1
+			consciousness = 4
+		}
+		any_pop = {
+			ideology = {
+				value = communist
+				factor = 0.05
+			}
+			militancy = 2
+			consciousness = 4
+		}
+    }
+	
+}
+
+country_event = {
+	id = 50004
+	title = "EVTNAME50004" #Ishinha Coup
+	desc = "EVTDESC50004"
+	fire_only_once = yes
+	picture = "ishinha_coup"
+	
+	trigger = {
+		tag = JAP
+		government = military_dictatorship
+	}
+	
+	mean_time_to_happen = { 
+		months = 6
+	}
+	
+	option = {
+        name = "EVTOPTA50004" #This is the correct way to establish a strong state
+		government = fascist_dictatorship
+		any_pop = {
+			ideology = {
+				value = liberal
+				factor = 0.05
+			}
+			consciousness = 1
+		}
+		any_pop = {
+			ideology = {
+				value = socialist
+				factor = 0.05
+			}
+			consciousness = 2
+		}
+		any_pop = {
+			ideology = {
+				value = communist
+				factor = 0.05
+			}
+			consciousness = 2
+		}
+    }
+	
+}
+
+country_event = {
+	id = 50010
+	title = "EVTNAME50010" #The Emperor and the democracy
+	desc = "EVTDESC50010"
+	fire_only_once = yes
+	picture = "showa"
+	
+	trigger = {
+		tag = JAP
+		has_country_flag = "national_act_accepted"
+	}
+	
+	mean_time_to_happen = { 
+		months = 12
+	}
+	
+	option = {
+        name = "EVTOPTA50010" #Let us agree with the emperor
+		add_country_modifier = {
+			name = hirohito
+			duration = -1
+		}
+		any_pop = {
+			ideology = {
+				value = liberal
+				factor = 0.05
+			}
+			consciousness = 1
+		}
+		any_pop = {
+			ideology = {
+				value = socialist
+				factor = 0.05
+			}
+			consciousness = 2
+		}
+    }
+	
+	option = {
+        name = "EVTOPTB50010" #He is out of the line!
+		government = democracy
+		any_pop = {
+			ideology = {
+				value = conservative
+				factor = 0.05
+			}
+			militancy = 1
+		}
+		any_pop = {
+			ideology = {
+				value = reactionary
+				factor = 0.05
+			}
+			militancy = 2
+		}
+    }
+	
+}
+
+country_event = {
+	id = 50011
+	title = "EVTNAME50011" #Restorationist Coup
+	desc = "EVTDESC50011"
+	fire_only_once = yes
+	picture = "ishinha_coup"
+	
+	trigger = {
+		tag = JAP
+		government = democracy
+		NOT = { year = 1945}
+	}
+	
+	mean_time_to_happen = { 
+		months = 12
+	}
+	
+	option = {
+        name = "EVTOPTA50011" #Thank god for the army
+		government = fascist_dictatorship
+		any_pop = {
+			ideology = {
+				value = socialist
+				factor = 0.05
+			}
+			militancy = 2
+		}
+		any_pop = {
+			ideology = {
+				value = communist
+				factor = 0.05
+			}
+			militancy = 3
+		}
+    }
+		
+}

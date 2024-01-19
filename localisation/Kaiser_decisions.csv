@@ -1,3 +1,6 @@
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+restoration_of_showa_title;The Restoration of the Showa;x;
+restoration_of_showa_desc;This country used to be a strongest nation, when the showa run the nation. So, if we want to recover our past glory, we have to stage a coup to bring down the actual government and put the showa in the head of the country.;x; 
 Iberia_comi_title;The Iberian Red Federation;;;;;;;;;;;;;
 Iberia_comi_desc;After emerging victorious from the civil war, it is time to unify Iberia once again, but not as before, but rather as a new Iberian Union, a Syndicalist Iberian Union.;;;;;;;;;;;;;
 Carlistas_title;Carlist Victory;;;;;;;;;;;;;
@@ -88,8 +91,8 @@ form_reinounido_brasilandalgarves_title;Reunify the Portuguese crowns;;;;;;;;;;;
 form_reinounido_brasilandalgarves_desc;The chaos in Europe leads us to reunify the recovered empire Brazil;;;;;;;;;;;;
 form_virreinato_del_peru_title;Form Virreinato del Peru!;Form Virreinato del Peru!;Form Virreinato del Peru!;;Forma el Virreinato del Peru!;;;;;;;;;x
 form_virreinato_del_peru_desc;Get back Virreinato del Peru!;Get back Virreinato del Peru!;Get back Virreinato del Peru!;;Consigue devuelta el Virreinato del Peru!;;;;;;;;;x
-form_virreinato_de_nueva_espana_title;Form Virreinato de Nueva España!;Form Virreinato de Nueva España!;Form Virreinato de Nueva España!;;Forma el Virreinato de Nueva España!;;;;;;;;;x
-form_virreinato_de_nueva_espana_desc;Get back Virreinato de Nueva España!;Get back Virreinato de Nueva España!;Get back Virreinato de Nueva España!;;Consigue devuelta el Virreinato de Nueva España!;;;;;;;;;x
+form_virreinato_de_nueva_espana_title;Form Virreinato de Nueva Espaï¿½a!;Form Virreinato de Nueva Espaï¿½a!;Form Virreinato de Nueva Espaï¿½a!;;Forma el Virreinato de Nueva Espaï¿½a!;;;;;;;;;x
+form_virreinato_de_nueva_espana_desc;Get back Virreinato de Nueva Espaï¿½a!;Get back Virreinato de Nueva Espaï¿½a!;Get back Virreinato de Nueva Espaï¿½a!;;Consigue devuelta el Virreinato de Nueva Espaï¿½a!;;;;;;;;;x
 form_virreinato_de_la_plata_title;Form Virreinato de la Plata!;Form Virreinato de la Plata!;Form Virreinato de la Plata!;;Forma el Virreinato de la Plata!;;;;;;;;;x
 form_virreinato_de_la_plata_desc;Get back Virreinato de la Plata!;Get back Virreinato de la Plata!;Get back Virreinato de la Plata!;;Consigue devuelta el Virreinato de la Plata!;;;;;;;;;x
 form_virreinato_de_nueva_granada_title;Form Virreinato de Nueva Granada!;Form Virreinato de Nueva Granada!;Form Virreinato de Nueva Granada!;;Forma el Virreinato de Nueva Granada!;;;;;;;;;x
@@ -170,33 +173,129 @@ Bohemia_Zap_cam_2_title;Free the Poles;;;;;;;;;;;;;
 Bohemia_Zap_cam_2_desc;Now we have to finish annexing the Slavs into a single flag;;;;;;;;;;;;
 Bohemia_Zap_cam_3_title;Create the union of the Slavs;;;;;;;;;;;;;
 Bohemia_Zap_cam_3_desc;The Slavic people were always discriminated against by the Germans, the Austrians, etc. It is time to form a strong empire. It is time to form Zapadoslavia.;;;;;;;;;;;;
-reconquest_asia_central_title;Reconquest Asia Central;;;;;;;;;;;;
-reconquest_asia_central_desc;After the defeat in the First World War, the Russian Empire lost its influence in Central Asia. However, this was further emphasized during the Russian Revolution of 1920, which led to the loss of all our territory in Central Asia. But now, it is time to reclaim what is rightfully ours.;;;;;;;;;;;;
-plan_quinquenal_title;Plan Quinquenal;x;
-plan_quinquenal_desc;Comrades of the Communist Party and the people of our great nation, today I am addressing you as the Supreme Chief General of the Communist Party and Head of State to announce the Five-Year Plan that will guide our path towards building a highly industrialized socialist society.;x;
-plan_quinquenal_2nd_title;2nd Plan Quinquenal;x;
-plan_quinquenal_2nd_desc;Comrades of the Communist Party and the people of our great nation, today I address you as the Supreme Leader of the Communist Party and Head of State to announce the Second Five-Year Plan that will guide our path towards the construction of a highly industrialized socialist society.;x;
-accepted_culture_asia_central_title;Accepted culture asia central;x;
-accepted_culture_asia_central_desc;Since time immemorial, our land has been a melting pot of cultures and traditions, where diverse ethnic groups have coexisted in harmony, enriching our society with their unique values, knowledge, and ways of life. Today, we take a step forward towards the construction of an even more inclusive and just society by recognizing and celebrating the rich cultures of Central Asia that have found a home in our homeland.;x;
-plan_education_title;Plan de Education;x;
-plan_education_desc;Comrades of the Union of Soviet Socialist Republics, today I address you to discuss the implementation of an education plan in our country. Education is the foundation of our society and is essential for the development of our nation. Therefore, it is important that we work together to ensure that all citizens have access to quality education.;x;
-reconquest_caucasus_title;Reconquest of Caucasus;x;
-reconquest_caucasus_desc;One of the most significant conquests in the history of the Caucasus was the expansion of the Russian Empire in the 19th century. Russia sought to gain access to the Black Sea and control the trade routes passing through the Caucasus region. Over several decades, the Russian Empire waged a series of wars and conflicts with local powers and other empires, such as the Ottoman Empire and Persia. These conflicts culminated in the gradual annexation of much of the Caucasus by the Russian Empire in the 19th century. It is time for it to be ours again.;x;
-influence_ukraine_title;Influence Ukraine;x;
-influence_ukraine_desc;During the 18th and 19th centuries, a significant portion of Ukrainian territory was conquered and annexed by the Russian Empire, leading to a long period of Russian imperial rule over Ukraine. This Russian imperial influence included the imposition of Russian laws, language, and administration in the region.;x;
-reclamation_crimea_title;Reclaim Crimea;x;
-reclamation_crimea_desc;For centuries, Crimea was a territory of interest for the Russian Empire. In the 18th century, Russia annexed Crimea. It's time to unite all the peoples with Russian ethnicity.;x;
-reclamation_culture_russia_title;Reclaim culture russia;x;
-reclamation_culture_russia_desc;We must ensure that all Russian people have access to the same rights and opportunities. We must work together to create a just and inclusive society, where everyone can feel safe and protected.;x;
-annex_ukraine_title;Annex Ukraine;x;
-annex_ukraine_desc;In the late 18th century, much of Ukraine fell under the control of the Russian Empire following the partitions of Poland. This led to a process of cultural assimilation and repression, especially during the 19th century.;x;
-influence_bielorus_title;Influence Bielorus;x;
-influence_bielorus_desc;Since independence, Belarus has maintained close relations with Russia, including economic and security agreements. This has strengthened our influence more than that of Germany, one step closer to uniting all the Russias.;x;
-annex_bielorus_title;Annex Bielorus;x;
-annex_bielorus_desc;In the late 18th century, during the partitions of Poland, much of Belarus was annexed by the Russian Empire. This annexation marked the beginning of a long history of Russian control over the region. It's time for all Russian-speaking and affiliated peoples to come back home once more.;x;
-demand_brest_title;Demand Brest;x;
-demand_brest_desc;To ease tensions with Lithuania, it has been decided to be granted the Brest region, even though this may escalate tensions with Germany. All for the sake of avoiding a major war.;x;
-negotiation_finland_title;Negotiate borders with Finland;x; 
-negotiation_finland_desc;Tensions with Finland have escalated due to the border crisis. We have reached an agreement where the entire Karelia region is ceded to us, all in an effort to prevent a war between all the powers.;x;
-claim_tarasco_title;Reclaim Tarasco;x;
-claim_tarasco_desc;We claim Tarasco as a vital region and core, not only for its strategic location but also for the coveted port of Vladivostok. Our expansions are directed for the good of the nation.;x;
+Fra_comi_3_title;Take the French-speaking peoples in Belgium;;;;;;;;;;;;;
+Fra_comi_3_desc;After recovering Alsace we have to protect the seats of the Kaiserreich;;;;;;;;;;;;
+Fra_comi_4_title;Take all of Belgium;;;;;;;;;;;;;
+Fra_comi_4_desc;After taking half of Belgium it is time to take all of Belgium in the new Red France;;;;;;;;;;;;
+Fra_comi_5_title;Protect the population of Belgium;;;;;;;;;;;;;
+Fra_comi_5_desc;Now that we have control of all of Belgium we have to respect the people who live there.;;;;;;;;;;;;
+Fra_comi_6_title;take the netherlands;;;;;;;;;;;;;
+Fra_comi_6_desc;It is time to extend the revolution to the Netherlands;;;;;;;;;;;;
+Fra_comi_7_title;Protect Iberia;;;;;;;;;;;;;
+Fra_comi_7_desc;After taking the Netherlands we have to expand the revolution to Iberia;;;;;;;;;;;;
+Fra_comi_8_title;Accept the Iberian population;;;;;;;;;;;;;
+Fra_comi_8_desc;For a long time the Iberian people were under poor governments, now they are going to have a better life in the French commune;;;;;;;;;;;;
+france_rev_title;The lies of the government;;;;;;;;;;;;;
+france_rev_desc;When we caused the revolution, the idea was to improve the quality of life of the population but the government oppresses us worse than the previous one, it is time for the 3rd republic to return.;;;;;;;;;;;;
+france_rev_2_title;Le retour de la rï¿½publique;;;;;;;;;;;;;
+france_rev_2_desc;When we caused the revolution, the idea was to improve the quality of life of the population but the government oppresses us worse than the previous one, it is time for the 3rd republic to return.;;;;;;;;;;;;
+france_rev_3_title;The return to Europe;;;;;;;;;;;;;
+france_rev_3_desc;After causing the civil war we have managed to win the war and it is time to plan the Reconstrullion of France;;;;;;;;;;;;
+Rep_Fra_title;The union of the 2 nations;;;;;;;;;;;;;
+Rep_Fra_desc;Democracy returned to France but the United Kingdom still remains, we do not have to unite the 2 nations to be able to maintain democracy in Europe;;;;;;;;;;;;
+capital_sic_Fac_title;A new direction for Italy;;;;;;;;;;;;;
+capital_sic_Fac_desc;Now that our enemies have been destroyed, it is time to finally reunify Italy and make the capital Rome again.;;;;;;;;;;;;
+Fra_caro_3_title;integrate the Swiss;;;;;;;;;;;;;
+Fra_caro_3_desc;Switzerland has been within the Carolingian empire for a long time, it is time for them to return;;;;;;;;;;;;
+Fra_caro_4_title;Take the Belgian state;;;;;;;;;;;;;
+Fra_caro_4_desc;The Belgian people were oppressed by the Germans for a long time.;;;;;;;;;;;;
+Fra_caro_5_title;Annex to Netherlands;;;;;;;;;;;;;
+Fra_caro_5_desc;It's time for the Netherlands to be French;;;;;;;;;;;;
+Fra_caro_6_title;The natural boldes of France;;;;;;;;;;;;;
+Fra_caro_6_desc;The Germans have humiliated us for too long it's time to take what belongs to us;;;;;;;;;;;;
+Fra_caro_7_title;The offensive towards Italy;;;;;;;;;;;;;
+Fra_caro_7_desc;It is time for Italy to enter our great Empire;;;;;;;;;;;;
+Fra_caro_8_title;Finish off the Germans;;;;;;;;;;;;;
+Fra_caro_8_desc;After this war the Germans will no longer be a threat;;;;;;;;;;;;
+Fra_caro_9_title;Restore the Empire of Charlemagne;;;;;;;;;;;;;
+Fra_caro_9_desc;After so many wars we can sit down and restore the great Carolignian empire;;;;;;;;;;;;
+Fra_napo_3_title;Offensive against the Belgians;;;;;;;;;;;;;
+Fra_napo_3_desc;Now that we have recovered Alsace and Lorraine we have to counterattack the Germans by taking their satellite state;;;;;;;;;;;;
+Fra_napo_4_title;Intervention in the Netherlands;;;;;;;;;;;;;
+Fra_napo_4_desc;Napoleon attacked and took the Netherlands a long time ago to restore his legacy, it's time to attack;;;;;;;;;;;;
+Fra_napo_5_title;Revenge against the Spanish;;;;;;;;;;;;;
+Fra_napo_5_desc;The Spanish revealed themselves to us and were one of the reasons why we lost the Napoleonic war. It is time to take revenge.;;;;;;;;;;;;
+Fra_napo_6_title;Take northern Italy;;;;;;;;;;;;;
+Fra_napo_6_desc;Now it is time to recover the territories in Italy;;;;;;;;;;;;
+Fra_napo_7_title;The Great Revenge;;;;;;;;;;;;;
+Fra_napo_7_desc;The Germans humiliated us for a long time, first with the Great War, second with being forced to flee to Africa, but this is now over.;;;;;;;;;;;;
+Italy_empire_title;Gloria all impero italiano;;;;;;;;;;;;;
+Italy_empire_desc;Now that we are done with Rome we have to proclaim the unification of Italy but now as an empire;;;;;;;;;;;;
+sar_sic_union_title;Force union;;;;;;;;;;;;;
+sar_sic_union_desc;They don't know but the best thing for Italy is to unify;;;;;;;;;;;;
+restaurar_italy_title;Take the center of Italy;;;;;;;;;;;;;
+restaurar_italy_desc;Now that we have recovered the territories of Sardinia, it is time to take central Italy.;;;;;;;;;;;;
+restaurar_italy_ahora_sip_title;Glory to Italy;;;;;;;;;;;;;
+restaurar_italy_ahora_sip_desc;Now that we have all of Italy it is time to reunify all the Italian states again;;;;;;;;;;;;
+capital_sic_Fas_title;Glory to Italy;;;;;;;;;;;;;
+capital_sic_Fas_desc;Now that we take all the Italian territories we can unify Italy, an Italy that will not be weak.;;;;;;;;;;;;
+tomar_papado_sicilia_title;Attack the territory of the papacy;;;;;;;;;;;;;
+tomar_papado_sicilia_desc;Now we have to refuse, starting with the former territories of the papacy.;;;;;;;;;;;;
+italia_roja_title;End the federation;;;;;;;;;;;;;
+italia_roja_desc;Now we have to finish off the central Italian states;;;;;;;;;;;;
+todos_los_cores_title;The new red Italy;;;;;;;;;;;;;
+todos_los_cores_desc;Now we have to unify Italy in a new government, a unionist government.;;;;;;;;;;;;
+Italy_empire_f_title;Gloria all impero italiano;;;;;;;;;;;;;
+Italy_empire_f_desc;Now that we have all the territories we can proclaim the Italian empire;;;;;;;;;;;;
+roma_cap_title;imperium Romanum;;;;;;;;;;;;;
+roma_cap_desc;Now that we have unified all the Italian territories, it is time to expand further throughout Europe and recover what was lost.;;;;;;;;;;;;
+roman_tunisia_title;Get Tunisia!;Get Tunisia!;Get Tunisia!;;Consigue Tunisia!;;;;;;;;;x
+roman_tunisia_desc;Let's go for africa!;Let's go for africa!;Let's go for africa!;;Vamos a por Africa!;;;;;;;;;x
+roman_east_title;Expand to east!;Expand to east!;Expand to east!;;Expande hacia el este!;;;;;;;;;x
+roman_east_desc;Let's go for some territories from the east!;Let's go for some territories from the east!;Let's go for some territories from the east!;;Vamos a por algunos territorios del este!;;;;;;;;;x
+roman_extreme_east_title;Expand more to east!;Expand more to east!;Expand more to east!;;Expande mas hacia el este!;;;;;;;;;x
+roman_extreme_east_desc;Get more territories from the east!;Get more territories from the east!;Get more territories from the east!;;Consigue mas territorios del este!;;;;;;;;;x
+rome_balcans_title;Reclaim the balkans!;Reclaim the balkans!;Reclaim the balkans!;;Reclama los balcanes!;;;;;;;;;x
+rome_balcans_desc;The balkans are now reclaimed by the Roman Empire name!;The balkans are now reclaimed by the Roman Empire name!;The balkans are now reclaimed by the Roman Empire name!;;Los balkanes ahora son reclamadas bajo el nombre del Imperio Romano!;;;;;;;;;x
+rome_anatolia_title;Reclaim the anatolian peninsula!;Reclaim the anatolian peninsula!;Reclaim the anatolian peninsula!;;Reclama la peninsula de anatolia!;;;;;;;;;x
+rome_anatolia_desc;The anatolian peninsula was from a long time turk.. was..;The anatolian peninsula was from a long time turk.. was..;The anatolian peninsula was from a long time turk.. was..;;La peninsula de anatolia fue por un largo tiempo turco.. fue..;;;;;;;;;x
+constantinople_instanbul_title;Change the name of Instanbul to Constantinople!;Change the name of Instanbul to Constantinople!;Change the name of Instanbul to Constantinople!;;Cambia el nombre de Instanbul a Constantinopla;;;;;;;;;x
+constantinople_instanbul_desc;A better name is needed for that bad name!;A better name is needed for that bad name!;A better name is needed for that bad name!;;Un mejor nombre se necesita para ese sucio nombre!;;;;;;;;;x
+rome_england_title;Let's go for england!;Let's go for england!;Let's go for england!;;Vamos a por Inglaterra!;;;;;;;;;x
+rome_england_desc;By the Cesar name!;By the Cesar name!;By the Cesar name!;;Bajo el nombre de Cesar!;;;;;;;;;x
+roman_egypt_title;Reclaim Egypt!!;Reclaim Egypt!!;Reclaim Egypt!!;;Reclama Egipto!!;;;;;;;;;x
+roman_egypt_desc;These egyptians doesn't need to exist!;These egyptians doesn't need to exist!;These egyptians doesn't need to exist!;;Estos egipcios no necesitan existir!;;;;;;;;;x
+proclaim_romanempire_title;Proclaim the roman empire!;Proclaim the roman empire!;Proclaim the roman empire!;;Proclama el Imperio Romano!;;;;;;;;;x
+proclaim_romanempire_desc;Roma expanded a lot, but we can't be always a kingdom..;Roma expanded a lot, but we can't be always a kingdom..;Roma expanded a lot, but we can't be always a kingdom..;;Nos expandimos mucho, pero no siempre podemos ser un reino..;;;;;;;;;x
+roman_iberian_finish_title;Finish with iberia!;Finish with iberia!;Finish with iberia!;;Termina con iberia!;;;;;;;;;x
+roman_iberian_finish_desc;Now iberia will be for us!;Now iberia will be for us!;Now iberia will be for us!;;Ahora iberia sera nuestra!;;;;;;;;;x
+roman_north_africa_title;Roman North Africa!;Roman North Africa!;Roman North Africa!;;La Norte Africa Romana!;;;;;;;;;x
+roman_north_africa_desc;Let's go to the south mediterran!;Let's go to the south mediterran!;Let's go to the south mediterran!;;Vamos a por el sur del mediterraneo!;;;;;;;;;x
+roman_iberia_title;To iberia!;To iberia!;To iberia!;;A Iberia!;;;;;;;;;x
+roman_iberia_desc;Let's expand to iberia!;Let's expand to iberia!;Let's expand to iberia!;;Vamos a expandirnos hacia Iberia!;;;;;;;;;x
+allow_mp_options_title;Enable MP Features;Options multijoueur;Mehrspieleroptionen;;Permitir Caracterï¿½sticas MP;;;;;;;;x
+allow_mp_options_desc;Enable additional options for multiplayer games.;Active des options supplï¿½mentaires pour les jeux multijoueurs.;Aktiviert zusï¿½tzliche Optionen fï¿½r 
+disallow_mp_options_title;Disable MP Features;Empï¿½cher les options multijoueur;Multiplayer-Optionen deaktivieren;;Desactivar Caracterï¿½sticas MP;;;;;;;;x
+disallow_mp_options_desc;Disables additional features for mp.;Dï¿½sactive les options supplï¿½mentaires pour les jeux multijoueurs.;Deaktiviert zusï¿½tzliche Optionen fï¿½r 
+givegrants_title;Get Grants!;Get Grants!;Get Grants!;;Consigue dinero!;;;;;;;;;x
+givegrants_desc;Get Grants by other players!;Get Grants by other players!;Get Grants by other players!;;Consigue dinero de otros jugadores!;;;;;;;;;x
+peru_bolivia_title;Restore the Peru-Bolivian confederation;;;;;;;;;;;;;
+peru_bolivia_desc;Many years ago there was a confederation, the Peru-Bolivian confederation, which was dissolved by our enemies. It is time for it to return.;;;;;;;;;;;;
+cisplatina_title;Recover Cisplatina;;;;;;;;;;;;;
+cisplatina_desc;The empire of Brazil in Uruguay but became independent now has to return to the province of Cisplatina;;;;;;;;;;;;
+pro_reb_title;Recapture the rebel province;;;;;;;;;;;;;
+pro_reb_desc;After the war, Uruguay became independent in an unequal treaty, our country is not in the best conditions. Annexing Uruguay will raise nationalism and they will return.;;;;;;;;;;;;
+pata_title;Annex to the revolt in Patagonia;;;;;;;;;;;;;
+pata_desc;It is now useless to continue with the revolt in the south of Argentina, it is time for them to pass to our direct administration;;;;;;;;;;;;
+back_to_basic_title;Back to basic;;;;;;;;;;;;;
+back_to_basic_desc;go back to the basics when everything was simpler when the empire did everything;;;;;;;;;;;;
+a_new_admistration_title;A new administration;;;;;;;;;;;;
+a_new_admistration_desc;We need a new administration so the country can progress;;;;;;;;;;;;
+extra_decicionsaf_title;Eneable extra decisions;;;;;;;;;;;;
+extra_decicionsaf_desc;Eneable extra decisions;;;;;;;;;;;;
+extra_decicionsaf1_title;Ultimatum to Somalia;;;;;;;;;;;;
+extra_decicionsaf1_desc;Send ultimatum to somalia;;;;;;;;;;;;
+kill_the_kaiser_title;Kill the kaiser;;;;;;;;;;;;
+kill_the_kaiser_desc;Kill the kaiser for the independent afrika;;;;;;;;;;;;
+form_africapic_title;Create The African Union;;;;Crear la uniÃ³n Africana;;;;;;;;
+form_africapic_desc;After expelling the colonizers and unifying all the African peoples in a single political entity, it is time to move forward as a nation and transform ourselves into a confederation that represents each people, culture and ethnicity.;;;;Tras Expulsar a los colonizadores y unificar todos los pueblos africanos en un solo ente politico es hora de avanzar como nacion y transformarnos en una confederacion que represente a cada pueblo, cultura y etnia.;;;;;;;;
+form_laplata_title;Form La Plata;Form La Plata;Form La Plata;;Forma La Plata;;;;;;;;;x
+form_laplata_desc;We can form La Plata!;We can form La Plata!;We can form La Plata!;;Podemos formar La Plata;;;;;;;;;x
+cores_bolivia_title;Get cores at bolivia!;Get cores at bolivia!;Get cores at bolivia!;;Consigue cores a bolivia!;;;;;;;;;x
+cores_bolivia_desc;Why Bolivia separated of us?! Let's get it back.;Why Bolivia separated of us?! Let's get it back.;Why Bolivia separated of us?! Let's get it back.;;Por que bolivia se separo de nostros?! Vamos a conseguirlo de nuevo.;;;;;;;;;x
+claim_chile_title;Claim Chile!;Claim Chile!;Claim Chile!;;Reclama Chile!;;;;;;;;;x
+claim_chile_desc;Chile was us too no? Well, we got la paz, so let's claim it.;Chile was us too no? Well, we got la paz, so let's claim it.;Chile was us too no? Well, we got la paz, so let's claim it.;;;;;;;;;;;x
+verdaera_alemania_title;Take the German throne;;;;;;;;;;;;
+verdaera_alemania_desc;Since we became independent from Germany, it is time to reclaim Germany completely.;;;;;;;;;;;;
+reconquest_of_transilvania_title;Reconquest of Transilvania;;;;;;;;;x
+reconquest_of_transilvania_desc;Transilvania belongs to Romania. The Austrian and Hungarian menece shell leave our lands, therefore we must reconquer Tansilvania and integrate it, this for the glory of Romania and it's king!;;;;;;;;;x

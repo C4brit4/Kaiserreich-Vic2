@@ -1,6 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = fish
 life_rating = 30
 colonial = 2
+

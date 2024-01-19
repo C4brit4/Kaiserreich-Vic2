@@ -9,8 +9,16 @@ fort = 1 #Remember the Alamo!
 owner = USA
 controller = USA
 add_core = USA
+remove_core = MEX
 }1861.1.1 = {
-	controller = USA
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+}
+1914.1.1 = {
 	owner = USA
-	add_core = USA
+	controller = USA
+	remove_core = CSA
+	
+	railroad = 2
 }

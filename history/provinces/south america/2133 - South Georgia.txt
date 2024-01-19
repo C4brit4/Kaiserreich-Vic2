@@ -1,2 +1,4 @@
+owner = ARG
+controller = ARG
 trade_goods = fish
 life_rating = 30

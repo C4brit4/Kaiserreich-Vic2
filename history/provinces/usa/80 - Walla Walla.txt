@@ -8,3 +8,4 @@ controller = USA
 add_core = USA
 remove_core = COL
 }
+1914.1.1 = { railroad = 1 }

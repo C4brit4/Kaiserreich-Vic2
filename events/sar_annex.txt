@@ -1,0 +1,39 @@
+country_event = {
+    id = 500631
+    title = "EVTNAME500631"
+    desc = "EVTDESC500631"
+    picture = Spanish Civil war
+    fire_only_once = yes
+
+    trigger = {
+    tag  = XXX
+        
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA500631"
+		    SIC = {
+				inherit = SAR
+				add_accepted_culture = north_italian
+				set_country_flag = sar_dice_no_2
+			}
+			ai_chance = {factor = 85}
+			SIC = {
+				change_tag = SAW
+				
+			}
+ 		    SAR = {
+				all_core = { add_core = SAW }
+			}
+			
+    } 		   
+    option = {
+        name = "EVTOPTB500631"
+		SIC = {
+				set_country_flag = sar_dice_no 
+			}
+    } 	
+}
+

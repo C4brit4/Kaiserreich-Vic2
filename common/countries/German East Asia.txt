@@ -1,4 +1,4 @@
-color = { 68 70 213 }
+color = { 0 44 122 }
 graphical_culture = AsianGC
 
 

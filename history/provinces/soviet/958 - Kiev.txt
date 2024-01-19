@@ -8,3 +8,8 @@ life_rating = 35
 #	building = glass_factory
 #	upgrade = yes
 #}
+state_building = {
+	level = 20
+	building = synthetic_oil_factory
+	upgrade = yes
+}

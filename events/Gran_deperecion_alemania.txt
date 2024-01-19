@@ -1,0 +1,23 @@
+country_event = {
+    id = 52892
+    title = "EVTNAME52892"
+    desc = "EVTDESC52892"
+    picture = deprecion
+    fire_only_once = yes
+
+    trigger = {
+	tag = GER
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA52892"
+					add_country_modifier = {
+                        name = great_depression
+                        duration = 5475
+                }
+            }
+}
+
+

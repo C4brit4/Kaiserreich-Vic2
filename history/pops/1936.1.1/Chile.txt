@@ -1,875 +1,2002 @@
-#Atacama Region (225000) #see Peru.txt for balance of Region
-#Antofagasta (110000/27500 POPS)
+#Atacama Region (164000) #see Peru.txt for balance of Region
+#Ruled by Bolivia 1836
+#Antofagasta (80000/20000 POPS)
 2305 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 425
-	}
-
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 550
-	}
-
 	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 100
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 300
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 1125
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 23
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 2000
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 8000
-	}
-
-	clergymen = {
-		culture = aimara
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = aimara
-		religion = catholic
-		size = 600
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 93
+	 } 
 	soldiers = {
-		culture = aimara
-		religion = catholic
-		size = 1125
-	}
-
+		culture = chilenos
+		religion = catholic 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1184
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 85
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 28
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 2
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 147
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 10
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 295
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 21
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 993
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 71
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 942
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 68
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2212
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 160
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 815
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 59
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 22869
+	 } 
 	farmers = {
 		culture = aimara
-		religion = catholic
-		size = 13225
-	}
+		religion = catholic 
+		size = 1655
+	 } 
 }
-#Calama (44000/11000 POPS)
+#Calama (32000/8000 POPS)
 2309 = {
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 13
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 54
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 3
+	 } 
 	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 690
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 49
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 16
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 85
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 6
+	 } 
 	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 650
-	}
-
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 3075
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 172
+	 } 
 	clergymen = {
-		culture = aimara
-		religion = catholic
-		size = 100
-	}
-
+		culture = chilenos
+		religion = catholic 
+		size = 12
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 578
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 41
+	 } 
 	artisans = {
-		culture = aimara
-		religion = catholic
-		size = 250
-	}
-
-	soldiers = {
-		culture = aimara
-		religion = catholic
-		size = 100
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 549
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 39
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1764
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 127
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 13327
+	 } 
 	farmers = {
 		culture = aimara
-		religion = catholic
-		size = 5550
-	}
+		religion = catholic 
+		size = 964
+	 } 
 }
-#Iquique (44000/11000 POPS)
+#Ruled by Peru 1836
+#Iquique (32000/8000 POPS)
 2307 = {
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 19
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 81
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 5
+	 } 
 	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 1035
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 74
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 25
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 128
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 9
+	 } 
 	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 275
-	}
-
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 3350
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 258
+	 } 
 	clergymen = {
-		culture = aimara
-		religion = catholic
-		size = 50
-	}
-
+		culture = chilenos
+		religion = catholic 
+		size = 18
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 868
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 62
+	 } 
 	artisans = {
-		culture = aimara
-		religion = catholic
-		size = 300
-	}
-
-	soldiers = {
-		culture = aimara
-		religion = catholic
-		size = 75
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 824
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 59
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2647
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 191
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 19989
+	 } 
 	farmers = {
 		culture = aimara
-		religion = catholic
-		size = 6575
-	}
+		religion = catholic 
+		size = 1446
+	 } 
 }
-#Arica (27000/6750 POPS)
+#Arica (20000/5000 POPS)
 2308 = {
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 13
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 57
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 4
+	 } 
 	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 736
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 53
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 17
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 91
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 6
+	 } 
 	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 150
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 250
-	}
-
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 185
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 1540
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 183
+	 } 
 	clergymen = {
-		culture = aimara
-		religion = catholic
-		size = 25
-	}
-
+		culture = chilenos
+		religion = catholic 
+		size = 13
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 617
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 44
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 123
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 8
+	 } 
 	artisans = {
 		culture = aimara
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
+		religion =  catholic 
+		size = 463
+	 } 
+	artisans = {
 		culture = aimara
-		religion = catholic
-		size = 50
-	}
-
+		religion = catholic 
+		size = 33
+	 } 
+	craftsmen = {
+		culture = aimara
+		religion =  catholic 
+		size = 1883
+	 } 
+	craftsmen = {
+		culture = aimara
+		religion = catholic 
+		size = 136
+	 } 
 	farmers = {
 		culture = aimara
-		religion = catholic
-		size = 4225
-	}
+		religion =  catholic 
+		size = 6861
+	 } 
+	farmers = {
+		culture = aimara
+		religion = catholic 
+		size = 496
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 7366
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 533
+	 } 
 }
-#Chile Norte Region (159000)
-#Copiapo (71000/17750 POPS)
+#Chile Norte Region (116000)
+#Ruled by Chile 1836
+#Copiapo (52000/13000 POPS)
 2322 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 275
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 175
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 1350
-	}
-
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 20
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 1125
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 82
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1053
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 76
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 26
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 131
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 9
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 262
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 19
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 883
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 63
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 839
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 60
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2694
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 195
+	 } 
 	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 14825
-	}
+		culture = chilenos
+		religion =  catholic 
+		size = 3224
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 233
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 17122
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1239
+	 } 
 }
-#La Serena (88000/22000 POPS)
+#La Serena (64000/16000 POPS)
 2323 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 350
-	}
-
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 400
-	}
-
 	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 75
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 225
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 1950
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 27
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 1500
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 109
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1389
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 34
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 2
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 173
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 12
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 346
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 25
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1164
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 84
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1106
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 80
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 3553
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 257
+	 } 
 	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 17500
-	}
+		culture = chilenos
+		religion =  catholic 
+		size = 7724
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 559
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 19104
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1382
+	 } 
 }
-#Valle Central Region (876000)
-#Santiago (575000/143750 POPS)
+#Valle Central Region (640000)
+#Ruled by Chile 1836
+#Santiago (420000/105000 POPS)
 2324 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 2200
-	}
-
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 2175
-	}
-
 	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 425
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 1450
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 22500
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 458
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 33
+	 } 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 7500
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 1835
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 132
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 23293
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 1686
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 581
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 42
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2911
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 210
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 5823
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 421
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 19536
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 1414
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 18559
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 1343
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 59587
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 4313
+	 } 
 	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 107500
-	}
+		culture = chilenos
+		religion =  catholic 
+		size = 100350
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 7263
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 337760
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 24449
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  orthodox 
+		size = 11646
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion = orthodox 
+		size = 843
+	 } 
 }
-#Valparaiso (175000/43750 POPS)
+#Valparaiso (128000/32000 POPS)
 2325 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 675
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 450
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 17625
-	}
-
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 5000
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 20000
-	}
-}
-#Vina del Mar (98000/24500 POPS)
-2326 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 375
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 250
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 1875
-	}
-
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 2000
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 20000
-	}
-}
-#Talca (28000/7000 POPS)
-2327 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 800
-	}
-
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 500
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 5500
-	}
-}
-#Bio-Bio Region (317500)
-#Valdivia (126500/31625 POPS)
-2328 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 325
-	}
-
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 800
-	}
-
 	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 150
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 250
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 2100
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 97
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 7
+	 } 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 2000
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 18000
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 392
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 28
+	 } 
 	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 100
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 4988
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 361
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 124
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 8
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 622
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 45
+	 } 
 	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 100
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 1246
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 90
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 4184
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 302
+	 } 
 	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 300
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 3974
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 287
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 12761
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 923
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 40203
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 2910
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 56124
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 4062
+	 } 
+}
+#Vina del Mar (72000/18000 POPS)
+2326 = {
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 20
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
 	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 275
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 82
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1044
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 75
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 26
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 130
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 9
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 261
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 18
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 875
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 63
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 831
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 60
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2671
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 193
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 14944
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1081
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 5222
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 378
+	 } 
+}
+#Talca (20000/5000 POPS)
+2327 = {
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 65
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 4
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 263
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 19
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 3357
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 243
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 83
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 6
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 419
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 30
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 839
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 60
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2815
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 203
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2674
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 193
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 8587
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 621
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 48034
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 3476
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 16785
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1215
+	 } 
+}
+#Bio-Bio Region (232000)
+#Ruled by Chile 1836
+#Valdivia (92000/23000 POPS)
+2328 = {
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 24
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 98
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1258
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 91
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 30
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 2
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 156
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 11
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 314
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 22
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1055
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 76
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1002
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 72
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 3219
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 233
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 18015
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1304
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 6294
+	 } 
 	farmers = {
 		culture = patagonian
 		religion = animist
-		size = 7225
-	}
+		size = 455
+	 } 
 }
-#Temuco (49000/12250 POPS)
+#Temuco (36000/9000 POPS)
 2329 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 1050
-	}
-
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 61
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 4
+	 } 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 500
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 5500
-	}
-
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 200
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 248
+	 } 
 	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 50
-	}
-
+		culture = chilenos
+		religion = catholic 
+		size = 18
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 3161
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 78
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 5
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 394
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 28
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 789
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 57
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2651
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 191
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2518
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 182
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 8085
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 585
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 37329
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 2702
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 15805
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1144
+	 } 
 	farmers = {
 		culture = patagonian
+		religion =  animist
+		size = 7902
+	 } 
+	farmers = {
+		culture = native_american_minor
 		religion = animist
-		size = 4625
-	}
+		size = 572
+	 } 
 }
-#Cauquenes (93000/23250 POPS)
+#Cauquenes (68000/17000 POPS)
 2330 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 350
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 225
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 1675
-	}
-
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 134
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 9
+	 } 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 1100
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 538
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 39
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 6844
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 495
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 170
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 12
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 855
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 61
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 1711
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 123
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 5740
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 415
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 5453
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 394
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 17508
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 1267
+	 } 
 	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 20000
-	}
+		culture = chilenos
+		religion =  catholic 
+		size = 63711
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 4611
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 34222
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 2477
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 34222
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2477
+	 } 
 }
-#Chillan (49000/12250 POPS)
+#Chillan (36000/9000 POPS)
 2331 = {
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 59
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 4
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 238
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 17
+	 } 
 	aristocrats = {
-		culture = south_andean
-		religion = catholic
+		culture = chilenos
+		religion =  catholic 
+		size = 3039
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 220
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 75
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 5
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 379
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 27
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 759
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 55
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2549
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 184
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2421
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
 		size = 175
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 700
-	}
-
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 500
-	}
-
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 7776
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 562
+	 } 
 	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 8500
-	}
-
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 25
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 5498
+	 } 
 	farmers = {
-		culture = patagonian
+		culture = chilenos
+		religion = catholic 
+		size = 398
+	 } 
+	farmers = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 53199
+	 } 
+	farmers = {
+		culture = native_american_minor
 		religion = animist
-		size = 2050
-	}
+		size = 3850
+	 } 
 }
-#Magellanes Region (92600)
+#Magellanes Region (92000)
+#Ruled by Chile 1836
 #Osorno (68000/17000 POPS)
 2332 = {
-	aristocrats = {
-		culture = south_andean
-		religion = catholic
-		size = 275
-	}
-
-	bureaucrats = {
-		culture = south_andean
-		religion = catholic
-		size = 20
-	}
-
 	officers = {
-		culture = south_andean
-		religion = catholic
-		size = 10
-	}
-
-	clergymen = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 670
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 53
+	 } 
+	officers = {
+		culture = chilenos
+		religion = catholic 
+		size = 3
+	 } 
 	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 11775
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 214
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 15
+	 } 
 	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 75
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 2732
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 197
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 68
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 4
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 341
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 24
+	 } 
 	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 75
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 682
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 49
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 2291
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 165
+	 } 
 	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 200
-	}
-
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 50
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 2176
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 157
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 6989
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 505
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 11773
+	 } 
+	farmers = {
+		culture = chilenos
+		religion = catholic 
+		size = 852
+	 } 
 	farmers = {
 		culture = patagonian
+		religion =  animist
+		size = 40983
+	 } 
+	farmers = {
+		culture = native_american_minor
 		religion = animist
-		size = 3600
-	}
+		size = 2966
+	 } 
 }
+#uncolonized/claimed by Chile 1836
 #Puerto Aisen (12000/3000 POPS)
 2333 = {
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 150
-	}
-
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 6
+	 } 
 	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = patagonian
-		religion = animist
-		size = 2700
-	}
-}
-#Punta Arenas (8600/2150 POPS)
-2334 = {
-	clergymen = {
-		culture = south_andean
-		religion = catholic
+		culture = chilenos
+		religion =  catholic 
+		size = 26
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 335
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 8
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 41
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
 		size = 3
-	}
-
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 22
-	}
-
-	farmers = {
-		culture = south_andean
-		religion = catholic
-		size = 125
-	}
-
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 25
-	}
-
+	 } 
 	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 50
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 83
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 6
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 281
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 20
+	 } 
 	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = patagonian
-		religion = animist
-		size = 25
-	}
-
+		culture = chilenos
+		religion =  catholic 
+		size = 266
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 19
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 858
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 62
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 6482
+	 } 
 	farmers = {
 		culture = patagonian
 		religion = animist
-		size = 1800
-	}
+		size = 469
+	 } 
+}
+#Punta Arenas (8000/2000 POPS)
+2334 = {
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 6
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 27
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 345
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 8
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 42
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 3
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 85
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 6
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 289
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 20
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 274
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 19
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 882
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 63
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 6664
+	 } 
+	farmers = {
+		culture = patagonian
+		religion = animist
+		size = 482
+	 } 
 }
 #Porvenir (4000/1000 POPS)
 2335 = {
-	aristocrats = {
-		culture = patagonian
-		religion = animist
-		size = 10
-	}
-
-	clergymen = {
-		culture = patagonian
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = patagonian
-		religion = animist
-		size = 50
-	}
-
+	officers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 3
+	 } 
 	soldiers = {
-		culture = patagonian
-		religion = animist
+		culture = chilenos
+		religion =  catholic 
 		size = 15
-	}
-
+	 } 
+	soldiers = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 205
+	 } 
+	aristocrats = {
+		culture = chilenos
+		religion = catholic 
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = chilenos
+		religion =  catholic 
+		size = 4
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion =  catholic 
+		size = 25
+	 } 
+	capitalists = {
+		culture = chilenos
+		religion = catholic 
+		size = 1
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 51
+	 } 
+	clergymen = {
+		culture = chilenos
+		religion = catholic 
+		size = 3
+	 } 
+	clerks = {
+		culture = chilenos
+		religion =  catholic 
+		size = 171
+	 } 
+	clerks = {
+		culture = chilenos
+		religion = catholic 
+		size = 12
+	 } 
+	artisans = {
+		culture = chilenos
+		religion =  catholic 
+		size = 163
+	 } 
+	artisans = {
+		culture = chilenos
+		religion = catholic 
+		size = 11
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion =  catholic 
+		size = 524
+	 } 
+	craftsmen = {
+		culture = chilenos
+		religion = catholic 
+		size = 38
+	 } 
+	farmers = {
+		culture = chilenos
+		religion =  catholic 
+		size = 3963
+	 } 
 	farmers = {
 		culture = patagonian
 		religion = animist
-		size = 900
-	}
+		size = 286
+	 } 
+
 }

@@ -1,93 +1,96 @@
-#Puerto Rico (583300/145825 POPS)
+#Puerto Rico (356000)	
+#Ruled by Spain 1836 
+#Puerto Rico (356000/89000 POPS)
 2222 = {
+	officers = {
+		culture = spanish
+		religion =  catholic 
+		size = 1513
+	 } 
+	officers = {
+		culture = spanish
+		religion = catholic 
+		size = 149
+	 } 
+	soldiers = {
+		culture = spanish
+		religion =  catholic 
+		size = 6055
+	 } 
+	soldiers = {
+		culture = spanish
+		religion = catholic 
+		size = 598
+	 } 
 	aristocrats = {
 		culture = spanish
-		religion = catholic
-		size = 410
-	}
-
-	bureaucrats = {
-		culture = spanish
-		religion = catholic
-		size = 125
-	}
-
-	clergymen = {
-		culture = spanish
-		religion = catholic
-		size = 490
-	}
-
-	artisans = {
-		culture = spanish
-		religion = catholic
-		size = 1310
-	}
-
-	soldiers = {
-		culture = spanish
-		religion = catholic
-		size = 80
-	}
-
+		religion =  catholic 
+		size = 17660
+	 } 
 	aristocrats = {
-		culture = caribeno
-		religion = catholic
-		size = 1640
-	}
-
+		culture = spanish
+		religion = catholic 
+		size = 1746
+	 } 
 	bureaucrats = {
-		culture = caribeno
-		religion = catholic
-		size = 85
-	}
-
+		culture = spanish
+		religion =  catholic 
+		size = 2018
+	 } 
+	bureaucrats = {
+		culture = spanish
+		religion = catholic 
+		size = 199
+	 } 
+	capitalists = {
+		culture = spanish
+		religion =  catholic 
+		size = 3027
+	 } 
+	capitalists = {
+		culture = spanish
+		religion = catholic 
+		size = 299
+	 } 
 	clergymen = {
-		culture = caribeno
-		religion = catholic
-		size = 330
-	}
-
+		culture = spanish
+		religion =  catholic 
+		size = 5045
+	 } 
+	clergymen = {
+		culture = spanish
+		religion = catholic 
+		size = 499
+	 } 
 	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 4915
-	}
-
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 735
-	}
-
+		culture = spanish
+		religion =  catholic 
+		size = 16509
+	 } 
+	artisans = {
+		culture = spanish
+		religion = catholic 
+		size = 1632
+	 } 
 	farmers = {
-		culture = caribeno
-		religion = catholic
-		size = 66910
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 1640
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 655
-	}
-
+		culture = spanish
+		religion =  catholic 
+		size = 331662
+	 } 
 	farmers = {
 		culture = afro_caribeno
-		religion = catholic
-		size = 50120
-	}
-
-	slaves = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 16380
-	}
+		religion = catholic 
+		size = 32801
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  catholic 
+		size = 37788
+	 } 
+	farmers = {
+		culture = caribeno
+		religion = catholic 
+		size = 3737
+	 } 
 
 }

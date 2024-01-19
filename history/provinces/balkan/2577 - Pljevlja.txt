@@ -1,6 +1,17 @@
-owner = CRO
-controller = CRO
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = MON
-add_core = YUG
 trade_goods = iron
 life_rating = 35
+1914.1.1 = {
+	owner = SER
+controller = SER
+
+add_core = SER
+add_core = MON
+	remove_core = TUR
+}
+1914.1.1 = {
+	railroad = 1
+}

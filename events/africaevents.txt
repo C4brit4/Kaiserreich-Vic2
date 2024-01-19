@@ -1,0 +1,62 @@
+country_event = {
+    id = 900000
+    title = "EVTNAME900000"
+    desc = "EVTDESC900000"
+    picture = gmc_conflic
+
+    trigger = {
+    tag  = GMC
+        
+}
+	is_triggered_only = yes
+    
+
+    option = {
+        name = "EVTOPTA900000"
+		ruling_party_ideology = reactionary
+		prestige = 3
+    }
+    option = {
+        name = "EVTOPTB900000"
+		ruling_party_ideology = conservative
+		prestige = 3
+    }		
+}
+
+country_event = {
+    id = 900001
+    title = "EVTNAME900001"
+    desc = "EVTDESC900001"
+    picture = new_administration
+
+    trigger = {
+    tag  = BSO
+        
+}
+	is_triggered_only = yes
+    
+
+    option = {
+        name = "EVTOPTA900001"
+		ruling_party_ideology = gmc_conflic
+		prestige = 3
+		GMC = {
+		inherit = BSO
+		
+		}
+    }
+    option = {
+        name = "EVTOPTB900001"
+		GMC = {
+		casus_belli = {
+            target = BSO
+            type = conquest
+            months = 12
+        }
+        war = {
+            target = BSO
+            attacker_goal = { casus_belli = conquest }
+        }
+		}
+    }		
+}

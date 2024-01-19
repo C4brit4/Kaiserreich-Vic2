@@ -7,3 +7,5 @@ owner = LEP
 controller = LEP
 
 add_core = LEP
+
+add_core = HNN

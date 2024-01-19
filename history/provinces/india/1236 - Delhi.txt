@@ -2,6 +2,11 @@ owner = HND
 controller = HND
 add_core = MUG
 add_core = HND
+state_building = {
+	level = 20
+	building = synthetic_oil_factory
+	upgrade = yes
+}
 trade_goods = tea
 life_rating = 32
 

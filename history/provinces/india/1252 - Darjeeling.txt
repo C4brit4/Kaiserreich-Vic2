@@ -1,7 +1,5 @@
-owner = NEP
-controller = NEP
+owner = HND
+controller = HND
 trade_goods = wool
 life_rating = 32
-
-
-add_core = NEP
+add_core = HND

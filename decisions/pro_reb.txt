@@ -1,0 +1,41 @@
+political_decisions = {
+        pro_reb = {
+        picture = pro_reb
+        potential = {
+            OR = {                
+                tag = ARG            
+            }
+            NOT = { has_country_flag = accept_uru_arg }
+				
+			
+        }
+
+        allow = {         
+            war = no          
+            URU = {
+                OR = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+        }
+		
+        
+
+        effect = {                
+            set_country_flag = accept_uru_arg			
+            URU = {
+				all_core = { add_core = ARG }
+			}
+			add_accepted_culture = uruguayos
+
+         
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

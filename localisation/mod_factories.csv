@@ -1,0 +1,11 @@
+######################################################################;;;;;;;;;;;;;;x;;;;
+# Factories;;;;;;;;;;;;;;x;;;;
+######################################################################;;;;;;;;;;;;;;x;;;;
+synthetic_oil_factory;Synthetic Oil Factory;Usine d'huile de synthèse;Syntheseölfabrik;;Fábrica de petróleo sintético;;;;;;;;;x;;;;
+synthetic_oil_factory_desc;Using coal, the synthetic oil factory produces oil out of that coal. Vital for nations that do not have ready access to oil.;L'usine d'huile de synthèse produit de l'huile à partir de charbon. Cette huile de synthèse est vitale pour les nations qui n'ont pas accès au pétrole.;Die Syntheseölfabrik produziert Öl aus Kohle. Unerlässlich für Nationen, die keinen Zugang zu Ölvorkommen haben.;;La fábrica de petróleo sintético utiliza carbón para producir este recurso. Es vital para aquellos países que no tienen acceso al petróleo.;;;;;;x;;;;
+synthetic_rubber_factory;Synthetic Rubber Factory;Usine de caoutchouc de synthèse;Synthesegummifabrik;;Fábrica de cauchero sintético;;;;;;;;;x;;;;
+synthetic_rubber_factory_desc;Using oil, the synthetic rubber factory produces rubber out of that oil. Vital for nations that do not have ready access to rubber.;;;;;;;;;;x;;;;;;;;;;;
+synthetic_tropical_factory;Synthetic Wood Factory;;;;;;;;;;;;;x;;;;;;;;
+synthetic_tropical_factory_desc;Using oil and lumber, the synthetic tropical factory produces tropical wood. Vital for nations that do not have ready access to tropical wood.;;;;;;;;;;x;;;;;;;;;;;
+synthetic_silk_factory;Synthetic Silk Factory;;;;;;;;;;;;;x;;;;;;;;
+synthetic_silk_factory_desc;Using oil and cotton, the synthetic rubber factory produces silk. Vital for nations that do not have ready access to silk.;;;;;;;;;;x;;;;;;;;;;;

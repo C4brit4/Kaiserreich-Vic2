@@ -276,6 +276,13 @@ spriteTypes = {
 		textureFile2 = "gfx\\interface\\topbarflag_mask.tga"
 		effectFile = "gfx\\FX\\maskedflag.fx"
 	}
+	
+	maskedShieldType = {
+		name = "GFX_topbarflag2"
+		textureFile1 = "gfx\\interface\\topbarflag_shadow2.tga"
+		textureFile2 = "gfx\\interface\\topbarflag_mask2.tga"
+		effectFile = "gfx\\FX\\maskedflag.fx"
+	}
 
 	
 	maskedShieldType = {
@@ -297,6 +304,11 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_topbar_flag_overlay"
 		texturefile = "gfx\\interface\\topbar_flag_overlay.dds"
+		noOfFrames = 4
+	}
+	spriteType = {
+		name = "GFX_topbar_flag_overlay2"
+		texturefile = "gfx\\interface\\topbar_flag_overlay2.dds"
 		noOfFrames = 4
 	}
 	spriteType = {

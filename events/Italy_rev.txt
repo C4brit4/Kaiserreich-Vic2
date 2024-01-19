@@ -18,16 +18,44 @@ country_event = {
         ITR = {
 				country_event = { id = 500605 days = 2 }
 				
-			}		
+			}
+		SIC = {
+				country_event = { id = 500612 days = 2 }
+				
+			}
+        ITR = {
+				all_core = { add_core = ITC }
+			}
+        set_country_flag = democracy_italy			
     }
     option = {
         name = "EVTOPTB500603"
-		government = absolute_monarchy	
+		government = absolute_monarchy
+        SIC = {
+				country_event = { id = 500613 days = 2 }
+				
+			}	
+         set_country_flag = rey_regresa			
     }
     option = {
         name = "EVTOPTC500603"
 		government = absolute_monarchy	
-        change_tag = CIT		
+        change_tag = CIT
+		inherit = PAP
+		capital = 749
+		ITA = {
+				all_core = { add_core = CIT }
+			}
+		ITR = {
+				all_core = { add_core = CIT }
+			}
+		ITA = {
+				all_core = { remove_core = ITC }
+			}
+        SIC = {
+				country_event = { id = 500612 days = 2 }
+				
+			}		
     }  		
 }
 

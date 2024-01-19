@@ -1,6 +1,13 @@
-owner = SER
-controller = SER
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = SER
-add_core = YUG
-trade_goods = timber
+trade_goods = coal
 life_rating = 35
+1914.1.1 = {
+	owner = BUL
+	controller = BUL
+	remove_core = TUR
+	
+	railroad = 5	# Berlin-Baghdad railway
+}

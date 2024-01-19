@@ -1,0 +1,258 @@
+
+#ID's 50100 - 50149
+
+country_event = {
+	id = 50100
+	title = "EVTNAME50100" #The Mingan Insurrency
+	desc = "EVTDESC50100"
+	fire_only_once = yes
+	picture = "kuomintang"
+	
+	
+	trigger = {
+		tag = LEP
+	}
+	
+	mean_time_to_happen = { 
+		months = 6
+	}
+	
+	option = {
+        name = "EVTOPTA50100" #The League must prevail
+    }
+	
+	option = {
+        name = "EVTOPTB50100" #Fu zhan!
+		change_tag = KUO
+    }
+	
+}
+
+country_event = {
+	id = 50101
+	title = "EVTNAME50101" #Anqing demands autonomy
+	desc = "EVTDESC50101"
+	fire_only_once = yes
+	picture = "warlord_era"
+	
+	trigger = {
+		tag = LEP
+		NOT = { exists = ANQ }		
+	}
+	
+	mean_time_to_happen = { 
+		months = 6
+		modifier = {
+            factor = 0.25
+            OR = {
+				CHI_1476 = { militancy = 2 }
+				CHI_1473 = { militancy = 2 }
+			}
+        }
+	}
+	
+	option = {
+        name = "EVTOPTA50101" #We must accept
+		any_owned = { 
+			limit = { 
+				is_core = ANQ 
+			} 
+			remove_core = LEP
+			secede_province = ANQ 
+		}
+		THIS = {
+			create_vassal = ANQ
+		}
+    }
+	
+	option = {
+        name = "EVTOPTB50101" #This is unacceptable!
+		any_owned = { 
+			limit = { 
+				is_core = ANQ
+			} 
+			remove_core = LEP
+			secede_province = ANQ
+		}
+		THIS = {
+			war = {
+				target = ANQ
+				attacker_goal = { casus_belli = conquest }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = no
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 50102
+	title = "EVTNAME50102" #Hunan demands autonomy
+	desc = "EVTDESC50102"
+	fire_only_once = yes
+	picture = "warlord_era"
+	
+	trigger = {
+		tag = LEP
+		NOT = { exists = HNN }
+	}
+	
+	mean_time_to_happen = { 
+		months = 6
+		modifier = {
+            factor = 0.25
+			CHI_1529 = { militancy = 2 }
+        }
+	}
+	
+	option = {
+        name = "EVTOPTA50102" #We must accept
+		any_owned = { 
+			limit = { 
+				is_core = HNN 
+			} 
+			remove_core = LEP
+			secede_province = HNN
+		}
+		THIS = {
+			create_vassal = HNN
+		}
+    }
+	
+	option = {
+        name = "EVTOPTB50102" #This is unacceptable!
+		any_owned = { 
+			limit = { 
+				is_core = HNN 
+			} 
+			remove_core = LEP
+			secede_province = HNN
+		}
+		THIS = {
+			war = {
+				target = HNN
+				attacker_goal = { casus_belli = conquest }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = no
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 50103
+	title = "EVTNAME50103" #Liangguang demands autonomy
+	desc = "EVTDESC50103"
+	fire_only_once = yes
+	picture = "warlord_era"
+	
+	trigger = {
+		tag = LEP
+		NOT = { exists = LIA }		
+	}
+	
+	mean_time_to_happen = { 
+		months = 6
+		modifier = {
+            factor = 0.25
+            OR = {
+				CHI_1499 = { militancy = 2 }
+				CHI_1504 = { militancy = 2 }
+				CHI_1494 = { militancy = 2 }
+			}
+        }
+	}
+	
+	option = {
+        name = "EVTOPTA50103" #We must accept
+		any_owned = { 
+			limit = { 
+				is_core = LIA 
+			} 
+			remove_core = LEP
+			secede_province = LIA 
+		}
+		THIS = {
+			create_vassal = LIA
+		}
+    }
+	
+	option = {
+        name = "EVTOPTB50103" #This is unacceptable!
+		any_owned = { 
+			limit = { 
+				is_core = LIA 
+			} 
+			remove_core = LEP
+			secede_province = LIA 
+		}
+		THIS = {
+			war = {
+				target = LIA
+				attacker_goal = { casus_belli = conquest }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = no
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 50104
+	title = "EVTNAME50104" #The Fall of the League
+	desc = "EVTDESC50104"
+	fire_only_once = yes
+	picture = "league_of_eight_provinces"
+	
+	trigger = {
+		tag = LEP
+		AND = {
+			exists = ANQ
+			NOT = { is_our_vassal = ANQ }
+		}	
+		AND = {
+			exists = HNN
+			NOT = { is_our_vassal = HNN }
+		}	
+		AND = {
+			exists = LIA
+			NOT = { is_our_vassal = LIA }
+		}	
+	}
+	
+	mean_time_to_happen = { 
+		days = 1
+	}
+	
+	option = {
+        name = "EVTOPTA50104" #A sad day for the Chinese history
+		all_core = {
+			remove_core = THIS
+			add_core = NAN
+		}
+		change_tag = NAN
+    }
+}
+
+country_event = {
+	id = 50105
+	title = "EVTNAME50105" #The $FROMCOUNTRY_ADJ$ revolt
+	desc = "EVTDESC50105"
+	fire_only_once = yes
+	picture = "warlord_era"
+	
+	is_triggered_only = yes
+	
+	option = {
+        name = "EVTOPTA50105" #They must pay the price for doing this
+		THIS = { release_vassal = FROM }
+		THIS = {
+			war = {
+				target = FROM
+				attacker_goal = { casus_belli = get_puppet }
+				defender_goal = { casus_belli = status_quo }
+				call_ally = no
+			}
+		}
+    }
+}
