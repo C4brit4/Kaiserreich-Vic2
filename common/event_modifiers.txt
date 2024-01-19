@@ -3,9 +3,15 @@
 ##################################################################################################
 
 #####KAISER EVENTS#####
-reforms_government = {
-        farm_rgo_eff = 10
-	mine_rgo_eff = 10
+inestability_political = {
+        core_pop_militancy_modifier = 0.2
+        core_pop_consciousness_modifier = 0.2
+        icon = 4
+}
+
+reform_government = {
+        RGO_output = 1
+	RGO_throughput = 1
         population_growth = 0.5
         icon = 4
 }
