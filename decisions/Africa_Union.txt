@@ -5,7 +5,7 @@ political_decisions = {
             OR = {                
                 tag = EGY
                 tag = GMC
-				
+				tag = MOR
             }
             NOT = { exists = AFR }
 			NOT = {

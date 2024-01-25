@@ -392,6 +392,10 @@ RME     =   "countries/Rome.txt"
 SAW     =   "countries/Sardinia-Sicilia.txt"
 PBC		=   "countries/Peru-Bolivia Confederation.txt"
 LPL		=   "countries/La Plata.txt"
+BEN     =   "countries/Benelux.txt"
+RIN     =   "countries/Rin Confederation.txt"
+BRG        = "countries/Burgundy.txt"
+LOT        = "countries/Lotharingia.txt"
 #AIN             = "countries/Alien Invaders.txt"
 
 #===CHINA===#

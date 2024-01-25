@@ -1,5 +1,5 @@
-owner = BSO
-controller = BSO
+owner = GMC
+controller = GMC
 trade_goods = cattle
 life_rating = 15
 

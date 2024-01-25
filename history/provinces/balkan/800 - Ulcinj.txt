@@ -7,10 +7,11 @@ add_core = MON
 trade_goods = grain
 life_rating = 35
 1914.1.1 = {
-owner = CRO
-controller = CRO
+owner = SER
+controller = SER
 
-add_core = CRO
+add_core = SER
+add_core = MON
 	remove_core = TUR
 }
 1914.1.1 = {

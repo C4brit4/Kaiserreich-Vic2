@@ -1,0 +1,402 @@
+political_decisions = {
+	form_benelux = {
+    picture = benelux
+	    potential = {
+		    OR = {
+			    tag = NET
+				tag = LUX
+				tag = BEL
+				tag = WLL
+				tag = FLA
+			}
+			NOT = {
+				exists = BEN
+			}
+		}
+		allow = {
+			war = no
+			NET = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			BEL = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		    #
+		}
+		effect = {
+		    #
+			prestige = 15
+			add_accepted_culture = dutch
+            add_accepted_culture = wallonian
+            add_accepted_culture = boer
+            add_accepted_culture = flemish
+			change_tag = BEN
+			any_country = {
+				limit = {
+					OR = {
+					    in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+				country_event = { id=80000 days=0 }
+			}
+			any_country = {
+			    limit = {
+				    OR = {
+                        accepted_culture = dutch
+                        accepted_culture = wallonian
+                        accepted_culture = flemish
+						##
+                        primary_culture = dutch
+                        primary_culture = wallonian
+                        primary_culture = flemish
+					}
+					OR = {
+					    vassal_of = THIS
+						in_sphere = THIS
+					}
+				}
+				country_event = { id=11101 days=0 }
+			}
+			NET={all_core={add_core = BEN}}
+			LUX={all_core={add_core = BEN}}
+			BEL={all_core={add_core = BEN}}
+			NET={all_core={remove_core = NET}}
+		}
+	}		
+	form_rin_confederation = {
+	    picture = rin_conf
+	    potential = {
+		    OR = {
+			    tag = NET
+				tag = LUX
+				tag = SGF
+				tag = BEN
+				tag = BAV
+				tag = WUR
+				tag = BAD
+			}
+			NOT = {
+				exists = RIN
+			}
+		}
+		allow = {
+            nationalism_n_imperialism = 1
+			war = no
+			572 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			574 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			573 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			570 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			564 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			2560 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			567 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			565 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			566 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			568 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			582 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			585 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			584 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			580 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			583 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			581 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			577 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			578 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			576 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			575 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			579 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			2561 = {OR={owner={tag = THIS vassal_of = THIS in_sphere = THIS}}}
+			NET = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			BAD = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			WUR = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			BAV = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			LUX = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			LUX = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		    #
+		}
+		effect = {
+		    #
+			prestige = 15
+            add_accepted_culture = german add_accepted_culture = swiss_german
+            add_accepted_culture = german add_accepted_culture = swiss_german
+            add_accepted_culture = dutch
+            add_accepted_culture = wallonian
+            add_accepted_culture = flemish
+            add_accepted_culture = boer
+			change_tag = RIN
+			NET={all_core={remove_core = NET}}
+			LUX={all_core={remove_core = LUX}}
+			BEL={all_core={remove_core = BEL}}
+			BRG={all_core={remove_core = BRG}}
+			any_country = {
+			    limit = {
+					 OR = {
+					     vassal_of = THIS
+						 in_sphere = THIS
+					 }
+					 OR = {
+					     primary_culture = german
+					     primary_culture = german
+					     primary_culture = dutch
+					     primary_culture = wallonian
+					     primary_culture = flemish
+					     accepted_culture = german
+					     accepted_culture = german
+					     accepted_culture = dutch
+					     accepted_culture = wallonian
+					     accepted_culture = flemish
+					 }
+				}
+				country_event = { id=11101 days=0 }
+			}
+			any_owned = {
+				limit = {
+					is_colonial = no
+					OR = {
+						culture = german
+						culture = german
+						culture = dutch
+						culture = wallonian
+						culture = flemish
+					}
+				}
+				add_core = RIN
+			}
+			any_country = {
+				limit = {
+					OR = {
+					    vassal_of = THIS
+					    in_sphere = THIS
+					}
+				}
+				any_owned = {
+					limit = {
+						is_core = RIN
+					}
+					secede_province = THIS
+				}
+			}
+		}
+	}	
+	form_burgundy = {
+	    picture = spanish_empireflag
+	    potential = {
+		    OR = {
+			    tag = BEN
+			}
+			NOT = {
+				exists = BRG
+			}
+		}
+		allow = {
+            nationalism_n_imperialism = 1
+			war = no
+			BEN = {all_core = {owner = {OR={tag=THIS in_sphere = THIS vassal_of = THIS}}}} 
+			FRA_412 = {owner={OR={tag=THIS in_sphere = THIS vassal_of = THIS}}}
+		    #
+		}
+		effect = {
+		    #
+			prestige = 15
+            add_accepted_culture = french
+			change_tag = BRG
+			NET={all_core={remove_core = NET}}
+			LUX={all_core={remove_core = LUX}}
+			BEL={all_core={remove_core = BEL}}
+			BRG={all_core={remove_core = BRG}}
+			any_country = {
+			    limit = {
+					 OR = {
+					     vassal_of = THIS
+						 in_sphere = THIS
+					 }
+					 OR = {
+					     primary_culture = dutch
+					     primary_culture = wallonian
+					     primary_culture = flemish
+					     primary_culture = french
+					     accepted_culture = dutch
+					     accepted_culture = wallonian
+					     accepted_culture = french
+					     accepted_culture = flemish
+					 }
+				}
+				country_event = { id=11101 days=0 }
+			}
+			any_country = {
+				limit = {
+					OR = {
+					    vassal_of = THIS
+					    in_sphere = THIS
+					}
+				}
+				any_owned = {
+					limit = {
+						is_core = BRG
+					}
+					secede_province = THIS
+				}
+			}
+			FRA_404 = {add_core = THIS}
+			FRA_411 = {add_core = THIS}
+			FRA_412 = {add_core = THIS}
+			FRA_412 = {add_core = THIS}
+			FRA_428 = {add_core = THIS}
+			FRA_401 = {add_core = THIS}
+			FRA_399 = {add_core = THIS}
+		}
+	}
+	form_lotaringia = {
+	    picture = lotaringia
+	    potential = {
+		    OR = {
+			    tag = BRG
+			}
+			NOT = {
+				exists = LOT
+			}
+		}
+		allow = {
+			war = no
+			THIS={all_core={owned_by=THIS}}
+			PRU_572 = {owner={OR={tag=THIS vassal_of = THIS in_sphere = THIS}}}
+			PRU_571 = {owner={OR={tag=THIS vassal_of = THIS in_sphere = THIS}}}
+			BAD_586 = {owner={OR={tag=THIS vassal_of = THIS in_sphere = THIS}}}
+		    #
+		}
+		effect = {
+		    #
+			prestige = 15
+            add_accepted_culture = german add_accepted_culture = swiss_german
+            add_accepted_culture = german add_accepted_culture = swiss_german
+            add_accepted_culture = dutch
+            add_accepted_culture = wallonian
+            add_accepted_culture = flemish
+            add_accepted_culture = boer
+			change_tag = LOT
+			NET={all_core={remove_core = NET}}
+			LUX={all_core={remove_core = LUX}}
+			BEL={all_core={remove_core = BEL}}
+			BRG={all_core={remove_core = BRG}}
+			BAD_586 = {add_core = THIS}
+			PRU_571 = {add_core = THIS}
+			PRU_572 = {add_core = THIS}
+			BAV_595 = {add_core = THIS}
+			HES_2560 = {add_core = THIS}
+			PRU_581 = {add_core = THIS}
+			PRU_575 = {add_core = THIS}
+			HAN_543 = {add_core = THIS}
+			WUR_589 = {add_core = THIS}
+			any_country = {
+			    limit = {
+					 OR = {
+					     vassal_of = THIS
+						 in_sphere = THIS
+					 }
+					 OR = {
+					     primary_culture = german
+					     primary_culture = german
+					     primary_culture = dutch
+					     primary_culture = wallonian
+					     primary_culture = flemish
+					     accepted_culture = german
+					     accepted_culture = german
+					     accepted_culture = dutch
+					     accepted_culture = wallonian
+					     accepted_culture = flemish
+					 }
+				}
+				country_event = { id=11101 days=0 }
+			}
+			any_country = {
+				limit = {
+					OR = {
+					    vassal_of = THIS
+					    in_sphere = THIS
+					}
+				}
+				any_owned = {
+					limit = {
+						is_core = RIN
+					}
+					secede_province = THIS
+				}
+			}
+		}
+	}	
+}

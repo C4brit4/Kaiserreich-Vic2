@@ -1,4 +1,4 @@
-color = { 152  85  92 }
+color = { 177  177  177 }
 graphical_culture = AustriaHungaryGC
 
 party = {
@@ -227,27 +227,27 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Szent Istvan" Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós Pandúr Réka Turul Huszár Ulan 
+		"Szent Istvan" Zrinyi  rp d Szigetv r Sava Temes Bodrog Szamos K r s Maros Leitha Balaton Csepel Lika Orjen T tra Triglav Dinara Csik s Pand r R ka Turul Husz r Ulan 
 	}
 	ironclad = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi  rp d Szigetv r Sava Temes Bodrog Szamos K r s Maros Leitha Balaton Csepel Lika Orjen T tra Triglav Dinara Csik s 	Pand r R ka Turul Husz r Ulan 
 		
 		
 	}
 	manowar = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi  rp d Szigetv r Sava Temes Bodrog Szamos K r s Maros Leitha Balaton Csepel Lika Orjen T tra Triglav Dinara Csik s 	Pand r R ka Turul Husz r Ulan 
 		
 	}
 	cruiser = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi  rp d Szigetv r Sava Temes Bodrog Szamos K r s Maros Leitha Balaton Csepel Lika Orjen T tra Triglav Dinara Csik s 	Pand r R ka Turul Husz r Ulan 
 		
 	}
 	frigate = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi  rp d Szigetv r Sava Temes Bodrog Szamos K r s Maros Leitha Balaton Csepel Lika Orjen T tra Triglav Dinara Csik s 	Pand r R ka Turul Husz r Ulan 
 		
 	}
 	monitor = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós 	Pandúr Réka Turul Huszár Ulan 
+		Zrinyi  rp d Szigetv r Sava Temes Bodrog Szamos K r s Maros Leitha Balaton Csepel Lika Orjen T tra Triglav Dinara Csik s 	Pand r R ka Turul Husz r Ulan 
 		
 		
 	}
@@ -258,7 +258,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Zrinyi Árpád Szigetvár Sava Temes Bodrog Szamos Körös Maros Leitha Balaton Csepel Lika Orjen Tátra Triglav Dinara Csikós Pandúr Réka Turul Huszár Ulan 	
+		Zrinyi  rp d Szigetv r Sava Temes Bodrog Szamos K r s Maros Leitha Balaton Csepel Lika Orjen T tra Triglav Dinara Csik s Pand r R ka Turul Husz r Ulan 	
 		
 		
 	}

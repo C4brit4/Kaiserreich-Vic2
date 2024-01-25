@@ -1,4 +1,4 @@
-color = { 212 179 47 }
+color = { 153 61 0 }
 graphical_culture = Generic
 
 party = {
@@ -116,7 +116,7 @@ unit_names = {
 		Dniester Dnipro Desna Prypiat Prut 
 	}
 	monitor = {
-		Sofyivsky "Pechers’ka lavra" "Kam’ianets’-Podil’s’kyi" Khotyn Khortyts'a
+		Sofyivsky "Pechers ka lavra" "Kam ianets -Podil s kyi" Khotyn Khortyts'a
 	}
 	clipper_transport = { 
 		

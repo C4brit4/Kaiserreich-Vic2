@@ -1,4 +1,4 @@
-color = { 219  182  182 }
+color = { 145  127  149 }
 graphical_culture = SouthAmericanGC
 
 party = {
@@ -115,30 +115,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Alto Perú" Bolivia Charcas "Cristo de la Concordia" "General Sucre" Iscanahuaya Samapaita "Seis de Agosto" "Simón Bolivar" Tricolor
+		"Alto Per " Bolivia Charcas "Cristo de la Concordia" "General Sucre" Iscanahuaya Samapaita "Seis de Agosto" "Sim n Bolivar" Tricolor
 	}
 	ironclad = {
-		Altiplano Andes Independencia Júpiter Neptuno Occidental Oriental Plutón Real Republiquetas
+		Altiplano Andes Independencia J piter Neptuno Occidental Oriental Plut n Real Republiquetas
 	}
 	manowar = {
-		Confederación Congreso "La Fállete" Libertad "María Luisa" Morro "San Bartolomé" "San Francisco" "Santo Tomás" Yanacocha
+		Confederaci n Congreso "La F llete" Libertad "Mar a Luisa" Morro "San Bartolom " "San Francisco" "Santo Tom s" Yanacocha
 	}
 	cruiser = {
-		Cobija Desaguadero Illampu Illimani Madera Mamore "Nevado Sajada" Poopó Titicaca Trinidad
+		Cobija Desaguadero Illampu Illimani Madera Mamore "Nevado Sajada" Poop  Titicaca Trinidad
 	}
 	frigate = {
-		Antofagasta Beni Chuquisaca Cochabamba "La Paz" Oruro Pando Potosí "Santa Cruz" Tarija
+		Antofagasta Beni Chuquisaca Cochabamba "La Paz" Oruro Pando Potos  "Santa Cruz" Tarija
 	}
 	monitor = {
-		Constitución "Gran Chaco" Inca Libertador Mercurio Saturno Tihauano Urano Vulcano Yungas
+		Constituci n "Gran Chaco" Inca Libertador Mercurio Saturno Tihauano Urano Vulcano Yungas
 	}
 	clipper_transport = { 
-		"Águila Roja" Ana Aymara Beatriz Carmen "Cóndor Negro" María Marta Raquel Salomé
-		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritón Vencedora Victoria Voladora
+		" guila Roja" Ana Aymara Beatriz Carmen "C ndor Negro" Mar a Marta Raquel Salom 
+		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Trit n Vencedora Victoria Voladora
 	}
 	steam_transport = { 
-		"Águila Roja" Ana Aymara Beatriz Carmen "Cóndor Negro" María Marta Raquel Salomé
-		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritón Vencedora Victoria Voladora
+		" guila Roja" Ana Aymara Beatriz Carmen "C ndor Negro" Mar a Marta Raquel Salom 
+		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Trit n Vencedora Victoria Voladora
 	}
 	commerce_raider = {
 		Audaz "Castro Rojas" Destructora Fortaleza "Madre de Dios" Manoa Manu Pando Sorata Temor

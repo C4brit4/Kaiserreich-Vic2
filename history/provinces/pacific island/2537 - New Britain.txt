@@ -1,2 +1,4 @@
+owner = GEA
+controller = GEA
 trade_goods = tropical_wood
 life_rating = 15

@@ -1,5 +1,5 @@
-owner = RAJ
-controller = RAJ
+owner = GER
+controller = GER
 add_core = HND
 trade_goods = fish
 life_rating = 32

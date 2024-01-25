@@ -1,0 +1,208 @@
+GCI;Golden Circle;Golden Circle;Golden Circle;;Golden Circle;;;;;;;;;;x
+GCI_ADJ;Dixian;Dixian;Dixian;;Dixi;;;;;;;;;x
+LOT;Lotharingia;Lotharingia;Lotharingia;;Lotaringia;;;;;;;;;;x
+LOT_ADJ;Lotaringe;Lotaringe;Lotaringe;;Lotaringia;;;;;;;;;x
+CSK;Cosackia;Cosackia;Cosackia;;Cosackia;;;;;;;;;;x
+CSK_ADJ;Cosack;Cosack;Cosack;;Cosack;;;;;;;;;x
+TIM;Timurids;Timurids;Timurids;;Timuridas;;;;;;;;;;x
+TIM_ADJ;Timur;Timur;Timur;;Timur;;;;;;;;;x
+MOG;Mughals;Mughals;Mughals;;Mogoles;;;;;;;;;;x
+MOG_ADJ;Mughal;Mughal;Mughal;;Mogola;;;;;;;;;x
+ILK;Ilkhanate;Ilkhanate;Ilkhanate;;Ilkhanato;;;;;;;;;;x
+ILK_ADJ;Mongol;Mongol;Mongol;;Mongola;;;;;;;;;x
+GAV;Germaninav;Germaninav;Germaninav;;Germáninav;;;;;;;;;;x
+GAV_ADJ;Germanic;Germanic;Germanic;;Germánico;;;;;;;;;x
+ECM;English Commonwealth;English Commonwealth;English Commonwealth;;Mancomunidad Inglesa;;;;;;;;;;x
+ECM_ADJ;English;English;English;;Inglesa;;;;;;;;;x
+PRC;Iranzamin;Iranzamin;Iranzamin;;Iranzamin;;;;;;;;;;x
+PRC_ADJ;Iranzamine;Iranzamine;Iranzamine;;Iranzamina;;;;;;;;;x
+BHS;Baluchistan;Baluchistan;Baluchistan;;Baluchistan;;;;;;;;;;x
+BHS_ADJ;Baluchi;Baluchi;Baluchi;;Baluchi;;;;;;;;;x
+CPL;Congress of Poland;Congress of Poland;Congress of Poland;;Congreso de Polonia;;;;;;;;;;x
+CPL_ADJ;Polish;Polish;Polish;;Polaco;;;;;;;;;x
+TKR;Osmanli Federation;Osmanli Federation;Osmanli Federation;;Federación Osmanlí;;;;;;;;;;x
+TKR_ADJ;Turk;Turk;Turk;;Turca;;;;;;;;;x
+SCR;Spanish Crown;Spanish Crown;Spanish Crown;;Corona Española;;;;;;;;;;x
+SCR_ADJ;Spanish;Espagnol;Spanisch;;Española;;;;;;;;;x
+BRG;Burgundy;Burgundy;Burgundy;;Borgoña;;;;;;;;;;x
+BRG_ADJ;Burgundian;Burgundian;Burgundian;;Borgoñesa;;;;;;;;;x
+SPC;Spain;Spain;Spain;;España;;;;;;;;;;x
+SPC_ADJ;Spanish;Espagnol;Spanisch;;Española;;;;;;;;;x
+VLP;Virreinato de la Plata;Virreinato de la Plata;Virreinato de la Plata;;Virreinato de la Plata;;;;;;;;;x
+VLP_ADJ;Platinian;Platinian;Platinian;;Platese;;;;;;;;;x
+BRO;Bulgaria-Romania;Bulgaria-Romania;Bulgaria-Romania;;Bulgaria-Rumanía;;;;;;;;;x
+BRO_ADJ;Burgan;Burgan;Burgan;;Burganesa;;;;;;;;;x
+MDR;The Divine Mandate;The Divine Mandate;The Divine Mandate;;El Mandato Divino;;;;;;;;;x
+MDR_ADJ;Russian;Russian;Russian;;Rusa;;;;;;;;;x
+BRT;Brittany;Brittany;Brittany;;Bretaña;;;;;;;;;x
+BRT_ADJ;Breton;Breton;Breton;;Bretón;;;;;;;;;x
+ANG;Angevin;Angevin;Angevin;;Angevino;;;;;;;;;x
+ANG_ADJ;English;English;English;;Inglesa;;;;;;;;;x
+AKS;Aksum;Aksum;Aksum;;Aksum;;;;;;;;;x
+AKS_ADJ;Aksumish;Aksumish;Aksumish;;Aksumisa;;;;;;;;;x
+NIG;Nigerland;Nigerland;Nigerland;;Negrilandia;;;;;;;;;x
+NIG_ADJ;Blackish;Blackish;Blackish;;Negra;;;;;;;;;x
+TOU;Tukulor Republic;Tukulor Republic;Tukulor Republic;;Republica Tukulor;;;;;;;;;x
+TOU_ADJ;Tukulor;Tukulor;Tukulor;;Tukulora;;;;;;;;;x
+MAP;Mapuche Patagonia;Mapuche Patagonia;Mapuche Patagonia;;Patagonia Mapuche;;;;;;;;;x
+MAP_ADJ;Mapuche;Mapuche;Mapuche;;Mapuche;;;;;;;;;x
+MAA;Mapuche Araucania;Mapuche Araucania;Mapuche Araucania;;Araucania Mapuche;;;;;;;;;x
+MAA_ADJ;Mapuche;Mapuche;Mapuche;;Mapuche;;;;;;;;;x
+MRN;Mapuche Rio Negro;Mapuche Rio Negro;Mapuche Rio Negro;;Rio Negro Mapuche;;;;;;;;;x
+MRN_ADJ;Mapuche;Mapuche;Mapuche;;Mapuche;;;;;;;;;x
+CHA;English Channel;English Channel;English Channel;;Canal de la Mancha;;;;;;;;;x
+CHA_ADJ;English;English;English;;Inglesa;;;;;;;;;x
+SCM;Spanish Commonwealth;Spanish Commonwealth;Spanish Commonwealth;;Mancomunidad Española;;;;;;;;;x
+SCM_ADJ;Spanish;Spanish;Spanish;;Española;;;;;;;;;x
+MNN;Northen Sea;Northen Sea;Northen Sea;;Mar del Norte;;;;;;;;;x
+MNN_ADJ;Viking;Viking;Viking;;Vikinga;;;;;;;;;x
+EAF;Eafsia;Eafsia;Eafsia;;Eafsia;;;;;;;;;x
+EAF_ADJ;Eafsian;Eafsian;Eafsian;;Eafsianesa;;;;;;;;;x
+YUA;Yuan;Yuan;Yuan;;Yuan;;;;;;;;;x
+YUA_ADJ;Mongolian;Mongolian;Mongolian;;Mongola;;;;;;;;;x
+VKN;Norsia;Norsia;Norsia;;Nordia;;;;;;;;;x
+VKN_ADJ;Viking;Viking;Viking;;Vikinga;;;;;;;;;x
+SCU;Scursia;Scursia;Scursia;;Scursia;;;;;;;;;x
+VKN_ADJ;Scursian;Scursian;Scursian;;Scursian;;;;;;;;;x
+NTA;Northumbria;Northumbria;Northumbria;;Northumbria;;;;;;;;;x
+NTH;Viking;Viking;Viking;;Vikinga;;;;;;;;;x
+VNS;Virreinato de Nueva España;Virreinato de Nueva España;Virreinato de Nueva España;;Virreinato de Nueva España;;;;;;;;;x
+VNS_ADJ;Mexican;Mexicain;Mexikanisch;;Nueva Españala;;;;;;;;;x
+VNG;Virreinato de Nueva Granada;Virreinato de Nueva Granada;Virreinato de Nueva Granada;;Virreinato de Nueva Granada;;;;;;;;;x
+VNG_ADJ;Granadan;Granadan;Granadan;;Granadense;;;;;;;;;x
+VOP;Virreinato del Peru;Virreinato del Peru;Virreinato del Peru;;Virreinato del Peru;;;;;;;;;x
+VOP_ADJ;Peruvian;Péruvien;Peruanisch;;Peruana;;;;;;;;;x
+CHO;Choshu;Choshu;Choshu;;Choshu;;;;;;;;;x
+CHO_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+EZO;Ezo;Ezo;Japanisch;;Japanisch;;;;;;;;;x
+EZO_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+SAT;Kyushu;Kyushu;Kyushu;;Kyushu;;;;;;;;;x
+SAT_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+KAG;Kaga;Kaga;Kaga;;Kaga;;;;;;;;;x
+KAG_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+RYU;Ryukyu;Ryukyu;Ryukyu;;Ryukyu;;;;;;;;;;x
+RYU_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+SEN;Tohoku;;;;Tohoku;;;;;;;;;
+SEN_ADJ;Tohokuan;;;;Tohokuano;;;;;;;;;
+SAT;Satsuma;Satsuma;Satsuma;Satsuma;;Satsuma;;;;;;;;;x
+SAT_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+TKG;Shogunate Japan;Shogunate Japan;Shogunate Japan;;Shogunato Japones;;;;;;;;;x
+TKG_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+IMJ;Imperial Japan;Imperial Japan;Imperial Japan;;Imperio Japones;;;;;;;;;x
+IMJ_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+TOS;Tosa;Tosa;Tosa;;Tosa;;;;;;;;;x
+TOS_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+YZW;Yonezawa;Yonezawa;Yonezawa;;Yonezawa;;;;;;;;;x
+YZW_ADJ;Japanese;Japonais;Japanisch;;Japonesa;;;;;;;;;x
+INO;Indonesia;Indonesia;Indonesia;;Indonesia;;;;;;;;;x
+INO_ADJ;Indonesian;Indonesian;Indonesian;;Indonesa;;;;;;;;;x
+SAM;South America;South America;South America;;America del Sur;;;;;;;;;x
+SAM_ADJ;American;American;American;;Americana;;;;;;;;;x
+ASG;South German Federation;Fédération de l'Allemagne du sud;Süddeutscher Bund;;Conf. Alemana del Sur;;;;;;;;;x
+ASG_ADJ;German;Allemand;Deutsch;;Alemana;;;;;;;;;x
+BSQ;Basqueland;Allemand;Deutsch;;Pais Vasco;;;;;;;;;x
+BSQ_ADJ;Basque;Basque;Basque;;Vasca;;;;;;;;;x
+RME;Rome;Rome;Rome;;Roma;;;;;;;;;x
+RME_ADJ;Roman;Roman;Roman;;Romana;;;;;;;;;x
+AND;Patria Grande;Patria Grande;Patria Grande;;Patria Grande;;;;;;;;;x
+AND_ADJ;Patriagrandish;Patriagrandish;Patriagrandish;;Patriagrandes;;;;;;;;;x
+ART;Aragon-Italy;Aragon-Italy;Aragon-Italy;;Aragon-Italia;;;;;;;;;x
+ART_ADJ;Aragon-Italian;Aragon-Italian;Aragon-Italian;;Aragon-Italiana;;;;;;;;;x
+RPB;United Kingdom;Royaume-Uni;Großbritannien;;Reino Unido;;;;;;;;;x;;;;
+RPB_ADJ;Portuguese;Portugais;Portugiesisch;;Portuguesa;;;;;;;;;x
+PSB;Persia;Perse;Persien;;Persia;;;;;;;;;x
+PSB_ADJ;Persian;Perse;Persisch;;Persa;;;;;;;;;x
+GLC;Galicia;Galicia;Galicia;;Galicia;;;;;;;;;x
+GLC_ADJ;Galician;Galician;Galician;;Gallega;;;;;;;;;x
+ATC;Antillean Confederation;Antillean Confederation;Antillean Confederation;;Confederacion Antillana;;;;;;;;;x
+ATC_ADJ;Antillean;Antillean;Antillean;;Antillaan;;;;;;;;;x
+GEM;Germandy;Allemand;Deutsch;;Aldemania;;;;;;;;;x
+GEM_ADJ;German;Allemand;Deutsch;;Alemana;;;;;;;;;x
+LPL;La Plata;La Plata;La Plata;;La Plata;;;;;;;;;x
+LPL_ADJ;Platinian;Platinian;Platinian;;Platese;;;;;;;;;x
+PBC;Peru-Bolivia;Peru-Bolivia;Peru-Bolivia;;Peru-Bolivia;;;;;;;;;x
+PBC_ADJ;Andinian;Andinian;Andinian;;Andina;;;;;;;;;x
+SPU;South Peru;South Peru;South Peru;;Peru del Sur;;;;;;;;;x
+SPU_ADJ;Peruvian;Péruvien;Peruanisch;;Peruana;;;;;;;;;x
+BEN;Benelux;Benelux;Benelux;;Benelux;;;;;;;;;x
+BEN_ADJ;Beneluxian;Beneluxian;Beneluxian;;Beneluxa;;;;;;;;;x
+BRJ;British Raj;British Raj;British Raj;;Raj Britanico;;;;;;;;;x
+BRJ_ADJ;British Indian;British Indian;British Indian;;India Britanica;;;;;;;;;x
+BOR;Borbonia;Borbonia;Borbonia;;Borbonia;;;;;;;;;x
+BOR_ADJ;Borbonian;Borbonian;Borbonian;;Borbona;;;;;;;;;x
+CAR;Frankist Empire;Frankist Empire;Frankist Empire;;Frankist Empire;;;;;;;;;x
+CAR_ADJ;Frankist;Frankist;Frankist;;Frankist;;;;;;;;;x
+DNB;Danubio;Danubio;Danubio;;Danubio;;;;;;;;;x
+DNB_ADJ;Danubian;Danubian;Danubian;;Danubia;;;;;;;;;x
+EMF;France;France;Frankreich;;Francia;;;;;;;;;x
+EMF_ADJ;French;Français;Französisch;;Frances;;;;;;;;;x
+IBE;Iberia;Iberia;Iberia;;Iberia;;;;;;;;;x
+IBE_ADJ;Iberian;Iberian;Iberian;;Iberia;;;;;;;;;x
+LBI;Libya;Libya;Libya;;Libia;;;;;;;;;x
+LBI_ADJ;Libian;Libian;Libian;;Libia;;;;;;;;;x
+LTI;Latinia;Latinia;Latinia;;Latinia;;;;;;;;;x
+LTI_ADJ;Latinan;Latinan;Latinan;;Latina;;;;;;;;;x
+NEY;New York;New York;New York;;Nueva York;;;;;;;;;x
+NEY_ADJ;New Yorkean;New Yorkean;New Yorkean;;Nueva York;;;;;;;;;x
+PRI;Puerto Rico;Puerto Rico;Puerto Rico;;Puerto Rico;;;;;;;;;x
+PRI_ADJ;Puerto Rican;Puerto Rican;Puerto Rican;;Puerto Riqueña;;;;;;;;;x
+HNF;Provisional Goverment of India;Provisional Goverment of India;Provisional Goverment of India;;Govierno Provisional de India;;;;;;;;;x
+HNF_ADJ;Indian;Indian;Indian;;India;;;;;;;;;x
+HRM;Holy Roman Empire;Holy Roman Empire;Holy Roman Empire;;Sacro Imperio Romano Germanico;;;;;;;;;x
+HRM_ADJ;Holy Roman;Holy Roman;Holy Roman;;Sacro Romana;;;;;;;;;x
+RIN;Rin;Rin;Rin;;Rin;;;;;;;;;x
+RIN_ADJ;Rinian;Rinian;Rinian;;Rinia;;;;;;;;;x
+TNA;Slavia;Slavia;Slavia;;Slavia;;;;;;;;;x
+TNA_ADJ;Slavian;Slavian;Slavian;;Slavia;;;;;;;;;x
+TNT;Ruthenia;Ruthenia;Ruthenia;;Rutenia;;;;;;;;;x
+TNT_ADJ;Ruthenian;Ruthenian;Ruthenian;;Rutena;;;;;;;;;x
+CRT;Cartago;Cartago;Cartago;;Cartago;;;;;;;;;x
+CRT_ADJ;Cartagean;Cartagean;Cartagean;;Cartago;;;;;;;;;x
+QIN;Qing Dinasty;Qing Dinasty;Qing Dinasty;;Dinastia Qing;;;;;;;;;x
+QIN_ADJ;Chinese;Chinois;Chinesisch;;China;;;;;;;;;x;;;;
+MAL;Mali;Mali;Mali;;Mali;;;;;;;;;x
+MAL_ADJ;Mali;Mali;Mali;;Mali;;;;;;;;;x;;;;
+TRZ;Trarza;Trarza;Trarza;Trarza;;Trarza;;;;;;;;;x;;;;
+TRZ_ADJ;Trarzan;;;;Trarzan;;;;;;;;;x
+TOO;Futa Tooro;Futa Toro;Fuua Toro;;Fouta Toro;;;;;;;;;x
+TOO_ADJ;Tooro;Toro;Toro;;Torú;;;;;;;;;x
+WOL;Wolof;Djolof;Jolof;;Wólof;;;;;;;;;x
+WOL_ADJ;Wolof;Djolof;Jolof;;Wólof;;;;;;;;;x
+GBU;Guinea-Bissau;;;;Guinea-Bissau;;;;;;;;;x
+GBU_absolute_monarchy;Gabu;;;;Gabú;;;;;;;;;x
+JAL;Futa Jallon;Fouta Djalon;Fuuta Jalon;;Fouta Yallon;;;;;;;;;x
+JAL_ADJ;Jallon;Djalon;Jalon;;Yalón;;;;;;;;;x
+SEG;Bambara;Ségou;Segu;;Segu;;;;;;;;;x
+SEG_ADJ;Bambara;Bambaras;Bambara;;Bambara;;;;;;;;;x
+MAS;Massina;Macina;Massina;;Massina;;;;;;;;;x
+MAS_ADJ;Massinan;Massinan;Massinan;;Massinano;;;;;;;;;x
+MOS;Mossi;Mossi;Mossi;;Mossi;;;;;;;;;x
+MOS_ADJ;Mossi;Mossis;Mossi;;Mossi;;;;;;;;;x
+KNG;Wattara;Ouattara;Wattara;;Wattara;;;;;;;;;x
+KNG_ADJ;Wattaran;Wattaran;Wattaran;;Wattaraní;;;;;;;;;x
+ASH;Ashanti;Ashanti;Aschanti;;Asantia;;;;;;;;;x
+ASH_ADJ;Ashanti;Ashanti;Aschanti;;Ashantí;;;;;;;;;x
+DND;Dendi;Dendi;Dendi;;Dendi;;;;;;;;;x
+DND_ADJ;Dendi;Dendi;Dendi;;Dendí;;;;;;;;;x
+DAH_absolute_monarchy;Dahomey;;;;Dahomey;;;;;;;;;x
+DAH_absolute_monarchy_ADJ;Dahomean;;;;Dahomeano;;;;;;;;;x
+DAM;Damagaram;Damagaram;Damagaram;;Damgaram;;;;;;;;;x
+DAM_ADJ;Damagaram;Damagaram;Damagaram;;Damagaraman;;;;;;;;;x
+KBO;Bornu;Kanem-Bornu;Kanem-Bornu;;Kanem-Bornu;;;;;;;;;x
+KBO_ADJ;Bornu;Bornu;Bornu;;Bornú;;;;;;;;;x
+OYO;Oyo;Oyo;Oyo;;Oyo;;;;;;;;;x
+OYO_ADJ;Oyo;Oyo;Oyo;;Oyo;;;;;;;;;x
+BEI;Benin;Bénin;Benin;;Benín;;;;;;;;;x
+BEI_ADJ;Beninese;Béninois;Benin;;Beninés;;;;;;;;;x
+WRI;Warri;Warri;Warri;;Warri;;;;;;;;;x
+WRI_ADJ;Warri;Warri;Warri;;Warrí;;;;;;;;;x
+ARO;Aro;Aro;Aro;;Aro;;;;;;;;;x
+ARO_ADJ;Aro;Aro;Aro;;Aro;;;;;;;;;x
+CLA;Calabar;Calabar;Calabar;;Calabar;;;;;;;;;x
+CLA_ADJ;Calabarean;Calabarien;Calabarische;;Calabareo;;;;;;;;;x
+KON;Kongo;Kongo;Kongo;;Congo;;;;;;;;;x
+KON_ADJ;Kongolese;Kongolaise;Kongolesische;;Kongolense;;;;;;;;;x
+LOA;Loango;Loango;Loango;;Loango;;;;;;;;;x
+LOA_ADJ;Loangoese;Loangoaise;Loangoische;;Loanguense;;;;;;;;;x
+MAJ;Majeerteen;Majeerteen;Majeerteen;;Majeerteen;;;;;;;;;x
+MAJ_ADJ;Majeerteen;Majeerteenien;Majeerteenisch;;Majeerteen;;;;;;;;;x

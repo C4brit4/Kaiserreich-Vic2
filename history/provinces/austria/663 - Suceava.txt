@@ -1,7 +1,6 @@
-owner = ROM
-controller = ROM
+owner = GLO
+controller = GLO
 add_core = MOL
-add_core = ROM
 #add_core = UKR
 add_core = RUT
 trade_goods = cattle

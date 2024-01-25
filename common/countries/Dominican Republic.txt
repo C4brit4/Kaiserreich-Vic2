@@ -1,4 +1,4 @@
-color = { 93  194  122 }
+color = { 197  169  247 }
 graphical_culture = Generic
 party = {
 	name = "DOM_liberal"
@@ -198,32 +198,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Francisco del Rosario" "Gregorio Luperón" "Hermanos de la Concha" "Hermanos Puello" "Juan A. Acosta" "Juan B. Cambiaso" "Juan B. Maggiolo" "Juan Pablo Duarte" "Matías R. Mella" "Vicente C. Duarte"
+		"Francisco del Rosario" "Gregorio Luper n" "Hermanos de la Concha" "Hermanos Puello" "Juan A. Acosta" "Juan B. Cambiaso" "Juan B. Maggiolo" "Juan Pablo Duarte" "Mat as R. Mella" "Vicente C. Duarte"
 	}
 	ironclad = {
-		Bahoruco Desolación Destrucción "El Pavor" "El Terror" "La Bombarda" Neiba Samana "Siete Cabezas" Yamasa
+		Bahoruco Desolaci n Destrucci n "El Pavor" "El Terror" "La Bombarda" Neiba Samana "Siete Cabezas" Yamasa
 	}
 	manowar = {
-		Cibao "Diecinueve de Marzo" "La Merced" Leonor Libertad "María Chica" "Separación Dominicana" "Siete de Julio" "Veintisiete de Febrero" Victoria
+		Cibao "Diecinueve de Marzo" "La Merced" Leonor Libertad "Mar a Chica" "Separaci n Dominicana" "Siete de Julio" "Veintisiete de Febrero" Victoria
 	}
 	cruiser = {
-		Barahona Duarte Independencia "La Vega" Montecristi "Puerto Plata" Restauración "San Cristóbal" "Sánchez Ramírez" "Santo Domingo"
+		Barahona Duarte Independencia "La Vega" Montecristi "Puerto Plata" Restauraci n "San Crist bal" "S nchez Ram rez" "Santo Domingo"
 	}
 	frigate = {
-		"Cristóbal Colón" "Diego de Ocampo" Dios "Grito de Capoyillo" "La Española" Libertad Patria Taíno "Trabucazo de Mella" Trinitaria
+		"Crist bal Col n" "Diego de Ocampo" Dios "Grito de Capoyillo" "La Espa ola" Libertad Patria Ta no "Trabucazo de Mella" Trinitaria
 	}
 	monitor = {
-		Azua Beller "El Memiso" "El Número" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" Santiago Santomé
+		Azua Beller "El Memiso" "El N mero" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" Santiago Santom 
 	}
 	clipper_transport = {
 		Bajabonico Boa Carey Carpintero Cocodrilo Cotorra "Culebra Verde" Enriquillo Flamenco Gaviota 
-		Higuamo Limóm Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
+		Higuamo Lim m Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
 	}
 	steam_transport = {
 		Bajabonico Boa Carey Carpintero Cocodrilo Cotorra "Culebra Verde" Enriquillo Flamenco Gaviota 
-		Higuamo Limóm Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
+		Higuamo Lim m Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
 	}
 	commerce_raider = {
-		Agustina Boba Dejabón Desesperación Incontrolable Josefa Juana Julia Nigua Ocoa
+		Agustina Boba Dejab n Desesperaci n Incontrolable Josefa Juana Julia Nigua Ocoa
 	}
 }

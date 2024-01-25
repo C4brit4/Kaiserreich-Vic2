@@ -1,4 +1,4 @@
-color = { 166  72  57 }
+color = { 89  80  110 }
 graphical_culture = EuropeanGC
 
 party = {
@@ -152,7 +152,7 @@ unit_names = {
 		"Velika Morava" "Juzna Morava" Zlatibor Kopaonik Resava 
 	}
 	cruiser = {
-		Karadžic Nemanjici Silni "Mihailo I" Jankovic
+		Karad ic Nemanjici Silni "Mihailo I" Jankovic
 	}
 	frigate = {
 		Valjevo "Stevan Sindelic" Takovo Ljubic
@@ -165,7 +165,7 @@ unit_names = {
 
 	}
 	steam_transport = { 
-		Jaki Silni Snaži Marljivi Ustrajni
+		Jaki Silni Sna i Marljivi Ustrajni
 
 	}
 	commerce_raider = {
