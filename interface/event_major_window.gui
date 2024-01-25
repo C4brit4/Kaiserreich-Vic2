@@ -11,13 +11,7 @@ guiTypes = {
 		fullScreen = no
 		Orientation = "CENTER"
 		
-		guiButtonType = {
-			name = "Background"	
-			quadTextureSprite ="GFX_event_major_bg"
-		}
-		
-		
-		iconType =
+				iconType =
 			{
 				name ="country_flag1"
 				spriteType = "GFX_flag_event2"
@@ -33,15 +27,29 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 				rotation = -1.5708
 			}
+			
+		guiButtonType = {
+			name = "Background"	
+			quadTextureSprite ="GFX_event_major_bg"
+		}
+		
+				iconType =
+		{
+			name ="event_images"
+			spriteType = "GFX_event_no_image"
+			position = { x= 35 y = 110 }
+			Orientation = "UPPER_LEFT"
+		}
+
 		
 		instantTextBoxType = {
 				name = "Title"
-				position = { x = 135 y = 130 }
+				position = { x = 215 y = 36 }
 				textureFile = ""
-				font = "old_english"
+				font = "Arial_17_2"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
-				maxWidth = 390
+				maxWidth = 190
 				maxHeight = 120
 
 				format = centre
@@ -49,7 +57,7 @@ guiTypes = {
 			
 		instantTextBoxType = {
 			name = "Date"
-			position = { x = 37 y = 40 }
+			position = { x = 37 y = 65 }
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
@@ -62,12 +70,12 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "Description"
-				position = { x = 80 y = 284 }
+				position = { x = 380 y = 300 }
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
-				maxWidth = 490
+				maxWidth = 190
 				maxHeight = 240
 
 				format = centre
@@ -87,7 +95,7 @@ guiTypes = {
 	
 	positionType = {
 		name = "event_major_option_start"
-		position = { x = 68 y = 560 }
+		position = { x = 68 y = 400 }
 	}
 
 	positionType = {
