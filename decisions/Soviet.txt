@@ -2,7 +2,7 @@ political_decisions = {
 		plan_quinquenal = {
 		picture = switch_to_industry_tech
 		potential = {
-		tag = SOV
+		tag = RUS
 		NOT = { has_country_flag = plan_quinquenal }
 		}
 		
@@ -24,7 +24,7 @@ political_decisions = {
 	plan_quinquenal_2nd = {
 		picture = switch_to_industry_tech
 		potential = {
-		tag = SOV
+		tag = RUS
 		NOT = { has_country_flag = plan_quinquenal_2nd }
 		}
 		
@@ -50,7 +50,7 @@ political_decisions = {
 	accepted_culture_asia_central = {
 	picture = asia_central
 	potential = {
-	tag = SOV
+	tag = RUS
 	NOT = { 
 	has_country_flag = accepted_culture_asia_central 
 	exists = ADA
@@ -62,16 +62,16 @@ political_decisions = {
 	
 	allow = {
 	1187 = {
-	controlled by = SOV
+	controlled by = RUS
 	}
 	1195 = {
-	controlled by = SOV
+	controlled by = RUS
 	}
 	1191 = {
-	controlled by = SOV
+	controlled by = RUS
 	}
 	1198 = {
-	controlled by = SOV
+	controlled by = RUS
 	}
 }
 	
@@ -89,7 +89,7 @@ political_decisions = {
 	plan_education = {
 	picture = plan_education
 	potential = {
-	tag = SOV
+	tag = RUS
 	NOT = { has_country_flag = plan_education }
 	}
 	
@@ -113,7 +113,6 @@ political_decisions = {
 	potential = {
 	OR = {		
 		tag = RUS
-		tag = SOV
 		tag = IRS
 		}
 	NOT = { has_country_flag = reconquest_caucasus }
@@ -128,6 +127,9 @@ political_decisions = {
 	effect = {
 	set_country_flag = reconquest_caucasus
 	inherit = DKU
+	DKU = {
+				all_core = { add_core = RUS }
+			}
 	prestige = 10
 	    }
 	}
@@ -135,7 +137,7 @@ political_decisions = {
 	influence_ukraine = {
 	picture = influence_ukraine
 	potential = {
-	tag = SOV
+	tag = RUS
 	NOT = { has_country_flag = influence_ukraine }
 	}
 	
@@ -147,7 +149,7 @@ political_decisions = {
 	
 	effect = {
 	set_country_flag = influence_ukraine
-	SOV = {
+	RUS = {
 	diplomatic_influence = {
 	who = UKR
 	value = 100
@@ -163,7 +165,7 @@ political_decisions = {
     reclamation_crimea = {
     picture = reclamation_crimea
     potential = {
-    tag = SOV
+    tag = RUS
     NOT = { has_country_flag = reclamation_crimea }
     }
     
@@ -171,18 +173,18 @@ political_decisions = {
 	war = no
 	is_greater_power = yes
 	UKR = {
-	in_sphere = SOV
+	in_sphere = RUS
 	}
 }
 	
 	effect = {
 	set_country_flag = reclamation_crimea
 	RUS_964 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	        }
-	SOV = {
+	RUS = {
 	relation = {
 	who = GER
 	value = -50
@@ -194,15 +196,15 @@ political_decisions = {
     reclamation_culture_russia = {
     picture = reclamation_culture_russia
     potential = {
-    tag = SOV
+    tag = RUS
     NOT = { has_country_flag = reclamation_culture_russia }
     }
     
     allow = {
     UKR = {
-    in_sphere = SOV
+    in_sphere = RUS
 	relation = {
-	who = SOV
+	who = RUS
 	value = 150
 	    }
     }
@@ -212,48 +214,48 @@ political_decisions = {
 	effect = {
 	set_country_flag = reclamation_culture_russia
 	965 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	}
 	973 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	}
 	976 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	}
 	975 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	}
 	974 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	}
 	980 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	}
 	978 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	        }
 	RUS_977 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	        }
     978 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = UKR
 	        }			
 	    }
@@ -262,44 +264,44 @@ political_decisions = {
 	annex_ukraine = {
 	picture = annex_ukraine
 	potential = {
-	tag = SOV
+	tag = RUS
 	NOT = { has_country_flag = annex_ukraine }
 	}
 	
 	allow = {
 	UKR = {
-	in_sphere = SOV
+	in_sphere = RUS
 	}
-	SOV = {
+	RUS = {
 	relation = {
 	who = UKR
 	value = 200
 	    }
     }
-	SOV = {
+	RUS = {
     RUS_964 = {	
-	controlled_ by = SOV
+	controlled_ by = RUS
 	}
 	965 = {
-	controlled_ by = SOV
+	controlled_ by = RUS
 	}
 	973 = {
-	controlled_ by = SOV
+	controlled_ by = RUS
 	}
 	976 = {
-	controlled_ by = SOV
+	controlled_ by = RUS
 	}
 	975 = {
-	controlled_ by = SOV
+	controlled_ by = RUS
 	}
 	974 = {
-	controlled_ by = SOV
+	controlled_ by = RUS
 	}
 	980 = {
-	controlled_ by = SOV
+	controlled_ by = RUS
 	}
 	978 = {
-	controlled_ by = SOV
+	controlled_ by = RUS
 	        }
 	    }
 	year = 1955
@@ -311,7 +313,7 @@ political_decisions = {
 	add_accepted_culture = ukrainian
 	prestige = 25
 	inherit = UKR
-	SOV = {
+	RUS = {
 	relation = {
 	who = GER
 	value = -150
@@ -323,7 +325,7 @@ political_decisions = {
     influence_bielorus = {
     picture = influence_bielorus
     potential = {
-    tag = SOV
+    tag = RUS
     NOT = { has_country_flag = influence_bielorus }
     }	
 	
@@ -335,7 +337,7 @@ political_decisions = {
 	
 	effect = {
 	set_country_flag = influence_bielorus
-	SOV = {
+	RUS = {
 	diplomatic_influence = {
 	who = BYE
 	value = 100
@@ -351,15 +353,15 @@ political_decisions = {
 	annex_bielorus = {
 	picture = annex_bielorus
 	potential = {
-	tag = SOV
+	tag = RUS
 	NOT = { has_country_flag = annex_bielorus }
 	}
 	
 	allow = {
 	BYE = {
-	in_sphere = SOV
+	in_sphere = RUS
 	relation = {
-	who = SOV
+	who = RUS
 	value = 200
 	        }
 		}
@@ -371,9 +373,9 @@ political_decisions = {
 	prestige = 25
 	inherit = BYE
 	RUS_718= {
-	add_core = SOV
+	add_core = RUS
 	}
-	SOV = {
+	RUS = {
 	relation = {
 	who = GER
 	value = -150
@@ -385,7 +387,7 @@ political_decisions = {
 	demand_brest = {
 	picture = demand_brest
 	potential = {
-	tag = SOV
+	tag = RUS
 	NOT = { has_country_flag = demand_brest }
 	}
 	
@@ -401,17 +403,17 @@ political_decisions = {
 	effect = {
 	set_country_flag = demand_brest
 	RUS_707 = {
-	add_core = SOV
+	add_core = RUS
 	remove_core = LIT
-	secede_province = SOV
+	secede_province = RUS
 	}
-	SOV = {
+	RUS = {
 	relation = {
 	who = GER
 	value = -25
 	            }
 	        }
-	SOV = {
+	RUS = {
 	relation = {
 	who = LIT
 	value = -200
@@ -423,7 +425,7 @@ political_decisions = {
 	negotiation_finland = {
 	picture = negotiation_finland 
 	potential = {
-	tag = SOV
+	tag = RUS
 	NOT = { has_country_flag = negotiation_finland }
 	}
 	
@@ -440,8 +442,8 @@ political_decisions = {
 	effect = {
 	set_country_flag = negotiation_finland
 	339 = {
-	secede_province = SOV
-	add_core = SOV
+	secede_province = RUS
+	add_core = RUS
 	remove_core = FIN
 	        }
 		}
@@ -450,7 +452,7 @@ political_decisions = {
 	claim_tarasco = {
 	picture = claim_tarasco
 	potential = {
-	tag = SOV
+	tag = RUS
 	NOT = { has_country_flag = claim_tarasco }
 	}
 	
@@ -461,10 +463,10 @@ political_decisions = {
 	effect = {
 	set_country_flag = claim_tarasco
 	1082 = {
-	add_core = SOV
+	add_core = RUS
 	       }
 	1083 = {
-	add_core = SOV
+	add_core = RUS
 	       } 
 	    }
 	}
