@@ -1,5 +1,5 @@
 name = "Victoria II: Kaiserreich"
-path = "mod/Kaiserreich-Vic2"
+path = "mod/Kaiserreich"
 user_dir = "Kaiserreich" 
 
 
