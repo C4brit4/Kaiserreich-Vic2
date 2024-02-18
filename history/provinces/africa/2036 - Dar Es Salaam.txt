@@ -1,6 +1,0 @@
-owner = GMC
-controller = GMC
-add_core = GMC
-trade_goods = fish
-life_rating = 35
-

@@ -1,7 +1,0 @@
-owner = NFR
-controller = NFR
-trade_goods = grain
-naval_base = 1
-life_rating = 35
-colonial = 2
-add_core = NFR

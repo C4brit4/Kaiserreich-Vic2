@@ -1,9 +1,0 @@
-owner = NFR
-controller = NFR
-
-trade_goods = grain
-life_rating = 35
-colonial = 2
-1861.1.1 = { railroad = 2 }
-
-add_core = NFR

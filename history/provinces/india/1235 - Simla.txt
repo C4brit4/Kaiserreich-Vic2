@@ -1,9 +1,0 @@
-owner = RAJ
-controller = RAJ
-add_core = SHI
-
-trade_goods = tea
-life_rating = 32
-
-
-add_core = RAJ

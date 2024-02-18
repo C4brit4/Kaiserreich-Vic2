@@ -1,8 +1,0 @@
-owner = PRF
-controller = PRF
-add_core = HYD
-
-trade_goods = tea
-life_rating = 32
-
-add_core = PRF

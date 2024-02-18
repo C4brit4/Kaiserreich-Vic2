@@ -1,8 +1,0 @@
-owner = BSO
-controller = BSO
-trade_goods = cattle
-life_rating = 30
-
-add_core = EOC
-add_core = BSO
-add_core = ETH
