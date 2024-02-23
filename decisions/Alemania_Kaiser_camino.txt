@@ -1,0 +1,172 @@
+political_decisions = {        
+	bohemia_germanica  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = GER
+                                
+            }
+            NOT={has_global_flag = kaiser_1}
+        }
+
+        allow = {         
+            war = no                     	
+             BOH = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+		}
+        
+
+        effect = {                   		
+            set_global_flag = kaiser_1
+			inherit = BOH
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	
+	benelux_germanica  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = GER
+                                
+            }
+            NOT={has_global_flag = kaiser_2}
+        }
+
+        allow = {         
+            war = no                     	
+            NET = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+						}
+					}
+				}
+				}
+			BEL = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+        }
+		}
+		
+        
+
+        effect = {                   		
+            set_global_flag = kaiser_2
+			inherit = BEL
+			inherit = FLA
+			inherit = WLL
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	
+	poland_germanica  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = GER
+                                
+            }
+            NOT={has_global_flag = kaiser_3}
+        }
+
+        allow = {    
+            year = 1960		
+            war = no                     	
+             POL = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         } 
+        }
+		
+        
+
+        effect = {                   		
+            set_global_flag = kaiser_3
+			inherit = POL
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	
+	Germania  = {
+        picture = sign_the_geneva_convention
+        potential = {
+            OR = {                
+                tag = GER
+                                
+            }
+            NOT={has_global_flag = kaiser_4}
+			has_global_flag = kaiser_3
+			has_global_flag = kaiser_2
+			has_global_flag = kaiser_1
+        }
+
+        allow = {         
+            war = no                     	
+			year = 1960
+        }
+		
+        
+
+        effect = {                   		
+            set_global_flag = kaiser_3
+			BOH = {
+				all_core = { add_core = GER }
+			}
+			POL = {
+				all_core = { add_core = GER }
+			}
+			NET = {
+				all_core = { add_core = GER }
+			}
+			BEL = {
+				all_core = { add_core = GER }
+			}
+			622 = {add_core = THIS}
+			621 = {add_core = THIS}
+			619 = {add_core = THIS}
+			613 = {add_core = THIS}
+			612 = {add_core = THIS}
+			614 = {add_core = THIS}
+			735 = {add_core = THIS}
+			618 = {add_core = THIS}
+			617 = {add_core = THIS}
+			616 = {add_core = THIS}
+			624 = {add_core = THIS}
+			620 = {add_core = THIS}
+			615 = {add_core = THIS}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	}

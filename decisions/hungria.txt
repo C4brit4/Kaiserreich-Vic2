@@ -1,18 +1,13 @@
 political_decisions = { 
 hungira_win  = {
         picture = return_cores_img
-        potential = {
-            OR = {                
-                tag = HUN
-                                
-            }
-			NOT={has_global_flag = hun_win_2}	
-            has_country_modifier = hungira		
+        potential = {               
+            tag = HUN
+			NOT={has_global_flag = hun_win_2}			
         }
 
         allow = {         
-            war = no                     	
-            	
+            controls = 619              		
         }
 		
         
@@ -20,16 +15,26 @@ hungira_win  = {
         effect = {                    		
             set_global_flag = hun_win_2
 			AUS = {
-	release_vassal = BOH
-	release_vassal = ALB
-	release_vassal = ITR
-	release_vassal = CRO
-	release_vassal = GLO
-	}	
-		
-        }
-		ai_will_do = {
+	        release_vassal = BOH
+	        release_vassal = ALB
+	        release_vassal = ITR
+	        release_vassal = CRO
+	        release_vassal = GLO
+			end_war = THIS
+	        }	
+			AUS = {
+	        country_event = { id = 900004 days = 1 }
+	         }
+			CRO = {
+				all_core = { add_core = HUN }
+				country_event = { id = 900006 days = 1 }
+			}
+			GLO = {
+				all_core = { add_core = HUN }
+				country_event = { id = 900006 days = 1 }
+			}
+			ai_will_do = {
 			factor = 1
 			}
     }
-	}
+}
