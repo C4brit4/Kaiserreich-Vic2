@@ -1,6 +1,0 @@
-owner = GMC
-controller = GMC
-trade_goods = timber
-life_rating = 35
-
-add_core = GMC

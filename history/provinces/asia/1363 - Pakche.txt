@@ -1,7 +1,0 @@
-owner = GEA
-controller = GEA
-add_core = SIA
-trade_goods = grain
-life_rating = 30
-
-add_core = GEA

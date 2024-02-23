@@ -1,7 +1,0 @@
-owner = POR
-controller = POR
-
-trade_goods = tea
-life_rating = 32
-
-add_core = POR

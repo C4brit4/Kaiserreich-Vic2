@@ -1,5 +1,0 @@
-owner = DKU
-controller = DKU
-add_core = DKU
-trade_goods = coal
-life_rating = 35

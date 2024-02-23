@@ -1,6 +1,0 @@
-owner = EOC
-controller = EOC
-trade_goods = fruit
-life_rating = 10
-
-add_core = EOC
