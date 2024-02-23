@@ -7,7 +7,7 @@ country_event = {
 
     trigger = {
     tag  = GER  
-	year = 1940
+	year = 1937
 }
   
     
