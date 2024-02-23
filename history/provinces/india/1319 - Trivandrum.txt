@@ -1,8 +1,0 @@
-owner = PRF
-controller = PRF
-add_core = TRA
-
-trade_goods = fruit
-life_rating = 32
-
-add_core = PRF

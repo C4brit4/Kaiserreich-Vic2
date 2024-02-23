@@ -1,5 +1,0 @@
-owner = HND
-controller = HND
-trade_goods = wool
-life_rating = 32
-add_core = HND

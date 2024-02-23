@@ -1,8 +1,0 @@
-owner = BSO
-controller = BSO
-add_core = ETH
-trade_goods = coffee
-life_rating = 30
-
-add_core = EOC
-add_core = BSO
