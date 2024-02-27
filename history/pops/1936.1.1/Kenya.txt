@@ -1,0 +1,773 @@
+#Rift Highlands Region (620000)  
+#uncolonized in 1836
+#Nairobi (260000/65000 POPS)
+2024 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 1478
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 11
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 887
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 6
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 3549
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 2957
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion =  hindu 
+		size = 5915
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 44
+	 } 
+	aristocrats = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 2957
+	 } 
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 295
+	 } 
+	bureaucrats = {
+		culture = kikuyu
+		religion = animist
+		size = 2
+	 } 
+	clergymen = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 2957
+	 } 
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 22
+	 } 
+	artisans = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 2508
+	 } 
+	artisans = {
+		culture = nilotic
+		religion = animist
+		size = 18
+	 } 
+	farmers = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 271932
+	 } 
+	farmers = {
+		culture = maasai
+		religion = animist
+		size = 2054
+	 } 
+}
+#Lodwar (36000/9000 POPS)
+2026 = {
+	officers = {
+		culture = luo
+		religion =  protestant 
+		size = 187
+	 } 
+	officers = {
+		culture = luo
+		religion = animist
+		size = 1
+	 } 
+	soldiers = {
+		culture = luo
+		religion =  protestant 
+		size = 750
+	 } 
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 5
+	 } 
+	aristocrats = {
+		culture = luo
+		religion =  protestant 
+		size = 2501
+	 } 
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = luo
+		religion =  protestant 
+		size = 62
+	 } 
+	capitalists = {
+		culture = luo
+		religion =  protestant 
+		size = 312
+	 } 
+	capitalists = {
+		culture = luo
+		religion = animist
+		size = 2
+	 } 
+	clergymen = {
+		culture = luo
+		religion =  protestant 
+		size = 625
+	 } 
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 4
+	 } 
+	artisans = {
+		culture = luo
+		religion =  protestant 
+		size = 529
+	 } 
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 4
+	 } 
+	farmers = {
+		culture = luo
+		religion =  protestant 
+		size = 12538
+	 } 
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 94
+	 } 
+	farmers = {
+		culture = maasai
+		religion =  protestant 
+		size = 44950
+	 } 
+	farmers = {
+		culture = maasai
+		religion = animist
+		size = 339
+	 } 
+}
+#Nakuru (128000/32000 POPS)
+2027 = {
+	officers = {
+		culture = maasai
+		religion =  protestant 
+		size = 992
+	 } 
+	officers = {
+		culture = maasai
+		religion = animist
+		size = 7
+	 } 
+	soldiers = {
+		culture = maasai
+		religion =  protestant 
+		size = 3971
+	 } 
+	soldiers = {
+		culture = maasai
+		religion = animist
+		size = 30
+	 } 
+	aristocrats = {
+		culture = maasai
+		religion =  protestant 
+		size = 13239
+	 } 
+	aristocrats = {
+		culture = maasai
+		religion = animist
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = maasai
+		religion =  protestant 
+		size = 330
+	 } 
+	bureaucrats = {
+		culture = maasai
+		religion = animist
+		size = 2
+	 } 
+	capitalists = {
+		culture = maasai
+		religion =  protestant 
+		size = 1654
+	 } 
+	capitalists = {
+		culture = maasai
+		religion = animist
+		size = 12
+	 } 
+	clergymen = {
+		culture = maasai
+		religion =  protestant 
+		size = 3309
+	 } 
+	clergymen = {
+		culture = maasai
+		religion = animist
+		size = 25
+	 } 
+	artisans = {
+		culture = maasai
+		religion =  protestant 
+		size = 2805
+	 } 
+	artisans = {
+		culture = maasai
+		religion = animist
+		size = 21
+	 } 
+	farmers = {
+		culture = maasai
+		religion =  protestant 
+		size = 3484
+	 } 
+	farmers = {
+		culture = maasai
+		religion = animist
+		size = 26
+	 } 
+	farmers = {
+		culture = african_minor
+		religion =  protestant 
+		size = 46339
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 350
+	 } 
+	farmers = {
+		culture = luo
+		religion =  protestant 
+		size = 36409
+	 } 
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 275
+	 } 
+	farmers = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 135709
+	 } 
+	farmers = {
+		culture = kikuyu
+		religion = animist
+		size = 1025
+	 } 
+	farmers = {
+		culture = african_minor
+		religion =  protestant 
+		size = 82383
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 622
+	 } 
+}
+#uncolonized in 1836/under influence of Buganda
+#Kisumu (196000/49000POPS)
+2028 = {
+	officers = {
+		culture = luo
+		religion =  protestant 
+		size = 1152
+	 } 
+	officers = {
+		culture = luo
+		religion = animist
+		size = 8
+	 } 
+	soldiers = {
+		culture = luo
+		religion =  protestant 
+		size = 4612
+	 } 
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 34
+	 } 
+	aristocrats = {
+		culture = luo
+		religion =  protestant 
+		size = 15373
+	 } 
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 116
+	 } 
+	bureaucrats = {
+		culture = luo
+		religion =  protestant 
+		size = 384
+	 } 
+	bureaucrats = {
+		culture = luo
+		religion = animist
+		size = 2
+	 } 
+	capitalists = {
+		culture = luo
+		religion =  protestant 
+		size = 1921
+	 } 
+	capitalists = {
+		culture = luo
+		religion = animist
+		size = 14
+	 } 
+	clergymen = {
+		culture = luo
+		religion =  protestant 
+		size = 3842
+	 } 
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 29
+	 } 
+	artisans = {
+		culture = luo
+		religion =  protestant 
+		size = 3258
+	 } 
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 24
+	 } 
+	farmers = {
+		culture = luo
+		religion =  protestant 
+		size = 146253
+	 } 
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 1105
+	 } 
+	farmers = {
+		culture = luo
+		religion =  protestant 
+		size = 161425
+	 } 
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 1219
+	 } 
+	farmers = {
+		culture = lacustrine_bantu
+		religion =  protestant 
+		size = 45695
+	 } 
+	farmers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 345
+	 } 
+}
+#Tana Region (324000)  
+#uncolonized in 1836
+#Marsabit (52000/13000 POPS
+2025 = {
+	officers = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 33
+	 } 
+	soldiers = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 136
+	 } 
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 1
+	 } 
+	aristocrats = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 456
+	 } 
+	aristocrats = {
+		culture = oromo
+		religion = animist
+		size = 3
+	 } 
+	bureaucrats = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 10
+	 } 
+	capitalists = {
+		culture = oromo
+		religion =  protestant 
+		size = 56
+	 } 
+	clergymen = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 114
+	 } 
+	artisans = {
+		culture = oromo
+		religion =  protestant 
+		size = 96
+	 } 
+	farmers = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 10494
+	 } 
+	farmers = {
+		culture = oromo
+		religion = animist
+		size = 79
+	 } 
+}
+#Wajir (100000/25000 POPS)
+2031 = {
+	soldiers = {
+		culture = somali
+		religion =  sunni 
+		size = 1098
+	 } 
+	aristocrats = {
+		culture = somali
+		religion =  sunni 
+		size = 3660
+	 } 
+	farmers = {
+		culture = somali
+		religion =  sunni 
+		size = 22925
+	 } 
+	farmers = {
+		culture = swahili
+		religion =  sunni 
+		size = 61201
+	 } 
+}
+#Garissa (172000/43000 POPS)
+2032 = {
+	officers = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 634
+	 } 
+	officers = {
+		culture = kikuyu
+		religion = animist
+		size = 4
+	 } 
+	soldiers = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 2536
+	 } 
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 19
+	 } 
+	aristocrats = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 8456
+	 } 
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 63
+	 } 
+	bureaucrats = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 211
+	 } 
+	bureaucrats = {
+		culture = kikuyu
+		religion = animist
+		size = 1
+	 } 
+	capitalists = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 1057
+	 } 
+	capitalists = {
+		culture = kikuyu
+		religion = animist
+		size = 7
+	 } 
+	clergymen = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 2114
+	 } 
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 15
+	 } 
+	artisans = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 1792
+	 } 
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 13
+	 } 
+	farmers = {
+		culture = kikuyu
+		religion =  protestant 
+		size = 23364
+	 } 
+	farmers = {
+		culture = kikuyu
+		religion = animist
+		size = 176
+	 } 
+	farmers = {
+		culture = somali
+		religion =  protestant 
+		size = 80332
+	 } 
+	farmers = {
+		culture = somali
+		religion = animist
+		size = 607
+	 } 
+	farmers = {
+		culture = african_minor
+		religion =  protestant 
+		size = 90669
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 685
+	 } 
+}
+#Upper Swahili Coast Region (304000)  
+#ruled by kingdom of Oman in 1836
+#Mombasa (100000/25000 POPS)
+2029 = {
+	officers = {
+		culture = marathi
+		religion =  hindu 
+		size = 346
+	 } 
+	officers = {
+		culture = avadhi
+		religion = hindu 
+		size = 2
+	 } 
+	soldiers = {
+		culture = marathi
+		religion =  hindu 
+		size = 1387
+	 } 
+	soldiers = {
+		culture = avadhi
+		religion = hindu 
+		size = 10
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion =  hindu 
+		size = 4625
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion = hindu 
+		size = 34
+	 } 
+	bureaucrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 115
+	 } 
+	capitalists = {
+		culture = marathi
+		religion =  hindu 
+		size = 577
+	 } 
+	capitalists = {
+		culture = avadhi
+		religion = hindu 
+		size = 4
+	 } 
+	clergymen = {
+		culture = marathi
+		religion =  hindu 
+		size = 1156
+	 } 
+	clergymen = {
+		culture = avadhi
+		religion = hindu 
+		size = 8
+	 } 
+	artisans = {
+		culture = marathi
+		religion =  hindu 
+		size = 980
+	 } 
+	artisans = {
+		culture = avadhi
+		religion = hindu 
+		size = 7
+	 } 
+	farmers = {
+		culture = marathi
+		religion =  hindu 
+		size = 61
+	 } 
+	farmers = {
+		culture = swahili
+		religion =  sunni 
+		size = 22135
+	 } 
+	farmers = {
+		culture = swahili
+		religion =  protestant 
+		size = 84278
+	 } 
+	farmers = {
+		culture = kikuyu
+		religion = animist
+		size = 636
+	 } 
+}
+#Lamu (100000/25000 POPS)
+2030 = {
+	officers = {
+		culture = swahili
+		religion =  sunni 
+		size = 12
+	 } 
+	soldiers = {
+		culture = swahili
+		religion =  sunni 
+		size = 48
+	 } 
+	aristocrats = {
+		culture = swahili
+		religion =  sunni 
+		size = 160
+	 } 
+	bureaucrats = {
+		culture = swahili
+		religion =  sunni 
+		size = 4
+	 } 
+	capitalists = {
+		culture = swahili
+		religion =  sunni 
+		size = 20
+	 } 
+	clergymen = {
+		culture = swahili
+		religion =  sunni 
+		size = 40
+	 } 
+	artisans = {
+		culture = swahili
+		religion =  sunni 
+		size = 34
+	 } 
+	farmers = {
+		culture = swahili
+		religion =  sunni 
+		size = 3676
+	 } 
+}
+#uncolonized in 1836
+#Voi (104000/26000 POPS)
+2033 = {
+	aristocrats = {
+		culture = kikuyu
+		religion = animist
+		size = 475
+	}
+
+	clergymen = {
+		culture = kikuyu
+		religion = animist
+		size = 250
+	}
+
+	artisans = {
+		culture = kikuyu
+		religion = animist
+		size = 1300
+	}
+
+	soldiers = {
+		culture = kikuyu
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = swahili
+		religion = sunni 
+		size = 23725
+	}
+
+}

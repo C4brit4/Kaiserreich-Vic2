@@ -1,0 +1,321 @@
+#Gabon Region (180000)  #see Gulf of Guinea.txt for balance of region 
+#uncolonized in 1836/under the influence of Teke
+#Libreville (48000/12000 POPS) 
+1972 = {
+	officers = {
+		culture = french
+		religion =  catholic 
+		size = 207
+	 } 
+	officers = {
+		culture = french
+		religion = catholic 
+		size = 2
+	 } 
+	soldiers = {
+		culture = french
+		religion =  catholic 
+		size = 834
+	 } 
+	soldiers = {
+		culture = french
+		religion = catholic 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = french
+		religion =  catholic 
+		size = 348
+	 } 
+	aristocrats = {
+		culture = french
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 2433
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion = animist
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 69
+	 } 
+	capitalists = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 347
+	 } 
+	capitalists = {
+		culture = forest_bantu
+		religion = animist
+		size = 3
+	 } 
+	clergymen = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 694
+	 } 
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 7
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 2117
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 21
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 19374
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion = animist
+		size = 195
+	 } 
+	farmers = {
+		culture = fang
+		religion =  catholic 
+		size = 27819
+	 } 
+	farmers = {
+		culture = fang
+		religion = animist
+		size = 281
+	 } 
+	farmers = {
+		culture = african_minor
+		religion =  catholic 
+		size = 4930
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 49
+	 } 
+}
+#Mayumbe (32000/8000 POPS) 
+1974 = {
+	officers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 35
+	 } 
+	soldiers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 145
+	 } 
+	soldiers = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 485
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 11
+	 } 
+	capitalists = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 60
+	 } 
+	clergymen = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 120
+	 } 
+	clergymen = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 1
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 369
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 3
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 9088
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 91
+	 } 
+}
+#Moanda (28000/7000 POPS) 
+1975 = {
+	officers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 28
+	 } 
+	soldiers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 115
+	 } 
+	soldiers = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 386
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 3
+	 } 
+	bureaucrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 8
+	 } 
+	capitalists = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 47
+	 } 
+	clergymen = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 96
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 293
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 2
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 7233
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 73
+	 } 
+}
+#uncolonized in 1836
+#Makokou (72000/18000 POPS) 
+1976 = {
+	officers = {
+		culture = fang
+		religion =  catholic 
+		size = 32
+	 } 
+	soldiers = {
+		culture = fang
+		religion =  catholic 
+		size = 133
+	 } 
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 1
+	 } 
+	aristocrats = {
+		culture = fang
+		religion =  catholic 
+		size = 445
+	 } 
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = fang
+		religion =  catholic 
+		size = 10
+	 } 
+	capitalists = {
+		culture = fang
+		religion =  catholic 
+		size = 55
+	 } 
+	clergymen = {
+		culture = fang
+		religion =  catholic 
+		size = 110
+	 } 
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 1
+	 } 
+	artisans = {
+		culture = fang
+		religion =  catholic 
+		size = 338
+	 } 
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 3
+	 } 
+	farmers = {
+		culture = fang
+		religion =  catholic 
+		size = 3772
+	 } 
+	farmers = {
+		culture = fang
+		religion = animist
+		size = 38
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 4574
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 46
+	 } 
+
+}

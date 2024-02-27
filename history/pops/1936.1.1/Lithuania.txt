@@ -1,0 +1,566 @@
+#Lithuania Region (1272000) 
+#under the rule of Russia in 1836  
+#Vilnius (168000/42000 POPS)
+360 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 404
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 60
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 945
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 141
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 675
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 6212
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 928
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 2701
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 403
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 3167
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 473
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 10005
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 1495
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 54226
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 8102
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion =  orthodox 
+		size = 2701
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion = orthodox 
+		size = 403
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 54027
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 8073
+	 } 
+}
+#Kaunas (204000/51000 POPS)
+361 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 334
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 49
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 1336
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 199
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  orthodox 
+		size = 1670
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = orthodox 
+		size = 249
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 3452
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion = protestant 
+		size = 515
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 2227
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 332
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 2611
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion = protestant 
+		size = 390
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 8248
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 1232
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 91479
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 13669
+	 } 
+}
+#Marjampole (240000/60000 POPS)
+362 = {
+	officers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 180
+	 } 
+	officers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 26
+	 } 
+	soldiers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 722
+	 } 
+	soldiers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 108
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 2770
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion = protestant 
+		size = 414
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 1204
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 180
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 1412
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion = protestant 
+		size = 211
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 4463
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 666
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 49492
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 7395
+	 } 
+}
+#Panevezys (204000/51000 POPS)
+363 = {
+	officers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 232
+	 } 
+	officers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 34
+	 } 
+	soldiers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 929
+	 } 
+	soldiers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 138
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 3561
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion = protestant 
+		size = 532
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 1548
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 231
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 1815
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion = protestant 
+		size = 271
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 5735
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 856
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 63607
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 9504
+	 } 
+}
+#Siauliai (200000/50000 POPS)
+364 = {
+	officers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 241
+	 } 
+	officers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 36
+	 } 
+	soldiers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 968
+	 } 
+	soldiers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 144
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 3711
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion = protestant 
+		size = 554
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 1613
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 241
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 1892
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion = protestant 
+		size = 282
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 5976
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 893
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 66287
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 9905
+	 } 
+}
+#Palanga (84000/21000 POPS)
+365 = {
+	officers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 84
+	 } 
+	officers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 12
+	 } 
+	soldiers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 339
+	 } 
+	soldiers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 1300
+	 } 
+	bureaucrats = {
+		culture = lithuanian
+		religion = protestant 
+		size = 194
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 565
+	 } 
+	clergymen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 84
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 662
+	 } 
+	artisans = {
+		culture = lithuanian
+		religion = protestant 
+		size = 99
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 2094
+	 } 
+	craftsmen = {
+		culture = lithuanian
+		religion = protestant 
+		size = 312
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 23228
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 3470
+	 } 
+
+}
+#East Prussia Region (172000) #see Poland.txt and Lithuania.txt for balance of region
+#under the rule of Prussia in 1836  
+#Memel (172000/43000 POPS) #now part of Lithuania 
+698 = {
+	officers = {
+		culture = north_german
+		religion =  protestant 
+		size = 182
+	 } 
+	officers = {
+		culture = north_german
+		religion = catholic 
+		size = 27
+	 } 
+	soldiers = {
+		culture = north_german
+		religion =  protestant 
+		size = 733
+	 } 
+	soldiers = {
+		culture = north_german
+		religion = catholic 
+		size = 109
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  protestant 
+		size = 2810
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = catholic 
+		size = 420
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  protestant 
+		size = 1222
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = catholic 
+		size = 182
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  protestant 
+		size = 1433
+	 } 
+	artisans = {
+		culture = north_german
+		religion = catholic 
+		size = 214
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  protestant 
+		size = 4527
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = catholic 
+		size = 676
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  protestant 
+		size = 19648
+	 } 
+	farmers = {
+		culture = north_german
+		religion = catholic 
+		size = 2935
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion =  protestant 
+		size = 30558
+	 } 
+	farmers = {
+		culture = lithuanian
+		religion = protestant 
+		size = 4566
+	 } 
+}

@@ -50,11 +50,15 @@ country_event = {
 
     trigger = {
         tag = USA
+<<<<<<< HEAD
 		NOT = {
 			year = 1938
 		}
 		year = 1937
 		prestige = 1
+=======
+		year = 1937
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 		NOT = { has_country_flag = national_strike }
 		has_country_flag = rejoice_elections_1936
     }
@@ -143,16 +147,25 @@ country_event = {
     trigger = {
         tag = USA
 		has_country_flag = national_strike
+<<<<<<< HEAD
 		prestige = 1
 		year = 1937
 		NOT = {
 			has_country_flag = chicago_convention
 			year = 1938
+=======
+		NOT = {
+			has_country_flag = chicago_convention
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 		}
     }
 	
 	mean_time_to_happen = {
+<<<<<<< HEAD
 		months = 3
+=======
+		months = 1
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 	}
 	
 	fire_only_once = yes
@@ -187,6 +200,7 @@ country_event = {
     trigger = {
         tag = USA
 		has_country_flag = chicago_convention
+<<<<<<< HEAD
 		NOT = { year = 1938 }
 		NOT = { has_country_flag = phyladelphia_convention }
     }
@@ -194,6 +208,11 @@ country_event = {
 	mean_time_to_happen = {
 		months = 2
 	}
+=======
+		NOT = { has_country_flag = phyladelphia_convention }
+    }
+
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 	
 	fire_only_once = yes
 
@@ -218,9 +237,16 @@ country_event = {
 		war = {
 			target = CSO
 			attacker_goal = { casus_belli = civil_war }
+<<<<<<< HEAD
 			defender_goal = { casus_belli = status_quo }
 			call_ally = no
 		}
+=======
+			defender_goal = { casus_belli = civil_war }
+			call_ally = no
+		}
+		government = presidential_dictatorship
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 		ai_chance = {
             factor = 100
         }
@@ -243,10 +269,18 @@ country_event = {
             secede_province = CSO
         }
 		relation = { who = CSO value = -400 }
+<<<<<<< HEAD
 		war = {
 			target = CSO
 			attacker_goal = { casus_belli = civil_war }
 			defender_goal = { casus_belli = status_quo }
+=======
+		government = presidential_dictatorship
+		war = {
+			target = CSO
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = civil_war }
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 			call_ally = no
 		}
 		change_tag_no_core_switch = CSO
@@ -264,7 +298,11 @@ country_event = {
 
     trigger = {
         tag = USA
+<<<<<<< HEAD
 		has_country_flag = phyladelphia_convention
+=======
+		exists = CSO
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
     }
 	
 	mean_time_to_happen = {
@@ -294,7 +332,11 @@ country_event = {
 		war = {
 			target = UAS
 			attacker_goal = { casus_belli = civil_war }
+<<<<<<< HEAD
 			defender_goal = { casus_belli = status_quo }
+=======
+			defender_goal = { casus_belli = civil_war }
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 			call_ally = no
 		}
 		ai_chance = {
@@ -322,7 +364,11 @@ country_event = {
 		war = {
 			target = UAS
 			attacker_goal = { casus_belli = civil_war }
+<<<<<<< HEAD
 			defender_goal = { casus_belli = status_quo }
+=======
+			defender_goal = { casus_belli = civil_war }
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 			call_ally = no
 		}
 		change_tag_no_core_switch = UAS
@@ -366,7 +412,11 @@ country_event = {
 
     trigger = {
         tag = USA
+<<<<<<< HEAD
 		has_country_flag = richmond_convention
+=======
+		exists = CSO
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
     }
 	
 	fire_only_once = yes
@@ -387,11 +437,40 @@ country_event = {
             }
             secede_province = PSA
         }
+<<<<<<< HEAD
+=======
+		CSO = {
+		    war = {
+			target = PSA
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = civil_war }
+			call_ally = no
+		}
+		war = {
+			target = UAS
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = civil_war }
+			call_ally = no
+		}
+		}
+		PSA = {
+		war = {
+			target = UAS
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = civil_war }
+			call_ally = no
+		}
+		}
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 		relation = { who = PSA value = -400 }
 		war = {
 			target = PSA
 			attacker_goal = { casus_belli = civil_war }
+<<<<<<< HEAD
 			defender_goal = { casus_belli = status_quo }
+=======
+			defender_goal = { casus_belli = civil_war }
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 			call_ally = no
 		}
     }

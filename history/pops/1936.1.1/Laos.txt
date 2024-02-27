@@ -1,0 +1,416 @@
+#Laos Region (700000) 
+#under the rule of Luang Prabang in 1836  
+#Luang Prabang (240000/60000 POPS) #asian_minor = hmong/montagnard  
+1356 = {
+	officers = {
+		culture = lao
+		religion =  theravada
+		size = 166
+	 } 
+	officers = {
+		culture = lao
+		religion = theravada
+		size = 1
+	 } 
+	soldiers = {
+		culture = lao
+		religion =  theravada
+		size = 669
+	 } 
+	soldiers = {
+		culture = lao
+		religion = theravada
+		size = 5
+	 } 
+	aristocrats = {
+		culture = lao
+		religion =  theravada
+		size = 5270
+	 } 
+	aristocrats = {
+		culture = lao
+		religion = theravada
+		size = 39
+	 } 
+	bureaucrats = {
+		culture = lao
+		religion =  theravada
+		size = 131
+	 } 
+	capitalists = {
+		culture = lao
+		religion =  theravada
+		size = 658
+	 } 
+	capitalists = {
+		culture = lao
+		religion = theravada
+		size = 4
+	 } 
+	clergymen = {
+		culture = lao
+		religion =  theravada
+		size = 1317
+	 } 
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 9
+	 } 
+	artisans = {
+		culture = lao
+		religion =  theravada
+		size = 1609
+	 } 
+	artisans = {
+		culture = lao
+		religion = theravada
+		size = 12
+	 } 
+	farmers = {
+		culture = lao
+		religion =  theravada
+		size = 57371
+	 } 
+	farmers = {
+		culture = lao
+		religion = theravada
+		size = 433
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 461
+	 } 
+}
+#Vientiane (88000/22000 POPS)   
+1357 = {
+	officers = {
+		culture = lao
+		religion =  theravada
+		size = 138
+	 } 
+	officers = {
+		culture = lao
+		religion = theravada
+		size = 1
+	 } 
+	soldiers = {
+		culture = lao
+		religion =  theravada
+		size = 556
+	 } 
+	soldiers = {
+		culture = lao
+		religion = theravada
+		size = 4
+	 } 
+	aristocrats = {
+		culture = lao
+		religion =  theravada
+		size = 4376
+	 } 
+	aristocrats = {
+		culture = lao
+		religion = theravada
+		size = 33
+	 } 
+	bureaucrats = {
+		culture = lao
+		religion =  theravada
+		size = 109
+	 } 
+	capitalists = {
+		culture = lao
+		religion =  theravada
+		size = 546
+	 } 
+	capitalists = {
+		culture = lao
+		religion = theravada
+		size = 4
+	 } 
+	clergymen = {
+		culture = lao
+		religion =  theravada
+		size = 1093
+	 } 
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 8
+	 } 
+	artisans = {
+		culture = lao
+		religion =  theravada
+		size = 1337
+	 } 
+	artisans = {
+		culture = lao
+		religion = theravada
+		size = 10
+	 } 
+	farmers = {
+		culture = lao
+		religion =  theravada
+		size = 82660
+	 } 
+	farmers = {
+		culture = lao
+		religion = theravada
+		size = 624
+	 } 
+}
+#Savannakhet (80000/20000 POPS)   
+1361 = {
+	officers = {
+		culture = lao
+		religion =  theravada
+		size = 114
+	 } 
+	soldiers = {
+		culture = lao
+		religion =  theravada
+		size = 456
+	 } 
+	soldiers = {
+		culture = lao
+		religion = theravada
+		size = 3
+	 } 
+	aristocrats = {
+		culture = lao
+		religion =  theravada
+		size = 3592
+	 } 
+	aristocrats = {
+		culture = lao
+		religion = theravada
+		size = 27
+	 } 
+	bureaucrats = {
+		culture = lao
+		religion =  theravada
+		size = 89
+	 } 
+	capitalists = {
+		culture = lao
+		religion =  theravada
+		size = 448
+	 } 
+	capitalists = {
+		culture = lao
+		religion = theravada
+		size = 3
+	 } 
+	clergymen = {
+		culture = lao
+		religion =  theravada
+		size = 898
+	 } 
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 6
+	 } 
+	artisans = {
+		culture = lao
+		religion =  theravada
+		size = 1097
+	 } 
+	artisans = {
+		culture = lao
+		religion = theravada
+		size = 8
+	 } 
+	farmers = {
+		culture = lao
+		religion =  theravada
+		size = 60668
+	 } 
+	farmers = {
+		culture = lao
+		religion = theravada
+		size = 458
+	 } 
+}
+#Salavan (168000/42000 POPS)   
+1362 = {
+	officers = {
+		culture = khmer
+		religion =  theravada
+		size = 55
+	 } 
+	soldiers = {
+		culture = lao
+		religion =  theravada
+		size = 225
+	 } 
+	soldiers = {
+		culture = khmer
+		religion = theravada
+		size = 1
+	 } 
+	aristocrats = {
+		culture = lao
+		religion =  theravada
+		size = 1776
+	 } 
+	aristocrats = {
+		culture = khmer
+		religion = theravada
+		size = 13
+	 } 
+	bureaucrats = {
+		culture = lao
+		religion =  theravada
+		size = 43
+	 } 
+	capitalists = {
+		culture = khmer
+		religion =  theravada
+		size = 221
+	 } 
+	capitalists = {
+		culture = lao
+		religion = theravada
+		size = 1
+	 } 
+	clergymen = {
+		culture = khmer
+		religion =  theravada
+		size = 443
+	 } 
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 3
+	 } 
+	artisans = {
+		culture = khmer
+		religion =  theravada
+		size = 542
+	 } 
+	artisans = {
+		culture = lao
+		religion = theravada
+		size = 4
+	 } 
+	farmers = {
+		culture = khmer
+		religion =  theravada
+		size = 4240
+	 } 
+	farmers = {
+		culture = lao
+		religion = theravada
+		size = 32
+	 } 
+}
+#under the rule of Siam in 1836  
+#Xaignabouli (64000/16000 POPS)   
+1360 = {
+	officers = {
+		culture = lao
+		religion =  theravada
+		size = 55
+	 } 
+	soldiers = {
+		culture = lao
+		religion =  theravada
+		size = 224
+	 } 
+	soldiers = {
+		culture = lao
+		religion = theravada
+		size = 1
+	 } 
+	aristocrats = {
+		culture = lao
+		religion =  theravada
+		size = 1766
+	 } 
+	aristocrats = {
+		culture = lao
+		religion = theravada
+		size = 13
+	 } 
+	bureaucrats = {
+		culture = lao
+		religion =  theravada
+		size = 43
+	 } 
+	capitalists = {
+		culture = lao
+		religion =  theravada
+		size = 220
+	 } 
+	capitalists = {
+		culture = lao
+		religion = theravada
+		size = 1
+	 } 
+	clergymen = {
+		culture = lao
+		religion =  theravada
+		size = 441
+	 } 
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 3
+	 } 
+	artisans = {
+		culture = lao
+		religion =  theravada
+		size = 539
+	 } 
+	artisans = {
+		culture = lao
+		religion = theravada
+		size = 4
+	 } 
+	farmers = {
+		culture = lao
+		religion =  theravada
+		size = 1124
+	 } 
+	farmers = {
+		culture = lao
+		religion = theravada
+		size = 8
+	 } 
+}
+#Pakse (60000/15000 POPS)   
+1363 = {
+	aristocrats = {
+		culture = lao
+		religion = theravada
+		size = 275
+	}
+
+	clergymen = {
+		culture = lao
+		religion = theravada
+		size = 150
+	}
+
+	artisans = {
+		culture = lao
+		religion = theravada
+		size = 750
+	}
+
+	soldiers = {
+		culture = lao
+		religion = theravada
+		size = 125
+	}
+
+	farmers = {
+		culture = lao
+		religion = theravada
+		size = 13700
+	}
+
+}

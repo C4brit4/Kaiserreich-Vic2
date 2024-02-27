@@ -1,0 +1,155 @@
+political_decisions = {
+        france_rev = {
+        picture = France_contra
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_fra}
+			has_global_flag = contrarevolucion_fra_1
+			NOT = {				
+				has_country_modifier = contrarevolucion_fra
+			}
+        }
+
+        allow = {         
+            war = no          
+
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_fra
+			add_country_modifier = {
+                        name = contrarevolucion_fra
+                        duration = 200
+                }
+                     
+         
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	 france_rev_2	  = {
+        picture = France_contra
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_fra_2}
+			has_global_flag = contrarevolucion_fra
+			NOT = {				
+				has_country_modifier = contrarevolucion_fra
+			}
+        }
+
+        allow = {         
+            war = no          
+            
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_fra_2
+			NFR = {
+				set_global_flag = contrarevolucion_fra_2
+				
+			}
+            FRA = {
+				464 = {secede_province = NFR}
+				463 = {secede_province = NFR}
+				462 = {secede_province = NFR}
+				461 = {secede_province = NFR}
+				455 = {secede_province = NFR}
+			    456 = {secede_province = NFR}
+				456 = {secede_province = NFR}
+				460 = {secede_province = NFR}
+				459 = {secede_province = NFR}
+				458 = {secede_province = NFR}
+				450 = {secede_province = NFR}
+				447 = {secede_province = NFR}
+				444 = {secede_province = NFR}
+				442 = {secede_province = NFR}
+				445 = {secede_province = NFR}
+				446 = {secede_province = NFR}
+				449 = {secede_province = NFR}
+				448 = {secede_province = NFR}
+				430 = {secede_province = NFR}
+				428 = {secede_province = NFR}
+				429 = {secede_province = NFR}
+				431 = {secede_province = NFR}
+				433 = {secede_province = NFR}
+				452 = {secede_province = NFR}
+				453 = {secede_province = NFR}
+				451 = {secede_province = NFR}
+				441 = {secede_province = NFR}
+				440 = {secede_province = NFR}
+				439 = {secede_province = NFR}
+				438 = {secede_province = NFR}
+				436 = {secede_province = NFR}
+				426 = {secede_province = NFR}
+				406 = {secede_province = NFR}
+				408 = {secede_province = NFR}
+				403 = {secede_province = NFR}
+				405 = {secede_province = NFR}
+				404 = {secede_province = NFR}
+				417 = {secede_province = NFR}
+				418 = {secede_province = NFR}
+				416 = {secede_province = NFR}
+				415 = {secede_province = NFR}
+				2570 = {secede_province = NFR}
+			}         
+			FRA = {
+	        war = {
+	         target = NFR	
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = conquest }
+	         call_ally = no
+            }
+			change_tag_no_core_switch = NFR
+
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	}
+	france_rev_3	  = {
+        picture = France_contra
+        potential = {
+            OR = {                
+                tag = NFR
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_fra_3}
+			has_global_flag = contrarevolucion_fra_2
+			NOT = {				
+				has_country_modifier = contrarevolucion_fra
+			}
+        }
+
+        allow = {         
+            war = no          
+
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_fra_3
+            THIS = {
+				country_event = { id = 500429 days = 2 }
+				
+			} 
+    	    capital = 425
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

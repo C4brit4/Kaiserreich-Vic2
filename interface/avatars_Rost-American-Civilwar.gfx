@@ -1,0 +1,204 @@
+######		  Victoria 2		######
+
+######   American Civil War Spritepack	######
+
+
+
+
+######     	   designed by		######
+
+######     	  Sebastian Rost      	######
+
+######     	       and		######
+
+######     	   Pierre Rost		######
+
+
+
+
+objectTypes = {	
+	
+	
+	EMFXActorType = {
+		name = "UsGCInfantry"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "ConfederateGCInfantry"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "UsGCEngineer"
+		actorfile = "gfx\anims\USEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "ConfederateGCEngineer"
+		actorfile = "gfx\anims\USEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "UsGCGuard"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "ConfederateGCGuard"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "UsGCArtillery"
+		actorfile = "gfx\anims\USArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "ConfederateGCArtillery"
+		actorfile = "gfx\anims\USArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "UsGCIrregular"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "ConfederateGCIrregular"
+		actorfile = "gfx\anims\USInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+

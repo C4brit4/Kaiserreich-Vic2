@@ -1,0 +1,37 @@
+owner = ENG
+controller = ENG
+trade_goods = grain
+life_rating = 35
+colonial = 2
+1914.1.1 = {
+	owner = CAN
+	controller = CAN
+	add_core = CAN
+	colonial = 0
+	railroad = 3
+	state_building = {
+		level = 3
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = ammunition_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = explosives_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = artillery_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = steel_factory
+		upgrade = yes
+	}
+}

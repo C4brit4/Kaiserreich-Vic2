@@ -1,0 +1,1238 @@
+#Trondelag-Nordland Region - 304000
+#Trondheim (140000/35000 POPS)
+305 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 270
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 65
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1084
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 262
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2213
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 536
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 110
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 26
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 276
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 66
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 553
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 133
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1616
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 391
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1535
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 372
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 4931
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 1194
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 22751
+	 } 
+}
+#Bodo (56000/14000 POPS)
+306 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 149
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 36
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 598
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 145
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1223
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 296
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 61
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 14
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 152
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 37
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 305
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 74
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 893
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 216
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 848
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 205
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2725
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 660
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 23629
+	 } 
+	farmers = {
+		culture = finnish
+		religion = protestant 
+		size = 5724
+	 } 
+}
+#Hammerfest (36000/9000 POPS)
+307 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 149
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 36
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 598
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 145
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1223
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 296
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 61
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 14
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 152
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 37
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 305
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 74
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 893
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 216
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 848
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 205
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2725
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 660
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 15064
+	 } 
+	farmers = {
+		culture = finnish
+		religion = protestant 
+		size = 3649
+	 } 
+	farmers = {
+		culture = sami
+		religion =  protestant 
+		size = 8565
+	 } 
+	farmers = {
+		culture = sami
+		religion = protestant 
+		size = 2074
+	 } 
+}
+#Alesund (72000/18000 POPS)
+308 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 286
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 69
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1147
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 278
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2342
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 567
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 116
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 28
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 292
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 70
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 585
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 141
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1710
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 414
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1625
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 393
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 5218
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 1263
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 45238
+	 } 
+	farmers = {
+		culture = norwegian
+		religion = protestant 
+		size = 10958
+	 } 
+
+}
+
+#Vestlandet-Sorlandet Region : 544000
+#Bergen (180000/45000 POPS)
+309 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 584
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 141
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2338
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 566
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 4773
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 1156
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 238
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 57
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 596
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 144
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1193
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 288
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 3486
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 844
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 3311
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 802
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 5634
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 2575
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 42184
+	 } 
+}
+#Christiansand (164000/41000 POPS)
+310 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 178
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 43
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 717
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 173
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1465
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 354
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 73
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 17
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 182
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 44
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 366
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 88
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1069
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 259
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1015
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 246
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 3263
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 790
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 28294
+	 } 
+	farmers = {
+		culture = norwegian
+		religion = protestant 
+		size = 6854
+	 } 
+}
+#Skien (68000/17000 POPS)
+311 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 161
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 646
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 156
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1320
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 319
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 66
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 15
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 165
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 330
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 79
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 963
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 233
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 915
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 221
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2940
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 712
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 25496
+	 } 
+	farmers = {
+		culture = norwegian
+		religion = protestant 
+		size = 6176
+	 } 
+}
+#Drammen (132000/33000 POPS)
+312 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 161
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 646
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 156
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1320
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 319
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 66
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 15
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 165
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 330
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 79
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 963
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 233
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 915
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 221
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2940
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 712
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 25496
+	 } 
+	farmers = {
+		culture = norwegian
+		religion = protestant 
+		size = 6176
+	 } 
+
+}
+#Ostlandet Region - 352000
+#Christiania (108000/27000 POPS)
+313 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 781
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 189
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 3128
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 757
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 6383
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 1546
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 318
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 77
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 797
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 193
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1595
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 386
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 4662
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 1129
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 4429
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 1072
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 14220
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 3444
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 123273
+	 } 
+}
+#Hamar (80000/20000 POPS)
+314 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 161
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 646
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 156
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1320
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 319
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 66
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 15
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 165
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 330
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 79
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 963
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 233
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 915
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 221
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2940
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 712
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 25496
+	 } 
+	farmers = {
+		culture = norwegian
+		religion = protestant 
+		size = 6176
+	 } 
+}
+#Lillehammer (96000/24000 POPS)
+315 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 161
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 646
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 156
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1320
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 319
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 66
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 15
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 165
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 330
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 79
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 963
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 233
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 915
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 221
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2940
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 712
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 25496
+	 } 
+	farmers = {
+		culture = norwegian
+		religion = protestant 
+		size = 6176
+	 } 
+}
+#Frederiksstad - Frederiksstad (164000/41000 POPS)
+316 = {
+	officers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 161
+	 } 
+	officers = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 646
+	 } 
+	soldiers = {
+		culture = norwegian
+		religion = protestant 
+		size = 156
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 1320
+	 } 
+	aristocrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 319
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion =  protestant 
+		size = 66
+	 } 
+	bureaucrats = {
+		culture = norwegian
+		religion = protestant 
+		size = 15
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion =  protestant 
+		size = 165
+	 } 
+	capitalists = {
+		culture = norwegian
+		religion = protestant 
+		size = 39
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 330
+	 } 
+	clergymen = {
+		culture = norwegian
+		religion = protestant 
+		size = 79
+	 } 
+	clerks = {
+		culture = norwegian
+		religion =  protestant 
+		size = 963
+	 } 
+	clerks = {
+		culture = norwegian
+		religion = protestant 
+		size = 233
+	 } 
+	artisans = {
+		culture = norwegian
+		religion =  protestant 
+		size = 915
+	 } 
+	artisans = {
+		culture = norwegian
+		religion = protestant 
+		size = 221
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion =  protestant 
+		size = 2940
+	 } 
+	craftsmen = {
+		culture = norwegian
+		religion = protestant 
+		size = 712
+	 } 
+	farmers = {
+		culture = norwegian
+		religion =  protestant 
+		size = 25496
+	 } 
+	farmers = {
+		culture = norwegian
+		religion = protestant 
+		size = 6176
+	 } 
+
+}

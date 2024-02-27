@@ -1,0 +1,3738 @@
+#Pomerania Region (804000) #see Germany.txt for balance of region
+#under the rule of Prussia 1836
+#Stettin (484000/121000 POPS) #Part of Poland since 1945
+546 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 116
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 7
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 469
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 29
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 3085
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 196
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion =  protestant
+		size = 4256
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion = catholic 
+		size = 271
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  protestant
+		size = 366
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = catholic 
+		size = 23
+	 } 
+	capitalists = {
+		culture = north_german
+		religion =  protestant
+		size = 917
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = catholic 
+		size = 58
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  protestant
+		size = 1834
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = catholic 
+		size = 117
+	 } 
+	clerks = {
+		culture = north_german
+		religion =  protestant
+		size = 4201
+	 } 
+	clerks = {
+		culture = north_german
+		religion = catholic 
+		size = 268
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  protestant
+		size = 3992
+	 } 
+	artisans = {
+		culture = north_german
+		religion = catholic 
+		size = 254
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  protestant
+		size = 12816
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = catholic 
+		size = 818
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  protestant
+		size = 51478
+	 } 
+	farmers = {
+		culture = north_german
+		religion = catholic 
+		size = 9668
+	 } 
+}
+#Kolberg (160000/40000 POPS) #Part of Poland since 1945
+679 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 60
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 66241
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 15
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 3477
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 221
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 301
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 19
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 188
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 12
+	 } 
+	capitalists = {
+		culture = north_german
+		religion =  catholic 
+		size = 471
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = protestant
+		size = 30
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  catholic 
+		size = 944
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 60
+	 } 
+	clerks = {
+		culture = north_german
+		religion =  catholic 
+		size = 2162
+	 } 
+	clerks = {
+		culture = north_german
+		religion = protestant
+		size = 138
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  catholic 
+		size = 2054
+	 } 
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 131
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  catholic 
+		size = 6596
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 421
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 87969
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 4976
+	 } 
+}
+#Koslin (160000/40000 POPS) #Part of Poland since 1945
+680 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 47
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 192
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 12
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 2776
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 177
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 240
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 15
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 150
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 9
+	 } 
+	capitalists = {
+		culture = north_german
+		religion =  catholic 
+		size = 376
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = protestant
+		size = 24
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  catholic 
+		size = 753
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 48
+	 } 
+	clerks = {
+		culture = north_german
+		religion =  catholic 
+		size = 1726
+	 } 
+	clerks = {
+		culture = north_german
+		religion = protestant
+		size = 110
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  catholic 
+		size = 1640
+	 } 
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 104
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  catholic 
+		size = 5267
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 336
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 32260
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 3974
+	 } 
+}
+#Brandenburg Region (208000) #see Poland.txt for balance of region
+#under the rule of Prussia 1836
+#Kustrin (208000/52000 POPS) #Part of Poland since 1945
+681 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 139
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 8
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 556
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 35
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 3656
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 233
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 5047
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 322
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 435
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 27
+	 } 
+	capitalists = {
+		culture = north_german
+		religion =  catholic 
+		size = 1087
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = protestant
+		size = 69
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  catholic 
+		size = 2176
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 138
+	 } 
+	clerks = {
+		culture = north_german
+		religion =  catholic 
+		size = 4982
+	 } 
+	clerks = {
+		culture = north_german
+		religion = protestant
+		size = 318
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  catholic 
+		size = 4732
+	 } 
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 302
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  catholic 
+		size = 15196
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 970
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 79599
+	 } 
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 11463
+	 } 
+}
+#Silesia Region (2568000) #see Czechia.txt and Germany.txt for balance of region
+#under the rule of Prussia in 1836  
+#Breslau (936000/234000 POPS) 
+682 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 200
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 12
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 60002
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 51
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 5271
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 336
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 7277
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 464
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 10626
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 40
+	 } 
+	capitalists = {
+		culture = north_german
+		religion =  catholic 
+		size = 1567
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = protestant
+		size = 100
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  catholic 
+		size = 3136
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 200
+	 } 
+	clerks = {
+		culture = north_german
+		religion =  catholic 
+		size = 7183
+	 } 
+	clerks = {
+		culture = north_german
+		religion = protestant
+		size = 458
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  catholic 
+		size = 6824
+	 } 
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 435
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  protestant
+		size = 131909
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 1398
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 158923
+	 } 
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 16527
+	 } 
+}
+#Liegnitz (484000/121000 POPS) 
+683 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 157
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 10
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 631
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 40
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 4150
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 264
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 5729
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 365
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 493
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 31
+	 } 
+	capitalists = {
+		culture = north_german
+		religion =  catholic 
+		size = 1234
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = protestant
+		size = 78
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  catholic 
+		size = 2469
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 157
+	 } 
+	clerks = {
+		culture = north_german
+		religion =  catholic 
+		size = 5655
+	 } 
+	clerks = {
+		culture = north_german
+		religion = protestant
+		size = 360
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  catholic 
+		size = 5372
+	 } 
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 342
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  catholic 
+		size = 17249
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 1101
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 103842
+	 } 
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 13011
+	 } 
+}
+#Oppeln (492000/123000 POPS) 
+684 = {
+	officers = {
+		culture = north_german
+		religion =  catholic 
+		size = 126
+	 } 
+	officers = {
+		culture = north_german
+		religion = protestant
+		size = 8
+	 } 
+	soldiers = {
+		culture = north_german
+		religion =  catholic 
+		size = 510
+	 } 
+	soldiers = {
+		culture = north_german
+		religion = protestant
+		size = 32
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 7980
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion = protestant
+		size = 509
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 398
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 25
+	 } 
+	capitalists = {
+		culture = north_german
+		religion =  catholic 
+		size = 997
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = protestant
+		size = 63
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  catholic 
+		size = 1994
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 127
+	 } 
+	clerks = {
+		culture = north_german
+		religion =  catholic 
+		size = 4568
+	 } 
+	clerks = {
+		culture = north_german
+		religion = protestant
+		size = 291
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  catholic 
+		size = 4339
+	 } 
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 277
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  catholic 
+		size = 13933
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 889
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 104761
+	 } 
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 7963
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 29903
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 2547
+	 } 
+}
+#Kattowitz (452000/113000 POPS) 
+685 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 488
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 31
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 1955
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 124
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 30550
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 1950
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 1527
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 97
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 3818
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 243
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 7637
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 487
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 17487
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 1116
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 16613
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 1060
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 43339
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 3404
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 138682
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 14383
+	 } 
+	farmers = {
+		culture = czech
+		religion =  catholic 
+		size = 61100
+	 } 
+	farmers = {
+		culture = czech
+		religion = catholic 
+		size = 3900
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 10550
+	 } 
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 1950
+	 } 
+}
+#under the rule of Austria in 1836  
+#Bielsko (204000/52000 POPS) #now part of Poland
+2584 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 108
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 6
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 433
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 27
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 6777
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 432
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 338
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 21
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 846
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 54
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1693
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 108
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 3879
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 247
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 3685
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 235
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 11832
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 755
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 119839
+	 } 
+	farmers = {
+		culture = south_german
+		religion = catholic 
+		size = 8925
+	 } 
+}
+#West Prussia Region (688000) 
+#under the rule of Prussia in 1836  
+#Danzig (76000/19000 POPS) 
+690 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 173
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 697
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 44
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 10904
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 696
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 20545
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 34
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 1309
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 83
+	 } 
+	capitalists = {
+		culture = north_german
+		religion =  catholic 
+		size = 53
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = protestant
+		size = 3
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  catholic 
+		size = 2726
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = protestant
+		size = 174
+	 } 
+	clerks = {
+		culture = north_german
+		religion =  catholic 
+		size = 6241
+	 } 
+	clerks = {
+		culture = north_german
+		religion = protestant
+		size = 398
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  catholic 
+		size = 5929
+	 } 
+	artisans = {
+		culture = north_german
+		religion = protestant
+		size = 378
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  catholic 
+		size = 14037
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = protestant
+		size = 1215
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 224981
+	 } 
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 14360
+	 } 
+}
+#Tuchel (180000/45000 POPS) 
+691 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 69
+	 } 
+	officers = {
+		culture = north_german
+		religion = catholic 
+		size = 4
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 280
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 17
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 4380
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion = catholic 
+		size = 279
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  catholic 
+		size = 20219
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = catholic 
+		size = 13
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 547
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = catholic 
+		size = 34
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1095
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = catholic 
+		size = 69
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 2506
+	 } 
+	clerks = {
+		culture = north_german
+		religion = catholic 
+		size = 160
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 2381
+	 } 
+	artisans = {
+		culture = north_german
+		religion = catholic 
+		size = 152
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 7647
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = catholic 
+		size = 78488
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 79430
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 5070
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 10951
+	 } 
+	farmers = {
+		culture = north_german
+		religion = catholic 
+		size = 699
+	 } 
+}
+#Deutsche Krone (128000/32000 POPS) 
+692 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 56
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 228
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 14
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 3572
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 178
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 11
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 446
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 28
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 893
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 57
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 2044
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 130
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 1510
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 96
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  catholic 
+		size = 431
+	 } 
+	artisans = {
+		culture = north_german
+		religion = catholic 
+		size = 27
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  catholic 
+		size = 6235
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = catholic 
+		size = 398
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 53702
+	 } 
+	farmers = {
+		culture = north_german
+		religion = catholic 
+		size = 4704
+	 } 
+}
+#Elbing (148000/37000 POPS) 
+693 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 57
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 230
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 14
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 3609
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 230
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 180
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 11
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 451
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 28
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 902
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 57
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 2066
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 131
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 1962
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 125
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 3173
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 202
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  catholic 
+		size = 3128
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = catholic 
+		size = 199
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 44478
+	 } 
+	farmers = {
+		culture = north_german
+		religion = catholic 
+		size = 4753
+	 } 
+}
+#Torun (156000/44000 POPS) 
+694 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 78
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 60318
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 4991
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 318
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 249
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 15
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 623
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 39
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1247
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 79
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 2856
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 182
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 2713
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 173
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 8714
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 556
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 102991
+	 } 
+	farmers = {
+		culture = north_german
+		religion = catholic 
+		size = 46573
+	 } 
+}
+#East Prussia Region (396000) #see Russia.txt and Lithuania.txt for balance of region
+#under the rule of Prussia in 1836  
+#Allenstein (396000/99000 POPS) 
+696 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 88
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 355
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 5564
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 355
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 278
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 17
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 695
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 44
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1391
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 88
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 3184
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 203
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 3025
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 193
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 9714
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 620
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 38305
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 2445
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 76516
+	 } 
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 4884
+	 } 
+}
+#Posen-Wielkopolska Region (1704000)  
+#under the rule of Prussia in 1836  
+#Posen (540000/135000 POPS) 
+699 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 208
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 13
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 834
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 53
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 13047
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 832
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 652
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 41
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 1630
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 104
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 3261
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 208
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 7468
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 476
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 7095
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 452
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 22779
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 1454
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 236582
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 15101
+	 } 
+	farmers = {
+		culture = north_german
+		religion =  catholic 
+		size = 32617
+	 } 
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 2082
+	 } 
+}
+#Bromberg (212000/53000 POPS) 
+700 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 64
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 4
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 261
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 4088
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 261
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 203
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 13
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 510
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 32
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1021
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 65
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 2340
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 149
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 2223
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 141
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 7139
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 455
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 84370
+	 } 
+	farmers = {
+		culture = north_german
+		religion = catholic 
+		size = 95385
+	 } 
+}
+#Gniezno (456000/116000 POPS) 
+701 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 57
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 230
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 14
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 3609
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 230
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 180
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 11
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 451
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 28
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 902
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 57
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 2066
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 131
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 1962
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 125
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 6301
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 402
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = catholic 
+		size = 58488
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 74478
+	 } 
+	farmers = {
+		culture = north_german
+		religion = catholic 
+		size = 60000
+	 } 
+}
+#under the rule of Russia in 1836 (496000) 
+#Lodz (244000/61000 POPS) 
+712 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 277
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 17
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 1111
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 70
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 17371
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 1108
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 868
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 55
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 2171
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 138
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 4342
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 277
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 9943
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 634
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 9446
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 602
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 30329
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 1935
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 358419
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 22877
+	 } 
+}
+#Kalicz (252000/63000 POPS) 
+717 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 86
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 348
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 5461
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 348
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 272
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 17
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 682
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 43
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1364
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 87
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 3126
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 199
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 2969
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 189
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 9535
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 608
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 112687
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 7192
+	 } 
+
+}
+#Malopolska Region (3004000)
+#under the rule of Krakow in 1836
+#Krakow (424000/106000 POPS)
+703 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 1193
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 76
+	 } 
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 152
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 9
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 611
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 39
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 9550
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 609
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 477
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 30
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 2387
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 152
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 5467
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 348
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 5193
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 331
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 16674
+	 } 
+	slaves = {
+		culture = polish
+		religion =  catholic 
+		size = 16674
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 1064
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 188695
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 12044
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 8356
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 533
+	 } 
+}
+#under the rule of Austria in 1836
+#Novy Sacz (596000/149000 POPS)
+704 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 81
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 328
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 5132
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 327
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 256
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 16
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 641
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 40
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1283
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 81
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 2937
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 187
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 2790
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 178
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 8961
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 571
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 105897
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 6759
+	 } 
+}
+#Tarnow (616000/154000 POPS)
+714 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 78
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 316
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 4963
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 316
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 248
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 15
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 620
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 39
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1240
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 79
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 2840
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 181
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 2698
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 172
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 8664
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 553
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 102407
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 6536
+	 } 
+}
+#under the rule of Russia in 1836 (1368000)
+#Radom (444000/111000 POPS)
+713 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 91
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 367
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 5743
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 366
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 286
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 18
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 717
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 45
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1435
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 91
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 3287
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 209
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 3122
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 199
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 10026
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 640
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 118506
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 7564
+	 } 
+}
+#Lublin (476000/119000 POPS)
+715 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 286
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 18
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 1147
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 73
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 17935
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 1144
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 896
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 57
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 2241
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 143
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 4483
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 286
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 10266
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 655
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 9753
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 622
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 31313
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 1998
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 370054
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 23620
+	 } 
+}
+#Kielce (448000/112000 POPS)
+716 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 139
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 8
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 558
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 35
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 8732
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 557
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 436
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 27
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 1091
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 69
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 2182
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 139
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 4998
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 319
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 4748
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 303
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 15245
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 973
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 180181
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 11500
+	 } 
+}
+#Galicia Region (596000) #see Ukraine.txt for balance of region 
+#under the rule of Austria in 1836
+#Przemysl (596000/149000 POPS)
+705 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 192
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 12
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 772
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 49
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 12079
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 771
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 603
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 38
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 1509
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 96
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 3019
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 192
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 6914
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 441
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 6568
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 419
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 21088
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 1346
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 149573
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 9547
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion =  orthodox 
+		size = 49651
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion = catholic 
+		size = 6360
+	 } 
+}
+#Mazovia Region (2224000)
+#under the rule of Russia in 1836
+#Warsaw (720000/180000 POPS)
+706 = {
+	capitalists = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 2371
+	 } 
+	capitalists = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 151
+	 } 
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 303
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 19
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 3400
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 77
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 18978
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 1211
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 948
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 60
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 4744
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 302
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 10863
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 693
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 10320
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 658
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 33135
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 2115
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 374978
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 23934
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion =  jewish 
+		size = 16606
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish 
+		size = 1060
+	 } 
+}
+#Suwalki (196000/49000 POPS)
+707 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 54
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 219
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 14
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 3449
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 220
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 172
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 10
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 430
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 27
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 861
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 55
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 1974
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 126
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 1875
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 119
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 6023
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 384
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 57383
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 3662
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion =  orthodox 
+		size = 13799
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion = orthodox 
+		size = 880
+	 } 
+}
+#Plock (396000/99000 POPS)
+708 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 117
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 7
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 470
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 30
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 7369
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 470
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 368
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 23
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 921
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 58
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1842
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 117
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 4218
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 269
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 4007
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 255
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 12866
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 821
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 152057
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 9705
+	 } 
+}
+#Lomza (200000/50000 POPS)
+709 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 90
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 363
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 5696
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 363
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 284
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 18
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 711
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 45
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1424
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 90
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 3260
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 208
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 3097
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 197
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 9945
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 634
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 117535
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 7502
+	 } 
+}
+#Skierniewicz (436000/109000 POPS)
+710 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 38
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 2
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 154
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 9
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 2415
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 154
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 120
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 7
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 301
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 19
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 603
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 38
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 1382
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 88
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 1313
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 83
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 4217
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 269
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 49847
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 3181
+	 } 
+}
+#Siedlice (472000/118000 POPS)
+711 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 117
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 7
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 471
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 30
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 7379
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 471
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 368
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 23
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 922
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 58
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1844
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 117
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 4223
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 269
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 4011
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 256
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 12882
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 822
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 152253
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 9718
+	 } 
+}
+#Podlachia Region (320000)  #see Belarus.txt for balance of region
+#under the rule of Russia in 1836
+#Bialystok (320000/80000 POPS)
+719 = {
+	officers = {
+		culture = polish
+		religion =  catholic 
+		size = 83
+	 } 
+	officers = {
+		culture = polish
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = polish
+		religion =  catholic 
+		size = 335
+	 } 
+	soldiers = {
+		culture = polish
+		religion = catholic 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = polish
+		religion =  catholic 
+		size = 5245
+	 } 
+	aristocrats = {
+		culture = polish
+		religion = catholic 
+		size = 334
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion =  catholic 
+		size = 262
+	 } 
+	bureaucrats = {
+		culture = polish
+		religion = catholic 
+		size = 16
+	 } 
+	capitalists = {
+		culture = polish
+		religion =  catholic 
+		size = 655
+	 } 
+	capitalists = {
+		culture = polish
+		religion = catholic 
+		size = 41
+	 } 
+	clergymen = {
+		culture = polish
+		religion =  catholic 
+		size = 1311
+	 } 
+	clergymen = {
+		culture = polish
+		religion = catholic 
+		size = 83
+	 } 
+	clerks = {
+		culture = polish
+		religion =  catholic 
+		size = 3002
+	 } 
+	clerks = {
+		culture = polish
+		religion = catholic 
+		size = 191
+	 } 
+	artisans = {
+		culture = polish
+		religion =  catholic 
+		size = 2851
+	 } 
+	artisans = {
+		culture = polish
+		religion = catholic 
+		size = 182
+	 } 
+	craftsmen = {
+		culture = polish
+		religion =  catholic 
+		size = 9157
+	 } 
+	craftsmen = {
+		culture = polish
+		religion = catholic 
+		size = 584
+	 } 
+	farmers = {
+		culture = polish
+		religion =  catholic 
+		size = 74131
+	 } 
+	farmers = {
+		culture = polish
+		religion = catholic 
+		size = 4731
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion =  orthodox 
+		size = 34093
+	 } 
+	farmers = {
+		culture = byelorussian
+		religion = orthodox 
+		size = 2176
+	 } 
+
+}

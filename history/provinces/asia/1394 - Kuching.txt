@@ -1,0 +1,7 @@
+owner = GEA
+controller = GEA
+add_core = BRU
+trade_goods = coffee
+life_rating = 30
+
+add_core = GEA

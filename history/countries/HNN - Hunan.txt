@@ -6,6 +6,10 @@ plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.04
 non_state_culture_literacy = 0.01
+<<<<<<< HEAD
+=======
+civilized = yes
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 
 # Political reforms
 slavery = no_slavery

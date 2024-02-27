@@ -1,0 +1,26 @@
+owner = OLD
+controller = OLD
+add_core = OLD
+add_core = GER
+trade_goods = fish
+life_rating = 40
+#state_building = {
+#	level = 1
+#	building = glass_factory
+#	upgrade = yes
+#}
+1861.1.1 = {
+	naval_base = 1 #Wilhelmshaven
+}
+1914.1.1 = {
+	owner = GER
+	controller = GER
+	railroad = 5
+	naval_base = 6
+	
+	state_building = {
+		level = 1
+		building = glass_factory
+		upgrade = yes
+	}
+}

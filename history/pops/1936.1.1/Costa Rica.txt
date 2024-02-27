@@ -1,0 +1,357 @@
+#Costa Rica Region (84000)
+#Ruled by Central America 1836
+#San Jose (52000/13000 POPS)
+2201 = {
+	officers = {
+		culture = central_american
+		religion =  catholic 
+		size = 242
+	 } 
+	officers = {
+		culture = central_american
+		religion = catholic 
+		size = 10
+	 } 
+	soldiers = {
+		culture = central_american
+		religion =  catholic 
+		size = 969
+	 } 
+	soldiers = {
+		culture = central_american
+		religion = catholic 
+		size = 43
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion =  catholic 
+		size = 3504
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion = catholic 
+		size = 155
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion =  catholic 
+		size = 87
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion = catholic 
+		size = 3
+	 } 
+	capitalists = {
+		culture = central_american
+		religion =  catholic 
+		size = 437
+	 } 
+	capitalists = {
+		culture = central_american
+		religion = catholic 
+		size = 19
+	 } 
+	clergymen = {
+		culture = central_american
+		religion =  catholic 
+		size = 876
+	 } 
+	clergymen = {
+		culture = central_american
+		religion = catholic 
+		size = 38
+	 } 
+	clerks = {
+		culture = central_american
+		religion =  catholic 
+		size = 2110
+	 } 
+	clerks = {
+		culture = central_american
+		religion = catholic 
+		size = 93
+	 } 
+	artisans = {
+		culture = central_american
+		religion =  catholic 
+		size = 533
+	 } 
+	artisans = {
+		culture = central_american
+		religion = catholic 
+		size = 23
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1471
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 65
+	 } 
+	craftsmen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2908
+	 } 
+	craftsmen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 129
+	 } 
+	craftsmen = {
+		culture = central_american
+		religion =  catholic 
+		size = 3529
+	 } 
+	craftsmen = {
+		culture = central_american
+		religion = catholic 
+		size = 156
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  catholic 
+		size = 70940
+	 } 
+	farmers = {
+		culture = central_american
+		religion = catholic 
+		size = 3148
+	 } 
+}
+#Liberia (20000/5000 POPS)
+2202 = {
+	officers = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 214
+	 } 
+	officers = {
+		culture = central_american
+		religion = catholic 
+		size = 9
+	 } 
+	soldiers = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 857
+	 } 
+	soldiers = {
+		culture = central_american
+		religion = catholic 
+		size = 38
+	 } 
+	aristocrats = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 3102
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion = catholic 
+		size = 137
+	 } 
+	bureaucrats = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 77
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion = catholic 
+		size = 3
+	 } 
+	capitalists = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 387
+	 } 
+	capitalists = {
+		culture = central_american
+		religion = catholic 
+		size = 17
+	 } 
+	clergymen = {
+		culture = native_american_minor
+		religion =  catholic 
+		size = 13
+	 } 
+	clergymen = {
+		culture = central_american
+		religion = catholic 
+		size = 762
+	 } 
+	clergymen = {
+		culture = central_american
+		religion = catholic 
+		size = 33
+	 } 
+	clerks = {
+		culture = central_american
+		religion =  catholic 
+		size = 1868
+	 } 
+	clerks = {
+		culture = central_american
+		religion = catholic 
+		size = 82
+	 } 
+	artisans = {
+		culture = central_american
+		religion =  catholic 
+		size = 1775
+	 } 
+	artisans = {
+		culture = central_american
+		religion = catholic 
+		size = 78
+	 } 
+	craftsmen = {
+		culture = central_american
+		religion =  catholic 
+		size = 5699
+	 } 
+	craftsmen = {
+		culture = central_american
+		religion = catholic 
+		size = 252
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  catholic 
+		size = 62799
+	 } 
+	farmers = {
+		culture = central_american
+		religion = catholic 
+		size = 2787
+	 } 
+}
+#Limon (12000/3000 POPS)
+2203 = {
+	officers = {
+		culture = afro_caribeno 
+		religion =  protestant 
+		size = 115
+	 } 
+	officers = {
+		culture = afro_caribeno 
+		religion = protestant 
+		size = 5
+	 } 
+	soldiers = {
+		culture = afro_caribeno 
+		religion =  protestant 
+		size = 466
+	 } 
+	soldiers = {
+		culture = afro_caribeno 
+		religion = protestant 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = afro_caribeno 
+		religion =  protestant 
+		size = 1524
+	 } 
+	aristocrats = {
+		culture = afro_caribeno 
+		religion = protestant 
+		size = 67
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion =  catholic 
+		size = 160
+	 } 
+	aristocrats = {
+		culture = central_american
+		religion = catholic 
+		size = 7
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion =  catholic 
+		size = 42
+	 } 
+	bureaucrats = {
+		culture = central_american
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = afro_caribbean
+		religion =  catholic 
+		size = 210
+	 } 
+	capitalists = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 9
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion =  catholic 
+		size = 421
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 18
+	 } 
+	clerks = {
+		culture = afro_caribbean
+		religion =  catholic 
+		size = 1014
+	 } 
+	clerks = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 45
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion =  catholic 
+		size = 964
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 42
+	 } 
+	craftsmen = {
+		culture = afro_caribbean
+		religion =  catholic 
+		size = 3095
+	 } 
+	craftsmen = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 137
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  catholic 
+		size = 7571
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 336
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  catholic 
+		size = 26541
+	 } 
+	farmers = {
+		culture = central_american
+		religion = catholic 
+		size = 1178
+	 } 
+
+}

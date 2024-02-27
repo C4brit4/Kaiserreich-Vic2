@@ -1,0 +1,6 @@
+owner = DKU
+controller = DKU
+add_core = DKU
+trade_goods = wool
+life_rating = 35
+

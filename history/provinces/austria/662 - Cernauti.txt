@@ -1,0 +1,8 @@
+owner = GLO
+controller = GLO
+#add_core = UKR
+add_core = MOL
+add_core = RUT
+add_core = GLO
+trade_goods = fruit
+life_rating = 35

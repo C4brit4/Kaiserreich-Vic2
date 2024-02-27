@@ -1,0 +1,17 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = TUR
+trade_goods = fruit
+life_rating = 35
+naval_base = 5
+
+1861.1.1 = {
+	remove_core = EGY
+	controller = TUR 
+	owner = TUR
+	colonial = 0
+}
+1914.1.1 = {
+	railroad = 1
+}

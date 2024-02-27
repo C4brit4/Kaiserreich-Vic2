@@ -1,0 +1,15 @@
+country_event = {
+    id = 999999
+    title = "EVTNAME999999"
+    desc = "EVTDESC999999"
+    picture = 00_SUPEREVENT_WW2
+	
+	major = yes
+	
+	is_triggered_only = yes
+    
+
+    option = {
+        name = "EVTOPTA999999"
+    }	
+}

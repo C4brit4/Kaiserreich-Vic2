@@ -1,0 +1,52 @@
+owner = USA
+controller = USA
+add_core = USA
+add_core = NEN
+trade_goods = grain
+life_rating = 40
+railroad = 1
+naval_base = 1
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}
+1861.1.1 = { 
+	railroad = 3 
+	naval_base = 2
+}
+1914.1.1 = { 
+	railroad = 5
+	naval_base = 5
+	
+	state_building = {
+		level = 2
+		building = glass_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = ammunition_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = explosives_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = artillery_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = steel_factory
+		upgrade = yes
+	}
+}

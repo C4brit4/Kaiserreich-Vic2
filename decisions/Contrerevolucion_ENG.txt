@@ -1,0 +1,411 @@
+political_decisions = {
+        Commonwealth_emp = {
+        picture = english_channel
+        potential = {
+            OR = {                
+                tag = ENG
+                                
+            }
+			NOT={has_global_flag = contrarevolucion}
+			has_global_flag = contrarevolucion_1
+			NOT = {				
+				has_country_modifier = contrarevolucion
+			}
+        }
+
+        allow = {         
+            war = no          
+
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion
+			add_country_modifier = {
+                        name = contrarevolucion
+                        duration = 200
+                }
+                     
+         
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	 Commonwealth_emp_2	  = {
+        picture = english_channel
+        potential = {
+            OR = {                
+                tag = ENG
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_2}
+			has_global_flag = contrarevolucion
+			NOT = {				
+				has_country_modifier = contrarevolucion
+			}
+        }
+
+        allow = {         
+            war = no          
+            ENG = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_2
+			CAN = {
+				set_global_flag = contrarevolucion_2
+				set_country_flag = pierde
+				capital = 269
+				primary_culture = british
+			    add_accepted_culture = anglo_canadian
+			}
+            ENG = {
+				267 = {secede_province = CAN}
+				253 = {secede_province = CAN}
+				270 = {secede_province = CAN}
+				266 = {secede_province = CAN}
+				268 = {secede_province = CAN}
+				271 = {secede_province = CAN}
+				269 = {secede_province = CAN}
+				272 = {secede_province = CAN}
+				304 = {secede_province = CAN}
+				279 = {secede_province = CAN}
+				280 = {secede_province = CAN}
+				277 = {secede_province = CAN}
+				278 = {secede_province = CAN}
+				285 = {secede_province = CAN}
+				276 = {secede_province = CAN}
+				274 = {secede_province = CAN}
+				273 = {secede_province = CAN}
+				253 = {secede_province = CAN}
+				275 = {secede_province = CAN}
+				286 = {secede_province = CAN}
+				284 = {secede_province = CAN}
+				287 = {secede_province = CAN}
+				288 = {secede_province = CAN}
+				289 = {secede_province = CAN}
+				290 = {secede_province = CAN}
+				299 = {secede_province = CAN}
+				298 = {secede_province = CAN}
+				297 = {secede_province = CAN}
+				296 = {secede_province = CAN}
+			}         
+			ENG = {
+	        war = {
+	         target = CAN	
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = conquest }
+	         call_ally = no
+            }
+			change_tag_no_core_switch = CAN
+
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	}
+	Commonwealth_emp_3	  = {
+        picture = english_channel
+        potential = {
+            OR = {                
+                tag = CAN
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_3}
+			has_global_flag = contrarevolucion_2
+			NOT = {				
+				has_country_modifier = contrarevolucion
+			}
+        }
+
+        allow = {         
+            war = no          
+            ENG = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_3
+            change_tag = ENG  
+    	    capital = 300
+			add_accepted_culture = scottish
+            add_accepted_culture = welsh
+            SAF = {
+				country_event = { id = 500505 days = 2 }
+				
+			}
+			AST = {
+				country_event = { id = 500505 days = 2 }
+				
+			}
+			RAJ = {
+				country_event = { id = 500505 days = 2 }
+				
+			}
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Commonwealth_emp_4	  = {
+        picture = english_channel
+        potential = {
+            OR = {                
+                tag = ENG
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_4}
+			has_global_flag = contrarevolucion_3
+			NOT = {				
+				has_country_modifier = contrarevolucion
+			}
+        }
+
+        allow = {         
+            war = no          
+            ENG = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_4
+            IRE = {
+				all_core = { add_core = ENG }
+			} 			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Commonwealth_emp_5	  = {
+        picture = english_channel
+        potential = {
+            OR = {                
+                tag = ENG
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_5}
+			has_global_flag = contrarevolucion_4
+			NOT = {				
+				has_country_modifier = contrarevolucion
+			}
+        }
+
+        allow = {         
+            war = no          
+            ENG = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_5
+			add_accepted_culture = irish
+            SAF = {
+				all_core = { add_core = ENG }
+			}         
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Commonwealth_emp_6	  = {
+        picture = english_channel
+        potential = {
+            OR = {                
+                tag = ENG
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_6}
+			has_global_flag = contrarevolucion_5
+			NOT = {				
+				has_country_modifier = contrarevolucion
+			}
+        }
+
+        allow = {         
+            war = no          
+            ENG = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }			
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_6
+			RAJ = {
+				all_core = { add_core = ENG }
+			}  			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Commonwealth_emp_7	  = {
+        picture = english_channel
+        potential = {
+            OR = {                
+                tag = ENG
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_7}
+			has_global_flag = contrarevolucion_6
+			NOT = {				
+				has_country_modifier = contrarevolucion
+			}
+        }
+
+        allow = {         
+            war = no          
+            ENG = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }			
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_7
+			AST = {
+				all_core = { add_core = ENG }
+			} 			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Commonwealth_emp_8	  = {
+        picture = english_channel
+        potential = {
+            OR = {                
+                tag = ENG
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_8}
+			has_global_flag = contrarevolucion_7
+			NOT = {				
+				has_country_modifier = contrarevolucion
+			}
+        }
+
+        allow = {         
+            war = no          
+            ENG = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }			
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_8
+			HND = {
+				all_core = { add_core = ENG }
+			}
+            PRF = {
+				all_core = { add_core = ENG }
+			}  			
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+	Commonwealth_emp_9	  = {
+        picture = english_channel
+        potential = {
+            OR = {                
+                tag = ENG
+                                
+            }
+			NOT={has_global_flag = contrarevolucion_9}
+			has_global_flag = contrarevolucion_8
+			NOT = {				
+				has_country_modifier = contrarevolucion
+			}
+        }
+
+        allow = {         
+            war = no          
+            ENG = {
+                    all_core = {
+                        OR = {
+                            owned_by = THIS                       
+                    }
+                }
+            }			
+        }
+		
+        
+
+        effect = {                
+            set_global_flag = contrarevolucion_9
+			change_tag = COM
+			ENG = {
+				all_core = { add_core = COM }
+			}
+			EGY = {
+				all_core = { add_core = COM }
+			}
+            COM = {
+				all_core = { remove_core = ENG }
+			}  	
+        add_accepted_culture = marathi
+        add_accepted_culture = avadhi
+        add_accepted_culture = bihari
+        add_accepted_culture = tamil
+        add_accepted_culture = kanauji
+        add_accepted_culture = boer
+        add_accepted_culture = khoisan
+        add_accepted_culture = zulu
+        add_accepted_culture = xhosa
+        add_accepted_culture = sotho		
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

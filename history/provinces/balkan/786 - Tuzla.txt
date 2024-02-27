@@ -1,0 +1,17 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = BOS
+add_core = SER
+trade_goods = grain
+life_rating = 35
+1914.1.1 = {
+owner = CRO
+controller = CRO
+
+add_core = CRO
+	remove_core = TUR
+}
+1914.1.1 = {
+	railroad = 1
+}

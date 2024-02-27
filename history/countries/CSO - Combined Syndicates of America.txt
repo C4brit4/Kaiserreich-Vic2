@@ -2,7 +2,11 @@ capital = 223
 primary_culture = yankee
 culture = dixie
 religion = protestant
+<<<<<<< HEAD
 government = democracy
+=======
+government = proletarian_dictatorship
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 plurality = 25.0
 nationalvalue = nv_liberty
 literacy = 0.60

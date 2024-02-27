@@ -1,0 +1,105 @@
+#Southern Melanesia (24000) #see Vanuatu.txt for balance of region
+#uncolonized in 1836
+#New Caledonia (24000/6000 POPS) 
+1097 = {
+	officers = {
+		culture = french
+		religion =  catholic 
+		size = 33
+	 } 
+	officers = {
+		culture = french
+		religion = catholic 
+		size = 7
+	 } 
+	soldiers = {
+		culture = french
+		religion =  catholic 
+		size = 134
+	 } 
+	soldiers = {
+		culture = french
+		religion = catholic 
+		size = 30
+	 } 
+	aristocrats = {
+		culture = french
+		religion =  catholic 
+		size = 279
+	 } 
+	aristocrats = {
+		culture = french
+		religion = catholic 
+		size = 63
+	 } 
+	bureaucrats = {
+		culture = french
+		religion =  catholic 
+		size = 66
+	 } 
+	bureaucrats = {
+		culture = french
+		religion = catholic 
+		size = 15
+	 } 
+	capitalists = {
+		culture = french
+		religion =  catholic 
+		size = 66
+	 } 
+	capitalists = {
+		culture = french
+		religion = catholic 
+		size = 15
+	 } 
+	clergymen = {
+		culture = french
+		religion =  catholic 
+		size = 224
+	 } 
+	clergymen = {
+		culture = french
+		religion = catholic 
+		size = 50
+	 } 
+	artisans = {
+		culture = french
+		religion =  catholic 
+		size = 339
+	 } 
+	artisans = {
+		culture = french
+		religion = catholic 
+		size = 76
+	 } 
+	farmers = {
+		culture = french
+		religion =  catholic 
+		size = 2217
+	 } 
+	farmers = {
+		culture = french
+		religion = catholic 
+		size = 503
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  catholic 
+		size = 4482
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 1017
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  catholic 
+		size = 1710
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 388
+	 } 
+}

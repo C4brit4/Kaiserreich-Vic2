@@ -1,0 +1,836 @@
+#Western Micronesia (27600)
+#colonized by Spain in 1836
+#Guam (6000/1500 POPS)
+2517 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 106
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 10
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 52
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 5
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 212
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 443
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 43
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 106
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = protestant 
+		size = 10
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 354
+	 } 
+	clergymen = {
+		culture = british
+		religion = protestant 
+		size = 35
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 320
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 31
+	 } 
+	artisans = {
+		culture = yue
+		religion =  mahayana
+		size = 258
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 25
+	 } 
+	farmers = {
+		culture = yue
+		religion =  mahayana
+		size = 806
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 79
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  catholic 
+		size = 1774
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = catholic 
+		size = 175
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 4968
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 491
+	 } 
+	farmers = {
+		culture = micronesian
+		religion =  catholic 
+		size = 5445
+	 } 
+	farmers = {
+		culture = micronesian
+		religion = catholic 
+		size = 538
+	 } 
+}
+#Saipan (5600/1400 POPS)
+2521 = {
+	officers = {
+		culture = yue
+		religion =  mahayana
+		size = 35
+	 } 
+	officers = {
+		culture = yue
+		religion = mahayana
+		size = 3
+	 } 
+	soldiers = {
+		culture = yue
+		religion =  mahayana
+		size = 144
+	 } 
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 14
+	 } 
+	aristocrats = {
+		culture = yue
+		religion =  mahayana
+		size = 421
+	 } 
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 41
+	 } 
+	bureaucrats = {
+		culture = yue
+		religion =  mahayana
+		size = 48
+	 } 
+	bureaucrats = {
+		culture = yue
+		religion = mahayana
+		size = 4
+	 } 
+	capitalists = {
+		culture = yue
+		religion =  mahayana
+		size = 71
+	 } 
+	capitalists = {
+		culture = yue
+		religion = mahayana
+		size = 7
+	 } 
+	clergymen = {
+		culture = yue
+		religion =  mahayana
+		size = 120
+	 } 
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 11
+	 } 
+	artisans = {
+		culture = yue
+		religion =  mahayana
+		size = 394
+	 } 
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 38
+	 } 
+	farmers = {
+		culture = yue
+		religion =  mahayana
+		size = 1536
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 152
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 3496
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 345
+	 } 
+	farmers = {
+		culture = micronesian
+		religion =  catholic 
+		size = 3794
+	 } 
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 375
+	 } 
+}
+#uncolonized in 1836
+#Palau (8000/2000 POPS)
+2518 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 7
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = yue
+		religion =  mahayana
+		size = 33
+	 } 
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 1
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 32
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 1
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 16
+	 } 
+	artisans = {
+		culture = filipino
+		religion =  catholic 
+		size = 50
+	 } 
+	artisans = {
+		culture = filipino
+		religion = catholic 
+		size = 1
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 152
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 5
+	 } 
+	farmers = {
+		culture = polynesian
+		religion =  catholic 
+		size = 1118
+	 } 
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 43
+	 } 
+}
+#Yap (2200/550 POPS)
+2519 = {
+	officers = {
+		culture = yue
+		religion =  mahayana
+		size = 10
+	 } 
+	soldiers = {
+		culture = yue
+		religion =  mahayana
+		size = 38
+	 } 
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 2
+	 } 
+	soldiers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 142
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 7
+	 } 
+	bureaucrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 2
+	 } 
+	capitalists = {
+		culture = micronesian
+		religion =  protestant 
+		size = 17
+	 } 
+	clergymen = {
+		culture = micronesian
+		religion =  protestant 
+		size = 35
+	 } 
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 1
+	 } 
+	artisans = {
+		culture = micronesian
+		religion =  protestant 
+		size = 27
+	 } 
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 1
+	 } 
+	farmers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 3274
+	 } 
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 181
+	 } 
+}
+#Truk (3140/785 POPS)
+2579 = {
+	officers = {
+		culture = yue
+		religion =  mahayana
+		size = 42
+	 } 
+	officers = {
+		culture = yue
+		religion = mahayana
+		size = 2
+	 } 
+	soldiers = {
+		culture = yue
+		religion =  mahayana
+		size = 159
+	 } 
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 8
+	 } 
+	soldiers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 14
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 577
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 32
+	 } 
+	bureaucrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 14
+	 } 
+	capitalists = {
+		culture = micronesian
+		religion =  protestant 
+		size = 72
+	 } 
+	capitalists = {
+		culture = micronesian
+		religion = animist
+		size = 3
+	 } 
+	clergymen = {
+		culture = micronesian
+		religion =  protestant 
+		size = 144
+	 } 
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 7
+	 } 
+	artisans = {
+		culture = micronesian
+		religion =  protestant 
+		size = 114
+	 } 
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 6
+	 } 
+	farmers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 13309
+	 } 
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 737
+	 } 
+}
+#Ponape (2660/665 POPS)
+610 = {
+	officers = {
+		culture = yue
+		religion =  mahayana
+		size = 22
+	 } 
+	officers = {
+		culture = yue
+		religion = mahayana
+		size = 1
+	 } 
+	soldiers = {
+		culture = yue
+		religion =  mahayana
+		size = 82
+	 } 
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 4
+	 } 
+	soldiers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 303
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 16
+	 } 
+	bureaucrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 2000
+	 } 
+	capitalists = {
+		culture = micronesian
+		religion =  protestant 
+		size = 37
+	 } 
+	capitalists = {
+		culture = micronesian
+		religion = animist
+		size = 2
+	 } 
+	clergymen = {
+		culture = micronesian
+		religion =  protestant 
+		size = 75
+	 } 
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 4
+	 } 
+	artisans = {
+		culture = micronesian
+		religion =  protestant 
+		size = 60
+	 } 
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 3
+	 } 
+	farmers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 6980
+	 } 
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 386
+	 } 
+}
+#Northern Micronesia (180)
+#uncolonized in 1836
+#Bonin (60/15 POPS)
+1654 = {
+	soldiers = {
+		culture = japanese
+		religion =  shinto 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 6
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 150
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 32
+	 } 
+}
+#Marcus (60/15 POPS)
+2525 = {
+	soldiers = {
+		culture = japanese
+		religion =  shinto 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 6
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 150
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 32
+	 } 
+}
+#Easterns Micronesia (21000)
+#uncolonized in 1836
+#Marshall Islands (6000/1500 POPS)
+2522 = {
+	officers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 7
+	 } 
+	soldiers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 31
+	 } 
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 1
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 106
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 3
+	 } 
+	bureaucrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 1
+	 } 
+	capitalists = {
+		culture = micronesian
+		religion =  protestant 
+		size = 12
+	 } 
+	clergymen = {
+		culture = micronesian
+		religion =  protestant 
+		size = 26
+	 } 
+	artisans = {
+		culture = micronesian
+		religion =  protestant 
+		size = 66
+	 } 
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 2
+	 } 
+	farmers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 2092
+	 } 
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 75
+	 } 
+}
+#Nauru (1000/250 POPS)
+2523 = {
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 1
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 28
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 1
+	 } 
+	capitalists = {
+		culture = spanish
+		religion =  catholic
+		size = 2
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic
+		size = 6
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  protestant 
+		size = 8
+	 } 
+	artisans = {
+		culture = yue
+		religion =  mahayana
+		size = 16
+	 } 
+	farmers = {
+		culture = yue
+		religion =  mahayana
+		size = 40
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 2
+	 } 
+	farmers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 465
+	 } 
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 25
+	 } 
+}
+#Gilbert Islands (14000/3250 POPS)
+2527 = {
+	officers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 22
+	 } 
+	officers = {
+		culture = micronesian
+		religion = animist
+		size = 1
+	 } 
+	soldiers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 91
+	 } 
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 4
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 305
+	 } 
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = micronesian
+		religion =  protestant 
+		size = 7
+	 } 
+	capitalists = {
+		culture = micronesian
+		religion =  protestant 
+		size = 38
+	 } 
+	capitalists = {
+		culture = micronesian
+		religion = animist
+		size = 1
+	 } 
+	clergymen = {
+		culture = micronesian
+		religion =  protestant 
+		size = 76
+	 } 
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 3
+	 } 
+	artisans = {
+		culture = micronesian
+		religion =  protestant 
+		size = 118
+	 } 
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 5
+	 } 
+	farmers = {
+		culture = micronesian
+		religion =  protestant 
+		size = 6608
+	 } 
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 311
+	 } 
+
+}

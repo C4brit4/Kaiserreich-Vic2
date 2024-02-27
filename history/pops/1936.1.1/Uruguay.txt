@@ -1,0 +1,465 @@
+#Uruguay Region (200000)  
+#Under rule of Uruguay 1836
+#Montevideo (112000/28000 POPS)
+2344 = {
+	officers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 646
+	 } 
+	officers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 123
+	 } 
+	soldiers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 2588
+	 } 
+	soldiers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 493
+	 } 
+	aristocrats = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 11835
+	 } 
+	aristocrats = {
+		culture = uruguayos
+		religion = catholic 
+		size = 2254
+	 } 
+	bureaucrats = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 295
+	 } 
+	bureaucrats = {
+		culture = uruguayos
+		religion = catholic 
+		size = 56
+	 } 
+	capitalists = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 1479
+	 } 
+	capitalists = {
+		culture = uruguayos
+		religion = catholic 
+		size = 281
+	 } 
+	clergymen = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 2958
+	 } 
+	clergymen = {
+		culture = uruguayos
+		religion = catholic 
+		size = 563
+	 } 
+	clerks = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 9105
+	 } 
+	clerks = {
+		culture = uruguayos
+		religion = catholic 
+		size = 1734
+	 } 
+	artisans = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 8650
+	 } 
+	artisans = {
+		culture = uruguayos
+		religion = catholic 
+		size = 1647
+	 } 
+	craftsmen = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 27772
+	 } 
+	craftsmen = {
+		culture = uruguayos
+		religion = catholic 
+		size = 5289
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 189132
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 36025
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion =  catholic 
+		size = 17753
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic 
+		size = 3381
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 23671
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 4508
+	 } 
+}
+#Paysandu (36000/9000 POPS)
+2345 = {
+	officers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 226
+	 } 
+	officers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 43
+	 } 
+	soldiers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 907
+	 } 
+	soldiers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 172
+	 } 
+	aristocrats = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 4149
+	 } 
+	aristocrats = {
+		culture = uruguayos
+		religion = catholic 
+		size = 790
+	 } 
+	bureaucrats = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 103
+	 } 
+	bureaucrats = {
+		culture = uruguayos
+		religion = catholic 
+		size = 19
+	 } 
+	capitalists = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 518
+	 } 
+	capitalists = {
+		culture = uruguayos
+		religion = catholic 
+		size = 98
+	 } 
+	clergymen = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 1037
+	 } 
+	clergymen = {
+		culture = uruguayos
+		religion = catholic 
+		size = 197
+	 } 
+	clerks = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 3192
+	 } 
+	clerks = {
+		culture = uruguayos
+		religion = catholic 
+		size = 608
+	 } 
+	artisans = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 3032
+	 } 
+	artisans = {
+		culture = uruguayos
+		religion = catholic 
+		size = 577
+	 } 
+	craftsmen = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 9736
+	 } 
+	craftsmen = {
+		culture = uruguayos
+		religion = catholic 
+		size = 1854
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 70462
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 13421
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 10374
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 1976
+	 } 
+}
+#Tacumba (12000/3000 POPS)
+2346 = {
+	officers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 52
+	 } 
+	officers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 10
+	 } 
+	soldiers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 214
+	 } 
+	soldiers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 40
+	 } 
+	aristocrats = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 982
+	 } 
+	aristocrats = {
+		culture = uruguayos
+		religion = catholic 
+		size = 187
+	 } 
+	bureaucrats = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = uruguayos
+		religion = catholic 
+		size = 4
+	 } 
+	capitalists = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 122
+	 } 
+	capitalists = {
+		culture = uruguayos
+		religion = catholic 
+		size = 23
+	 } 
+	clergymen = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 245
+	 } 
+	clergymen = {
+		culture = uruguayos
+		religion = catholic 
+		size = 46
+	 } 
+	clerks = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 756
+	 } 
+	clerks = {
+		culture = uruguayos
+		religion = catholic 
+		size = 144
+	 } 
+	artisans = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 718
+	 } 
+	artisans = {
+		culture = uruguayos
+		religion = catholic 
+		size = 136
+	 } 
+	craftsmen = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 2305
+	 } 
+	craftsmen = {
+		culture = uruguayos
+		religion = catholic 
+		size = 439
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 16936
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 3225
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 2210
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 421
+	 } 
+}
+#Melo (40000/10000 POPS)
+2347 = {
+	officers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 78
+	 } 
+	officers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 15
+	 } 
+	soldiers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 315
+	 } 
+	soldiers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 60
+	 } 
+	aristocrats = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 1444
+	 } 
+	aristocrats = {
+		culture = uruguayos
+		religion = catholic 
+		size = 275
+	 } 
+	bureaucrats = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 36
+	 } 
+	bureaucrats = {
+		culture = uruguayos
+		religion = catholic 
+		size = 6
+	 } 
+	capitalists = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 180
+	 } 
+	capitalists = {
+		culture = uruguayos
+		religion = catholic 
+		size = 34
+	 } 
+	clergymen = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 361
+	 } 
+	clergymen = {
+		culture = uruguayos
+		religion = catholic 
+		size = 68
+	 } 
+	clerks = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 1111
+	 } 
+	clerks = {
+		culture = uruguayos
+		religion = catholic 
+		size = 211
+	 } 
+	artisans = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 1055
+	 } 
+	artisans = {
+		culture = uruguayos
+		religion = catholic 
+		size = 201
+	 } 
+	craftsmen = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 3389
+	 } 
+	craftsmen = {
+		culture = uruguayos
+		religion = catholic 
+		size = 645
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 25256
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 4810
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion =  catholic 
+		size = 2889
+	 } 
+	farmers = {
+		culture = uruguayos
+		religion = catholic 
+		size = 550
+	 } 
+
+}

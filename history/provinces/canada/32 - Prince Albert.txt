@@ -1,0 +1,15 @@
+add_core = MTC
+trade_goods = grain
+life_rating = 30
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}
+1914.1.1 = {
+	owner = CAN
+	controller = CAN
+	add_core = CAN
+	colonial = 0
+	railroad = 3
+}

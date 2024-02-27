@@ -1,0 +1,2022 @@
+#Yorubaland Region (1824000)
+#ruled by Oyo in 1836
+#Lagos (336000/84000 POPS)
+1923 = {
+	officers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 1404
+	 } 
+	officers = {
+		culture = yoruba
+		religion = animist
+		size = 70
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 5620
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 280
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 18735
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 934
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 467
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion = animist
+		size = 23
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion =  protestant 
+		size = 2341
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion = animist
+		size = 116
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion =  protestant 
+		size = 4683
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 233
+	 } 
+	artisans = {
+		culture = yoruba
+		religion =  protestant 
+		size = 8208
+	 } 
+	artisans = {
+		culture = fon
+		religion = animist
+		size = 409
+	 } 
+	farmers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 397884
+	 } 
+	farmers = {
+		culture = fon
+		religion = animist
+		size = 19842
+	 } 
+}
+#Abeokuta (784000/196000 POPS)
+1924 = {
+	officers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 583
+	 } 
+	officers = {
+		culture = yoruba
+		religion = animist
+		size = 29
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 2337
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 116
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 7791
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 388
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 194
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion = animist
+		size = 9
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion =  protestant 
+		size = 973
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion = animist
+		size = 48
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion =  protestant 
+		size = 1947
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 97
+	 } 
+	artisans = {
+		culture = yoruba
+		religion =  protestant 
+		size = 3412
+	 } 
+	artisans = {
+		culture = fon
+		religion = animist
+		size = 170
+	 } 
+	farmers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 165464
+	 } 
+	farmers = {
+		culture = fon
+		religion = animist
+		size = 8251
+	 } 
+}
+#Ibadan (1160000/290000 POPS)
+1925 = {
+	officers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 1213
+	 } 
+	officers = {
+		culture = yoruba
+		religion = animist
+		size = 60
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 4854
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 242
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 16182
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 807
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 403
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion = animist
+		size = 20
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion =  protestant 
+		size = 2022
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion = animist
+		size = 100
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion =  protestant 
+		size = 4045
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 201
+	 } 
+	artisans = {
+		culture = yoruba
+		religion =  protestant 
+		size = 7090
+	 } 
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 353
+	 } 
+	farmers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 343672
+	 } 
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 17138
+	 } 
+}
+#Ife (872000/218000 POPS)
+1926 = {
+	officers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 535
+	 } 
+	officers = {
+		culture = yoruba
+		religion = animist
+		size = 26
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 2143
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 106
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 7143
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 356
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 178
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion = animist
+		size = 8
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion =  protestant 
+		size = 892
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion = animist
+		size = 44
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion =  protestant 
+		size = 1785
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 89
+	 } 
+	artisans = {
+		culture = yoruba
+		religion =  protestant 
+		size = 3129
+	 } 
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 156
+	 } 
+	farmers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 151710
+	 } 
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 7565
+	 } 
+}
+#Ilorin (248000/62000 POPS) african_Minor includes Nupe
+1927 = {
+	officers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 402
+	 } 
+	officers = {
+		culture = yoruba
+		religion = animist
+		size = 20
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 1614
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 80
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 5381
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 268
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 134
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion = animist
+		size = 6
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion =  protestant 
+		size = 672
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion = animist
+		size = 33
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion =  protestant 
+		size = 1344
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 67
+	 } 
+	artisans = {
+		culture = yoruba
+		religion =  protestant 
+		size = 2357
+	 } 
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 117
+	 } 
+	farmers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 114288
+	 } 
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 5699
+	 } 
+}
+#Edo Region (1676000)
+#ruled by Benin in 1836
+#Benin (1144000/286000 POPS)
+1928 = {
+	officers = {
+		culture = edo
+		religion =  protestant 
+		size = 543
+	 } 
+	officers = {
+		culture = edo
+		religion = animist
+		size = 27
+	 } 
+	soldiers = {
+		culture = edo
+		religion =  protestant 
+		size = 2177
+	 } 
+	soldiers = {
+		culture = edo
+		religion = animist
+		size = 108
+	 } 
+	aristocrats = {
+		culture = edo
+		religion =  protestant 
+		size = 7258
+	 } 
+	aristocrats = {
+		culture = edo
+		religion = animist
+		size = 361
+	 } 
+	bureaucrats = {
+		culture = edo
+		religion =  protestant 
+		size = 180
+	 } 
+	bureaucrats = {
+		culture = edo
+		religion = animist
+		size = 9
+	 } 
+	capitalists = {
+		culture = edo
+		religion =  protestant 
+		size = 906
+	 } 
+	capitalists = {
+		culture = edo
+		religion = animist
+		size = 45
+	 } 
+	clergymen = {
+		culture = edo
+		religion =  protestant 
+		size = 1814
+	 } 
+	clergymen = {
+		culture = edo
+		religion = animist
+		size = 90
+	 } 
+	artisans = {
+		culture = edo
+		religion =  protestant 
+		size = 3179
+	 } 
+	artisans = {
+		culture = edo
+		religion = animist
+		size = 158
+	 } 
+	farmers = {
+		culture = edo
+		religion =  protestant 
+		size = 154137
+	 } 
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 7686
+	 } 
+}
+#Lokoja (332000/83000 POPS)
+1930 = {
+	officers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 560
+	 } 
+	officers = {
+		culture = yoruba
+		religion = animist
+		size = 27
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 2240
+	 } 
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 111
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 7467
+	 } 
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 372
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion =  protestant 
+		size = 186
+	 } 
+	bureaucrats = {
+		culture = yoruba
+		religion = animist
+		size = 9
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion =  protestant 
+		size = 933
+	 } 
+	capitalists = {
+		culture = yoruba
+		religion = animist
+		size = 46
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion =  protestant 
+		size = 1866
+	 } 
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 93
+	 } 
+	artisans = {
+		culture = yoruba
+		religion =  protestant 
+		size = 3271
+	 } 
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 163
+	 } 
+	farmers = {
+		culture = yoruba
+		religion =  protestant 
+		size = 132825
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion = animist
+		size = 6623
+	 } 
+	farmers = {
+		culture = ibo
+		religion =  protestant 
+		size = 25761
+	 } 
+	farmers = {
+		culture = edo
+		religion = animist
+		size = 1284
+	 } 
+}
+#Warri (1232000/308000 POPS) east_kwa includes itsekari
+1931 = {
+	officers = {
+		culture = itsekari
+		religion =  protestant 
+		size = 1356
+	 } 
+	officers = {
+		culture = itsekari
+		religion = animist
+		size = 67
+	 } 
+	soldiers = {
+		culture = itsekari
+		religion =  protestant 
+		size = 5426
+	 } 
+	soldiers = {
+		culture = itsekari
+		religion = animist
+		size = 270
+	 } 
+	aristocrats = {
+		culture = itsekari
+		religion =  protestant 
+		size = 18087
+	 } 
+	aristocrats = {
+		culture = itsekari
+		religion = animist
+		size = 902
+	 } 
+	bureaucrats = {
+		culture = itsekari
+		religion =  protestant 
+		size = 451
+	 } 
+	bureaucrats = {
+		culture = itsekari
+		religion = animist
+		size = 22
+	 } 
+	capitalists = {
+		culture = itsekari
+		religion =  protestant 
+		size = 2260
+	 } 
+	capitalists = {
+		culture = itsekari
+		religion = animist
+		size = 112
+	 } 
+	clergymen = {
+		culture = itsekari
+		religion =  protestant 
+		size = 4521
+	 } 
+	clergymen = {
+		culture = itsekari
+		religion = animist
+		size = 225
+	 } 
+	artisans = {
+		culture = itsekari
+		religion =  protestant 
+		size = 7924
+	 } 
+	artisans = {
+		culture = itsekari
+		religion = animist
+		size = 395
+	 } 
+	farmers = {
+		culture = itsekari
+		religion =  protestant 
+		size = 14235
+	 } 
+	farmers = {
+		culture = itsekari
+		religion = animist
+		size = 709
+	 } 
+	farmers = {
+		culture = ibo
+		religion =  protestant 
+		size = 36175
+	 } 
+	farmers = {
+		culture = itsekari
+		religion = animist
+		size = 1804
+	 } 
+	farmers = {
+		culture = ibo
+		religion =  protestant 
+		size = 333718
+	 } 
+	farmers = {
+		culture = ibo
+		religion = animist
+		size = 16642
+	 } 
+}
+#ruled by Benin in 1836
+#Akure (312000/78000 POPS) african_Minor includes Nupe
+1929 = {
+	aristocrats = {
+		culture = yoruba
+		religion = animist
+		size = 850
+	}
+
+	clergymen = {
+		culture = yoruba
+		religion = animist
+		size = 450
+	}
+
+	artisans = {
+		culture = yoruba
+		religion = animist
+		size = 2200
+	}
+
+	soldiers = {
+		culture = yoruba
+		religion = animist
+		size = 450
+	}
+
+	farmers = {
+		culture = yoruba
+		religion = animist
+		size = 34050
+	}
+
+	slaves = {
+		culture = yoruba
+		religion = animist
+		size = 6000
+	}
+
+	aristocrats = {
+		culture = edo
+		religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = edo
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = edo
+		religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = edo
+		religion = animist
+		size = 1150
+	}
+
+	farmers = {
+		culture = edo
+		religion = animist
+		size = 9950
+	}
+
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 900
+	}
+
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 250
+	}
+
+	farmers = {
+		culture = east_kwa
+		religion = animist
+		size = 14250
+	}
+
+	slaves = {
+		culture = east_kwa
+		religion = animist
+		size = 6000
+	}
+}
+#Oil Rivers Region (1580000)
+#uncolonized in 1836/ruled by Calabar and the Ibo States
+#Bonny (224000/56000 POPS) afrcan_minor includes itsekari
+1932 = {
+	officers = {
+		culture = itsekari
+		religion =  protestant 
+		size = 1041
+	 } 
+	officers = {
+		culture = itsekari
+		religion = animist
+		size = 51
+	 } 
+	soldiers = {
+		culture = itsekari
+		religion =  protestant 
+		size = 4166
+	 } 
+	soldiers = {
+		culture = itsekari
+		religion = animist
+		size = 207
+	 } 
+	aristocrats = {
+		culture = itsekari
+		religion =  protestant 
+		size = 13887
+	 } 
+	aristocrats = {
+		culture = itsekari
+		religion = animist
+		size = 692
+	 } 
+	bureaucrats = {
+		culture = itsekari
+		religion =  protestant 
+		size = 346
+	 } 
+	bureaucrats = {
+		culture = itsekari
+		religion = animist
+		size = 17
+	 } 
+	capitalists = {
+		culture = itsekari
+		religion =  protestant 
+		size = 1735
+	 } 
+	capitalists = {
+		culture = itsekari
+		religion = animist
+		size = 86
+	 } 
+	clergymen = {
+		culture = itsekari
+		religion =  protestant 
+		size = 3471
+	 } 
+	clergymen = {
+		culture = itsekari
+		religion = animist
+		size = 173
+	 } 
+	artisans = {
+		culture = itsekari
+		religion =  protestant 
+		size = 6084
+	 } 
+	artisans = {
+		culture = itsekari
+		religion = animist
+		size = 303
+	 } 
+	farmers = {
+		culture = itsekari
+		religion =  protestant 
+		size = 69949
+	 } 
+	farmers = {
+		culture = itsekari
+		religion = animist
+		size = 3488
+	 } 
+	farmers = {
+		culture = ibibio
+		religion =  protestant 
+		size = 224973
+	 } 
+	farmers = {
+		culture = ibibio
+		religion = animist
+		size = 11219
+	 } 
+}
+#Awka (1264000/316000 POPS)
+1933 = {
+	officers = {
+		culture = ibo
+		religion =  protestant 
+		size = 1140
+	 } 
+	officers = {
+		culture = ibo
+		religion = animist
+		size = 56
+	 } 
+	soldiers = {
+		culture = ibo
+		religion =  protestant 
+		size = 4560
+	 } 
+	soldiers = {
+		culture = ibo
+		religion = animist
+		size = 227
+	 } 
+	aristocrats = {
+		culture = ibo
+		religion =  protestant 
+		size = 15201
+	 } 
+	aristocrats = {
+		culture = ibo
+		religion = animist
+		size = 758
+	 } 
+	bureaucrats = {
+		culture = ibo
+		religion =  protestant 
+		size = 380
+	 } 
+	bureaucrats = {
+		culture = ibo
+		religion = animist
+		size = 18
+	 } 
+	capitalists = {
+		culture = ibo
+		religion =  protestant 
+		size = 1900
+	 } 
+	capitalists = {
+		culture = ibo
+		religion = animist
+		size = 94
+	 } 
+	clergymen = {
+		culture = ibo
+		religion =  protestant 
+		size = 3800
+	 } 
+	clergymen = {
+		culture = ibo
+		religion = animist
+		size = 189
+	 } 
+	artisans = {
+		culture = ibo
+		religion =  protestant 
+		size = 6659
+	 } 
+	artisans = {
+		culture = ibo
+		religion = animist
+		size = 332
+	 } 
+	farmers = {
+		culture = ibo
+		religion =  protestant 
+		size = 322837
+	 } 
+	farmers = {
+		culture = itsekari
+		religion = animist
+		size = 16099
+	 } 
+}
+#Calabar (840000/210000 POPS)
+1934 = {
+	officers = {
+		culture = ibibio
+		religion =  protestant 
+		size = 850
+	 } 
+	officers = {
+		culture = ibibio
+		religion = animist
+		size = 42
+	 } 
+	soldiers = {
+		culture = ibibio
+		religion =  protestant 
+		size = 3403
+	 } 
+	soldiers = {
+		culture = ibibio
+		religion = animist
+		size = 169
+	 } 
+	aristocrats = {
+		culture = ibibio
+		religion =  protestant 
+		size = 11344
+	 } 
+	aristocrats = {
+		culture = ibibio
+		religion = animist
+		size = 565
+	 } 
+	bureaucrats = {
+		culture = ibibio
+		religion =  protestant 
+		size = 282
+	 } 
+	bureaucrats = {
+		culture = ibibio
+		religion = animist
+		size = 14
+	 } 
+	capitalists = {
+		culture = ibibio
+		religion =  protestant 
+		size = 1417
+	 } 
+	capitalists = {
+		culture = ibibio
+		religion = animist
+		size = 70
+	 } 
+	clergymen = {
+		culture = ibibio
+		religion =  protestant 
+		size = 2835
+	 } 
+	clergymen = {
+		culture = ibibio
+		religion = animist
+		size = 141
+	 } 
+	artisans = {
+		culture = ibibio
+		religion =  protestant 
+		size = 4970
+	 } 
+	artisans = {
+		culture = ibibio
+		religion = animist
+		size = 247
+	 } 
+	farmers = {
+		culture = ibibio
+		religion =  protestant 
+		size = 240914
+	 } 
+	farmers = {
+		culture = tiv
+		religion = animist
+		size = 12014
+	 } 
+}
+#Aruchukwu (832000/208000 POPS)
+1935 = {
+	officers = {
+		culture = ibo
+		religion =  protestant 
+		size = 826
+	 } 
+	officers = {
+		culture = ibo
+		religion = animist
+		size = 41
+	 } 
+	soldiers = {
+		culture = ibo
+		religion =  protestant 
+		size = 3308
+	 } 
+	soldiers = {
+		culture = ibo
+		religion = animist
+		size = 165
+	 } 
+	aristocrats = {
+		culture = ibo
+		religion =  protestant 
+		size = 11029
+	 } 
+	aristocrats = {
+		culture = ibo
+		religion = animist
+		size = 550
+	 } 
+	bureaucrats = {
+		culture = ibo
+		religion =  protestant 
+		size = 275
+	 } 
+	bureaucrats = {
+		culture = ibo
+		religion = animist
+		size = 13
+	 } 
+	capitalists = {
+		culture = ibo
+		religion =  protestant 
+		size = 1378
+	 } 
+	capitalists = {
+		culture = ibo
+		religion = animist
+		size = 68
+	 } 
+	clergymen = {
+		culture = ibo
+		religion =  protestant 
+		size = 2757
+	 } 
+	clergymen = {
+		culture = ibo
+		religion = animist
+		size = 137
+	 } 
+	artisans = {
+		culture = ibo
+		religion =  protestant 
+		size = 4832
+	 } 
+	artisans = {
+		culture = ibo
+		religion = animist
+		size = 240
+	 } 
+	farmers = {
+		culture = ibo
+		religion =  protestant 
+		size = 234240
+	 } 
+	farmers = {
+		culture = ibibio
+		religion = animist
+		size = 11681
+	 } 
+}
+#Kwararafa Region (548000)
+#uncolonized in 1836
+#Makurdi (372000/93000 POPS)
+1936 = {
+	soldiers = {
+		culture = tiv
+		religion =  sunni 
+		size = 2769
+	 } 
+	aristocrats = {
+		culture = tiv
+		religion =  sunni 
+		size = 9230
+	 } 
+	capitalists = {
+		culture = tiv
+		religion =  sunni 
+		size = 1153
+	 } 
+	clergymen = {
+		culture = tiv
+		religion =  sunni 
+		size = 2307
+	 } 
+	artisans = {
+		culture = tiv
+		religion =  sunni 
+		size = 4044
+	 } 
+	farmers = {
+		culture = tiv
+		religion =  sunni 
+		size = 178020
+	 } 
+	farmers = {
+		culture = ibo
+		religion =  protestant 
+		size = 17140
+	 } 
+	farmers = {
+		culture = ibo
+		religion = animist
+		size = 854
+	 } 
+}
+#Tukari (176000/44000 POPS)
+1937 = {
+	soldiers = {
+		culture = tiv
+		religion =  sunni 
+		size = 1758
+	 } 
+	aristocrats = {
+		culture = tiv
+		religion =  sunni 
+		size = 5860
+	 } 
+	clergymen = {
+		culture = tiv
+		religion =  sunni 
+		size = 1465
+	 } 
+	artisans = {
+		culture = tiv
+		religion =  sunni 
+		size = 2567
+	 } 
+	farmers = {
+		culture = tiv
+		religion =  sunni 
+		size = 124448
+	 } 
+}
+#Borgu Region (56000) #see Benin.txt for balance of region  
+#ruled by Sokoto in 1836
+#Bussa (56000/14000 POPS) #now part of Nigeria  
+1938 = {
+	soldiers = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 1290
+	 } 
+	aristocrats = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 4300
+	 } 
+	clergymen = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 1075
+	 } 
+	artisans = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 1884
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 8760
+	 } 
+	farmers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 82558
+	 } 
+}
+#Zaria - Kaduna (1322000/330500 POPS)
+1939 = {
+	soldiers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 3966
+	 } 
+	aristocrats = {
+		culture = fulbe
+		religion =  sunni 
+		size = 13220
+	 } 
+	capitalists = {
+		culture = fulbe
+		religion =  sunni 
+		size = 1652
+	 } 
+	clergymen = {
+		culture = fulbe
+		religion =  sunni 
+		size = 3305
+	 } 
+	artisans = {
+		culture = fulbe
+		religion =  sunni 
+		size = 5792
+	 } 
+	farmers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 280751
+	 } 
+}
+#Bida (68000/17000 POPS) #african_Minor includes Gwari
+1940 = {
+	soldiers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 1290
+	 } 
+	aristocrats = {
+		culture = fulbe
+		religion =  sunni 
+		size = 4300
+	 } 
+	clergymen = {
+		culture = fulbe
+		religion =  sunni 
+		size = 1075
+	 } 
+	artisans = {
+		culture = fulbe
+		religion =  sunni 
+		size = 1884
+	 } 
+	farmers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 91318
+	 } 
+}
+#Abuja (64000/16000 POPS) #african_Minor includes Gwari and Chamba
+1941 = {
+	officers = {
+		culture = east_kwa
+		religion =  protestant 
+		size = 218
+	 } 
+	officers = {
+		culture = east_kwa
+		religion = animist
+		size = 10
+	 } 
+	soldiers = {
+		culture = east_kwa
+		religion =  protestant 
+		size = 874
+	 } 
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 43
+	 } 
+	aristocrats = {
+		culture = east_kwa
+		religion =  protestant 
+		size = 2914
+	 } 
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 145
+	 } 
+	bureaucrats = {
+		culture = east_kwa
+		religion =  protestant 
+		size = 72
+	 } 
+	bureaucrats = {
+		culture = east_kwa
+		religion = animist
+		size = 3
+	 } 
+	capitalists = {
+		culture = east_kwa
+		religion =  protestant 
+		size = 363
+	 } 
+	capitalists = {
+		culture = east_kwa
+		religion = animist
+		size = 18
+	 } 
+	clergymen = {
+		culture = east_kwa
+		religion =  protestant 
+		size = 728
+	 } 
+	clergymen = {
+		culture = east_kwa
+		religion = animist
+		size = 36
+	 } 
+	artisans = {
+		culture = east_kwa
+		religion =  protestant 
+		size = 1276
+	 } 
+	artisans = {
+		culture = east_kwa
+		religion = animist
+		size = 63
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion =  protestant 
+		size = 30713
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion = animist
+		size = 1531
+	 } 
+	farmers = {
+		culture = hausa
+		religion =  sunni 
+		size = 32739
+	 } 
+}
+#Bauchi (152000/38000 POPS) #african_Minor includes Chamba
+1942 = {
+	soldiers = {
+		culture = hausa
+		religion =  sunni 
+		size = 3030
+	 } 
+	aristocrats = {
+		culture = hausa
+		religion =  sunni 
+		size = 10100
+	 } 
+	capitalists = {
+		culture = hausa
+		religion =  sunni 
+		size = 1262
+	 } 
+	clergymen = {
+		culture = hausa
+		religion =  sunni 
+		size = 2525
+	 } 
+	artisans = {
+		culture = hausa
+		religion =  sunni 
+		size = 4425
+	 } 
+	farmers = {
+		culture = hausa
+		religion =  sunni 
+		size = 38249
+	 } 
+	farmers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 176242
+	 } 
+}
+#Jos (52000/13000 POPS) #african_Minor includes Chamba
+1943 = {
+	soldiers = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 3414
+	 } 
+	aristocrats = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 11380
+	 } 
+	capitalists = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 1422
+	 } 
+	clergymen = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 2845
+	 } 
+	artisans = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 4986
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 31716
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion =  catholic 
+		size = 13549
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 675
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion =  sunni 
+		size = 71125
+	 } 
+	farmers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 124607
+	 } 
+}
+#Gombe (48000/12000 POPS)
+1944 = {
+	soldiers = {
+		culture = hausa
+		religion =  sunni 
+		size = 1539
+	 } 
+	aristocrats = {
+		culture = hausa
+		religion =  sunni 
+		size = 5130
+	 } 
+	clergymen = {
+		culture = hausa
+		religion =  sunni 
+		size = 1282
+	 } 
+	artisans = {
+		culture = hausa
+		religion =  sunni 
+		size = 2247
+	 } 
+	farmers = {
+		culture = hausa
+		religion =  sunni 
+		size = 52774
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion =  catholic 
+		size = 53502
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 2668
+	 } 
+}
+#Hausaland Region (3056000)
+#under rule of Sokoto in 1836
+#Kano (852000/213000 POPS)
+1945 = {
+	officers = {
+		culture = hausa
+		religion =  sunni 
+		size = 1808
+	 } 
+	soldiers = {
+		culture = hausa
+		religion =  sunni 
+		size = 7233
+	 } 
+	aristocrats = {
+		culture = hausa
+		religion =  sunni 
+		size = 24110
+	 } 
+	capitalists = {
+		culture = hausa
+		religion =  sunni 
+		size = 3013
+	 } 
+	clergymen = {
+		culture = hausa
+		religion =  sunni 
+		size = 6027
+	 } 
+	artisans = {
+		culture = fulbe
+		religion =  sunni 
+		size = 10563
+	 } 
+	farmers = {
+		culture = hausa
+		religion =  sunni 
+		size = 512018
+	 } 
+}
+#Kebbi (252000/63000 POPS)
+1946 = {
+	soldiers = {
+		culture = hausa
+		religion =  sunni 
+		size = 2373
+	 } 
+	aristocrats = {
+		culture = hausa
+		religion =  sunni 
+		size = 7910
+	 } 
+	clergymen = {
+		culture = hausa
+		religion =  sunni 
+		size = 1977
+	 } 
+	artisans = {
+		culture = hausa
+		religion =  sunni 
+		size = 3465
+	 } 
+	farmers = {
+		culture = hausa
+		religion =  sunni 
+		size = 140697
+	 } 
+	farmers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 25989
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 1296
+	 } 
+}
+#Katsina (656000/164000 POPS)
+1947 = {
+	officers = {
+		culture = hausa
+		religion =  sunni 
+		size = 1059
+	 } 
+	soldiers = {
+		culture = hausa
+		religion =  sunni 
+		size = 4239
+	 } 
+	aristocrats = {
+		culture = hausa
+		religion =  sunni 
+		size = 14130
+	 } 
+	capitalists = {
+		culture = hausa
+		religion =  sunni 
+		size = 1766
+	 } 
+	clergymen = {
+		culture = hausa
+		religion =  sunni 
+		size = 3532
+	 } 
+	artisans = {
+		culture = hausa
+		religion =  sunni 
+		size = 6190
+	 } 
+	farmers = {
+		culture = hausa
+		religion =  sunni 
+		size = 300075
+	 } 
+}
+#Sokoto (888000/220000 POPS)
+1948 = {
+	officers = {
+		culture = hausa
+		religion =  sunni 
+		size = 1321
+	 } 
+	soldiers = {
+		culture = hausa
+		religion =  sunni 
+		size = 5286
+	 } 
+	aristocrats = {
+		culture = hausa
+		religion =  sunni 
+		size = 17620
+	 } 
+	capitalists = {
+		culture = hausa
+		religion =  sunni 
+		size = 2202
+	 } 
+	clergymen = {
+		culture = hausa
+		religion =  sunni 
+		size = 4405
+	 } 
+	artisans = {
+		culture = hausa
+		religion =  sunni 
+		size = 7720
+	 } 
+	farmers = {
+		culture = hausa
+		religion =  sunni 
+		size = 357456
+	 } 
+	farmers = {
+		culture = fulbe
+		religion =  catholic 
+		size = 15940
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 794
+	 } 
+}
+#Hadejia (416000/104000 POPS)
+1949 = {
+	soldiers = {
+		culture = hausa
+		religion =  sunni 
+		size = 3261
+	 } 
+	aristocrats = {
+		culture = hausa
+		religion =  sunni 
+		size = 10870
+	 } 
+	capitalists = {
+		culture = hausa
+		religion =  sunni 
+		size = 1358
+	 } 
+	clergymen = {
+		culture = hausa
+		religion =  sunni 
+		size = 2717
+	 } 
+	artisans = {
+		culture = fulbe
+		religion =  sunni 
+		size = 4762
+	 } 
+	farmers = {
+		culture = hausa
+		religion =  sunni 
+		size = 230843
+	 } 
+}
+#Adamawa Region (140000) #see Cameroun.txt for balance of region   
+#under rule of Sokoto in 1836
+#Yola (140000/35000 POPS)
+1950 = {
+	soldiers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 2445
+	 } 
+	aristocrats = {
+		culture = fulbe
+		religion =  sunni 
+		size = 8150
+	 } 
+	capitalists = {
+		culture = fulbe
+		religion =  sunni 
+		size = 1018
+	 } 
+	clergymen = {
+		culture = fulbe
+		religion =  sunni 
+		size = 2037
+	 } 
+	artisans = {
+		culture = fulbe
+		religion =  sunni 
+		size = 3570
+	 } 
+	farmers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 173079
+	 } 
+}
+#Borno Region (2544000)
+#under rule of Kanem-Borno in 1836
+#Kuka (960000/240000 POPS)
+1951 = {
+	officers = {
+		culture = kanuri
+		religion =  catholic 
+		size = 357
+	 } 
+	officers = {
+		culture = kanuri
+		religion = sunni
+		size = 17
+	 } 
+	soldiers = {
+		culture = kanuri
+		religion =  catholic 
+		size = 1428
+	 } 
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 71
+	 } 
+	aristocrats = {
+		culture = kanuri
+		religion =  catholic 
+		size = 4762
+	 } 
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 237
+	 } 
+	bureaucrats = {
+		culture = kanuri
+		religion =  catholic 
+		size = 119
+	 } 
+	bureaucrats = {
+		culture = kanuri
+		religion = sunni
+		size = 5
+	 } 
+	capitalists = {
+		culture = kanuri
+		religion =  catholic 
+		size = 595
+	 } 
+	capitalists = {
+		culture = kanuri
+		religion = sunni
+		size = 29
+	 } 
+	clergymen = {
+		culture = kanuri
+		religion =  catholic 
+		size = 1190
+	 } 
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 59
+	 } 
+	artisans = {
+		culture = kanuri
+		religion =  catholic 
+		size = 2085
+	 } 
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 104
+	 } 
+	farmers = {
+		culture = kanuri
+		religion =  catholic 
+		size = 101140
+	 } 
+	farmers = {
+		culture = hausa
+		religion = sunni
+		size = 5043
+	 } 
+}
+#Nguru (768000/192000 POPS)
+1952 = {
+	officers = {
+		culture = kanuri
+		religion =  catholic 
+		size = 428
+	 } 
+	officers = {
+		culture = kanuri
+		religion = sunni
+		size = 21
+	 } 
+	soldiers = {
+		culture = kanuri
+		religion =  catholic 
+		size = 1717
+	 } 
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 85
+	 } 
+	aristocrats = {
+		culture = kanuri
+		religion =  catholic 
+		size = 5724
+	 } 
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 285
+	 } 
+	bureaucrats = {
+		culture = kanuri
+		religion =  catholic 
+		size = 142
+	 } 
+	bureaucrats = {
+		culture = kanuri
+		religion = sunni
+		size = 7
+	 } 
+	capitalists = {
+		culture = kanuri
+		religion =  catholic 
+		size = 715
+	 } 
+	capitalists = {
+		culture = kanuri
+		religion = sunni
+		size = 35
+	 } 
+	clergymen = {
+		culture = kanuri
+		religion =  catholic 
+		size = 1430
+	 } 
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 71
+	 } 
+	artisans = {
+		culture = kanuri
+		religion =  catholic 
+		size = 2507
+	 } 
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 125
+	 } 
+	farmers = {
+		culture = kanuri
+		religion =  catholic 
+		size = 51733
+	 } 
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 2579
+	 } 
+	farmers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 73320
+	 } 
+}
+#Dikoa (816000/204000 POPS)
+1953 = {
+	officers = {
+		culture = kanuri
+		religion =  catholic 
+		size = 357
+	 } 
+	officers = {
+		culture = kanuri
+		religion = sunni
+		size = 17
+	 } 
+	soldiers = {
+		culture = kanuri
+		religion =  catholic 
+		size = 1428
+	 } 
+	soldiers = {
+		culture = kanuri
+		religion = sunni
+		size = 71
+	 } 
+	aristocrats = {
+		culture = kanuri
+		religion =  catholic 
+		size = 4762
+	 } 
+	aristocrats = {
+		culture = kanuri
+		religion = sunni
+		size = 237
+	 } 
+	bureaucrats = {
+		culture = kanuri
+		religion =  catholic 
+		size = 119
+	 } 
+	bureaucrats = {
+		culture = kanuri
+		religion = sunni
+		size = 5
+	 } 
+	capitalists = {
+		culture = kanuri
+		religion =  catholic 
+		size = 595
+	 } 
+	capitalists = {
+		culture = kanuri
+		religion = sunni
+		size = 29
+	 } 
+	clergymen = {
+		culture = kanuri
+		religion =  catholic 
+		size = 1190
+	 } 
+	clergymen = {
+		culture = kanuri
+		religion = sunni
+		size = 59
+	 } 
+	artisans = {
+		culture = kanuri
+		religion =  catholic 
+		size = 2085
+	 } 
+	artisans = {
+		culture = kanuri
+		religion = sunni
+		size = 104
+	 } 
+	farmers = {
+		culture = kanuri
+		religion =  catholic 
+		size = 101140
+	 } 
+	farmers = {
+		culture = kanuri
+		religion = sunni
+		size = 5043
+	 } 
+
+}

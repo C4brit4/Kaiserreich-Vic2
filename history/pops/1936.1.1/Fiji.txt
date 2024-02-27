@@ -1,0 +1,194 @@
+#Eastern Melanesia (96000) 
+#uncolonized in 1836 #ruled by the King of Fiji}
+#Fiji (88000/22000 POPS) 
+2454 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 284
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 11
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 170
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 6
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 684
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 1711
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 66
+	 } 
+	aristocrats = {
+		culture = yue
+		religion =  mahayana
+		size = 569
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 22
+	 } 
+	bureaucrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 56
+	 } 
+	bureaucrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 2
+	 } 
+	clergymen = {
+		culture = marathi
+		religion =  hindu 
+		size = 569
+	 } 
+	clergymen = {
+		culture = avadhi
+		religion = hindu 
+		size = 22
+	 } 
+	artisans = {
+		culture = marathi
+		religion =  hindu 
+		size = 1051
+	 } 
+	artisans = {
+		culture = avadhi
+		religion = hindu 
+		size = 40
+	 } 
+	farmers = {
+		culture = marathi
+		religion =  hindu 
+		size = 36530
+	 } 
+	farmers = {
+		culture = avadhi
+		religion = hindu 
+		size = 1423
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  catholic 
+		size = 11508
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 448
+	 } 
+}
+#Lomaji (8000/2000 POPS) 
+2520 = {
+	officers = {
+		culture = marathi
+		religion =  hindu 
+		size = 34
+	 } 
+	officers = {
+		culture = avadhi
+		religion = hindu 
+		size = 1
+	 } 
+	soldiers = {
+		culture = marathi
+		religion =  hindu 
+		size = 141
+	 } 
+	soldiers = {
+		culture = avadhi
+		religion = hindu 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 471
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 11
+	 } 
+	capitalists = {
+		culture = marathi
+		religion =  hindu 
+		size = 58
+	 } 
+	capitalists = {
+		culture = avadhi
+		religion = hindu 
+		size = 2
+	 } 
+	clergymen = {
+		culture = marathi
+		religion =  hindu 
+		size = 117
+	 } 
+	clergymen = {
+		culture = avadhi
+		religion = hindu 
+		size = 4
+	 } 
+	artisans = {
+		culture = marathi
+		religion =  hindu 
+		size = 216
+	 } 
+	artisans = {
+		culture = avadhi
+		religion = hindu 
+		size = 8
+	 } 
+	farmers = {
+		culture = marathi
+		religion =  hindu 
+		size = 716
+	 } 
+	farmers = {
+		culture = avadhi
+		religion = hindu 
+		size = 27
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  catholic 
+		size = 9215
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 359
+	 } 
+}
+

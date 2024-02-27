@@ -146,4 +146,113 @@ political_decisions = {
 			}
 		}
 	}
+<<<<<<< HEAD
+=======
+	
+	win_CSO = {
+	picture = Civil_war_win
+		potential = {
+			tag = CSO
+		}
+		allow = {
+			NOT = { exists = USA }
+			NOT = { exists = UAS }
+			NOT = { exists = PSA }
+		}
+		effect = {
+			set_global_flag = statue_of_liberty_destroyed
+			prestige = 5
+			change_tag = USA
+			USA = {
+				all_core = { remove_core = PSA }
+			}
+			USA = {
+				all_core = { remove_core = UAS }
+			}
+			USA = {
+				all_core = { remove_core = CSO }
+			}
+		}
+	}
+	win_UAS = {
+	picture = Civil_war_win
+		potential = {
+			tag = UAS
+		}
+		allow = {
+			NOT = { exists = USA }
+			NOT = { exists = CSO }
+			NOT = { exists = PSA }
+		}
+		effect = {
+			set_global_flag = statue_of_liberty_destroyed
+			prestige = 5
+			change_tag = USA
+			USA = {
+				all_core = { remove_core = PSA }
+			}
+			USA = {
+				all_core = { remove_core = UAS }
+			}
+			USA = {
+				all_core = { remove_core = CSO }
+			}
+		}
+	}
+	win_PSA = {
+	picture = Civil_war_win
+		potential = {
+			tag = PSA
+		}
+		allow = {
+			NOT = { exists = USA }
+			NOT = { exists = CSO }
+			NOT = { exists = UAS }
+		}
+		effect = {
+			set_global_flag = statue_of_liberty_destroyed
+			prestige = 5
+			change_tag = USA
+			USA = {
+				all_core = { remove_core = PSA }
+			}
+			USA = {
+				all_core = { remove_core = UAS }
+			}
+			USA = {
+				all_core = { remove_core = CSO }
+			}
+		}
+	}
+	win_USA = {
+	picture = Civil_war_win
+		potential = {
+			tag = USA
+			has_country_flag = creation_of_pacific_states_of_america
+			NOT = {
+				has_country_flag = reunifacion
+			}
+		}
+		allow = {
+			NOT = { exists = PSA }
+			NOT = { exists = CSO }
+			NOT = { exists = UAS }
+		}
+		effect = {
+			set_global_flag = creation_of_pacific_states_of_america
+			has_country_flag = reunifacion
+			prestige = 5
+			government = democracy
+			USA = {
+				all_core = { remove_core = PSA }
+			}
+			USA = {
+				all_core = { remove_core = UAS }
+			}
+			USA = {
+				all_core = { remove_core = CSO }
+			}
+		}
+	}
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 }

@@ -1,0 +1,160 @@
+#Suriye Region (36000)  #see Syria.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 1836  
+#Amman (20000/5000 POPS) #now part of Jordan
+908 = {
+	soldiers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 1343
+	 } 
+	aristocrats = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 3140
+	 } 
+	artisans = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 2279
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 25028
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  orthodox 
+		size = 6256
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion = orthodox 
+		size = 63
+	 } 
+}
+#Jerash (16000/4000 POPS) #now part of Jordan
+909 = {
+	aristocrats = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 1290
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 24320
+	 } 
+}
+#Badiyat al-Sham Region (40000)  #see Syria.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 1836  
+#Azraq (12000/3000 POPS) #now part of Jordan 
+910 = {
+	farmers = {
+		culture = bedouin
+		religion =  sunni 
+		size = 11877
+	 } 
+}
+#Maan (28000/7000 POPS) #now part of Jordan
+911 = {
+	officers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 10
+	 } 
+	soldiers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 42
+	 } 
+	aristocrats = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 2
+	 } 
+	capitalists = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 12
+	 } 
+	clergymen = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 25
+	 } 
+	artisans = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 72
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 1886
+	 } 
+}
+#Palestine Region (20000)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 1836  
+#Aqaba (20000/5000 POPS) #now part of Jordan 
+922 = {
+	clergymen = {
+		culture = mashriqi
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = mashriqi
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = mashriqi
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = mashriqi
+		religion = sunni
+		size = 900
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 3775
+	}
+
+}

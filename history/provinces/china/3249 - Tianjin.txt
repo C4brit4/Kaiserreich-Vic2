@@ -1,0 +1,10 @@
+owner = LEC
+controller = LEC
+add_core = CHI
+trade_goods = silk
+life_rating = 32
+1861.1.1 = {
+	fort = 1
+}
+
+add_core = LEC

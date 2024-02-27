@@ -1,0 +1,37 @@
+owner = RUS
+controller = RUS
+add_core = LSK
+trade_goods = fish
+life_rating = 20
+colonial = 2
+1914.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	railroad = 1
+	state_building = {
+		level = 3
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = ammunition_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = explosives_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = artillery_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = steel_factory
+		upgrade = yes
+	}
+}

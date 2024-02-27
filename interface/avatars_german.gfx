@@ -1,0 +1,202 @@
+######		  Victoria 2		######
+
+######      The Germans Spritepack	######
+
+
+
+
+######     	   designed by		######
+
+######     	  Sebastian Rost      	######
+
+######     	       and		######
+
+######     	   Pierre Rost		######
+
+
+
+
+objectTypes = {	
+	
+
+	EMFXActorType = {
+		name = "PrussianGCInfantry"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+	
+	EMFXActorType = {
+		name = "PrussianGCInfantry2"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+	EMFXActorType = {
+		name = "PrussianGCEngineer"
+		actorfile = "gfx\anims\GermanEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "PrussianGCEngineer2"
+		actorfile = "gfx\anims\GermanEng_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarEngineerIdle.xsm"
+		move   = "gfx\anims\InterwarEngineerMove.xsm"
+		attack = "gfx\anims\InterwarEngineerAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "PrussianGCGuard"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "PrussianGCGuard2"
+		actorfile = "gfx\anims\GermanInf_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarInfantryIdle.xsm"
+		move   = "gfx\anims\InterwarInfantryMove.xsm"
+		attack = "gfx\anims\InterwarInfantryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "PrussianGCArtillery"
+		actorfile = "gfx\anims\GermanArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "PrussianGCArtillery2"
+		actorfile = "gfx\anims\GermanArt_Interwar.xac"
+		
+		idle   = "gfx\anims\InterwarArtilleryIdle.xsm"
+		move   = "gfx\anims\InterwarArtilleryMove.xsm"
+		attack = "gfx\anims\InterwarArtilleryAttack.xsm"
+		scale = 6.3
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}
+		
+	}
+
+	EMFXActorType = {
+		name = "PrussianGCPlane"
+		actorfile = "gfx\anims\GermanFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+	EMFXActorType = {
+		name = "PrussianGCPlane"
+		actorfile = "gfx\anims\GermanFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+}
+
+
+
+
+
+
+
+
+
+

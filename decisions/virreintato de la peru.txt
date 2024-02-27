@@ -1,0 +1,81 @@
+political_decisions = {
+       form_virreinato_del_peru = {
+	    picture = virreinato_delperu
+	    potential = {
+		    
+		    OR = {
+			    tag = IBE
+			    tag = SPC
+			}
+			NOT = {
+			    exists = VOP
+			}
+			has_country_flag = third_expedition
+		}
+		allow = {
+		    
+			
+			OR = {
+			     AND = {
+				      PEU = {vassal_of = THIS}
+					  CHL = {vassal_of = THIS}
+				 }
+				 AND = {				 
+					  CHL = {all_core = {owner={OR={tag = THIS vassal_of = THIS in_sphere = THIS}}}}
+				 }
+			}
+		}
+		effect = {
+		    prestige = 25
+			
+			PEU = {
+				all_core = {
+				    limit = {
+					    NOT = {is_core = ECU}
+					}
+				    add_core = VOP
+				}
+			}
+			CHL = {
+				all_core = {
+				    limit = {
+					    NOT = {is_core = PEU}
+					    NOT = {is_core = BOL}
+				    }
+				    add_core = VOP
+				}
+			}
+			inherit = CHL
+			inherit = PEU
+			any_country = {
+			    limit = {vassal_of = THIS}
+				any_owned = {
+					limit = {
+						is_core = VOP
+					}
+					secede_province = THIS
+				}
+			}
+			relation = {
+				who = VOP
+				value = 400
+			}
+			diplomatic_influence = {
+				who = VOP
+				value = 200
+			}	
+            release_vassal = VOP
+            create_alliance = VOP
+			relation = {
+				who = VOP
+				value = 400
+			}
+			diplomatic_influence = {
+				who = VOP
+				value = 200
+			}	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}

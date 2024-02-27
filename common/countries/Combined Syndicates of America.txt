@@ -1,0 +1,203 @@
+graphical_culture = UsGC
+color = { 203  69  69 }
+
+party = {
+	name = "USA_liberal"
+	start_date = 1854.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_conservative"
+	start_date = 1820.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "USA_liberal_2"
+	start_date = 1833.1.1
+	end_date = 1856.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_liberal_3"
+	start_date = 1848.1.1
+	end_date = 1854.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "USA_conservative_3"
+	start_date = 1859.1.1
+	end_date = 1861.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "USA_liberal_4"
+	start_date = 1887.1.1
+	end_date = 1908.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "USA_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "USA_reactionary"
+	start_date = 1820.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "USA_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"USS South Carolina" "USS Michigan" "USS Delaware" "USS North Dakota" "USS Florida" "USS Utah" "USS Wyoming" "USS Arkansas" "USS New York" "USS Texas" "USS Nevada" "USS Oklahoma" 
+		"USS Pennsylvania" "USS Arizona" "USS New Mexico" "USS Mississippi" "USS Idaho" "USS Tennessee" "USS California" "USS Colorado" "USS Maryland" "USS West Virginia" "USS Washington"
+	}
+	
+	battleship = {
+		Maine Texas Indiana Massachusetts Oregon Iowa Kearsarge Kentucky Illinois Alabama Wisconsin Missouri Ohio Virginia Nebraska Georgia "New Jersey" "Rhode Island" Connecticut Louisiana Vermont Kansas Minnesota "New Hampshire" Mississippi Idaho
+	}
+	
+	ironclad = {
+                         "USS New Ironsides" "USS Dunderberg" "USS Constitution" "USS New England" "USS Pearl Harbour" "USS Savannah" "USS St. Lawrence" "USS Superior" "USS United States"
+	}
+	manowar = {
+		"USS America" "USS Columbus" "USS Franklin" "USS Independence" "USS Washington" "USS Chipewa" "USS New Orleans" "USS Pennsylvania" "USS Delaware" "USS Vermont" "USS New Hampshire" "USS Virginia"
+		"USS New York" "USS Ohio" "USS North Carolina" 
+	}
+	cruiser = {
+		"USS Newark" "USS Charleston" "USS Baltimore" "USS Philadelphia" "USS San Francisco" "USS Olympia" "USS Cincinnati" "USS Raleigh" "USS Montgomery" "USS Detroit"
+		"USS Marblehead" "USS Columbia" "USS Minneapolis" "USS Denver" "USS Des Moines" "USS Chattanooga" "USS Galveston" "USS Tacoma" "USS Cleveland" "USS Milwaukee" "USS Charleston"
+	}
+	frigate = {
+		"USS Adams" "USS Boston" "USS Brandywine" "USS Chesapeake" "USS Columbia" "USS Congress" "USS Constellation" "USS Constitution" "USS Cumberland" "USS Essex" "USS General Greene" "USS Guirriere"
+		"USS Hudson" "USS Independence" "USS Insurgent" "USS Java" "USS John Adams" "USS Macedonian" "USS Mohawk" "USS New York" "USS Philadelphia" "USS Plattsburg" "USS Potomac" "USS President"
+		"USS Raritan" "USS Sabine" "USS Santee" "USS Savannah" "USS St. Lawrence" "USS Superior" "USS United States"
+	}
+	monitor = {
+		Monitor Passaic Montauk Nahant Patapsco Weehawken Sangamon Catskill Nantucket Lehigh Camanche Neosho Osage Ozark
+		Marietta Sandusky Roanoke Canonicus Saugus Tecumseh Manhattan Mahopac Wyandotte Ajax Catawba Oneota
+		Milwaukee Winnebago Chickasaw Kickapoo Dictator Onondaga Puritan Miantonomoh Monadnock Agamenticus Tonawanda Kalamazoo
+		Passaconaway Quinsigamond Shakamaxon
+	}
+	clipper_transport = { 
+		"Martha Custis Washington" "Abigail Adams" "Martha Jefferson" "Dolley Todd Madison" "Elizabeth Monroe" "Louisa Catherine Adams"
+		"Rachel Robards Jackson" "Hannah Van Buren" "Anna Harrison" "Letitia Tyler"
+	}
+	steam_transport = { 
+		"Mount Vernon" Agamemnon Leviathan Imperator "George Washington" Covington Mobile Finland Kroonland Harrisburg Plattsburg
+		Orizaba Siboney Mercury Huron Pocahontas Powhatan "Princess Matoika" Louisville "De Kalb" "Martha Washington"
+		"Great Northern" "Northern Pacific" Comfort Mercy "President Grant" "President Lincoln" Artemis
+	}
+	commerce_raider = {
+		Atlanta Boston Chicago Harvard Vesuvius Badger Panther Yale Prairie Buffalo Yankee Yosemite Dixie "St. Louis" "St. Paul"
+		"New Orleans" Albany
+	}
+}

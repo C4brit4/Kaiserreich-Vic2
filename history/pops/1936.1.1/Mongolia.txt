@@ -1,0 +1,1056 @@
+#Outer Mongolia Region (1292000) 
+#under the rule of China in 1836  
+#Urga (376000/94000 POPS)   
+1465 = {
+	officers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 592
+	 } 
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 84
+	 } 
+	soldiers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 2372
+	 } 
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 338
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 3850
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 550
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 96
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 13
+	 } 
+	capitalists = {
+		culture = mongol
+		religion =  gelugpa
+		size = 481
+	 } 
+	capitalists = {
+		culture = mongol
+		religion = gelugpa
+		size = 68
+	 } 
+	clergymen = {
+		culture = mongol
+		religion =  gelugpa
+		size = 962
+	 } 
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 137
+	 } 
+	artisans = {
+		culture = mongol
+		religion =  gelugpa
+		size = 2291
+	 } 
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 327
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 75558
+	 } 
+	farmers = {
+		culture = uighur
+		religion = sunni
+		size = 10794
+	 } 
+}
+#Dalandzadgad (212000/53000 POPS)   
+1466 = {
+	officers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 46
+	 } 
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 6
+	 } 
+	soldiers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 188
+	 } 
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 26
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 306
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 43
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 7
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 1
+	 } 
+	capitalists = {
+		culture = mongol
+		religion =  gelugpa
+		size = 37
+	 } 
+	capitalists = {
+		culture = mongol
+		religion = gelugpa
+		size = 5
+	 } 
+	clergymen = {
+		culture = mongol
+		religion =  gelugpa
+		size = 76
+	 } 
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 10
+	 } 
+	artisans = {
+		culture = mongol
+		religion =  gelugpa
+		size = 182
+	 } 
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 26
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 6010
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 858
+	 } 
+}
+#Bayan Tumen (176000/44000 POPS)   
+1467 = {
+	officers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 72
+	 } 
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 10
+	 } 
+	soldiers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 290
+	 } 
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 41
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 472
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 67
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 11
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 1
+	 } 
+	capitalists = {
+		culture = mongol
+		religion =  gelugpa
+		size = 58
+	 } 
+	capitalists = {
+		culture = mongol
+		religion = gelugpa
+		size = 8
+	 } 
+	clergymen = {
+		culture = mongol
+		religion =  gelugpa
+		size = 118
+	 } 
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 16
+	 } 
+	artisans = {
+		culture = mongol
+		religion =  gelugpa
+		size = 280
+	 } 
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 40
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 9273
+	 } 
+	farmers = {
+		culture = yakut
+		religion = animist
+		size = 1324
+	 } 
+}
+#Uliastai (140000/35000 POPS)   
+1468 = {
+	officers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 91
+	 } 
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 13
+	 } 
+	soldiers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 365
+	 } 
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 52
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 595
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 85
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 2
+	 } 
+	capitalists = {
+		culture = mongol
+		religion =  gelugpa
+		size = 74
+	 } 
+	capitalists = {
+		culture = mongol
+		religion = gelugpa
+		size = 10
+	 } 
+	clergymen = {
+		culture = mongol
+		religion =  gelugpa
+		size = 148
+	 } 
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 21
+	 } 
+	artisans = {
+		culture = mongol
+		religion =  gelugpa
+		size = 353
+	 } 
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 50
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 11678
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1668
+	 } 
+}
+
+#Sainshand (71100/17775 POPS)   
+2207 = {
+	officers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 42
+	 } 
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 6
+	 } 
+	soldiers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 172
+	 } 
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 24
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 280
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 40
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 7
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 1
+	 } 
+	capitalists = {
+		culture = mongol
+		religion =  gelugpa
+		size = 35
+	 } 
+	capitalists = {
+		culture = mongol
+		religion = gelugpa
+		size = 5
+	 } 
+	clergymen = {
+		culture = mongol
+		religion =  gelugpa
+		size = 70
+	 } 
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 10
+	 } 
+	artisans = {
+		culture = mongol
+		religion =  gelugpa
+		size = 166
+	 } 
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 23
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 5495
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 785
+	 } 
+}
+
+#Khatgal (152000/38000 POPS)   
+2608 = {
+	officers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 53
+	 } 
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 7
+	 } 
+	soldiers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 215
+	 } 
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 30
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 350
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 8
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 1
+	 } 
+	capitalists = {
+		culture = mongol
+		religion =  gelugpa
+		size = 43
+	 } 
+	capitalists = {
+		culture = mongol
+		religion = gelugpa
+		size = 6
+	 } 
+	clergymen = {
+		culture = mongol
+		religion =  gelugpa
+		size = 87
+	 } 
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 12
+	 } 
+	artisans = {
+		culture = mongol
+		religion =  gelugpa
+		size = 208
+	 } 
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 29
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 1483
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 211
+	 } 
+	farmers = {
+		culture = kazak
+		religion =  sunni 
+		size = 6156
+	 } 
+}
+#Bulgan (84000/21000 POPS)   
+2678 = {
+	officers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 77
+	 } 
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 11
+	 } 
+	soldiers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 312
+	 } 
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 44
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 507
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 72
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 12
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 1
+	 } 
+	capitalists = {
+		culture = mongol
+		religion =  gelugpa
+		size = 63
+	 } 
+	capitalists = {
+		culture = mongol
+		religion = gelugpa
+		size = 9
+	 } 
+	clergymen = {
+		culture = mongol
+		religion =  gelugpa
+		size = 126
+	 } 
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 18
+	 } 
+	artisans = {
+		culture = mongol
+		religion =  gelugpa
+		size = 301
+	 } 
+	artisans = {
+		culture = mongol
+		religion = gelugpa
+		size = 43
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 6845
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 977
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 3115
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 445
+	 } 
+}
+#Khovd (120000/30000 POPS)   
+2679 = {
+	officers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 63
+	 } 
+	officers = {
+		culture = mongol
+		religion = gelugpa
+		size = 9
+	 } 
+	soldiers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 258
+	 } 
+	soldiers = {
+		culture = mongol
+		religion = gelugpa
+		size = 36
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 420
+	 } 
+	aristocrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 60
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion =  gelugpa
+		size = 10
+	 } 
+	bureaucrats = {
+		culture = mongol
+		religion = gelugpa
+		size = 1
+	 } 
+	capitalists = {
+		culture = mongol
+		religion =  gelugpa
+		size = 52
+	 } 
+	capitalists = {
+		culture = mongol
+		religion = gelugpa
+		size = 7
+	 } 
+	clergymen = {
+		culture = mongol
+		religion =  gelugpa
+		size = 105
+	 } 
+	clergymen = {
+		culture = mongol
+		religion = gelugpa
+		size = 15
+	 } 
+	artisans = {
+		culture = mongol
+		religion =  gelugpa
+		size = 249
+	 } 
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 35
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 8243
+	 } 
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 1177
+	 } 
+}
+#Uliatai / Uriankhai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
+1469 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 1040
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 180
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 4165
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 720
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  orthodox 
+		size = 3094
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = orthodox 
+		size = 535
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  orthodox 
+		size = 1317
+	 } 
+	clergymen = {
+		culture = russian
+		religion = orthodox 
+		size = 227
+	 } 
+	clerks = {
+		culture = russian
+		religion =  orthodox 
+		size = 1670
+	 } 
+	clerks = {
+		culture = russian
+		religion = orthodox 
+		size = 288
+	 } 
+	artisans = {
+		culture = russian
+		religion =  orthodox 
+		size = 1586
+	 } 
+	artisans = {
+		culture = russian
+		religion = orthodox 
+		size = 274
+	 } 
+	craftsmen = {
+		culture = russian
+		religion =  orthodox 
+		size = 5010
+	 } 
+	craftsmen = {
+		culture = russian
+		religion = orthodox 
+		size = 867
+	 } 
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 5822
+	 } 
+	farmers = {
+		culture = russian
+		religion = orthodox 
+		size = 1007
+	 } 
+	farmers = {
+		culture = tatar
+		religion =  sunni
+		size = 42147
+	 } 
+	farmers = {
+		culture = tatar
+		religion = gelugpa
+		size = 7292
+	 } 
+
+}
+#Guihua Tumed - Wuhai, Ordos, Baotou, Hohhot, Ulanqab (4924000/1231000 POPS)
+1532 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1415
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 365
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5663
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1460
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 39145
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 10094
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 978
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 252
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4893
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1261
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 9786
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2523
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4773
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1231
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 833695
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 214978
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 78291
+	 } 
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 20188
+	 } 
+}
+#Ulaan Chab Chuulghan - Xilingol (428000/107000 POPS)
+1534 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 122
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 31
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 492
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 126
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3402
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 877
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 85
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 21
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 425
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 109
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 850
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 219
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 414
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 106
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 53753
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 13860
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 25519
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 6580
+	 } 
+}
+#Yeke Juu Chuulghan - Alxa, Bayannur (792000/198000 POPS)
+1535 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 227
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 58
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 910
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 234
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6296
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 1623
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 157
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 40
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 787
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 202
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1574
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 405
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 767
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 197
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 137245
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 35390
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 9444
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 2435
+	 } 
+}

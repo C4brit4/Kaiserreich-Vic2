@@ -1,0 +1,244 @@
+#French Antilles (319200)
+#Ruled by France 1836
+#Martinique (190800/27450 POPS)
+2228 = {
+	officers = {
+		culture = french
+		religion =  catholic 
+		size = 156
+	 } 
+	officers = {
+		culture = french
+		religion = catholic 
+		size = 35
+	 } 
+	soldiers = {
+		culture = french
+		religion =  catholic 
+		size = 625
+	 } 
+	soldiers = {
+		culture = french
+		religion = catholic 
+		size = 142
+	 } 
+	aristocrats = {
+		culture = french
+		religion =  catholic 
+		size = 1304
+	 } 
+	aristocrats = {
+		culture = french
+		religion = catholic 
+		size = 296
+	 } 
+	bureaucrats = {
+		culture = french
+		religion =  catholic 
+		size = 312
+	 } 
+	bureaucrats = {
+		culture = french
+		religion = catholic 
+		size = 71
+	 } 
+	capitalists = {
+		culture = french
+		religion =  catholic 
+		size = 208
+	 } 
+	capitalists = {
+		culture = french
+		religion = catholic 
+		size = 47
+	 } 
+	capitalists = {
+		culture = marathi
+		religion =  hindu 
+		size = 104
+	 } 
+	capitalists = {
+		culture = avadhi
+		religion = hindu 
+		size = 23
+	 } 
+	clergymen = {
+		culture = marathi
+		religion =  hindu 
+		size = 1043
+	 } 
+	clergymen = {
+		culture = avadhi
+		religion = hindu 
+		size = 236
+	 } 
+	artisans = {
+		culture = marathi
+		religion =  hindu 
+		size = 1460
+	 } 
+	artisans = {
+		culture = avadhi
+		religion = hindu 
+		size = 331
+	 } 
+	artisans = {
+		culture = afro_antillean
+		religion =  catholic 
+		size = 118
+	 } 
+	artisans = {
+		culture = afro_antillean
+		religion = catholic 
+		size = 27
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion =  catholic 
+		size = 39152
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion = catholic 
+		size = 8887
+	 } 
+}
+#Guadeloupe (128400/32100 POPS)
+2230 = {
+	officers = {
+		culture = french
+		religion =  catholic 
+		size = 163
+	 } 
+	officers = {
+		culture = french
+		religion = catholic 
+		size = 37
+	 } 
+	soldiers = {
+		culture = french
+		religion =  catholic 
+		size = 655
+	 } 
+	soldiers = {
+		culture = french
+		religion = catholic 
+		size = 148
+	 } 
+	aristocrats = {
+		culture = french
+		religion =  catholic 
+		size = 1365
+	 } 
+	aristocrats = {
+		culture = french
+		religion = catholic 
+		size = 309
+	 } 
+	bureaucrats = {
+		culture = french
+		religion =  catholic 
+		size = 327
+	 } 
+	bureaucrats = {
+		culture = french
+		religion = catholic 
+		size = 74
+	 } 
+	capitalists = {
+		culture = french
+		religion =  catholic 
+		size = 218
+	 } 
+	capitalists = {
+		culture = french
+		religion = catholic 
+		size = 49
+	 } 
+	capitalists = {
+		culture = marathi
+		religion =  hindu 
+		size = 109
+	 } 
+	capitalists = {
+		culture = avadhi
+		religion = hindu 
+		size = 24
+	 } 
+	clergymen = {
+		culture = marathi
+		religion =  hindu 
+		size = 1092
+	 } 
+	clergymen = {
+		culture = avadhi
+		religion = hindu 
+		size = 247
+	 } 
+	artisans = {
+		culture = marathi
+		religion =  hindu 
+		size = 1528
+	 } 
+	artisans = {
+		culture = avadhi
+		religion = hindu 
+		size = 347
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion =  catholic 
+		size = 124
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 28
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  catholic 
+		size = 40987
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 9303
+	 } 
+
+}
+
+#Marigot - Former Baffin Island (4000/1000 POPS)
+45 = {
+	
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 10
+	}
+	
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 55
+	}
+	
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 500
+	}
+
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 120
+	}
+
+}

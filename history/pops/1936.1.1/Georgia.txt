@@ -1,0 +1,581 @@
+#Gruzhia Region (644000)    
+#under the rule of Russia in 1836  
+#Tblisi (232000/58000 POPS) #circassian-orthodox = Ossetian
+1090 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 1398
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 54
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 5595
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 218
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  orthodox 
+		size = 6995
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = orthodox 
+		size = 272
+	 } 
+	bureaucrats = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 15503
+	 } 
+	clergymen = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 9690
+	 } 
+	artisans = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 8933
+	 } 
+	craftsmen = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 24014
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 4039
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion = orthodox 
+		size = 157
+	 } 
+	farmers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 9950
+	 } 
+	farmers = {
+		culture = armenian
+		religion = orthodox 
+		size = 387
+	 } 
+	farmers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 382391
+	 } 
+	farmers = {
+		culture = georgian
+		religion = orthodox 
+		size = 14898
+	 } 
+}
+#Pasanauri (76000/19000 POPS)
+1091 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 54
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 2
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 219
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 8
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  orthodox 
+		size = 274
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = orthodox 
+		size = 10
+	 } 
+	bureaucrats = {
+		culture = circassian
+		religion =  orthodox 
+		size = 585
+	 } 
+	bureaucrats = {
+		culture = chechen
+		religion = sunni
+		size = 22
+	 } 
+	clergymen = {
+		culture = circassian
+		religion =  orthodox 
+		size = 365
+	 } 
+	clergymen = {
+		culture = chechen
+		religion = sunni
+		size = 14
+	 } 
+	artisans = {
+		culture = circassian
+		religion =  orthodox 
+		size = 336
+	 } 
+	artisans = {
+		culture = chechen
+		religion = sunni
+		size = 13
+	 } 
+	craftsmen = {
+		culture = circassian
+		religion =  orthodox 
+		size = 1064
+	 } 
+	craftsmen = {
+		culture = chechen
+		religion = sunni
+		size = 41
+	 } 
+	farmers = {
+		culture = circassian
+		religion =  orthodox 
+		size = 9900
+	 } 
+	farmers = {
+		culture = chechen
+		religion = sunni
+		size = 385
+	 } 
+	farmers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 5303
+	 } 
+	farmers = {
+		culture = georgian
+		religion = orthodox 
+		size = 206
+	 } 
+	farmers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 182
+	 } 
+	farmers = {
+		culture = armenian
+		religion = orthodox 
+		size = 7
+	 } 
+}
+#Kutaisi (120000/30000 POPS)
+1092 = {
+	officers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 416
+	 } 
+	officers = {
+		culture = georgian
+		religion = orthodox 
+		size = 16
+	 } 
+	soldiers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 1668
+	 } 
+	soldiers = {
+		culture = georgian
+		religion = orthodox 
+		size = 65
+	 } 
+	bureaucrats = {
+		culture = georgian
+		religion =  orthodox 
+		size = 6536
+	 } 
+	bureaucrats = {
+		culture = georgian
+		religion = orthodox 
+		size = 254
+	 } 
+	clergymen = {
+		culture = georgian
+		religion =  orthodox 
+		size = 2781
+	 } 
+	clergymen = {
+		culture = georgian
+		religion = orthodox 
+		size = 108
+	 } 
+	artisans = {
+		culture = georgian
+		religion =  orthodox 
+		size = 2564
+	 } 
+	artisans = {
+		culture = georgian
+		religion = orthodox 
+		size = 99
+	 } 
+	craftsmen = {
+		culture = georgian
+		religion =  orthodox 
+		size = 8097
+	 } 
+	craftsmen = {
+		culture = georgian
+		religion = orthodox 
+		size = 315
+	 } 
+	farmers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 117015
+	 } 
+	farmers = {
+		culture = georgian
+		religion = orthodox 
+		size = 4559
+	 } 
+}
+#Akhaltsikhle (40000/10000 POPS)
+1093 = {
+	officers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 115
+	 } 
+	officers = {
+		culture = armenian
+		religion = orthodox 
+		size = 4
+	 } 
+	soldiers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 462
+	 } 
+	soldiers = {
+		culture = armenian
+		religion = orthodox 
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = armenian
+		religion =  orthodox 
+		size = 1809
+	 } 
+	bureaucrats = {
+		culture = armenian
+		religion = orthodox 
+		size = 70
+	 } 
+	clergymen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 770
+	 } 
+	clergymen = {
+		culture = armenian
+		religion = orthodox 
+		size = 30
+	 } 
+	artisans = {
+		culture = armenian
+		religion =  orthodox 
+		size = 709
+	 } 
+	artisans = {
+		culture = armenian
+		religion = orthodox 
+		size = 27
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 2241
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion = orthodox 
+		size = 87
+	 } 
+	farmers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 30466
+	 } 
+	farmers = {
+		culture = armenian
+		religion = orthodox 
+		size = 1187
+	 } 
+	farmers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 1925
+	 } 
+	farmers = {
+		culture = georgian
+		religion = orthodox 
+		size = 75
+	 } 
+}
+#Poti (104000/26000 POPS)
+1094 = {
+	officers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 340
+	 } 
+	officers = {
+		culture = georgian
+		religion = orthodox 
+		size = 13
+	 } 
+	soldiers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 1362
+	 } 
+	soldiers = {
+		culture = georgian
+		religion = orthodox 
+		size = 53
+	 } 
+	bureaucrats = {
+		culture = georgian
+		religion =  orthodox 
+		size = 5338
+	 } 
+	bureaucrats = {
+		culture = georgian
+		religion = orthodox 
+		size = 207
+	 } 
+	clergymen = {
+		culture = georgian
+		religion =  orthodox 
+		size = 2271
+	 } 
+	clergymen = {
+		culture = georgian
+		religion = orthodox 
+		size = 88
+	 } 
+	artisans = {
+		culture = georgian
+		religion =  orthodox 
+		size = 2093
+	 } 
+	artisans = {
+		culture = georgian
+		religion = orthodox 
+		size = 81
+	 } 
+	farmers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 102168
+	 } 
+	farmers = {
+		culture = georgian
+		religion = orthodox 
+		size = 3980
+	 } 
+}
+#Sukhumi (72000/18000 POPS) #circassian = abkhaz
+1095 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 165
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 25
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 661
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 103
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  orthodox 
+		size = 2536
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = orthodox 
+		size = 395
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  orthodox 
+		size = 1102
+	 } 
+	clergymen = {
+		culture = russian
+		religion = orthodox 
+		size = 172
+	 } 
+	artisans = {
+		culture = russian
+		religion =  orthodox 
+		size = 1032
+	 } 
+	artisans = {
+		culture = russian
+		religion = orthodox 
+		size = 161
+	 } 
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 2221
+	 } 
+	farmers = {
+		culture = russian
+		religion = orthodox 
+		size = 346
+	 } 
+	farmers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 25366
+	 } 
+	farmers = {
+		culture = georgian
+		religion = orthodox 
+		size = 3958
+	 } 
+	farmers = {
+		culture = circassian
+		religion =  sunni 
+		size = 11475
+	 } 
+	farmers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 7720
+	 } 
+	farmers = {
+		culture = armenian
+		religion = orthodox 
+		size = 1204
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion =  orthodox 
+		size = 4411
+	 } 
+	farmers = {
+		culture = ukrainian
+		religion = orthodox 
+		size = 688
+	 } 
+}
+#Kars Region (76000) #see Turkey.txt for balance of region  
+#under the rule of Ottoman Empire in 1836  
+#Batum (76000/19000 POPS) #now part of Georgia
+1096 = {
+	officers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 207
+	 } 
+	officers = {
+		culture = georgian
+		religion = orthodox 
+		size = 8
+	 } 
+	soldiers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 834
+	 } 
+	soldiers = {
+		culture = georgian
+		religion = orthodox 
+		size = 32
+	 } 
+	bureaucrats = {
+		culture = georgian
+		religion =  orthodox 
+		size = 3267
+	 } 
+	bureaucrats = {
+		culture = georgian
+		religion = orthodox 
+		size = 127
+	 } 
+	clergymen = {
+		culture = georgian
+		religion =  orthodox 
+		size = 1390
+	 } 
+	clergymen = {
+		culture = georgian
+		religion = orthodox 
+		size = 54
+	 } 
+	artisans = {
+		culture = georgian
+		religion =  orthodox 
+		size = 1282
+	 } 
+	artisans = {
+		culture = georgian
+		religion = orthodox 
+		size = 49
+	 } 
+	craftsmen = {
+		culture = georgian
+		religion =  orthodox 
+		size = 4049
+	 } 
+	craftsmen = {
+		culture = georgian
+		religion = orthodox 
+		size = 157
+	 } 
+	farmers = {
+		culture = georgian
+		religion =  orthodox 
+		size = 58508
+	 } 
+	farmers = {
+		culture = georgian
+		religion = orthodox 
+		size = 2279
+	 } 
+
+}

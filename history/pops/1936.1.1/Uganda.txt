@@ -1,0 +1,443 @@
+#Ubaganda Region (1136000)  
+#uncolonized in 1836/dominated by Bubaganda in 1836
+#Entebbe (400000/100000 POPS) 
+2019 = {
+	officers = {
+		culture = marathi
+		religion =  hindu 
+		size = 893
+	 } 
+	officers = {
+		culture = marathi
+		religion = hindu 
+		size = 11
+	 } 
+	soldiers = {
+		culture = marathi
+		religion =  hindu 
+		size = 3575
+	 } 
+	soldiers = {
+		culture = marathi
+		religion = hindu 
+		size = 45
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 10428
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion = hindu 
+		size = 132
+	 } 
+	aristocrats = {
+		culture = baganda
+		religion =  protestant 
+		size = 1490
+	 } 
+	aristocrats = {
+		culture = baganda
+		religion = animist
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = baganda
+		religion =  protestant 
+		size = 297
+	 } 
+	bureaucrats = {
+		culture = baganda
+		religion = animist
+		size = 3
+	 } 
+	capitalists = {
+		culture = baganda
+		religion =  protestant 
+		size = 1489
+	 } 
+	capitalists = {
+		culture = baganda
+		religion = animist
+		size = 18
+	 } 
+	clergymen = {
+		culture = baganda
+		religion =  protestant 
+		size = 2979
+	 } 
+	clergymen = {
+		culture = baganda
+		religion = animist
+		size = 37
+	 } 
+	artisans = {
+		culture = baganda
+		religion =  protestant 
+		size = 1642
+	 } 
+	artisans = {
+		culture = baganda
+		religion = animist
+		size = 20
+	 } 
+	farmers = {
+		culture = baganda
+		religion =  protestant 
+		size = 164929
+	 } 
+	farmers = {
+		culture = baganda
+		religion = animist
+		size = 2087
+	 } 
+	farmers = {
+		culture = lacustrine_bantu
+		religion =  catholic 
+		size = 107272
+	 } 
+	farmers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 1357
+	 } 
+	farmers = {
+		culture = panjabi
+		religion =  sunni 
+		size = 3017
+	 } 
+}
+#Mbarara (232000/53000 POPS) 
+2020 = {
+	officers = {
+		culture = baganda
+		religion =  protestant 
+		size = 856
+	 } 
+	officers = {
+		culture = baganda
+		religion = animist
+		size = 10
+	 } 
+	soldiers = {
+		culture = baganda
+		religion =  protestant 
+		size = 3424
+	 } 
+	soldiers = {
+		culture = baganda
+		religion = animist
+		size = 43
+	 } 
+	aristocrats = {
+		culture = baganda
+		religion =  protestant 
+		size = 11415
+	 } 
+	aristocrats = {
+		culture = baganda
+		religion = animist
+		size = 144
+	 } 
+	bureaucrats = {
+		culture = baganda
+		religion =  protestant 
+		size = 285
+	 } 
+	bureaucrats = {
+		culture = baganda
+		religion = animist
+		size = 3
+	 } 
+	capitalists = {
+		culture = baganda
+		religion =  protestant 
+		size = 1426
+	 } 
+	capitalists = {
+		culture = baganda
+		religion = animist
+		size = 18
+	 } 
+	clergymen = {
+		culture = baganda
+		religion =  protestant 
+		size = 2853
+	 } 
+	clergymen = {
+		culture = baganda
+		religion = animist
+		size = 36
+	 } 
+	artisans = {
+		culture = baganda
+		religion =  protestant 
+		size = 1572
+	 } 
+	artisans = {
+		culture = baganda
+		religion = animist
+		size = 19
+	 } 
+	farmers = {
+		culture = baganda
+		religion =  protestant 
+		size = 80904
+	 } 
+	farmers = {
+		culture = baganda
+		religion = animist
+		size = 1024
+	 } 
+	farmers = {
+		culture = lacustrine_bantu
+		religion =  protestant 
+		size = 74200
+	 } 
+	farmers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 939
+	 } 
+	farmers = {
+		culture = african_minor
+		religion =  catholic 
+		size = 108447
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 1372
+	 } 
+}
+#Masindi (192000/48000 POPS) 
+2021 = {
+	officers = {
+		culture = luo
+		religion =  protestant 
+		size = 349
+	 } 
+	officers = {
+		culture = luo
+		religion = animist
+		size = 4
+	 } 
+	soldiers = {
+		culture = luo
+		religion =  protestant 
+		size = 1398
+	 } 
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 17
+	 } 
+	aristocrats = {
+		culture = luo
+		religion =  protestant 
+		size = 4661
+	 } 
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 59
+	 } 
+	bureaucrats = {
+		culture = luo
+		religion =  protestant 
+		size = 116
+	 } 
+	bureaucrats = {
+		culture = luo
+		religion = animist
+		size = 1
+	 } 
+	capitalists = {
+		culture = luo
+		religion =  protestant 
+		size = 582
+	 } 
+	capitalists = {
+		culture = luo
+		religion = animist
+		size = 7
+	 } 
+	clergymen = {
+		culture = luo
+		religion =  protestant 
+		size = 1165
+	 } 
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 14
+	 } 
+	artisans = {
+		culture = luo
+		religion =  protestant 
+		size = 641
+	 } 
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 8
+	 } 
+	farmers = {
+		culture = luo
+		religion =  protestant 
+		size = 57504
+	 } 
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 727
+	 } 
+	farmers = {
+		culture = nilotic
+		religion =  catholic 
+		size = 50105
+	 } 
+	farmers = {
+		culture = nilotic
+		religion = animist
+		size = 634
+	 } 
+}
+#Kitgum (104000/26000 POPS) 
+2022 = {
+	officers = {
+		culture = luo
+		religion =  catholic 
+		size = 349
+	 } 
+	officers = {
+		culture = luo
+		religion = animist
+		size = 4
+	 } 
+	soldiers = {
+		culture = luo
+		religion =  catholic 
+		size = 1398
+	 } 
+	soldiers = {
+		culture = luo
+		religion = animist
+		size = 17
+	 } 
+	aristocrats = {
+		culture = luo
+		religion =  catholic 
+		size = 4661
+	 } 
+	aristocrats = {
+		culture = luo
+		religion = animist
+		size = 59
+	 } 
+	bureaucrats = {
+		culture = luo
+		religion =  catholic 
+		size = 116
+	 } 
+	bureaucrats = {
+		culture = luo
+		religion = animist
+		size = 1
+	 } 
+	capitalists = {
+		culture = luo
+		religion =  catholic 
+		size = 582
+	 } 
+	capitalists = {
+		culture = luo
+		religion = animist
+		size = 7
+	 } 
+	clergymen = {
+		culture = luo
+		religion =  catholic 
+		size = 1165
+	 } 
+	clergymen = {
+		culture = luo
+		religion = animist
+		size = 14
+	 } 
+	artisans = {
+		culture = luo
+		religion =  catholic 
+		size = 641
+	 } 
+	artisans = {
+		culture = luo
+		religion = animist
+		size = 8
+	 } 
+	farmers = {
+		culture = luo
+		religion =  catholic 
+		size = 107609
+	 } 
+	farmers = {
+		culture = nilotic
+		religion = animist
+		size = 1362
+	 } 
+}
+#Jinja (208000/52000 POPS) 
+2023 = {
+	soldiers = {
+		culture = baganda
+		religion =  sunni 
+		size = 3417
+	 } 
+	aristocrats = {
+		culture = baganda
+		religion =  sunni 
+		size = 11390
+	 } 
+	capitalists = {
+		culture = baganda
+		religion =  sunni 
+		size = 1423
+	 } 
+	clergymen = {
+		culture = baganda
+		religion =  sunni 
+		size = 2847
+	 } 
+	artisans = {
+		culture = baganda
+		religion =  sunni 
+		size = 1569
+	 } 
+	farmers = {
+		culture = baganda
+		religion =  sunni 
+		size = 72183
+	 } 
+	farmers = {
+		culture = lacustrine_bantu
+		religion =  protestant 
+		size = 70297
+	 } 
+	farmers = {
+		culture = lacustrine_bantu
+		religion = animist
+		size = 889
+	 } 
+	farmers = {
+		culture = luo
+		religion =  catholic 
+		size = 118100
+	 } 
+	farmers = {
+		culture = luo
+		religion = animist
+		size = 1494
+	 } 
+
+}

@@ -1,0 +1,208 @@
+#Khwarazm Region (40000) #see Uzbekistan.txt and Kazakhstan.txt for balance of region 
+#under the rule of Khiva in 1836  
+#Dashhowuz (40000/10000 POPS) #now part of Turkmenistan  
+1196 = {
+	bureaucrats = {
+		culture = uzbek
+		religion =  sunni 
+		size = 3335
+	 } 
+	clergymen = {
+		culture = uzbek
+		religion =  sunni 
+		size = 1450
+	 } 
+	artisans = {
+		culture = uzbek
+		religion =  sunni 
+		size = 1234
+	 } 
+	farmers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 3044
+	 } 
+	farmers = {
+		culture = turkmen
+		religion =  sunni 
+		size = 62350
+	 } 
+	
+}
+#Turkmenia Region (368000) 
+#under the rule of Khiva in 1836  
+#Ashkabad (148000/32000 POPS)   
+1204 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 142
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 6
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 570
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 26
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  orthodox 
+		size = 2185
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = orthodox 
+		size = 102
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  orthodox 
+		size = 950
+	 } 
+	clergymen = {
+		culture = russian
+		religion = orthodox 
+		size = 44
+	 } 
+	artisans = {
+		culture = russian
+		religion =  orthodox 
+		size = 807
+	 } 
+	artisans = {
+		culture = russian
+		religion = orthodox 
+		size = 38
+	 } 
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 12448
+	 } 
+	farmers = {
+		culture = russian
+		religion = orthodox 
+		size = 586
+	 } 
+	farmers = {
+		culture = turkmen
+		religion =  sunni 
+		size = 31840
+	 } 
+}
+#Kizil Arvut (88000/22000 POPS)   
+1205 = {
+	bureaucrats = {
+		culture = turkmen
+		religion =  sunni 
+		size = 1345
+	 } 
+	farmers = {
+		culture = turkmen
+		religion =  sunni 
+		size = 26385
+	 } 
+}
+#under the rule of Bukhara in 1836  
+#Chardzhou (132000/33000 POPS)   
+1206 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 426
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 20
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 1707
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 80
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  orthodox 
+		size = 6545
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = orthodox 
+		size = 308
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  orthodox 
+		size = 2845
+	 } 
+	clergymen = {
+		culture = russian
+		religion = orthodox 
+		size = 134
+	 } 
+	artisans = {
+		culture = russian
+		religion =  orthodox 
+		size = 2421
+	 } 
+	artisans = {
+		culture = russian
+		religion = orthodox 
+		size = 114
+	 } 
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 3127
+	 } 
+	farmers = {
+		culture = russian
+		religion = orthodox 
+		size = 147
+	 } 
+	farmers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 16390
+	 } 
+	farmers = {
+		culture = turkmen
+		religion =  sunni 
+		size = 114730
+	 } 
+}
+
+#Merv - Former Line Islands (?/? POPS)
+686 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 426
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 20
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 1707
+	 } 
+}
+

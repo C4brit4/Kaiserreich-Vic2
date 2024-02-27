@@ -1,0 +1,4911 @@
+#Piemonte Region (1610000)
+#under the rule of Sardinia in 1836
+#Turin (916000/229000 POPS)
+720 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 64
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 261
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 5678
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 2082
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1283
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 104
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3209
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 260
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 6419
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 520
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1553
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 1342
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 15725
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 1275
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 20490
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 4093
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 138808
+	 } 
+	farmers = {
+		culture = north_italian
+		religion = catholic 
+		size = 35579
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6419
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 520
+	 } 
+	farmers = {
+		culture = marathi
+		religion =  hindu 
+		size = 1925
+	 } 
+	farmers = {
+		culture = avadhi
+		religion = hindu 
+		size = 156
+	 } 
+	farmers = {
+		culture = yoruba
+		religion =  catholic 
+		size = 14122
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion = catholic 
+		size = 1145
+	 } 
+	farmers = {
+		culture = romanian
+		religion =  orthodox 
+		size = 5678
+	 } 
+	farmers = {
+		culture = romanian
+		religion = orthodox 
+		size = 2082
+	 } 
+	farmers = {
+		culture = italian
+		religion =  sunni 
+		size = 6419
+	 } 
+	farmers = {
+		culture = italian
+		religion = orthodox 
+		size = 520
+	 } 
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 3880
+	 } 
+}
+#Aosta (156000/39000 POPS)
+721 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 934
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 75
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 46
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 116
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 9
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 233
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 18
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 602
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 48
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 571
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 46
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1837
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 148
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1486
+	 } 
+	farmers = {
+		culture = north_italian
+		religion = catholic 
+		size = 120
+	 } 
+	farmers = {
+		culture = french
+		religion =  catholic 
+		size = 17516
+	 } 
+}
+#Novara (212000/53000 POPS)
+722 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 37
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3663
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 297
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 183
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 14
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 457
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 37
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 915
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 74
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2361
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 191
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2243
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 181
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 7202
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 583
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 94502
+	 } 
+}
+#Alessandria (326000/79000 POPS)
+723 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 8
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 33
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3339
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 270
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 166
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 13
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 417
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 33
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 834
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 67
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2152
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 174
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2045
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 165
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 6565
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 532
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 87919
+	 } 
+}
+#Liguria Region (960000)
+#under the rule of Sardinia in 1836
+#Genoa (644000/161000 POPS)
+724 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 18
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 74
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 7335
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 594
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 366
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 29
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 916
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 74
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1833
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 148
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4728
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 383
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4491
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 364
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 14422
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1169
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 249193
+	 } 
+}
+#Savona (316000/79000 POPS)
+725 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 45
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 514
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 366
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 225
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 18
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 564
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 45
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1128
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 91
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2910
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 235
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2763
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 224
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 8875
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 719
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 91811
+	 } 
+}
+#Lombardy Region (2512000)
+#under the rule of Austria in 1836
+#Milan (1332000/333000 POPS)
+726 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 140
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 60000
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 45
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 55019
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 4461
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2750
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 223
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 6877
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 557
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3754
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1115
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 35469
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 2875
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3695
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 2732
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 108182
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 8771
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 419022
+	 } 
+}
+#Bergamo (472000/118000 POPS)
+727 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 22
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 90
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 944
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 725
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 446
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 36
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1117
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 90
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2235
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 181
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 5766
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 467
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 5477
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 444
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 17587
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1425
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 181929
+	 } 
+}
+#Brescia (708000/177000 POPS)
+728 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 22
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 88
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 722
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 707
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 435
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 35
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1089
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 88
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2180
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 176
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 5623
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 455
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 5341
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 433
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 17151
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1390
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 177413
+	 } 
+}
+#Venetia Region (2060000)
+#under the rule of Austria in 1836
+#Venice (448000/112000 POPS)
+729 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 41
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 166
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 13
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 16298
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 1321
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 814
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 66
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2036
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 165
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4074
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 330
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 10507
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 851
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9981
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 809
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 32046
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 2598
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 331494
+	 } 
+}
+#Verona (516000/129000 POPS)
+730 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 22
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 90
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 898
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 721
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 444
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 36
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1111
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 90
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2224
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 180
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 5735
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 465
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 5449
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 441
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 17496
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1418
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 180988
+	 } 
+}
+#Padua (564000/141000 POPS)
+731 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 13
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 55
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 494
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 445
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 274
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 22
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 686
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 55
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1373
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 111
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3541
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 287
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3364
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 272
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 10803
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 875
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 111754
+	 } 
+}
+#Treviso (232000/58000 POPS)
+732 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 13
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 55
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 5494
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 445
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 274
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 22
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 686
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 55
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1373
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 111
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3541
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 287
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3364
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 272
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 10803
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 875
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 111754
+	 } 
+}
+#Udine (300000/75000 POPS)
+733 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 15
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 65
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 6512
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 528
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 325
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 26
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 814
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 66
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1628
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 132
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4197
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 340
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3987
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 323
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 12803
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1038
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 78725
+	 } 
+	farmers = {
+		culture = north_italian
+		religion = catholic 
+		size = 6383
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 53724
+	 } 
+}
+#Tirol Region (368000) #see Austria.txt for balance of Region
+#under the rule of Austria in 1836  
+#Trent (276000/69000 POPS) #now part of Italy
+734 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 38
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3848
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 312
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 192
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 15
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 481
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 39
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 962
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 78
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2480
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 201
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2355
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 191
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 7566
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 613
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 74417
+	 }   
+}
+#Bozen (92000/23000 POPS) #now part of Italy
+735 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 37
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3746
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 303
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 186
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 15
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 468
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 37
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 936
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 75
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2415
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 195
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2294
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 186
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 7365
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 597
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 12510
+	 } 
+	farmers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1014
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  catholic 
+		size = 59940
+	 } 
+	farmers = {
+		culture = south_german
+		religion = catholic 
+		size = 4860
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3746
+	 } 
+	farmers = {
+		culture = north_italian
+		religion = catholic 
+		size = 303
+	 } 
+}
+#Friuli-Istria Region (292000) #see Croatia.txt for balance of region 
+#under the rule of Austria in 1836
+#Trieste (112000/28000 POPS)
+736 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 111
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 9
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 449
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 36
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1498
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 121
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 74
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 6
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 186
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 15
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 374
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 30
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 903
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 73
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 29900
+	 } 
+	farmers = {
+		culture = slovene
+		religion = catholic 
+		size = 2424
+	 } 
+}
+#Gorizia (180000/45000 POPS)
+737 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 10
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1036
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 84
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 51
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 4
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 129
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 10
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 259
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 21
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 667
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 54
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 633
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 51
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2036
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 165
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 18224
+	 } 
+	farmers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1477
+	 } 
+	farmers = {
+		culture = slovene
+		religion =  catholic 
+		size = 2849
+	 } 
+	farmers = {
+		culture = slovene
+		religion = catholic 
+		size = 231
+	 } 
+
+}
+#Emilia Region (1120000)
+#under the rule of Parma in 1836
+#Parma (472000/118000 POPS)
+738 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 15
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 65
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 6493
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 526
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 324
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 26
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 811
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 65
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1623
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 131
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4185
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 339
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3976
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 322
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 12767
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1035
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 132073
+	 } 
+}
+#under the rule of Modena in 1836
+#Modena (484000/121000 POPS)
+739 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 15
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 65
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 6493
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 526
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 324
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 26
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 811
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 65
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1623
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 131
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4185
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 339
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3976
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 322
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2767
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1035
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 132073
+	 } 
+}
+#Massa (164000/41000 POPS)
+740 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 46
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4578
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 371
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 18
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 571
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 46
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1144
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 92
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2951
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 239
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2803
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 227
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9003
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 729
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 93129
+	 } 
+}
+#Romagna Region (844000)
+#under the rule of Papal States in 1836
+#Bologna (416000/104000 POPS)
+741 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 15
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 65
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 6493
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 526
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 324
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 26
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 811
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 65
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1623
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 131
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4185
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 339
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 976
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 322
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 12767
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1035
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 112073
+	 } 
+}
+#Ferrara (180000/45000 POPS)
+742 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 15
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 65
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 6493
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 526
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 324
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 26
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 811
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 65
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1623
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 131
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4185
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 339
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3976
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 322
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 12767
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1035
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 42073
+	 } 
+}
+#Ravenna (248000/62000 POPS)
+743 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 15
+	 } 
+	officers = {
+		culture = north_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 65
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 6493
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 526
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 324
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 26
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 811
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 65
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1623
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 131
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4185
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 339
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 3976
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 322
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 12767
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 1035
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 82073
+	 } 
+}
+#Tuscany Region (1808000)
+#under the rule of Tuscany in 1836
+#Florence (716000/179000 POPS)
+744 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 60000
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4578
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 371
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 18
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 571
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 46
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1144
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 92
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2951
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 239
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2803
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 227
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9003
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 729
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 43129
+	 } 
+}
+#Leghorn (380000/95000 POPS)
+745 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 46
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4578
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 371
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 18
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 571
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 46
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1144
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 92
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2951
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 239
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2803
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 227
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9003
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 729
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 23129
+	 } 
+	farmers = {
+		culture = north_italian
+		religion = jewish
+		size = 7551
+	 } 
+}
+#Siena (380000/95000 POPS)
+747 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 46
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4578
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 371
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 18
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 571
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 46
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1144
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 92
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2951
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 239
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2803
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 227
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9003
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 729
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 53129
+	 } 
+}
+#Grosseto (184000/46000 POPS)
+748 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 46
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4578
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 371
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 18
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 571
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 46
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1144
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 92
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2951
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 239
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2803
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 227
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9003
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 729
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 53129
+	 } 
+}
+#under the rule of Lucca in 1836
+#Lucca (148000/37000 POPS)
+746 = {
+	officers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 46
+	 } 
+	soldiers = {
+		culture = north_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 4578
+	 } 
+	aristocrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 371
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion =  catholic 
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = north_italian
+		religion = catholic 
+		size = 18
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion =  catholic 
+		size = 571
+	 } 
+	capitalists = {
+		culture = north_italian
+		religion = catholic 
+		size = 46
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 1144
+	 } 
+	clergymen = {
+		culture = north_italian
+		religion = catholic 
+		size = 92
+	 } 
+	clerks = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2951
+	 } 
+	clerks = {
+		culture = north_italian
+		religion = catholic 
+		size = 239
+	 } 
+	artisans = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2803
+	 } 
+	artisans = {
+		culture = north_italian
+		religion = catholic 
+		size = 227
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion =  catholic 
+		size = 9003
+	 } 
+	craftsmen = {
+		culture = north_italian
+		religion = catholic 
+		size = 729
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 33129
+	 } 
+
+}
+#Latium Region (1272000)
+#under the rule of Papal States in 1836
+#Rome (1092000/273000 POPS)
+749 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 86
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 7
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 60000
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 28
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4114
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 2766
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 101705
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 138
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4264
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 345
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 8528
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 691
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1992
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 1783
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 10892
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 1694
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 67077
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 5438
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 245000
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 5600
+	 } 
+	farmers = {
+		culture = south_italian
+		religion = catholic 
+		size = 216257
+	 } 
+}
+#Viterbo (180000/45000 POPS)
+750 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 12
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 53
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 5309
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 430
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 265
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 21
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 663
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 53
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1327
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 107
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 3422
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 277
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 3251
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 263
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 10439
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 846
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 107991
+	 } 
+	farmers = {
+		culture = south_italian
+		religion = catholic 
+		size = 8756
+	 } 
+}
+#Umbria-Abruzzi Region (1056000)
+#under the rule of Papal States in 1836
+#Perugia (376000/94000 POPS)
+751 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 16
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 67
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 6641
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 538
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 332
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 26
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 829
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 67
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1660
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 134
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4280
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 347
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4067
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 329
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 13058
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 1058
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 135083
+	 } 
+	farmers = {
+		culture = south_italian
+		religion = catholic 
+		size = 10952
+	 } 
+}
+#Ancona (180000/45000 POPS)
+752 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 28
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 2
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 116
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 9
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 11470
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 930
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 573
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 46
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1433
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 116
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2867
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 232
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 7394
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 599
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 7024
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 569
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 22552
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 1828
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 113288
+	 } 
+}
+#under the rule of Two Sicilies in 1836
+#Aquila (500000/125000 POPS)
+753 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 24
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 2
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 99
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 9842
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 798
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 492
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 39
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1230
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 99
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2460
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 199
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 6344
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 514
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 6027
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 488
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 19351
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 1569
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 100176
+	 } 
+	
+}
+#Campania Region (2312000)
+#under the rule of Two Sicilies in 1836
+#Naples (1304000/326000 POPS)
+754 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 70
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 60000
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 27787
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 2253
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1389
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 112
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 3473
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 281
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 6946
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 563
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 17913
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 1452
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 17017
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 1379
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 24636
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 4429
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 165157
+	 } 
+}
+#Salerno (572000/143000 POPS)
+755 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 14
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 61
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 6105
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 495
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 305
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 24
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 763
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 61
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1526
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 123
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 3935
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 319
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 3738
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 303
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 12003
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 973
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 124170
+	 } 
+}
+#Gaeta (436000/109000 POPS)
+2567 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 6
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 25
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2562
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 207
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 127
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 10
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 320
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 25
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 640
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 51
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1651
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 133
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1568
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 127
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 5037
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 408
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 52116
+	 } 
+}
+#Apulia Region (1424000)
+#under the rule of Two Sicilies in 1836
+#Bari (572000/143000 POPS)
+756 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 37
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 60000
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 12
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 15003
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 1216
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 750
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 60
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1874
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 152
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 3750
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 304
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 9671
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 784
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 9188
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 744
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 29501
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 2391
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 305156
+	 } 
+
+}
+#Foggia (572000/143000 POPS)
+757 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 23
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2340
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 189
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 116
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 9
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 292
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 23
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 584
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 47
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1508
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 122
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1432
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 116
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4601
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 373
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 47600
+	 } 
+}
+#Brindisi (280000/70000 POPS)
+758 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 37
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 152
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 12
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 15003
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 1216
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 750
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 60
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1874
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 152
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 3750
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 304
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 9671
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 784
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 9188
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 744
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 19501
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 2391
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 286402
+	 } 
+	farmers = {
+		culture = south_italian
+		religion = catholic 
+		size = 23221
+	 } 
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 10275
+	 } 
+}
+#Calabria-Basilicata Region (1488000)
+#under the rule of Two Sicilies in 1836
+#Reggio (572000/143000 POPS)
+759 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 18
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 74
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 7372
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 597
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 368
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 29
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 921
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 74
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1842
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 149
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4752
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 385
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4514
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 366
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4495
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 1175
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 119945
+	 } 
+}
+#Catanzaro (344000/86000 POPS)
+760 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 18
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 74
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 7372
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 597
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 368
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 29
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 921
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 74
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1842
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 149
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4752
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 385
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4514
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 366
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 14495
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 1175
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 149945
+	 } 
+
+}
+#Potenza (572000/143000 POPS)
+761 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 10
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 43
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4301
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 348
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 214
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 17
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 537
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 43
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1074
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 87
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2772
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 224
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2633
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 213
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 8457
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 685
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 87486
+	 } 
+}
+#Sicily Region (1816000)
+#under the rule of Two Sicilies in 1836
+#Palermo (744000/186000 POPS)
+762 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 52
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 4
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 213
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 17
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 20905
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 1695
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1045
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 84
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2613
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 211
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 5226
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 423
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 13476
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 1092
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 12802
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 1038
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 41104
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 3332
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 225185
+	 } 
+
+}
+#Messina (352000/88000 POPS)
+763 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 30
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 2
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 123
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 9
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 12099
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 981
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 604
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 49
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1512
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 122
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 3024
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 245
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 7799
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 632
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 7409
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 600
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 13789
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 1928
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 146082
+	 } 
+
+	
+}
+#Catania (720000/180000 POPS)
+764 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 10
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 40
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4033
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 327
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 201
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 16
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 504
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 40
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1008
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 81
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2599
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 210
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2469
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 200
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 7929
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 642
+	 } 
+
+}
+#Sardinia Region (524000)
+#under the rule of Sardinia in 1836
+#Cagliari (336000/84000 POPS)
+765 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 11
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 44
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4384
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 355
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 219
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 17
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 547
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 44
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1096
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 88
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2825
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 229
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 2685
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 217
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 8621
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 699
+	 } 
+
+}
+#Sassari (188000/47000 POPS)
+766 = {
+	officers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 19
+	 } 
+	officers = {
+		culture = south_italian
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 80
+	 } 
+	soldiers = {
+		culture = south_italian
+		religion = catholic 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 7908
+	 } 
+	aristocrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 641
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion =  catholic 
+		size = 394
+	 } 
+	bureaucrats = {
+		culture = south_italian
+		religion = catholic 
+		size = 32
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion =  catholic 
+		size = 987
+	 } 
+	capitalists = {
+		culture = south_italian
+		religion = catholic 
+		size = 80
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 1976
+	 } 
+	clergymen = {
+		culture = south_italian
+		religion = catholic 
+		size = 160
+	 } 
+	clerks = {
+		culture = south_italian
+		religion =  catholic 
+		size = 5098
+	 } 
+	clerks = {
+		culture = south_italian
+		religion = catholic 
+		size = 413
+	 } 
+	artisans = {
+		culture = south_italian
+		religion =  catholic 
+		size = 4843
+	 } 
+	artisans = {
+		culture = south_italian
+		religion = catholic 
+		size = 392
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion =  catholic 
+		size = 15551
+	 } 
+	craftsmen = {
+		culture = south_italian
+		religion = catholic 
+		size = 1260
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 24431
+	 } 
+	farmers = {
+		culture = south_italian
+		religion = catholic 
+		size = 1980
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 98859
+	 } 
+	farmers = {
+		culture = south_italian
+		religion = catholic 
+		size = 8015
+	 } 
+	farmers = {
+		culture = south_italian
+		religion =  catholic 
+		size = 35589
+	 } 
+	farmers = {
+		culture = french
+		religion = catholic 
+		size = 2885
+	 } 
+	farmers = {
+		culture = catalan
+		religion =  catholic 
+		size = 1976
+	 } 
+	farmers = {
+		culture = catalan
+		religion = catholic 
+		size = 160
+	 } 
+
+}
+
+#Pescara - Former Inuvik (4000/1000 POPS)
+10 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = catholic
+		size = 600
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = catholic
+		size = 31
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = catholic
+		size = 6
+	}
+
+	farmers = {
+		culture = croat
+		religion = catholic
+		size = 3000
+	}
+}
+
+#Belluno - Former Ross River (4000/1000 POPS)
+8 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = catholic
+		size = 600
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1000
+	}
+
+}
+
+#Sondrio - former Amga (6000/1500 POPS)
+2669 = {
+	clergymen = {
+		culture = north_italian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 30000
+	}
+
+}
+

@@ -1,0 +1,179 @@
+#Trinidad & Tobago Region (69000/14750 POPS)
+#ruled by Britain 1836
+#Trinidad (44000/11000 POPS)
+2237 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 735
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 15
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 441
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 9
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 588
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 12
+	 } 
+	soldiers = {
+		culture = marathi
+		religion =  hindu 
+		size = 1176
+	 } 
+	soldiers = {
+		culture = marathi
+		religion = hindu 
+		size = 24
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 5880
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion = hindu 
+		size = 120
+	 } 
+	bureaucrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 147
+	 } 
+	bureaucrats = {
+		culture = marathi
+		religion = hindu 
+		size = 3
+	 } 
+	clergymen = {
+		culture = marathi
+		religion =  hindu 
+		size = 1470
+	 } 
+	clergymen = {
+		culture = marathi
+		religion = hindu 
+		size = 30
+	 } 
+	artisans = {
+		culture = marathi
+		religion =  hindu 
+		size = 711
+	 } 
+	artisans = {
+		culture = marathi
+		religion = hindu 
+		size = 14
+	 } 
+	farmers = {
+		culture = marathi
+		religion =  hindu 
+		size = 42653
+	 } 
+	farmers = {
+		culture = marathi
+		religion = hindu 
+		size = 870
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 70707
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 1443
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  catholic 
+		size = 22491
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = catholic 
+		size = 459
+	 } 
+}
+#Tobago (15000/3750 POPS)
+2238 = {
+	officers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 22
+	 } 
+	soldiers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 91
+	 } 
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 303
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 6
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 6
+	 } 
+	capitalists = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 37
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 75
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 1
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 36
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 7021
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 143
+	 } 
+
+}

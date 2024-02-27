@@ -1,0 +1,603 @@
+#Ivory Coast Region (710000) 
+#uncolonized in 1836
+#Grand Lahou (108000/27000 POPS)   
+1892 = {
+	officers = {
+		culture = french
+		religion =  catholic 
+		size = 552
+	 } 
+	officers = {
+		culture = french
+		religion = catholic 
+		size = 17
+	 } 
+	soldiers = {
+		culture = french
+		religion =  catholic 
+		size = 1290
+	 } 
+	soldiers = {
+		culture = french
+		religion = catholic 
+		size = 39
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  catholic 
+		size = 921
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 28
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  catholic 
+		size = 7372
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 228
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  catholic 
+		size = 184
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 5
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  catholic 
+		size = 737
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 22
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  protestant 
+		size = 184
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 5
+	 } 
+	clergymen = {
+		culture = akan
+		religion =  protestant 
+		size = 1843
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 57
+	 } 
+	artisans = {
+		culture = akan
+		religion =  protestant 
+		size = 3496
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 108
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 154491
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 4778
+	 } 
+}
+#Sassandra (282000/47000 POPS)
+1893 = {
+	officers = {
+		culture = kru
+		religion =  protestant 
+		size = 320
+	 } 
+	officers = {
+		culture = akan
+		religion = animist
+		size = 9
+	 } 
+	soldiers = {
+		culture = kru
+		religion =  protestant 
+		size = 1283
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 39
+	 } 
+	aristocrats = {
+		culture = kru
+		religion =  protestant 
+		size = 4277
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 132
+	 } 
+	bureaucrats = {
+		culture = kru
+		religion =  protestant 
+		size = 106
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 3
+	 } 
+	capitalists = {
+		culture = kru
+		religion =  protestant 
+		size = 534
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 16
+	 } 
+	clergymen = {
+		culture = kru
+		religion =  protestant 
+		size = 1068
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 33
+	 } 
+	artisans = {
+		culture = kru
+		religion =  protestant 
+		size = 2028
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 62
+	 } 
+	farmers = {
+		culture = kru
+		religion =  protestant 
+		size = 66309
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 2050
+	 } 
+	farmers = {
+		culture = mande
+		religion =  sunni 
+		size = 24059
+	 } 
+}
+#Grand Bassam (88000/22000 POPS)
+1894 = {
+	officers = {
+		culture = akan
+		religion =  protestant 
+		size = 59
+	 } 
+	officers = {
+		culture = akan
+		religion = animist
+		size = 1
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  protestant 
+		size = 238
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 7
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  protestant 
+		size = 795
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  protestant 
+		size = 19
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  protestant 
+		size = 98
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 3
+	 } 
+	clergymen = {
+		culture = akan
+		religion =  protestant 
+		size = 198
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 6
+	 } 
+	artisans = {
+		culture = akan
+		religion =  protestant 
+		size = 376
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 11
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 16669
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 515
+	 } 
+}
+#Bouake (60000/15000 POPS)
+1895 = {
+	officers = {
+		culture = akan
+		religion =  protestant 
+		size = 215
+	 } 
+	officers = {
+		culture = akan
+		religion = animist
+		size = 6
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  protestant 
+		size = 864
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 26
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  protestant 
+		size = 2880
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 89
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  protestant 
+		size = 71
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 2
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  protestant 
+		size = 359
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 11
+	 } 
+	clergymen = {
+		culture = akan
+		religion =  protestant 
+		size = 719
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 22
+	 } 
+	artisans = {
+		culture = akan
+		religion =  protestant 
+		size = 1365
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 42
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 58342
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 1804
+	 } 
+	farmers = {
+		culture = mande
+		religion =  sunni 
+		size = 2095
+	 } 
+}
+#Man (80000/20000 POPS)
+1896 = {
+	soldiers = {
+		culture = mande
+		religion =  sunni 
+		size = 1272
+	 } 
+	aristocrats = {
+		culture = mande
+		religion =  sunni 
+		size = 4240
+	 } 
+	clergymen = {
+		culture = mande
+		religion =  sunni 
+		size = 1060
+	 } 
+	artisans = {
+		culture = mande
+		religion =  sunni 
+		size = 2011
+	 } 
+	farmers = {
+		culture = mande
+		religion =  sunni 
+		size = 88856
+	 } 
+}
+#Akoupe (92000/23000 POPS)
+1897 = {
+	officers = {
+		culture = akan
+		religion =  protestant 
+		size = 156
+	 } 
+	officers = {
+		culture = akan
+		religion = animist
+		size = 4
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  protestant 
+		size = 625
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 19
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  protestant 
+		size = 2085
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 64
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  protestant 
+		size = 51
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 1
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  protestant 
+		size = 259
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 8
+	 } 
+	clergymen = {
+		culture = akan
+		religion =  protestant 
+		size = 520
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 16
+	 } 
+	artisans = {
+		culture = akan
+		religion =  protestant 
+		size = 988
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 30
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 37021
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 1145
+	 } 
+	farmers = {
+		culture = gur
+		religion =  protestant 
+		size = 6682
+	 } 
+	farmers = {
+		culture = gur
+		religion = animist
+		size = 206
+	 } 
+}
+#Worodugu Region (160000) #see Mali.txt and Burkina.txt for balance of Region
+#uncolonized in 1836/under the rule of the Emirs of Kong
+#Kong (264000/66000 POPS)
+1898 = {
+	artisans = {
+		culture = senufo
+		religion =  protestant 
+		size = 1808
+	 } 
+	farmers = {
+		culture = dyula
+		religion = sunni 
+		size = 2387
+	 } 
+	farmers = {
+		culture = mande
+		religion =  sunni 
+		size = 2774
+	 } 
+}
+#Bundoukou (216000/54000 POPS)
+1899 = {
+	farmers = {
+		culture = mande
+		religion =  protestant 
+		size = 21751
+	 } 
+}
+#Bure Region (340000) #see Mali.txt and Guinea.txt for balance of Region
+#uncolonized in 1836
+#Odienne (288000/72000 POPS) #now part of Ivory Coast  
+1900 = {
+	aristocrats = {
+		culture = mande
+		religion = sunni
+		size = 900
+	}
+
+	clergymen = {
+		culture = mande
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = mande
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = mande
+		religion = sunni
+		size = 1200
+	}
+
+	farmers = {
+		culture = mande
+		religion = sunni
+		size = 34500
+	}
+
+	aristocrats = {
+		culture = dyula
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = dyula
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = dyula
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = dyula
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = dyula
+		religion = sunni
+		size = 13725
+	}
+
+	aristocrats = {
+		culture = western_nigritic
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = western_nigritic
+		religion = animist
+		size = 225
+	}
+
+	artisans = {
+		culture = western_nigritic
+		religion = animist
+		size = 450
+	}
+
+	soldiers = {
+		culture = western_nigritic
+		religion = animist
+		size = 75
+	}
+
+	farmers = {
+		culture = western_nigritic
+		religion = animist
+		size = 17100
+	}
+
+}

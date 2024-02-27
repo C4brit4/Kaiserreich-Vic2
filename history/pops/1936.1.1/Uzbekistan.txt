@@ -1,0 +1,356 @@
+#Khwarazm Region (380000) #see Kazakhstan.txt and Turkmenistan.txt for balance of region 
+#under the rule of Khiva in 1836  
+#Khiva (200000/50000 POPS) #now part of Uzbekistan  
+1191 = {
+	soldiers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 1047
+	 } 
+	bureaucrats = {
+		culture = uzbek
+		religion =  sunni 
+		size = 4013
+	 } 
+	clergymen = {
+		culture = uzbek
+		religion =  sunni 
+		size = 1745
+	 } 
+	artisans = {
+		culture = uzbek
+		religion =  sunni 
+		size = 1104
+	 } 
+	farmers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 79080
+	 } 
+}
+#Nukus (180000/45000 POPS) #now part of Uzbekistan  
+1192 = {
+	soldiers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 1113
+	 } 
+	bureaucrats = {
+		culture = uzbek
+		religion =  sunni 
+		size = 4266
+	 } 
+	clergymen = {
+		culture = uzbek
+		religion =  sunni 
+		size = 1855
+	 } 
+	artisans = {
+		culture = uzbek
+		religion =  sunni 
+		size = 1173
+	 } 
+	farmers = {
+		culture = turkmen
+		religion =  sunni 
+		size = 30270
+	 } 
+	farmers = {
+		culture = kazak
+		religion =  sunni 
+		size = 27825
+	 } 
+	farmers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 25970
+	 } 
+}
+#Mawarannahr Region (524000) #see Kazakhstan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 
+#under the rule of Kokand in 1836  
+#Tashkent (224000/56000 POPS)   
+1195 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 845
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 91
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 3384
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 365
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  orthodox 
+		size = 12973
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = orthodox 
+		size = 1401
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  orthodox 
+		size = 5640
+	 } 
+	clergymen = {
+		culture = russian
+		religion = orthodox 
+		size = 609
+	 } 
+	artisans = {
+		culture = russian
+		religion =  orthodox 
+		size = 3568
+	 } 
+	artisans = {
+		culture = russian
+		religion = orthodox 
+		size = 385
+	 } 
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 10251
+	 } 
+	farmers = {
+		culture = russian
+		religion = orthodox 
+		size = 1107
+	 } 
+	farmers = {
+		culture = tatar
+		religion =  sunni 
+		size = 21875
+	 } 
+	farmers = {
+		culture = tajik
+		religion =  sunni 
+		size = 31250
+	 } 
+	farmers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 218750
+	 } 
+}
+#Kokand (300000/75000 POPS)   
+1202 = {
+	soldiers = {
+		culture = kirgiz
+		religion =  sunni 
+		size = 1113
+	 } 
+	bureaucrats = {
+		culture = kirgiz
+		religion =  sunni 
+		size = 4266
+	 } 
+	clergymen = {
+		culture = kirgiz
+		religion =  sunni 
+		size = 1855
+	 } 
+	artisans = {
+		culture = kirgiz
+		religion =  sunni 
+		size = 1173
+	 } 
+	farmers = {
+		culture = kirgiz
+		religion =  sunni 
+		size = 25970
+	 } 
+	farmers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 30270
+	 } 
+	farmers = {
+		culture = kazak
+		religion =  sunni 
+		size = 27825
+	 } 
+}
+#under the rule of Bukhara in 1836  
+#Bukhara (868000/217000 POPS)   
+1198 = {
+	soldiers = {
+		culture = kazak
+		religion =  sunni 
+		size = 1665
+	 } 
+	bureaucrats = {
+		culture = kazak
+		religion =  sunni 
+		size = 3469
+	 } 
+	bureaucrats = {
+		culture = uzbek
+		religion =  sunni 
+		size = 2913
+	 } 
+	clergymen = {
+		culture = uzbek
+		religion =  sunni 
+		size = 2775
+	 } 
+	artisans = {
+		culture = uzbek
+		religion =  sunni 
+		size = 1755
+	 } 
+	farmers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 125757
+	 } 
+}
+#Samarkand (544000/136000 POPS)   
+1199 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 641
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox 
+		size = 69
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 2569
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox 
+		size = 277
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion =  orthodox 
+		size = 9848
+	 } 
+	bureaucrats = {
+		culture = russian
+		religion = orthodox 
+		size = 1064
+	 } 
+	clergymen = {
+		culture = russian
+		religion =  orthodox 
+		size = 4282
+	 } 
+	clergymen = {
+		culture = russian
+		religion = orthodox 
+		size = 462
+	 } 
+	artisans = {
+		culture = russian
+		religion =  orthodox 
+		size = 2709
+	 } 
+	artisans = {
+		culture = russian
+		religion = orthodox 
+		size = 292
+	 } 
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 22771
+	 } 
+	farmers = {
+		culture = russian
+		religion = orthodox 
+		size = 2460
+	 } 
+	farmers = {
+		culture = tajik
+		religion =  sunni 
+		size = 33215
+	 } 
+	farmers = {
+		culture = kazak
+		religion =  sunni 
+		size = 14235
+	 } 
+	farmers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 142350
+	 } 
+}
+#Qarshi (280000/70000 POPS)   
+1200 = {
+	soldiers = {
+		culture = tajik
+		religion =  sunni 
+		size = 3144
+	 } 
+	bureaucrats = {
+		culture = tajik
+		religion =  sunni 
+		size = 12052
+	 } 
+	clergymen = {
+		culture = tajik
+		religion =  sunni 
+		size = 4978
+	 } 
+	artisans = {
+		culture = uzbek
+		religion =  sunni 
+		size = 3315
+	 } 
+	farmers = {
+		culture = uzbek
+		religion =  sunni 
+		size = 237463
+	 } 
+
+}
+
+#Kyzyl Kum - Former Medicine Hat (8000/2000 POPS)
+29 = {
+	
+	clergymen = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 1000
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 5000
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 2500
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = protestant
+		size = 50000
+	}
+}
+

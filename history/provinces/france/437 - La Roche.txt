@@ -1,0 +1,12 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = grain
+life_rating = 35
+1861.1.1 = {
+	naval_base = 2
+}
+1914.1.1 = {
+	railroad = 1
+	naval_base = 5
+}

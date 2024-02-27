@@ -1,0 +1,8004 @@
+#Kaifeng - Kaifeng, Luohe, Zhengzhou, Xuchang (4236000/1059000 POPS)
+1508 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1217
+	 } 
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 314
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4871
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1256
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 33676
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 8683
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 841
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 217
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4209
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = sunni
+		size = 1085
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 8419
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 2170
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4106
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1059
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 184561
+	 } 
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 202308
+	 } 
+}
+#Guide - Shangqiu, Zhoukou (4173000/1043250 POPS)
+1509 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1199
+	 } 
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 309
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4799
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1237
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 33175
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 8554
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 829
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 213
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4146
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = sunni
+		size = 1069
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 8293
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 2138
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4045
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1043
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 372894
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 199299
+	 } 
+}
+#Henan - Sanmenxia, Luoyang (3664000/916000 POPS)
+1510 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1053
+	 } 
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 271
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4214
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1086
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 29128
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 7511
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 728
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 187
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3641
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = sunni
+		size = 938
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7282
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1877
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3552
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 915
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 378619
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 174990
+	 } 
+}
+#Huaiqing - Jiaozuo, Jiyuan (1758000/439500 POPS)
+1511 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 504
+	 } 
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 130
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2021
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 521
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 13976
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 3603
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 349
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 89
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1746
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = sunni
+		size = 450
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3494
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 900
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1704
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 439
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 125605
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 83961
+	 } 
+}
+#Weihui - Xinxiang, Puyang, Hebi, Anyang (2523000/630750 POPS)
+1515 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 725
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 186
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2901
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 748
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 20057
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 5172
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 500
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 129
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2506
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 646
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5014
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1292
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2446
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 630
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 267293
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 120497
+	 } 
+}
+#Xuzhou - Xuzhou, Lianyungang (5413000/1353250 POPS)
+1542 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1555
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 401
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6225
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1605
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 43033
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11096
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1075
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 277
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5378
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1387
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 10757
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2774
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5248
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1353
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 602557
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 258521
+	 } 
+}
+#Xian - Xian, Baoji, Xianyang, Tongchuan (4970000/1242500 POPS)
+1559 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1428
+	 } 
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 368
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5716
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1473
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 39511
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 10188
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 987
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 254
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4938
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = sunni
+		size = 1273
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 9877
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 2547
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4819
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1242
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 320508
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 237363
+	 } 
+}
+#Jinan - Jinan, Liaocheng, Dezhou (3409000/852250 POPS)
+1563 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 980
+	 } 
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 252
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3920
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1011
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 27101
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 6988
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 677
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 174
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3387
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = sunni
+		size = 873
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6774
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1747
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3304
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 852
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 431391
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 162811
+	 } 
+}
+#Caozhou - Heze, Jining (4326000/1081500 POPS)
+1564 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1243
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 320
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4975
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1282
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 34391
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 8868
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 859
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 221
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4298
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1108
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 8597
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2217
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4194
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1081
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 401232
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 206606
+	 } 
+}
+#Laizhou - Yantai (2907000/726750 POPS)
+1565 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 835
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 215
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3342
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 862
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 23110
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 5959
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 577
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 148
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2888
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 744
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5777
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1489
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2818
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 726
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 238416
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 138836
+	 } 
+}
+#Qingdao - Qingdao (3636000/909000 POPS)
+1566 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 545
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 269
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 418
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 578
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 289
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 553
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 722
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 186
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 361
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 931
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 722
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 186
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 352
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 908
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 11000
+	 } 
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 1736
+	 } 
+}
+#Qingzhou - Weifang (3791000/947750 POPS)
+1567 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1089
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 281
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4359
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1124
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 30138
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 7771
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 752
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 194
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3766
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 971
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7534
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1942
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3676
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 947
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 302143
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 181055
+	 } 
+}
+#Taian - Shangdong the rest (3701000/925250 POPS)
+1568 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1063
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 274
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4256
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1097
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 29422
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 7587
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 735
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 189
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3677
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 948
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7355
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1896
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3588
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 925
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 385473
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 176757
+	 } 
+}
+#Weihaiwei - Weihaiwei (1170000/292500 POPS)
+1569 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 336
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 86
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1345
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 346
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 9301
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 2398
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 232
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 59
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1162
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 299
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2325
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 599
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1134
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 292
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 116700
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 55878
+	 } 
+}
+#Wuding - Binzhou, Dongying (2413000/603250 POPS)
+1570 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 693
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 178
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2775
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 715
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 19183
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 4946
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 479
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 123
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2397
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 618
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4795
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1236
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2339
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 603
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 246919
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 115243
+	 } 
+}
+#Yizhou - Linyi, Rizhao (5358000/1339500 POPS)
+1571 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1540
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 397
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6162
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1589
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 42596
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 10983
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1064
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 274
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5324
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1372
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 10649
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2745
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5195
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1339
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 292369
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 255894
+	 } 
+}
+#Taiyuan - Taiyuan, Xinzhou, Yangquan (3610000/902500 POPS)
+1572 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1037
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 267
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4151
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1070
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 28699
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 7400
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 717
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 184
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3587
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 924
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7174
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1850
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3500
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 902
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 368619
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 172411
+	 } 
+}
+#Fenzhou - (1555000/388750 POPS)
+1573 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 446
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 115
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1787
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 461
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 12362
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 3187
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 308
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 79
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1544
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 398
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3090
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 796
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1507
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 388
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 188008
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 74266
+	 } 
+}
+#Luan - Changzhi, Jincheng (2342000/585500 POPS)
+1574 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 673
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 173
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2693
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 694
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 18618
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 4801
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 465
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 119
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2326
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 600
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4654
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1200
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2270
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 585
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 133769
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 111852
+	 } 
+}
+#Pingyang - Yuncheng, Linfen (3943000/985750 POPS)
+1575 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1133
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 292
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4534
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1169
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 31346
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 8083
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 783
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 201
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3917
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1010
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7836
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2020
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3823
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 985
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 730295
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 188315
+	 } 
+}
+#Datong - Datong, Shuozhou (2099000/524750 POPS)
+1576 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 603
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 155
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2413
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 622
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 16687
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 4302
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 416
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 107
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2085
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 537
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4171
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1075
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2035
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 524
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 388763
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 100247
+	 } 
+}
+#Beijing - Beijing (6322000/1580500 POPS)
+1612 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1817
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 468
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7271
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1874
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 50259
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 12960
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1256
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 323
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6282
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1619
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 12564
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 3240
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6130
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1580
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1170915
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 301934
+	 } 
+}
+#Daming - Xingtai, Hengshui, Handan (4430000/1107500 POPS)
+1614 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1273
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 328
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5095
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1313
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 35218
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 9081
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 880
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 226
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4401
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1135
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 8804
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2270
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4295
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1107
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 820493
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 211573
+	 } 
+}
+#Jizhou - Langfang, Cangzhou (4795000/1198750 POPS)
+1615 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1378
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 355
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5514
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1422
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 38120
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 9829
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 952
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 245
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4764
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1228
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 9529
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2457
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4649
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1198
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 888096
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 229006
+	 } 
+}
+#Shuntian - Chengde, Qinhuangdao, Tangshan, Zhangjiakou (5857000/1464250 POPS)
+1616 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1683
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 434
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 60736
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 46563
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 12006
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1163
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 300
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5820
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1500
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 11640
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 3001
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5679
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1464
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1084791
+	 } 
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 279726
+	 } 
+}
+#Tianjin - Tianjin (5399000/1349750 POPS)
+1617 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1551
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 100247
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 400
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6209
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1601
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 42922
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 11067
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1072
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 276
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5364
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1383
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 10730
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2766
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5235
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1349
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 999965
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 257852
+	 } 
+}
+#Zhongding - Shijiazhuang, Baoding, Dingzhou, Xinji (4738000/1184500 POPS)
+1618 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1361
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 351
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5448
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1405
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 37667
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 9712
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 941
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 242
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4707
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1214
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 9416
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2428
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4594
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1184
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 877539
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 226283
+	 } 
+}
+#Anqing - Anqing (2216000/554000 POPS)
+1470 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1321
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 340
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5285
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1362
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 17617
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4542
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 14440
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 113
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2202
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 567
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4404
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1135
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2131
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 549
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 407028
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 104956
+	 } 
+}
+#Chizhou - Chizhou, Tongling (887000/221750 POPS)
+1471 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 528
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 136
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2115
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 545
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7051
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1818
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 175
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 45
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 880
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 227
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1762
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 454
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 853
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 219
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 162923
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 42011
+	 } 
+}
+#Fengyang - Huaibei, Huainan (1856000/464000 POPS)
+1472 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1106
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 285
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4426
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1141
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 14755
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 3804
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 368
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 95
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1844
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 475
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3688
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 951
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1784
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 460
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 340904
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 87906
+	 } 
+}
+#Huizhou - Huangshan (567000/141750 POPS)
+1473 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 337
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 87
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1352
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 348
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4507
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 1162
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 112
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 28
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 562
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 145
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1126
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 290
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 545
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 140
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 104146
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 26855
+	 } 
+}
+#Luzhou - (5453000/1363250 POPS)
+1474 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3250
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 838
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 13005
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3353
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 43351
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 11178
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1083
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 279
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5418
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1397
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 10837
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2794
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5246
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1352
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1001590
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 258271
+	 } 
+}
+#Ningguo - Xuancheng, Wuhu (2493000/623250 POPS)
+1475 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1485
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 383
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5945
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1533
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 19819
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 5110
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 495
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 127
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2477
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 638
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4954
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1277
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2398
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 618
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 457907
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 118076
+	 } 
+}
+#Sizhou - Sizhou, Bengbu (3554000/888500 POPS)
+1476 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2118
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 546
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 8476
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2185
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 28254
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 7285
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 705
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 182
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3531
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 910
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7063
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1821
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3419
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 881
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 652788
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 168328
+	 } 
+}
+#Taiping - Chuzhou (2604000/651000 POPS)
+1477 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1552
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 400
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6210
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1601
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 20701
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 5338
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 517
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 133
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2587
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 667
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5175
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1334
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2505
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 645
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 478294
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 123333
+	 } 
+}
+#Yingzhou - Bozhou, Fuyang (4491000/1122750 POPS)
+1478 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2677
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 690
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 10711
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2761
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 35703
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 9206
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 891
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 230
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4462
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1150
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 8925
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2301
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4320
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1113
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 824894
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 212708
+	 } 
+}
+#Port Arthur (80000/15000 POPS)
+1481 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1663
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 429
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6656
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1716
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = mahayana
+		size = 50
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1109
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2860
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2656
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 684
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5000
+	 } 
+	farmers = {
+		culture = manchu
+		religion =  mahayana
+		size = 12300
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  mahayana
+		size = 1300
+	 } 
+}
+#Fuzhou - Fuzhou, Ningde (4146000/1036500 POPS)
+1482 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2471
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 637
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 9888
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2549
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 32960
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8499
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 44823
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 212
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4119
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1062
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8240
+	 } 
+	clergymen = {
+		culture = miao
+		religion = mahayana
+		size = 2124
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3988
+	 } 
+	artisans = {
+		culture = min
+		religion = mahayana
+		size = 1028
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 761524
+	 } 
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 196368
+	 } 
+}
+#Jianning - Nanping (1103000/275750 POPS)
+1483 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 657
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 169
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2630
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 678
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 7672
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1978
+	 } 
+	aristocrats = {
+		culture = miao
+		religion =  mahayana
+		size = 1096
+	 } 
+	aristocrats = {
+		culture = miao
+		religion = mahayana
+		size = 282
+	 } 
+	bureaucrats = {
+		culture = miao
+		religion =  mahayana
+		size = 218
+	 } 
+	bureaucrats = {
+		culture = miao
+		religion = mahayana
+		size = 56
+	 } 
+	capitalists = {
+		culture = miao
+		religion =  mahayana
+		size = 1095
+	 } 
+	capitalists = {
+		culture = miao
+		religion = mahayana
+		size = 282
+	 } 
+	clergymen = {
+		culture = miao
+		religion =  mahayana
+		size = 2191
+	 } 
+	clergymen = {
+		culture = miao
+		religion = mahayana
+		size = 565
+	 } 
+	artisans = {
+		culture = miao
+		religion =  mahayana
+		size = 1060
+	 } 
+	artisans = {
+		culture = miao
+		religion = mahayana
+		size = 273
+	 } 
+	farmers = {
+		culture = miao
+		religion =  mahayana
+		size = 202597
+	 } 
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 52241
+	 } 
+}
+#Quanzhou - Quanzhou, Putian (4551000/1137750 POPS)
+1484 = {
+	officers = {
+		culture = miao
+		religion =  mahayana
+		size = 2713
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 699
+	 } 
+	soldiers = {
+		culture = miao
+		religion =  mahayana
+		size = 10854
+	 } 
+	soldiers = {
+		culture = miao
+		religion = mahayana
+		size = 2798
+	 } 
+	aristocrats = {
+		culture = miao
+		religion =  mahayana
+		size = 36180
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9329
+	 } 
+	bureaucrats = {
+		culture = miao
+		religion =  mahayana
+		size = 903
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 233
+	 } 
+	capitalists = {
+		culture = miao
+		religion =  mahayana
+		size = 4521
+	 } 
+	capitalists = {
+		culture = miao
+		religion = mahayana
+		size = 1166
+	 } 
+	clergymen = {
+		culture = miao
+		religion =  mahayana
+		size = 9044
+	 } 
+	clergymen = {
+		culture = miao
+		religion = mahayana
+		size = 2332
+	 } 
+	artisans = {
+		culture = miao
+		religion =  mahayana
+		size = 4378
+	 } 
+	artisans = {
+		culture = miao
+		religion = mahayana
+		size = 1128
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 835914
+	 } 
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 215550
+	 } 
+}
+#Tingzhou - Longyan, Sanming (2112000/528000 POPS)
+1486 = {
+	officers = {
+		culture = hakka
+		religion =  mahayana
+		size = 1259
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 324
+	 } 
+	soldiers = {
+		culture = hakka
+		religion =  mahayana
+		size = 5037
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1298
+	 } 
+	aristocrats = {
+		culture = hakka
+		religion =  mahayana
+		size = 16790
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4329
+	 } 
+	bureaucrats = {
+		culture = hakka
+		religion =  mahayana
+		size = 419
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 108
+	 } 
+	capitalists = {
+		culture = hakka
+		religion =  mahayana
+		size = 2098
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 541
+	 } 
+	clergymen = {
+		culture = hakka
+		religion =  mahayana
+		size = 4197
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1082
+	 } 
+	artisans = {
+		culture = hakka
+		religion =  mahayana
+		size = 2031
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 523
+	 } 
+	farmers = {
+		culture = hakka
+		religion =  mahayana
+		size = 119279
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 30757
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 268646
+	 } 
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 69273
+	 } 
+}
+#Zhangzhou - Zhangzhou, Xiamen (3480000/870000 POPS)
+1487 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2074
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 535
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8299
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2140
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 27665
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7134
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 691
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 178
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3458
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 891
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 6916
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1783
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3347
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 863
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 639195
+	 } 
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 164823
+	 } 
+}
+#Canton - Guangdong the rest (4688000/1172000 POPS)
+1493 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2795
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 720
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 11180
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2883
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 37269
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9610
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 34931
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 240
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4658
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1201
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 9317
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2402
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4510
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1162
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 814489
+	 } 
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 210025
+	 } 
+	farmers = {
+		culture = hakka
+		religion =  mahayana
+		size = 46586
+	 } 
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 12013
+	 } 
+}
+#Chaozhou - Chaozhou, Meizhou, Jieyang, Shantou (4173000/1043250 POPS)
+1494 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2487
+	 } 
+	officers = {
+		culture = hakka
+		religion = mahayana
+		size = 641
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 9952
+	 } 
+	soldiers = {
+		culture = hakka
+		religion = mahayana
+		size = 2566
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 33175
+	 } 
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 8554
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 829
+	 } 
+	bureaucrats = {
+		culture = hakka
+		religion = mahayana
+		size = 213
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4146
+	 } 
+	capitalists = {
+		culture = hakka
+		religion = mahayana
+		size = 1069
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8293
+	 } 
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 2138
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4014
+	 } 
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 1035
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 393261
+	 } 
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 101406
+	 } 
+	farmers = {
+		culture = yue
+		religion =  mahayana
+		size = 373222
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 96239
+	 } 
+}
+#Gauzhou - Maoming, Zhanjiang (5345000/1336250 POPS)
+1495 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2124
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 547
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8498
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2191
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 42492
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 10957
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1062
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 273
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5311
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1369
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 10622
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2739
+	 } 
+	artisans = {
+		culture = yue
+		religion =  mahayana
+		size = 5168
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1332
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 668342
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 172339
+	 } 
+	farmers = {
+		culture = hakka
+		religion =  mahayana
+		size = 212463
+	 } 
+	farmers = {
+		culture = min
+		religion = mahayana
+		size = 54786
+	 } 
+	farmers = {
+		culture = yue
+		religion =  mahayana
+		size = 106231
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 27393
+	 } 
+}
+#Hong Kong - Hong Kong (3018000/754500 POPS)
+1496 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 2998
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 773
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 1799
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 463
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 7197
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 1856
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 5999
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 1546
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 17994
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4639
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 599
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 154
+	 } 
+	clergymen = {
+		culture = yue
+		religion =  mahayana
+		size = 5997
+	 } 
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 1546
+	 } 
+	artisans = {
+		culture = yue
+		religion =  mahayana
+		size = 2903
+	 } 
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 748
+	 } 
+	craftsmen = {
+		culture = yue
+		religion =  mahayana
+		size = 530943
+	 } 
+	artisans = {
+		culture = yue
+		religion = mahayana
+		size = 136910
+	 } 
+	artisans = {
+		culture = malay
+		religion =  sunni 
+		size = 14335
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 11996
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 3093
+	 } 
+}
+#Waizao - Huizhou, Shanwei, Heyuan (4375000/1093750 POPS)
+1497 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2608
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 672
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 10434
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2690
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 34781
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8968
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 868
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 224
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4347
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1120
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8694
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2242
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4208
+	 } 
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 1085
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 760110
+	 } 
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 196003
+	 } 
+	farmers = {
+		culture = yue
+		religion =  mahayana
+		size = 43476
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 11210
+	 } 
+}
+#Hainan - Hainan (3618000/904500 POPS)
+1499 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1438
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 370
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5752
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1483
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 28763
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7416
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 718
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 185
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3594
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 927
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 7190
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1854
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3497
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 902
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 20951
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5402
+	 } 
+	farmers = {
+		culture = min
+		religion =  mahayana
+		size = 647169
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 166880
+	 } 
+}
+#Shaozhou - Zhaoqing, Shaoguan, Qingyuan (4357000/1089250 POPS)
+1500 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2597
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 669
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 10391
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2679
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 34638
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8931
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 14865
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 223
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4329
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1116
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8659
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2232
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4191
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1080
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 627090
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 161702
+	 } 
+	farmers = {
+		culture = hakka
+		religion =  mahayana
+		size = 173190
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 44659
+	 } 
+}
+#Zhaoqing - Yangjiang, Yunfu (1995000/498750 POPS)
+1501 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1189
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 306
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4758
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1226
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 15860
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4089
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 395
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 102
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1981
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 511
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3964
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1022
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1919
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 494
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 366436
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 94490
+	 } 
+}
+#Macao - Macao (230000/57500 POPS)
+1498 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 136
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 35
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 548
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 141
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 91
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1097
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 282
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 639
+	 } 
+	aristocrats = {
+		culture = hakka
+		religion = mahayana
+		size = 165
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1000
+	 } 
+	bureaucrats = {
+		culture = hakka
+		religion = mahayana
+		size = 11
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 228
+	 } 
+	capitalists = {
+		culture = hakka
+		religion = mahayana
+		size = 58
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 457
+	 } 
+	clergymen = {
+		culture = hakka
+		religion = mahayana
+		size = 117
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 221
+	 } 
+	artisans = {
+		culture = hakka
+		religion = mahayana
+		size = 56
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1105
+	 } 
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 284
+	 } 
+	craftsmen = {
+		culture = yue
+		religion =  mahayana
+		size = 41141
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 10608
+	 } 
+}
+#Nanning - Nanning (4701000/1175250 POPS)
+1502 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2802
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 722
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 11211
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2891
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 37372
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9637
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 43934
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 240
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4671
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1204
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 9342
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2409
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4521
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1166
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 209439
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 54006
+	 } 
+	farmers = {
+		culture = zhuang
+		religion =  mahayana
+		size = 467161
+	 } 
+	farmers = {
+		culture = zhuang
+		religion = animist
+		size = 120463
+	 } 
+	farmers = {
+		culture = hakka
+		religion =  mahayana
+		size = 46715
+	 } 
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 12046
+	 } 
+	farmers = {
+		culture = yue
+		religion =  mahayana
+		size = 46715
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 12046
+	 } 
+	farmers = {
+		culture = vietnamese
+		religion =  mahayana
+		size = 18686
+	 } 
+	farmers = {
+		culture = vietnamese
+		religion = mahayana
+		size = 4818
+	 } 
+	farmers = {
+		culture = miao
+		religion =  mahayana
+		size = 18686
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 4818
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion =  protestant 
+		size = 56059
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion = animist
+		size = 14455
+	 } 
+}
+#Guilin - Guilin, Hechi, Liuzhou (4955000/1238750 POPS)
+1503 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2954
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 761
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 11817
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3047
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 39392
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 10157
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4984
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 253
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4923
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1269
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 9847
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2539
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4766
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1229
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 319236
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 82318
+	 } 
+	farmers = {
+		culture = zhuang
+		religion =  mahayana
+		size = 590883
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 152366
+	 } 
+}
+#Pingle - Hezhou, Laibin, Guiqang, Yulin (5699000/1424750 POPS)
+1504 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3397
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 876
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 13592
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3504
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 45307
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11682
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1132
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 291
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5662
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1460
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 11326
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2920
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5482
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1413
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 50020
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 12898
+	 } 
+	farmers = {
+		culture = yi
+		religion =  mahayana
+		size = 113267
+	 } 
+	farmers = {
+		culture = yi
+		religion = mahayana
+		size = 29207
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 736239
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 189847
+	 } 
+	farmers = {
+		culture = hakka
+		religion =  mahayana
+		size = 33979
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 8762
+	 } 
+	farmers = {
+		culture = zhuang
+		religion =  mahayana
+		size = 113267
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 29207
+	 } 
+}
+#Chenzhou - Chenzhou (1774000/443500 POPS)
+1512 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1057
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 272
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4230
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1091
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 14103
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 3636
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 352
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 90
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1762
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 454
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3525
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 909
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1706
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 439
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 325844
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 84022
+	 } 
+}
+#Nanyang - Nanyang, Pingdingshan (6329000/1582250 POPS)
+1513 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3773
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 972
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 15094
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3892
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 50315
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 12974
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1257
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 324
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6289
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1621
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 12578
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 3243
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6088
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1570
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 462491
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 199761
+	 } 
+}
+#Runing - Zhumadian,Xinyang (3825000/956250 POPS)
+1514 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2280
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 587
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 9122
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2352
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 30408
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 7841
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 760
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 195
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3800
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 980
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7601
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1960
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3679
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 948
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 302565
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 181164
+	 } 
+}
+#Hanyang - Xiaogan (2008000/502000 POPS)
+1516 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1197
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 308
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4789
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1234
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 15963
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 4116
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 399
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 102
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1995
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 514
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3990
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1029
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1931
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 498
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 368822
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 95105
+	 } 
+}
+#Dean - Suizhou (902000/225500 POPS)
+1517 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 537
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 138
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2151
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 554
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 7170
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1849
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 178
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 46
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 895
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 231
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1792
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 462
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 867
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 223
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 165677
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 42722
+	 } 
+}
+#Huangzhou - Huanggang (2571000/642750 POPS)
+1518 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1532
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 395
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 6131
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1581
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 20439
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5270
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 510
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 131
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2554
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 658
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5109
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1317
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2473
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 637
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 472234
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 121771
+	 } 
+}
+#Wuchang - Wuchan, Ezhou, Huangshi, Xianning (4475000/1118750 POPS)
+1522 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2668
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 687
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 10672
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2752
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 35576
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9173
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 888
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 229
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4446
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1146
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8893
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2293
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4304
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1110
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 821955
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 211950
+	 } 
+}
+#Changsha - Changsha, Zhuzhou, Xingtan (5694000/1423500 POPS)
+1524 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3394
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 875
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 13580
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3501
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 45267
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11672
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1131
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 291
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5658
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1458
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 11316
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2918
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5477
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1412
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 545856
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 269686
+	 } 
+}
+#Changde - Changde, Yiyang (4198000/1049500 POPS)
+1525 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2502
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 645
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 10012
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2581
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 33374
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8605
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 833
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 215
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4171
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1075
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8343
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2151
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4038
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1041
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 771076
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 198830
+	 } 
+}
+#Baoqing - Shaoyang, Huaihua, Loudi (4004000/1001000 POPS)
+1526 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2387
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 615
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 9549
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2462
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 31831
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8208
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 795
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 205
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3978
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1026
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 7957
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2052
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3851
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 993
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 735441
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 189642
+	 } 
+}
+#Hengzhou - Chengzhou, Hengyang, Xiantan (6038000/1509500 POPS)
+1527 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3599
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 928
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 14400
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3713
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 48002
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 12377
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1199
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 309
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5999
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1547
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 12000
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3094
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5809
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1497
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1109040
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 285979
+	 } 
+}
+#Yuezhou - Yuezhou (2285000/571250 POPS)
+1528 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1361
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 351
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5449
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1405
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 18165
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4684
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 453
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 117
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2270
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 585
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4541
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1170
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2198
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 566
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 419702
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 108225
+	 } 
+}
+#Yongshun - Zhangjiajie, Xiangxhi (1678000/419500 POPS)
+1529 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1000
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 257
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4002
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1031
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 13340
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3439
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 333
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 85
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1667
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 429
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3335
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 859
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1613
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 416
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 278195
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 71736
+	 } 
+	farmers = {
+		culture = miao
+		religion =  mahayana
+		size = 16675
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 4299
+	 } 
+	farmers = {
+		culture = yue
+		religion =  mahayana
+		size = 13340
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion = mahayana
+		size = 3439
+	 } 
+}
+#Yongzhou - Yongzhou (2161000/540250 POPS)
+1530 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1287
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 332
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5153
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1329
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 17179
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4430
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 429
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 110
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2147
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 553
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4294
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1107
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2078
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 536
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 396926
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 102352
+	 } 
+}
+#Huaian - Huaian, Suqian, Yancheng (4078000/1019500 POPS)
+1536 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2431
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 626
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 9726
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2507
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 32420
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8359
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 810
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 208
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4052
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1044
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 8105
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2089
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3923
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1011
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 749034
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 193147
+	 } 
+}
+#Changzhou - Changzhou, Wuxi (4574000/1143500 POPS)
+1537 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2726
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 703
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 10908
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2813
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 36363
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9376
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 908
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 234
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4545
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1171
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 9090
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2344
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4400
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1134
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 840138
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 216639
+	 } 
+}
+#Shanghai - Shanghai (5432000/1358000 POPS)
+1538 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3238
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 835
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 12955
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3340
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 43184
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 11135
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1079
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 278
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5398
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1391
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 10796
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2783
+	 } 
+	clerks = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5500
+	 } 
+	clerks = {
+		culture = beifaren
+		religion = mahayana
+		size = 1418
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 5225
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1347
+	 } 
+	craftsmen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 16778
+	 } 
+	craftsmen = {
+		culture = beifaren
+		religion = mahayana
+		size = 4326
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 975453
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 251531
+	 } 
+}
+#Suzhou - Suzhou (4367000/1091750 POPS)
+1539 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2603
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 671
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 10415
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2685
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 34717
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 8952
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 867
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 223
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4339
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1118
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 8679
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2237
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4200
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1083
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 802118
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 206835
+	 } 
+}
+#Taicangzhou - Nantong (3038000/759500 POPS)
+1540 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1811
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 466
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7245
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1868
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 24152
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 6227
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 603
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 155
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3018
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 778
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6038
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1556
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2922
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 753
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 558011
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 143889
+	 } 
+}
+#Tongzhou - Taizhou (1927000/481750 POPS)
+1541 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1148
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 296
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4595
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1185
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 15319
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 3950
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 382
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 98
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1914
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 493
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3829
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 987
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1853
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 477
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 353947
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 91269
+	 } 
+}
+#Yangzhou - Yangzhou (1860000/465000 POPS)
+1543 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1109
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 285
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4436
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1143
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 14786
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3813
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 369
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 95
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1848
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 476
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3696
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 953
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1788
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 461
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 341639
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 88095
+	 } 
+}
+#Zhenjiang - Zhenjiang (1299000/324750 POPS)
+1544 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 774
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 199
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3098
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 798
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 10327
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2662
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 257
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 66
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1290
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 332
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2581
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 665
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1249
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 322
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 238597
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 61525
+	 } 
+}
+#Nanchang - Nanchang, Yichun, Jiujiang (4256000/1064000 POPS)
+1545 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2537
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 654
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 10150
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2617
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 33835
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 8724
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 845
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 218
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4229
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1090
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8458
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2181
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4094
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1055
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 781728
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 201577
+	 } 
+}
+#Guangxin - Shangarao (2745000/686250 POPS)
+1546 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1636
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 421
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 6546
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1688
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 21822
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 5627
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 545
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 140
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2727
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 703
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5455
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1406
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2640
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 680
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 504194
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 130012
+	 } 
+}
+#Jianchang - Fuzhou (1632000/408000 POPS)
+1548 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 973
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 250
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3892
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1003
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 12974
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3345
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 324
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 83
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1621
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 418
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3243
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 836
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1570
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 404
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 299760
+	 } 
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 77296
+	 } 
+}
+#Jiujiang - Jiujiang (1973000/493250 POPS)
+1549 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1175
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 303
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4705
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1213
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 15685
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4044
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 391
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 101
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1960
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 505
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3920
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1011
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1897
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 489
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 362395
+	 } 
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 93448
+	 } 
+}
+#Ganzhou - Ganzhou (3491000/872750 POPS)
+1550 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2081
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 536
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8326
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2146
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 27753
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7156
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 693
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 178
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3468
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 894
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 6937
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1789
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3358
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 865
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 120839
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 31160
+	 } 
+	farmers = {
+		culture = hakka
+		religion =  mahayana
+		size = 520376
+	 } 
+	farmers = {
+		culture = hakka
+		religion = mahayana
+		size = 134185
+	 } 
+}
+#Raozhou - Jingdezhen, Yingtan (1131000/282750 POPS)
+1551 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 674
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 173
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2697
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 695
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8991
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2318
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 224
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 57
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1123
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 289
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2247
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 579
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1087
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 280
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 207740
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 53568
+	 } 
+}
+#Chongqing - Chongqing (3356000/839000 POPS)
+1577 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2001
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 515
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8004
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2063
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 26680
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 6879
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 667
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 171
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3335
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 859
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 6670
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1719
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3228
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 832
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 616419
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 158950
+	 } 
+}
+#Hangzhou - Hangzhou (3630000/907500 POPS)
+1604 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2163
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 558
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 8657
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2232
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 28858
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7441
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 721
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 185
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3606
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 930
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7214
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1860
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3491
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 900
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 666748
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 171928
+	 } 
+}
+#Huzhou - Huzhou (1208000/302000 POPS)
+1605 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 720
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 185
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2881
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 742
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 9603
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2476
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 240
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 61
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1200
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 309
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2400
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 619
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1161
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 299
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 221882
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 57214
+	 } 
+}
+#Jiaxing - Jiaxing (1878000/469500 POPS)
+1606 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1119
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 288
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4479
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1154
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 14930
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3849
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 372
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 96
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1865
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 481
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3732
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 962
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1806
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 465
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 344946
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 88948
+	 } 
+}
+#Jinhua - Jinhua, Quzhou (3164000/791000 POPS)
+1607 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1886
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 486
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 7546
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1945
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 25153
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 6486
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 628
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 162
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3144
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 810
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 6288
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1621
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3044
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 784
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 581152
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 149857
+	 } 
+}
+#Ningbo - Ningbo, Zhoushan (3641000/910250 POPS)
+1608 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2170
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 559
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 8683
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2239
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 28945
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7464
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 723
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 186
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3618
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 932
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 7236
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1865
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3502
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 903
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 668768
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 172449
+	 } 
+}
+#Shaoxing - Shaoxing (1749000/437250 POPS)
+1609 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1042
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 268
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4171
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1075
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 13904
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3585
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 347
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 89
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1737
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 448
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 3475
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 896
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1682
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 433
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 321252
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 82838
+	 } 
+}
+#Taizhou - Taizhou (2490000/622500 POPS)
+1610 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1484
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 382
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 5938
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1531
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 19795
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5104
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 494
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 127
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2474
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 637
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4948
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1276
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2395
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 617
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 457356
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 117934
+	 } 
+}
+#Wenzhou - Wenzhou, Lishui (4690000/1172500 POPS)
+1611 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 2796
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 720
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 11185
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2884
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 37285
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 9614
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 931
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 240
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4660
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 1201
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 9321
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2403
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 4511
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 1163
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 861445
+	 } 
+	farmers = {
+		culture = miao
+		religion = mahayana
+		size = 222133
+	 } 
+}
+#Nanjing - Nanjing (3340000/835000 POPS)
+2221 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1991
+	 } 
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 513
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 7965
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 2054
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 26552
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 6847
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 663
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 171
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3319
+	 } 
+	capitalists = {
+		culture = nanfaren
+		religion = mahayana
+		size = 855
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6638
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1711
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3212
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 828
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 613480
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 158193
+	 } 
+}
+#Isortoq - Yancheng (2921000/730250 POPS)
+2632 = {
+	officers = {
+		culture = danish
+		religion =  protestant
+		size = 12
+	 } 
+	officers = {
+		culture = danish
+		religion = protestant
+		size = 448
+	 } 
+	soldiers = {
+		culture = danish
+		religion =  protestant
+		size = 692
+	 } 
+	soldiers = {
+		culture = danish
+		religion = protestant
+		size = 12
+	 } 
+	aristocrats = {
+		culture = danish
+		religion =  protestant
+		size = 22
+	 } 
+	aristocrats = {
+		culture = danish
+		religion = protestant
+		size = 52
+	 } 
+	bureaucrats = {
+		culture = danish
+		religion =  protestant
+		size = 580
+	 } 
+	bureaucrats = {
+		culture = danish
+		religion = protestant
+		size = 149
+	 } 
+	capitalists = {
+		culture = danish
+		religion =  protestant
+		size = 2902
+	 } 
+	capitalists = {
+		culture = danish
+		religion = protestant
+		size = 748
+	 } 
+	clergymen = {
+		culture = danish
+		religion =  protestant
+		size = 5805
+	 } 
+	clergymen = {
+		culture = danish
+		religion = protestant
+		size = 1496
+	 } 
+	artisans = {
+		culture = danish
+		religion =  protestant
+		size = 2809
+	 } 
+	artisans = {
+		culture = danish
+		religion = protestant
+		size = 724
+	 } 
+	farmers = {
+		culture = danish
+		religion =  protestant
+		size = 521
+	 } 
+	farmers = {
+		culture = danish
+		religion = protestant
+		size = 12
+	 } 
+}

@@ -1,0 +1,5 @@
+owner = GEA
+controller = GEA
+add_core = CHI
+trade_goods = grain
+life_rating = 32

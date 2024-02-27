@@ -1,0 +1,38 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = BUL
+trade_goods = tobacco
+life_rating = 35
+1914.1.1 = {
+	controller = BUL
+	owner = BUL
+	remove_core = TUR
+	
+	railroad = 5	# Berlin-Baghdad railway
+	state_building = {
+		level = 5
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = cement_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = fabric_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = regular_clothes_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = liquor_distillery
+		upgrade = yes
+	}   
+}

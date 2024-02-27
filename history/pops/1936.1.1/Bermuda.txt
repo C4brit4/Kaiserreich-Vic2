@@ -1,0 +1,106 @@
+#Bermuda Region - 9000  
+#Ruled by Britain 1836
+#Bermuda (9000/2250 POPS)
+203 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 46
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 11
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 23
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 5
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 94
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 22
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 276
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 64
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 31
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = protestant 
+		size = 7
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 78
+	 } 
+	clergymen = {
+		culture = british
+		religion = protestant 
+		size = 18
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 221
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 52
+	 } 
+	farmers = {
+		culture = british
+		religion =  protestant 
+		size = 1753
+	 } 
+	farmers = {
+		culture = british
+		religion = protestant 
+		size = 411
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 473
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = animist
+		size = 111
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 3833
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = animist
+		size = 899
+	 } 
+
+}

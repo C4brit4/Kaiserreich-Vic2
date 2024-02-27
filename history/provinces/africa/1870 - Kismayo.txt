@@ -1,0 +1,7 @@
+owner = GMC
+controller = GMC
+trade_goods = cattle
+life_rating = 15
+
+add_core = EOC
+add_core = BSO

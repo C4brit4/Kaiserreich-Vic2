@@ -1,0 +1,177 @@
+#Tunisia Region (1392000)  
+#under the rule of Tunisia in 1836  
+#Tunis (488000/122000 POPS) 
+1725 = {
+	capitalists = {
+		culture = sephardic
+		religion =  jewish 
+		size = 1132
+	 } 
+	capitalists = {
+		culture = sephardic
+		religion = jewish 
+		size = 20
+	 } 
+	aristocrats = {
+		culture = berber
+		religion =  sunni 
+		size = 9230
+	 } 
+	clergymen = {
+		culture = berber
+		religion =  sunni 
+		size = 2307
+	 } 
+	artisans = {
+		culture = berber
+		religion =  sunni 
+		size = 5487
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 181191
+	 } 
+	farmers = {
+		culture = sephardic
+		religion =  jewish 
+		size = 6993
+	 } 
+	farmers = {
+		culture = sephardic
+		religion = jewish 
+		size = 124
+	 } 
+}
+#Bizerte (268000/67000 POPS) 
+1726 = {
+	aristocrats = {
+		culture = berber
+		religion =  sunni 
+		size = 5670
+	 } 
+	clergymen = {
+		culture = berber
+		religion =  sunni 
+		size = 1417
+	 } 
+	artisans = {
+		culture = berber
+		religion =  sunni 
+		size = 3371
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 75678
+	 } 
+}
+#Gafsa (112000/28000 POPS) 
+1727 = {
+	aristocrats = {
+		culture = berber
+		religion =  sunni 
+		size = 8250
+	 } 
+	capitalists = {
+		culture = berber
+		religion =  sunni 
+		size = 1031
+	 } 
+	clergymen = {
+		culture = berber
+		religion =  sunni 
+		size = 2062
+	 } 
+	artisans = {
+		culture = berber
+		religion =  sunni 
+		size = 4905
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 68316
+	 } 
+}
+#Kairouan (228000/57000 POPS) 
+1728 = {
+	aristocrats = {
+		culture = berber
+		religion =  sunni 
+		size = 7910
+	 } 
+	clergymen = {
+		culture = berber
+		religion =  sunni 
+		size = 1977
+	 } 
+	artisans = {
+		culture = berber
+		religion =  sunni 
+		size = 4703
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 31379
+	 } 
+}
+#Tozeur (96000/24000 POPS) 
+1729 = {
+	aristocrats = {
+		culture = berber
+		religion =  sunni 
+		size = 1350
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 7542
+	 } 
+}
+#Gabes (200000/50000 POPS) 
+1730 = {
+	aristocrats = {
+		culture = berber
+		religion = sunni
+		size = 900
+	}
+
+	clergymen = {
+		culture = berber
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = berber
+		religion = sunni
+		size = 2275
+	}
+
+	soldiers = {
+		culture = berber
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 20825
+	}
+
+	farmers = {
+		culture = berber
+		religion = sunni
+		size = 4000
+	}
+	
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 500
+	}
+
+}

@@ -1,0 +1,16 @@
+owner = WUR
+controller = WUR
+add_core = WUR
+add_core = GER
+trade_goods = grain
+life_rating = 40
+1850.1.1 = {
+	owner = PRU
+	controller = PRU
+	add_core = PRU
+}
+1914.1.1 = {
+	owner = GER
+	controller = GER
+	railroad = 5
+}

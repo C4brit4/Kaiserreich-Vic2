@@ -1,0 +1,1274 @@
+#Duoro e Minho Region (1660000)
+#Oporto (768000/192000 POPS)
+518 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2752
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 247
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 11011
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 990
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 22350
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 2009
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 12117
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 100
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2793
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 251
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 5587
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 502
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2559
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 1129
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 11932
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 1072
+	 } 
+	craftsmen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 38308
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 3444
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 25066
+	 } 
+	farmers = {
+		culture = spanish
+		religion = catholic 
+		size = 2009
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 9401
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 8038
+	 } 
+	farmers = {
+		culture = pardo_brazilian
+		religion =  catholic 
+		size = 12350
+	 } 
+	farmers = {
+		culture = pardo_brazilian
+		religion = catholic 
+		size = 2009
+	 } 
+	farmers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 11175
+	 } 
+	farmers = {
+		culture = ovimbundu
+		religion = catholic 
+		size = 1004
+	 } 
+}
+#Vila Real (324000/81000) POPS
+519 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 322
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 29
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1292
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 116
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2624
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 235
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 131
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 11
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 327
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 29
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 656
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 58
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1474
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 132
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1401
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 125
+	 } 
+	craftsmen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 4497
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 404
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2873
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 4754
+	 } 
+}
+#Covilha (568000/142000 POPS)
+520 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 336
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 30
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1346
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 121
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2734
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 245
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 136
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 12
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 341
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 30
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 683
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 61
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1535
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 138
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1458
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 131
+	 } 
+	craftsmen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 4685
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 421
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 5094
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 4953
+	 } 
+
+}
+#Beira-Estremadura Region (1060000)
+#Lisbon (348000/87000 POPS)
+521 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2128
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 191
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 30000
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1285
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 1554
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 864
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 77
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2160
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 194
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 4321
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 388
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 9713
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 873
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 9228
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 829
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 9627
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 2664
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 5938
+	 } 
+	craftsmen = {
+		culture = portuguese
+		religion = catholic 
+		size = 21215
+	 } 
+	farmers = {
+		culture = spanish
+		religion =  catholic
+		size = 17285
+	 } 
+        soldiers = {
+		culture = portuguese
+		religion =  catholic
+		size = 40000
+	 } 
+	farmers = {
+		culture = french
+		religion = catholic 
+		size = 1554
+	 } 
+	farmers = {
+		culture = brazilian
+		religion =  catholic 
+		size = 69142
+	 } 
+	farmers = {
+		culture = brazilian
+		religion = catholic 
+		size = 6217
+	 } 
+	farmers = {
+		culture = pardo_brazilian
+		religion =  catholic 
+		size = 7285
+	 } 
+	farmers = {
+		culture = pardo_brazilian
+		religion = catholic 
+		size = 1554
+	 } 
+	farmers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 8642
+	 } 
+	farmers = {
+		culture = ovimbundu
+		religion = catholic 
+		size = 777
+	 } 
+}
+#Coimbra (460000/115000 POPS)
+522 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1438
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 129
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 5754
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 517
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1679
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 1050
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 583
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 52
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1459
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 131
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2919
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 262
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 6563
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 590
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 6235
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 560
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 10018
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 1800
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 135340
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 11161
+	 } 
+}
+#Abrantes (140000/35000 POPS)
+523 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 427
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 38
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1712
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 154
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 3477
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 312
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 173
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 15
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 433
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 39
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 868
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 78
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1954
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 175
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1856
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 166
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 5960
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 535
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 70068
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 6300
+	 } 
+}
+#Setubal (112000/28000 POPS)
+524 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 804
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 72
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 3218
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 289
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 6532
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 587
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 326
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 29
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 816
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 73
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1633
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 146
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 3670
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 330
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 3487
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 313
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 11196
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 1006
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 131628
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 11835
+	 } 
+
+}
+#Alentejo-Algarve Region (372000)
+#Evora (156000/39000 POPS)
+525 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 266
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 24
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1070
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 96
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2174
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 195
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 108
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 9
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 271
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 24
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 543
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 48
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1222
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 109
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1160
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 104
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 3726
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 335
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 43817
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 3939
+	 } 
+}
+#Beja (96000/24000 POPS)
+526 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 143
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 12
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 573
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 51
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1165
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 104
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 57
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 5
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 144
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 13
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 290
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 26
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 654
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 58
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 622
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 55
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1997
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 179
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 23481
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 2111
+	 } 
+}
+#Faro (120000/30000 POPS)
+527 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 425
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 38
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1703
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 153
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 3458
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 311
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 172
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 15
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 432
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 38
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 864
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 77
+	 } 
+	clerks = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1943
+	 } 
+	clerks = {
+		culture = portuguese
+		religion = catholic 
+		size = 174
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1846
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 165
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 5927
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 533
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 69699
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 6267
+	 } 
+
+}
+#Azores & Madeira Region (308000)
+#Azores (204000/51000 POPS)
+2134 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 232
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 20
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 930
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 83
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1890
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 169
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 94
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 8
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 235
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 21
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 472
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 42
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1008
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 90
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 38278
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 3441
+	 } 
+}
+#Madeira (104000/26000 POPS)
+2135 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 251
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 22
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1007
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 90
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 2046
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 183
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 101
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 9
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 255
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 22
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 511
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 45
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1091
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 98
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 41437
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 3726
+	 } 
+
+}

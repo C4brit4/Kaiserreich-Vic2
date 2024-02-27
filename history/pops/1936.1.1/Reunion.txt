@@ -1,0 +1,96 @@
+#Reunion (98000)
+#Ruled by France 1836
+#Reunion (98000/24500 POPS)
+2126 = {
+	officers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 339
+	 } 
+	officers = {
+		culture = yue
+		religion = mahayana
+		size = 77
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1361
+	 } 
+	soldiers = {
+		culture = yue
+		religion = mahayana
+		size = 309
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 1702
+	 } 
+	aristocrats = {
+		culture = bengali
+		religion = hindu 
+		size = 386
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 1134
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 257
+	 } 
+	bureaucrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 680
+	 } 
+	bureaucrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 154
+	 } 
+	capitalists = {
+		culture = marathi
+		religion =  hindu 
+		size = 680
+	 } 
+	capitalists = {
+		culture = avadhi
+		religion = hindu 
+		size = 154
+	 } 
+	clergymen = {
+		culture = marathi
+		religion =  hindu 
+		size = 2269
+	 } 
+	clergymen = {
+		culture = avadhi
+		religion = hindu 
+		size = 515
+	 } 
+	artisans = {
+		culture = marathi
+		religion =  hindu 
+		size = 3436
+	 } 
+	artisans = {
+		culture = avadhi
+		religion = hindu 
+		size = 780
+	 } 
+	farmers = {
+		culture = marathi
+		religion =  hindu 
+		size = 21304
+	 } 
+	farmers = {
+		culture = avadhi
+		religion = hindu 
+		size = 4836
+	 } 
+
+}

@@ -1,0 +1,169 @@
+#Mauritius - 98700
+#ruled by Britain 1836
+#Mauritius (98000/24500 POPS)
+2125 = {
+	officers = {
+		culture = nanfaren
+		religion =  nanfaren
+		size = 341
+	 } 
+	officers = {
+		culture = yue
+		religion = nanfaren
+		size = 18
+	 } 
+	soldiers = {
+		culture = nanfaren
+		religion =  nanfaren
+		size = 1367
+	 } 
+	soldiers = {
+		culture = yue
+		religion = nanfaren
+		size = 75
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  nanfaren
+		size = 1709
+	 } 
+	aristocrats = {
+		culture = yue
+		religion = nanfaren
+		size = 94
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 2848
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 157
+	 } 
+	bureaucrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 113
+	 } 
+	bureaucrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 6
+	 } 
+	capitalists = {
+		culture = marathi
+		religion =  hindu 
+		size = 569
+	 } 
+	capitalists = {
+		culture = avadhi
+		religion = hindu 
+		size = 31
+	 } 
+	clergymen = {
+		culture = marathi
+		religion =  hindu 
+		size = 1138
+	 } 
+	clergymen = {
+		culture = avadhi
+		religion = hindu 
+		size = 63
+	 } 
+	artisans = {
+		culture = marathi
+		religion =  hindu 
+		size = 1682
+	 } 
+	artisans = {
+		culture = avadhi
+		religion = hindu 
+		size = 93
+	 } 
+	farmers = {
+		culture = marathi
+		religion =  hindu 
+		size = 71124
+	 } 
+	farmers = {
+		culture = avadhi
+		religion = hindu 
+		size = 3940
+	 } 
+}
+#Diego Garcia (700/175 POPS) #remains under British Rule
+2128 = {
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 8
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 35
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 14
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 3
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 3
+	 } 
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 3
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 12
+	 } 
+	clergymen = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 15
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 3
+	 } 
+	farmers = {
+		culture = british
+		religion =  protestant 
+		size = 438
+	 } 
+	farmers = {
+		culture = kreol
+		religion = protestant 
+		size = 102
+	 } 
+
+}

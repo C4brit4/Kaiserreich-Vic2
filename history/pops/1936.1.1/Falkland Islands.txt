@@ -1,0 +1,169 @@
+#Falkland Islands (360)
+#Ruled by Britain 1836
+#Falkland Islands (300/75 POPS)
+2131 = {
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 5
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 23
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 9
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 2
+	 } 
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 2
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 8
+	 } 
+	clergymen = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	clerks = {
+		culture = british
+		religion =  protestant 
+		size = 10
+	 } 
+	clerks = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 10
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	craftsmen = {
+		culture = british
+		religion =  protestant 
+		size = 34
+	 } 
+	craftsmen = {
+		culture = british
+		religion = protestant 
+		size = 7
+	 } 
+	farmers = {
+		culture = british
+		religion =  protestant 
+		size = 298
+	 } 
+	farmers = {
+		culture = british
+		religion = protestant 
+		size = 69
+	 } 
+}
+#South Georgia (60/15 POPS)
+2133 = {
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 11
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	clerks = {
+		culture = british
+		religion =  protestant 
+		size = 5
+	 } 
+	clerks = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	craftsmen = {
+		culture = british
+		religion =  protestant 
+		size = 17
+	 } 
+	craftsmen = {
+		culture = british
+		religion = protestant 
+		size = 3
+	 } 
+	farmers = {
+		culture = british
+		religion =  protestant 
+		size = 150
+	 } 
+	farmers = {
+		culture = british
+		religion = protestant 
+		size = 35
+	 } 
+
+}

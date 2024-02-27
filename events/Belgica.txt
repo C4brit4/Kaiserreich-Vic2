@@ -7,7 +7,11 @@ country_event = {
 
     trigger = {
     tag  = GER  
+<<<<<<< HEAD
 	year = 1940
+=======
+	year = 1937
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 }
   
     

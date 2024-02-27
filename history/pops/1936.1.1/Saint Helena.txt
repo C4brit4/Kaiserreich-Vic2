@@ -1,0 +1,182 @@
+#South Atlantic Islands (4240/1060 POPS)
+#Ruled by Britain 1836
+#Saint Helena (4000/1000 POPS)
+2129 = {
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 8
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 35
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 14
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 3
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 3
+	 } 
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 3
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 12
+	 } 
+	clergymen = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 15
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 3
+	 } 
+	farmers = {
+		culture = british
+		religion =  protestant 
+		size = 438
+	 } 
+	farmers = {
+		culture = british
+		religion = protestant 
+		size = 102
+	 } 
+}
+#Ascension (140/35 POPS)
+2130 = {
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 11
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	farmers = {
+		culture = british
+		religion =  protestant 
+		size = 146
+	 } 
+	farmers = {
+		culture = british
+		religion = protestant 
+		size = 34
+	 } 
+}
+#Tristan da Cunha (100/25 POPS)
+2132 = {
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 11
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	farmers = {
+		culture = british
+		religion =  protestant 
+		size = 146
+	 } 
+	farmers = {
+		culture = british
+		religion = protestant 
+		size = 34
+	 } 
+
+}

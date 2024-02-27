@@ -1,0 +1,1229 @@
+#Holland & Zeeland Region - 1353000
+#Amsterdam (464000/116000 POPS)
+375 = {
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 1743
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 338
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 30977
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 1353
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 8620
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 1672
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 12068
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 401
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 2068
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 401
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 6896
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 1338
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 548
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 2046
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant
+		size = 12342
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 43141
+	 } 
+	craftsmen = {
+		culture = flemish
+		religion = protestant 
+		size = 31380
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 8029
+	 } 
+}
+#Rotterdam (567000/141750 POPS)
+376 = {
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 2277
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 441
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 9108
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 1767
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 11253
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 2183
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 2700
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 524
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 2700
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 524
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 9003
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 1746
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 3769
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 671
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 13080
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 2538
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 11997
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 8148
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 40245
+	 } 
+	farmers = {
+		culture = flemish
+		religion = catholic 
+		size = 24018
+	 } 
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 5481
+	 } 
+}
+#Utrecht (152000/38000 POPS)
+377 = {
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 797
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 154
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 3190
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 618
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 3941
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 764
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 945
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 183
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 945
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 183
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 3153
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 611
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 822
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 935
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 4581
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 888
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 14709
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 2853
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 31654
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 19724
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 3670
+	 } 
+}
+#Middelburg (170000/42500 POPS)
+378 = {
+	officers = {
+		culture = dutch
+		religion = catholic 
+		size = 241
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 46
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = catholic 
+		size = 965
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 187
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = catholic 
+		size = 1193
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 231
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = catholic 
+		size = 286
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 55
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = catholic 
+		size = 286
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 55
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = catholic 
+		size = 954
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 185
+	 } 
+	clerks = {
+		culture = dutch
+		religion = catholic 
+		size = 459
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 283
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = catholic 
+		size = 1386
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 269
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = catholic 
+		size = 4452
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 864
+	 } 
+	farmers = {
+		culture = dutch
+		religion = catholic 
+		size = 26509
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 7084
+	 } 
+}
+#Limburg-Gelderland Region - 979400
+#Eindhoven (230000/57500 POPS)
+379 = {
+	officers = {
+		culture = dutch
+		religion = catholic 
+		size = 1578
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 306
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = catholic 
+		size = 6316
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 1225
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = catholic 
+		size = 7803
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 1514
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = catholic 
+		size = 1872
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 363
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = catholic 
+		size = 1872
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 363
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = catholic 
+		size = 6243
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 1211
+	 } 
+	clerks = {
+		culture = dutch
+		religion = catholic 
+		size = 549
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 1852
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = catholic 
+		size = 9070
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 1760
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = catholic 
+		size = 9124
+	 } 
+	farmers = {
+		culture = dutch
+		religion = catholic 
+		size = 18745
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 26323
+	 } 
+}
+#Breda (173200/43300 POPS)
+380 = {
+	officers = {
+		culture = dutch
+		religion = catholic 
+		size = 253
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 49
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = catholic 
+		size = 1016
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 197
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = catholic 
+		size = 1256
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 243
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = catholic 
+		size = 301
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 58
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = catholic 
+		size = 301
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 58
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = catholic 
+		size = 1005
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 195
+	 } 
+	clerks = {
+		culture = dutch
+		religion = catholic 
+		size = 536
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 298
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = catholic 
+		size = 1459
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 283
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = catholic 
+		size = 4687
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 909
+	 } 
+	farmers = {
+		culture = dutch
+		religion = catholic 
+		size = 38431
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 7456
+	 } 
+}
+#Maastricht/Limburg (164200/41050 POPS)
+381 = {
+	officers = {
+		culture = dutch
+		religion = catholic 
+		size = 713
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 138
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = catholic 
+		size = 2855
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 553
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = catholic 
+		size = 3527
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 684
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = catholic 
+		size = 846
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 164
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = catholic 
+		size = 846
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 164
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = catholic 
+		size = 2822
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 547
+	 } 
+	clerks = {
+		culture = dutch
+		religion = catholic 
+		size = 1316
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 837
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = catholic 
+		size = 4100
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 795
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 2554
+	 } 
+	farmers = {
+		culture = dutch
+		religion = catholic 
+		size = 57924
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 10940
+	 } 
+}
+#Arnhem (412000/103000 POPS)
+382 = {
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 1286
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 249
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 5147
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 998
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 6359
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 1233
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 1525
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 296
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 1525
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 296
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 5087
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 987
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 7781
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 1509
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = catholic 
+		size = 7391
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 1434
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 23733
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 4604
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 94552
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 37748
+	 } 
+}
+#Friesland-Groningen Region : 713800
+#Groningen (186600/46650 POPS)
+383 = {
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 370
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 71
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 1482
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 287
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 1831
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 355
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 439
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 85
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 439
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 85
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 1465
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 284
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 2241
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 434
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 2128
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 413
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 6836
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 1326
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 56045
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 10874
+	 } 
+}
+#Zwolle (238000/59500 POPS)
+384 = {
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 725
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 140
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 2901
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 563
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 3585
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 695
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 860
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 166
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 860
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 166
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 2868
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 556
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 4386
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 851
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 4167
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 808
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 13380
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 2596
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 109685
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 21282
+	 } 
+}
+#Leeuwarden (209200/52300 POPS)
+385 = {
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 410
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 79
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 1643
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 318
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 2030
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 394
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 487
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 94
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 487
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 94
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 1624
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 315
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 2484
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 482
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 2360
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 457
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 7578
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 1470
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 62129
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 12055
+	 } 
+}
+#Assen (80000/20000 POPS)
+386 = {
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 310
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 60
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 1245
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 241
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 1538
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 298
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 369
+	 } 
+	bureaucrats = {
+		culture = dutch
+		religion = protestant 
+		size = 71
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 369
+	 } 
+	capitalists = {
+		culture = dutch
+		religion = protestant 
+		size = 71
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 1231
+	 } 
+	clergymen = {
+		culture = dutch
+		religion = protestant 
+		size = 238
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 1882
+	 } 
+	clerks = {
+		culture = dutch
+		religion = protestant 
+		size = 365
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 1788
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 346
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 5742
+	 } 
+	craftsmen = {
+		culture = dutch
+		religion = protestant 
+		size = 1114
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 47078
+	 } 
+	farmers = {
+		culture = dutch
+		religion = protestant 
+		size = 9134
+	 } 
+}

@@ -1,0 +1,1078 @@
+#New Zealand : 85000
+#uncolonized in 1836
+#North Island Region (61000)
+#Auckland (17000/4250 POPS)
+2509 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 758
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 152
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 1525
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 307
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 6106
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 1228
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 6068
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = protestant 
+		size = 1221
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  protestant 
+		size = 303
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = protestant 
+		size = 60
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 1516
+	 } 
+	clergymen = {
+		culture = australian
+		religion = protestant 
+		size = 305
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 4684
+	 } 
+	clerks = {
+		culture = australian
+		religion = protestant 
+		size = 942
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 4450
+	 } 
+	artisans = {
+		culture = australian
+		religion = protestant 
+		size = 895
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 14289
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = protestant 
+		size = 2874
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 81674
+	 } 
+	farmers = {
+		culture = australian
+		religion = protestant 
+		size = 16433
+	 } 
+	farmers = {
+		culture = maori
+		religion =  protestant 
+		size = 1310
+	 } 
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 5494
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  catholic 
+		size = 3034
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 610
+	 } 
+	
+}
+
+#New Plymouth (8000/2000 POPS)
+2510 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 50
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 10
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 102
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 20
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 410
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 82
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 407
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = protestant 
+		size = 82
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  protestant 
+		size = 19
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = protestant 
+		size = 4
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 101
+	 } 
+	clergymen = {
+		culture = australian
+		religion = protestant 
+		size = 20
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 314
+	 } 
+	clerks = {
+		culture = australian
+		religion = protestant 
+		size = 63
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 298
+	 } 
+	artisans = {
+		culture = australian
+		religion = protestant 
+		size = 60
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 959
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = protestant 
+		size = 193
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 4676
+	 } 
+	farmers = {
+		culture = australian
+		religion = protestant 
+		size = 940
+	 } 
+	farmers = {
+		culture = maori
+		religion =  protestant 
+		size = 2855
+	 } 
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 574
+	 } 
+}
+#Napier (12000/3000 POPS)
+2511 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 91
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 18
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 183
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 37
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 736
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 148
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 732
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = protestant 
+		size = 147
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  protestant 
+		size = 36
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = protestant 
+		size = 7
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 183
+	 } 
+	clergymen = {
+		culture = australian
+		religion = protestant 
+		size = 36
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 565
+	 } 
+	clerks = {
+		culture = australian
+		religion = protestant 
+		size = 113
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 536
+	 } 
+	artisans = {
+		culture = australian
+		religion = protestant 
+		size = 108
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 1724
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = protestant 
+		size = 347
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 8394
+	 } 
+	farmers = {
+		culture = australian
+		religion = protestant 
+		size = 1689
+	 } 
+	farmers = {
+		culture = maori
+		religion =  protestant 
+		size = 1128
+	 } 
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 1031
+	 } 
+}
+#Wellington (12000/3000 POPS)
+2512 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 318
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 64
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 642
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 129
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 6571
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 517
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 2555
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = protestant 
+		size = 514
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  protestant 
+		size = 127
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = protestant 
+		size = 25
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 638
+	 } 
+	clergymen = {
+		culture = australian
+		religion = protestant 
+		size = 128
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 1973
+	 } 
+	clerks = {
+		culture = australian
+		religion = protestant 
+		size = 396
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 1873
+	 } 
+	artisans = {
+		culture = australian
+		religion = protestant 
+		size = 377
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 6017
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = protestant 
+		size = 1210
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 14396
+	 } 
+	farmers = {
+		culture = australian
+		religion = protestant 
+		size = 1920
+	 } 
+	farmers = {
+		culture = yue
+		religion =  mahayana
+		size = 638
+	 } 
+	farmers = {
+		culture = yue
+		religion = mahayana
+		size = 128
+	 } 
+	farmers = {
+		culture = maori
+		religion =  protestant 
+		size = 1861
+	 } 
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 2185
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  catholic 
+		size = 1277
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 257
+	 } 
+}
+#Tauranga (12000/3000 POPS)
+2571 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 327
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 65
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 659
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 132
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 2638
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 530
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 2622
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = protestant 
+		size = 527
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  protestant 
+		size = 130
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = protestant 
+		size = 26
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 655
+	 } 
+	clergymen = {
+		culture = australian
+		religion = protestant 
+		size = 131
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 2023
+	 } 
+	clerks = {
+		culture = australian
+		religion = protestant 
+		size = 407
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 1923
+	 } 
+	artisans = {
+		culture = australian
+		religion = protestant 
+		size = 386
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 6173
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = protestant 
+		size = 1242
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 12015
+	 } 
+	farmers = {
+		culture = australian
+		religion = protestant 
+		size = 6441
+	 } 
+	farmers = {
+		culture = maori
+		religion =  protestant 
+		size = 16389
+	 } 
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 3297
+	 } 
+}
+
+#Kirikiriroa or Hamilton - Former Wake
+2524 = {
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 1
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 5
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 4
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 7
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 6
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 22
+	 } 
+	craftsmen = {
+		culture = maori
+		religion = animist
+		size = 2
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 170
+	 } 
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 16
+	 } 
+}
+
+#South Island Region (24000)
+#Dunedin (4000/1000 POPS)
+2513 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 109
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 22
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 221
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 44
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 887
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 178
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 882
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = protestant 
+		size = 177
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  protestant 
+		size = 44
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = protestant 
+		size = 8
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 220
+	 } 
+	clergymen = {
+		culture = australian
+		religion = protestant 
+		size = 44
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 680
+	 } 
+	clerks = {
+		culture = australian
+		religion = protestant 
+		size = 137
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 646
+	 } 
+	artisans = {
+		culture = australian
+		religion = protestant 
+		size = 130
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 2077
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = protestant 
+		size = 417
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 16290
+	 } 
+	farmers = {
+		culture = australian
+		religion = protestant 
+		size = 3277
+	 } 
+}
+#Hokitikia (4000/1000 POPS)
+2514 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 13
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 2
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 26
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 5
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 108
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 108
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = protestant 
+		size = 21
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  protestant 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = protestant 
+		size = 1
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 26
+	 } 
+	clergymen = {
+		culture = australian
+		religion = protestant 
+		size = 5
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 83
+	 } 
+	clerks = {
+		culture = australian
+		religion = protestant 
+		size = 16
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 79
+	 } 
+	artisans = {
+		culture = australian
+		religion = protestant 
+		size = 15
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 254
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = protestant 
+		size = 51
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 1729
+	 } 
+	farmers = {
+		culture = australian
+		religion = protestant 
+		size = 348
+	 } 
+	farmers = {
+		culture = maori
+		religion =  protestant 
+		size = 270
+	 } 
+	farmers = {
+		culture = maori
+		religion = animist
+		size = 54
+	 } 
+}
+#Christchurch (4000/1000 POPS)
+2515 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 243
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 49
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 492
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 98
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 1968
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 395
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 1956
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = protestant 
+		size = 393
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  protestant 
+		size = 97
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = protestant 
+		size = 19
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 488
+	 } 
+	clergymen = {
+		culture = australian
+		religion = protestant 
+		size = 98
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 1510
+	 } 
+	clerks = {
+		culture = australian
+		religion = protestant 
+		size = 303
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 1434
+	 } 
+	artisans = {
+		culture = australian
+		religion = protestant 
+		size = 288
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 4606
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = protestant 
+		size = 926
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 36112
+	 } 
+	farmers = {
+		culture = australian
+		religion = protestant 
+		size = 7265
+	 } 
+}
+#Nelson (12000/3000 POPS)
+2516 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 63
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 12
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 127
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 25
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 510
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 102
+	 } 
+	aristocrats = {
+		culture = australian
+		religion =  protestant 
+		size = 507
+	 } 
+	aristocrats = {
+		culture = australian
+		religion = protestant 
+		size = 102
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion =  protestant 
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = australian
+		religion = protestant 
+		size = 5
+	 } 
+	clergymen = {
+		culture = australian
+		religion =  protestant 
+		size = 126
+	 } 
+	clergymen = {
+		culture = australian
+		religion = protestant 
+		size = 25
+	 } 
+	clerks = {
+		culture = australian
+		religion =  protestant 
+		size = 392
+	 } 
+	clerks = {
+		culture = australian
+		religion = protestant 
+		size = 78
+	 } 
+	artisans = {
+		culture = australian
+		religion =  protestant 
+		size = 372
+	 } 
+	artisans = {
+		culture = australian
+		religion = protestant 
+		size = 74
+	 } 
+	craftsmen = {
+		culture = australian
+		religion =  protestant 
+		size = 1195
+	 } 
+	craftsmen = {
+		culture = australian
+		religion = protestant 
+		size = 240
+	 } 
+	farmers = {
+		culture = australian
+		religion =  protestant 
+		size = 9375
+	 } 
+	farmers = {
+		culture = australian
+		religion = protestant 
+		size = 1886
+	 } 
+}

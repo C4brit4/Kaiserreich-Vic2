@@ -1,0 +1,6 @@
+owner = SAF
+controller = SAF
+trade_goods = tobacco
+life_rating = 15
+
+add_core = SAF

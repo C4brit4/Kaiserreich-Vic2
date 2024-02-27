@@ -1,0 +1,316 @@
+capital = 425
+primary_culture = french
+religion = catholic
+government = fascist_dictatorship
+plurality = 0.15
+nationalvalue = nv_order
+literacy = 0.87
+civilized = yes
+is_releasable_vassal = no
+
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = party_appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+ruling_party = GER_conservative
+upper_house = {
+	fascist = 0
+	liberal = 30
+	conservative = 50
+	reactionary = 5
+	anarcho_liberal = 5
+	socialist = 5
+	communist = 5
+}
+
+schools = army_tech_school
+
+1861.1.1 = {
+	oob = "/1861/GER_oob.txt"
+	decision = die_wacht_am_rhein
+	decision = schwabing_circles
+}
+
+1895.1.1 = {
+decision = build_kiel_canal
+}
+
+1890.1.1 = {
+decision = the_heligoland_question
+}
+
+1864.1.1 = {
+decision = construct_the_walhalla
+}
+
+1871.1.1 = {
+decision = construct_germania_werft
+}
+
+1871.1.1 = {
+decision = von_moltkes_staff_reforms
+}
+
+1881.1.1 = {
+decision = reichsland_elsass
+}
+
+1881.1.1 = {
+decision = the_ruhr_boom
+}
+
+1913.1.1 = {
+
+#Inventions
+
+}
+
+
+1918.1.1 = {
+	government = fascist_dictatorship
+	ruling_party = GER_socialist_3
+	upper_house = {
+		fascist = 0
+		liberal = 25
+		conservative = 25
+		reactionary = 10
+		anarcho_liberal = 5
+		socialist = 35
+		communist = 0
+	}
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = party_appointed
+vote_franschise = universal_weighted_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = non_secret_ballots
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
+# Technologies
+
+	post_napoleonic_thought = 1
+	strategic_mobility = 1
+	flintlock_rifles = 1
+	muzzle_loaded_rifles = 1
+	bronze_muzzle_loaded_artillery = 1
+	military_staff_system = 1
+	military_plans = 1
+	army_command_principle = 1
+	army_professionalism = 1
+
+	post_nelsonian_thought = 1
+	battleship_column_doctrine = 1
+	clipper_design = 1
+	steamers = 1
+	naval_design_bureaus = 1
+	fire_control_systems = 1
+	alphabetic_flag_signaling = 1
+	naval_plans = 1
+	the_command_principle = 1
+	naval_professionalism = 1
+
+	private_banks = 1
+	stock_exchange = 1
+	no_standard = 1
+	ad_hoc_money_bill_printing = 1
+	early_classical_theory_and_critique = 1
+	late_classical_theory = 1
+	freedom_of_trade = 1
+	market_structure = 1
+	business_regulations = 1
+	guild_based_production = 1
+	organized_factories = 1
+
+	classicism_n_early_romanticism = 1
+	romanticism = 1
+	late_enlightenment_philosophy = 1
+	malthusian_thought = 1
+	positivism = 1
+	enlightenment_thought = 1
+	ideological_thought = 1
+	introspectionism = 1
+	associationism = 1
+
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	mechanical_production = 1
+	interchangeable_parts = 1
+	semi_automatization = 1
+	mechanized_mining = 1
+	puddling = 1
+	experimental_railroad = 1
+	early_railroad = 1
+	basic_chemistry = 1
+	medicine = 1
+
+}
+
+
+1933.1.30 = {
+	government = fascist_dictatorship
+	ruling_party = GER_fascist
+        oob = "/1936/GER_oob.txt"
+	upper_house = {
+		fascist = 100
+		liberal = 0
+		conservative = 0
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+
+# Political reforms
+slavery = no_slavery
+upper_house_composition = party_appointed
+vote_franschise = none_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+}
+
+post_renaissance_tech = 1
+birth_of_science_tech = 1
+scientific_revolution_tech = 1 #until this for 1700
+early_agricultural_reforms_tech = 1
+agricultural_revolution_tech = 1
+dawn_of_industrial_revolution_tech = 1 # Until this for 1800
+first_industrial_revolution_tech = 1 
+
+late_medieval_warfare = 1
+early_military_revolution = 1
+flintlock_muskets = 1 #Until this for 1700
+military_revolution = 1
+era_of_mass_armies = 1
+early_modern_warfare = 1 #Until this for 1800
+napoleonic_warfare = 1 
+
+late_renaissance = 1
+mannerism = 1
+early_baroque = 1
+high_baroque = 1 #Until this for 1700
+rococo = 1
+neoclassicism = 1 #Until this for 1800
+early_romanticistic_culture = 1
+
+late_reformation = 1
+counter_reformation = 1
+inquisitions_tech = 1
+jesuit_movements_tech = 1 #Until this for 1700
+the_great_awakening = 1
+downfall_of_the_old_church = 1 #Until this for 1800
+anti_clericalism = 1
+
+late_renaissance_philosophies = 1
+age_of_rationalism = 1
+early_modern_philosphies = 1 #Until this for 1700
+enlightenment = 1
+counter_enligthenment = 1 #Until this for 1800
+revolutionary_ideas = 1
+early_romanticism = 1
+}
+
+1936.1.1 = {
+	oob = "/1936/GER_oob.txt"
+
+# Technologies
+
+	post_napoleonic_thought = 1
+	strategic_mobility = 1
+	flintlock_rifles = 1
+	muzzle_loaded_rifles = 1
+	bronze_muzzle_loaded_artillery = 1
+	iron_muzzle_loaded_artillery = 1
+	military_staff_system = 1
+	military_plans = 1
+	army_command_principle = 1
+	army_professionalism = 1
+
+	post_nelsonian_thought = 1
+	battleship_column_doctrine = 1
+	raider_group_doctrine = 1
+	clipper_design = 1
+	steamers = 1
+	naval_design_bureaus = 1
+	fire_control_systems = 1
+	alphabetic_flag_signaling = 1
+	naval_plans = 1
+	the_command_principle = 1
+	naval_professionalism = 1
+
+	private_banks = 1
+	stock_exchange = 1
+	business_banks = 1
+	no_standard = 1
+	ad_hoc_money_bill_printing = 1
+	early_classical_theory_and_critique = 1
+	late_classical_theory = 1
+	freedom_of_trade = 1
+	market_structure = 1
+	business_regulations = 1
+	guild_based_production = 1
+	organized_factories = 1
+
+	classicism_n_early_romanticism = 1
+	romanticism = 1
+	late_enlightenment_philosophy = 1
+	malthusian_thought = 1
+	positivism = 1
+	enlightenment_thought = 1
+	ideological_thought = 1
+	introspectionism = 1
+	associationism = 1
+
+	piston_steam_engine = 1
+	high_pressure_steam_engine = 1
+	compound_steam_engines = 1
+	mechanical_production = 1
+	interchangeable_parts = 1
+	semi_automatization = 1
+	mechanized_mining = 1
+	puddling = 1
+	experimental_railroad = 1
+	early_railroad = 1
+	basic_chemistry = 1
+	medicine = 1
+
+}

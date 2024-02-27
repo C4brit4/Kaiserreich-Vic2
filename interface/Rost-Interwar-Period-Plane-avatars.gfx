@@ -1,0 +1,226 @@
+
+objectTypes = {	
+	
+	
+	EMFXActorType = {
+		name = "PrussianGCPlane3"
+		actorfile = "gfx\anims\GermanFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+
+	EMFXActorType = {
+		name = "AustriaHungaryGCPlane3"
+		actorfile = "gfx\anims\GenericFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+
+	EMFXActorType = {
+		name = "UsGCPlane3"
+		actorfile = "gfx\anims\UsFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+
+	EMFXActorType = {
+		name = "BritishGCPlane3"
+		actorfile = "gfx\anims\BritishFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+
+	EMFXActorType = {
+		name = "ChineseGCPlane3"
+		actorfile = "gfx\anims\GenericFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+
+	EMFXActorType = {
+		name = "JapaneseGCPlane3"
+		actorfile = "gfx\anims\JapaneseFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+
+	EMFXActorType = {
+		name = "RussianGCPlane3"
+		actorfile = "gfx\anims\SovietFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+
+	EMFXActorType = {
+		name = "ItalianGCPlane3"
+		actorfile = "gfx\anims\ItalianFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+
+	EMFXActorType = {
+		name = "SwedishGCPlane3"
+		actorfile = "gfx\anims\GenericFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+
+	EMFXActorType = {
+		name = "FrenchGCPlane3"
+		actorfile = "gfx\anims\FrenchFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterBombAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+	EMFXActorType = {
+		name = "SpanishGCPlane3"
+		actorfile = "gfx\anims\GenericFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+
+	EMFXActorType = {
+		name = "OttomanGCPlane3"
+		actorfile = "gfx\anims\GenericFighter.xac"
+		
+		idle   = "gfx\anims\FighterMove.xsm"
+		move   = "gfx\anims\FighterMove.xsm"
+		attack = "gfx\anims\FighterAirAttack.xsm"
+		scale = 3.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		}		
+		
+	}
+}
+
+
+
+
+
+
+
+
+

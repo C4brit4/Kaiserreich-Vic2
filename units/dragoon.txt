@@ -1,0 +1,44 @@
+dragoon = {
+	icon = 14
+	
+	type = land
+	sprite = Guard
+	active = no
+	unit_type = infantry
+	primary_culture = yes
+	floating_flag = no
+	
+	#Core Abilities
+	priority = 40
+	max_strength = 3
+	default_organisation = 30
+	maximum_speed = 6.00
+	weighted_value = 7.0
+
+	build_time = 200
+	# 0.5B
+	build_cost = {
+		small_arms = 30
+		canned_food = 20
+		fuel = 10
+		aeroplanes = 2
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		small_arms = 0.012 #0.008
+		ammunition = 0.075 # 0
+		fuel = 0.08
+		canned_food = 0.07 #0.08
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 1
+	attack = 10
+	siege = 2
+	defence = 8
+	discipline = 4
+	support = 1.0
+	maneuver = 3
+}

@@ -1,5 +1,9 @@
 capital = 641
 primary_culture = hungarian
+<<<<<<< HEAD
+=======
+culture = slovak
+>>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0

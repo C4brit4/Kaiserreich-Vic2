@@ -1,0 +1,10 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = OCC
+add_core = CAT
+trade_goods = grain
+life_rating = 31
+1914.1.1 = {
+	railroad = 1
+}

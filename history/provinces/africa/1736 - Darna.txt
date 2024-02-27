@@ -1,0 +1,7 @@
+owner = EOC
+controller = EOC
+add_core = TUR
+trade_goods = fish
+life_rating = 35
+
+add_core = EOC

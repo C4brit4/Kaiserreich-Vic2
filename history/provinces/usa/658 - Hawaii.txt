@@ -1,0 +1,13 @@
+owner = HAW
+controller = HAW
+add_core = HAW
+trade_goods = fish
+life_rating = 35
+1914.1.1 = {
+	owner = USA
+	add_core = USA
+	controller = USA
+	colonial = 2
+	railroad = 1
+	naval_base = 3
+}

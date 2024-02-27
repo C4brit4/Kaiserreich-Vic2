@@ -1,0 +1,95 @@
+#Gibraltar : 16394
+#Ruled by Britain 1836
+#Gibraltar (16394/4100 POPS)
+517 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 27
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 6
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 13
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 3
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 55
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 13
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 162
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 38
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 18
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = protestant 
+		size = 4
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 46
+	 } 
+	clergymen = {
+		culture = british
+		religion = protestant 
+		size = 10
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 130
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 30
+	 } 
+	farmers = {
+		culture = british
+		religion =  protestant 
+		size = 3084
+	 } 
+	farmers = {
+		culture = british
+		religion = protestant 
+		size = 723
+	 } 
+	farmers = {
+		culture = spanish
+		religion =  catholic 
+		size = 490
+	 } 
+	farmers = {
+		culture = maghrebi
+		religion =  sunni 
+		size = 114
+	 } 
+}

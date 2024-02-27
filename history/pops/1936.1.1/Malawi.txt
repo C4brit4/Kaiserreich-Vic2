@@ -1,0 +1,189 @@
+#Nyasaland Region (368000)  
+#uncolonized in 1836/dominated by the Yao
+#Zomba (208000/52000 POPS) 
+2066 = {
+	officers = {
+		culture = chewa
+		religion =  catholic 
+		size = 787
+	 } 
+	officers = {
+		culture = chewa
+		religion = animist
+		size = 1
+	 } 
+	soldiers = {
+		culture = chewa
+		religion =  catholic 
+		size = 3148
+	 } 
+	soldiers = {
+		culture = chewa
+		religion = animist
+		size = 7
+	 } 
+	aristocrats = {
+		culture = chewa
+		religion =  catholic 
+		size = 10493
+	 } 
+	aristocrats = {
+		culture = chewa
+		religion = animist
+		size = 26
+	 } 
+	bureaucrats = {
+		culture = chewa
+		religion =  catholic 
+		size = 262
+	 } 
+	capitalists = {
+		culture = chewa
+		religion =  catholic 
+		size = 1311
+	 } 
+	capitalists = {
+		culture = chewa
+		religion = animist
+		size = 3
+	 } 
+	clergymen = {
+		culture = chewa
+		religion =  catholic 
+		size = 2623
+	 } 
+	clergymen = {
+		culture = yao
+		religion = animist
+		size = 6
+	 } 
+	artisans = {
+		culture = chewa
+		religion =  catholic 
+		size = 1455
+	 } 
+	artisans = {
+		culture = yao
+		religion = animist
+		size = 3
+	 } 
+	farmers = {
+		culture = chewa
+		religion =  catholic 
+		size = 139947
+	 } 
+	farmers = {
+		culture = yao
+		religion = animist
+		size = 350
+	 } 
+	farmers = {
+		culture = lomwe
+		religion =  protestant 
+		size = 102313
+	 } 
+	farmers = {
+		culture = yao
+		religion = animist
+		size = 256
+	 } 
+}
+#Lilongwe (160000/40000 POPS)/dominated by Kazembe 
+2067 = {
+	officers = {
+		culture = chewa
+		religion =  protestant 
+		size = 962
+	 } 
+	officers = {
+		culture = chewa
+		religion = animist
+		size = 2
+	 } 
+	soldiers = {
+		culture = chewa
+		religion =  protestant 
+		size = 3851
+	 } 
+	soldiers = {
+		culture = chewa
+		religion = animist
+		size = 9
+	 } 
+	aristocrats = {
+		culture = chewa
+		religion =  protestant 
+		size = 12837
+	 } 
+	aristocrats = {
+		culture = chewa
+		religion = animist
+		size = 32
+	 } 
+	bureaucrats = {
+		culture = chewa
+		religion =  protestant 
+		size = 320
+	 } 
+	capitalists = {
+		culture = chewa
+		religion =  protestant 
+		size = 1603
+	 } 
+	capitalists = {
+		culture = chewa
+		religion = animist
+		size = 4
+	 } 
+	clergymen = {
+		culture = chewa
+		religion =  protestant 
+		size = 3208
+	 } 
+	clergymen = {
+		culture = chewa
+		religion = animist
+		size = 8
+	 } 
+	artisans = {
+		culture = chewa
+		religion =  protestant 
+		size = 1779
+	 } 
+	artisans = {
+		culture = chewa
+		religion = animist
+		size = 4
+	 } 
+	farmers = {
+		culture = chewa
+		religion =  protestant 
+		size = 164792
+	 } 
+	farmers = {
+		culture = chewa
+		religion = animist
+		size = 413
+	 } 
+	farmers = {
+		culture = yao
+		religion =  catholic 
+		size = 80235
+	 } 
+	farmers = {
+		culture = yao
+		religion = animist
+		size = 201
+	 } 
+	farmers = {
+		culture = lunda
+		religion =  catholic 
+		size = 51351
+	 } 
+	farmers = {
+		culture = lunda
+		religion = animist
+		size = 128
+	 } 
+
+}

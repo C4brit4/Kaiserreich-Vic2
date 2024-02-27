@@ -1,0 +1,47 @@
+owner = USA
+controller = USA
+add_core = USA
+add_core = MAN
+trade_goods = grain
+life_rating = 50railroad = 1fort = 1party_loyalty = {	ideology = liberal	loyalty_value = 25}
+state_building = {
+	level = 20
+	building = fuel_refinery
+	upgrade = yes
+}
+state_building = {
+	level = 20
+	building = small_arms_factory
+	upgrade = yes
+}1861.1.1 = {	party_loyalty = {	ideology = liberal	loyalty_value = 35	}	state_building = {		level = 20		building = artillery_factory		upgrade = yes	}	state_building = {		level = 20		building = steamer_shipyard		upgrade = yes	}
+1861.1.1 = { railroad = 3 }
+1914.1.1 = { 
+	railroad = 5
+	fort = 4
+	
+	state_building = {
+		level = 20
+		building = steel_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 20
+		building = canned_food_factory
+		upgrade = yes
+	}
+        state_building = {
+		level = 20
+		building = electric_gear_factory
+		upgrade = yes
+        }
+        state_building = {
+		level = 8
+		building = automobile_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 20
+		building = cement_factory
+		upgrade = yes
+	}
+}

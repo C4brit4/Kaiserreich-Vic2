@@ -1,0 +1,50 @@
+######		  Victoria 2		######
+
+######   American Civil War Spritepack	######
+
+
+
+
+######     	   designed by		######
+
+######     	  Sebastian Rost      	######
+
+######     	       and		######
+
+######     	   Pierre Rost		######
+
+
+
+
+objectTypes = {	
+
+
+	EMFXActorType = {	
+		name = "UsGCCavalry"	
+		actorfile = "gfx\anims\USCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+
+	
+	EMFXActorType = {	
+		name = "ConfederateGCCavalry"	
+		actorfile = "gfx\anims\USCav_Interwar.xac"
+		idle   = "gfx\anims\InterwarCavalryIdle.xsm"
+		move   = "gfx\anims\InterwarCavalryMove.xsm"
+		attack = "gfx\anims\InterwarCavalryAttack.xsm"
+		scale = 4.1
+	}
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,125 @@
+#Guatemala Region (7200)
+#Ruled by Britain 1836
+#Belize (7200/1800 POPS)
+2190 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 44
+	 } 
+	officers = {
+		culture = beifaren
+		religion = animist
+		size = 4
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 90
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = animist
+		size = 8
+	 } 
+	soldiers = {
+		culture = marathi
+		religion =  hindu 
+		size = 90
+	 } 
+	soldiers = {
+		culture = avadhi
+		religion = hindu 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 256
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 348
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 31
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 1
+	 } 
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 75
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 6
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 151
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 13
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 238
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 21
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 2471
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 222
+	 } 
+	farmers = {
+		culture = central_american
+		religion =  catholic 
+		size = 9309
+	 } 
+	farmers = {
+		culture = central_american
+		religion = catholic 
+		size = 837
+	 } 
+	farmers = {
+		culture = mayan
+		religion =  catholic 
+		size = 1280
+	 } 
+	farmers = {
+		culture = mayan
+		religion = catholic 
+		size = 115
+	 } 
+}

@@ -1,0 +1,66 @@
+reparations;Reparations;Reparations;Reparations;;Reparaciones;;;;;;;;;x
+reparations_short;$RECIPIENT$ will pay reparations to $ACTOR$;$RECIPIENT$ will pay reparations to $ACTOR$;$RECIPIENT$ will pay reparations to $ACTOR$;;$RECIPIENT$ pagará reparaciones a $ACTOR$;;;;;;;;;x
+reparations_setup;$RECIPIENT$ will pay reparations to $ACTOR$;$RECIPIENT$ will pay reparations to $ACTOR$;$RECIPIENT$ will pay reparations to $ACTOR$;;$RECIPIENT$ pagará reparaciones a $ACTOR$;;;;;;;;;x
+reparations_desc;Demand reparations;Demand reparations;Demand reparations;;Demandar reparaciones;;;;;x
+take_puppet;Take puppet;Take puppet;Take puppet;;Tomar Marioneta;;;;;;;;;x
+take_puppet_short;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ becomes a puppet of $ACTOR$;;$RECIPIENT$ se convierte en un titere de $ACTOR$;;;;;;;;;x
+take_puppet_setup;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ becomes a puppet of $ACTOR$;;$RECIPIENT$ se convierte en un t癃itere de $ACTOR$;;;;;;;;;x
+take_puppet_desc;Become a puppet;Become a puppet;Become a puppet;;Conviértelo en un títere;;;;;x
+get_puppet_short;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ becomes a puppet of $ACTOR$;;$RECIPIENT$ se convierte en un titere de $ACTOR$;;;;;;;;;x
+get_puppet_setup;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ becomes a puppet of $ACTOR$;;$RECIPIENT$ se convierte en un titere de $ACTOR$;;;;;;;;;x
+get_puppet_desc;Become a puppet;Become a puppet;Become a puppet;;Conviertelo en un titere;;;;;;;;;x
+NORMAL_WAR_GET_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;;$ORDER$Guerra de $FIRST$ Control de $SECOND_COUNTRY$;;;;;;;;;x
+NORMAL_WAR_GET_PUPPET_IMJ_KOR;$ORDER$Korean Succesion War;$ORDER$Korean Succesion War;$ORDER$Korean Succesion War;;$ORDER$Guerra de Sucesión de Corea;;;;;;;;;x
+NORMAL_WAR_GET_PUPPET_QIN_KOR;$ORDER$Korean Succesion War;$ORDER$Korean Succesion War;$ORDER$Korean Succesion War;;$ORDER$Guerra de Sucesión de Corea;;;;;;;;;x
+AGRESSION_WAR_GET_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;;$ORDER$Guerra de $FIRST$ Control de $SECOND_COUNTRY$;;;;;;;;;x
+AGRESSION_WAR_GET_PUPPET_IMJ_KOR;$ORDER$Korean Succesion War;$ORDER$Korean Succesion War;$ORDER$Korean Succesion War;;$ORDER$Guerra de Sucesion de Corea;;;;;;;;;x
+AGRESSION_WAR_GET_PUPPET_QIN_KOR;$ORDER$Korean Succesion War;$ORDER$Korean Succesion War;$ORDER$Korean Succesion War;;$ORDER$Guerra de Sucesion de Corea;;;;;;;;;x
+negotiated_transfer;Negotiated Transfer;Negotiated Transfer;Negotiated Transfer;;Transferencia Negociada;;;;;;;;;x
+negotiated_transfer_desc;Get a negotiation transfer to a player;Get a negotiation transfer to a player;Get a negotiation transfer to a player;;Obtener una transferencia de negociacion a un jugador.;;;;;;;;;x
+negotiated_transfer_setup;Get $STATE$ to $THIRD$;Get $STATE$ to $THIRD$;Get $STATE$ to $THIRD$;;Obtener $STATE$ a $THIRD$;;;;;;;;;x
+negotiated_transfer_short;Get $STATE$ to $THIRD$;Get $STATE$ to $THIRD$;Get $STATE$ to $THIRD$;;Obtener $STATE$ a $THIRD$;;;;;;;;;x
+NORMAL_WAR_NEGOTIATED_TRANSFER;$FIRST$ Negotiation of $SECOND$ $STATE$;$FIRST$ Negotiation of $SECOND$ $STATE$;$FIRST$ Negotiation of $SECOND$ $STATE$;;$FIRST$ Negociacion $SECOND$ $STATE$;;;;;;;;;x
+AGRESSION_WAR_NEGOTIATED_TRANSFER;$FIRST$ Negotiation of $SECOND$ $STATE$;$FIRST$ Negotiation of $SECOND$ $STATE$;$FIRST$ Negotiation of $SECOND$ $STATE$;;$FIRST$ Negociacion $SECOND$ $STATE$;;;;;;;;;x
+sicilian_puppet;Take Revenge;Take Revenge;Take Revenge;;Tomar Venganza;;;;;;;;;x
+sicilian_puppet_desc;Take revenge to Two Sicilies;Take revenge to Two Sicilies;Take revenge to Two Sicilies;;Tomar venganza a las Dos Sicilias;;;;;;;;;x
+sicilian_puppet_setup;Take revenge to Two Sicilies;Take revenget to Two Sicilies;Take revenge to Two Sicilies;;Tomar venganza a las Dos Sicilias;;;;;;;;;x
+sicilian_puppet_short;Take revenget to Two Sicilies;Take revenge to Two Sicilies;Take revenge to Two Sicilies;;Tomar venganza a las Dos Sicilias;;;;;;;;;x
+NORMAL_WAR_SICILIAN_PUPPET_NAME;$ORDER$War of Sicilian Succesion;$ORDER$War of Sicilian Succesion;$ORDER$War of Sicilian Succesion;;$ORDER$Guerra de Sucesión Siciliana;;;;;;;;;x
+AGRESSION_WAR_SICILIAN_PUPPET_NAME;$ORDER$War of Sicilian Succesion;$ORDER$War of Sicilian Succesion;$ORDER$War of Sicilian Succesion;;$ORDER$Guerra de Sucesión Siciliana;;;;;;;;;x
+oriental_crisis;Make Puppet & Acquire all cores;Make Puppet & Acquire all cores;Make Puppet & Acquire all cores;;Hacer una Marioneta y Adquirir todos los nucleos;;;;;;;;;x
+oriental_crisis_desc;Make Puppet & Acquire all cores;Make Puppet & Acquire all cores;Make Puppet & Acquire all cores;;Hacer una Marioneta y Adquirir todos los nucleos;;;;;;;;;x
+oriental_crisis_setup;Make Puppet & Acquire all cores;Make Puppet & Acquire all cores;Make Puppet & Acquire all cores;;Hacer una Marioneta y Adquirir todos los nucleos;;;;;;;;;x
+oriental_crisis_short;Make Puppet & Acquire all cores;Make Puppet & Acquire all cores;Make Puppet & Acquire all cores;;Hacer una Marioneta y Adquirir todos los nucleos;;;;;;;;;x
+NORMAL_WAR_ORIENTAL_CRISIS;$ORDER$Oriental Crisis;$ORDER$Oriental Crisis;$ORDER$Oriental Crisis;;$ORDER$Crisis Oriental;;;;;;;;;x
+AGRESSION_WAR_ORIENTAL_CRISIS;$ORDER$Oriental Crisis;$ORDER$Oriental Crisis;$ORDER$Oriental Crisis;;$ORDER$Crisis Oriental;;;;;;;;;x
+demand_hongkong;Demand Hong Kong;Demand Hong Kong;Demand Hong Kong;;Demandar Hong Kong;;;;;;;;;x
+demand_hongkong_short;Demand Hong Kong;Demand Hong Kong;Demand Hong Kong;;Demandar Hong Kong;;;;;;;;;x
+NORMAL_WAR_HONG_KONG;$ORDER$$FIRST$ war of $SECOND$ Hong Kong concesion;$ORDER$$FIRST$ war of $SECOND$ Hong Kong concesion;$ORDER$$FIRST$ war of $SECOND$ Hong Kong concesion;;$ORDEN$$FIRST$ Guerra de $SECOND$ concesion de Hong Kong;;;;;;;;;x
+NORMAL_WAR_HONG_KONG_ENG_QIN;$ORDER$$Opium War;$ORDER$Opium War;$ORDER$Opium War;;$ORDER$Guerra del Opio;;;;;;;;;x
+AGRESSION_WAR_HONG_KONG;$ORDER$$FIRST$ war of $SECOND$ Hong Kong concesion;$ORDER$$FIRST$ war of $SECOND$ Hong Kong concesion;$ORDER$$FIRST$ war of $SECOND$ Hong Kong concesion;;$ORDEN$$FIRST$ Guerra de $SECOND$ concesion de Hong Kong;;;;;;;;;x
+AGRESSION_WAR_HONG_KONG_ENG_QIN;$ORDER$Opium War;$ORDER$Opium War;$ORDER$Opium War;;$ORDER$Guerra del Opio;;;;;;;;;x
+free_allied_cores;Free Allied Cores;Free Allied Cores;Free Allied Cores;;Liberar Nucleos Aliados;;;;;;;;;x
+free_allied_cores_desc;Free allied cores from a country;Free allied cores from a country;Free allied cores from a country;;Liberar Nucleos Aliados de un pais;;;;;;;;;x
+free_allied_cores_short;$THIRD$ acquires $STATE$;$THIRD$ acquires $STATE$;$THIRD$ acquires $STATE$;;$THIRD$ adquiere $STATE$;;;;;;;;;x
+free_allied_cores_setup;Free $THIRD$ from $SECOND$ $STATE$;Free $THIRD$ from $SECOND$ $STATE$;Free $THIRD$ from $SECOND$ $STATE$;;Liberar $THIRD$ de $SECONDS $STATE$;;;;;;;;;x
+NORMAL_WAR_FREE_ALLIED_CORE;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;;$ORDER$$FIRST$ Guerra de liberacion de $COUNTRY_ADJ$;;;;;;;;;x
+AGRESSION_WAR_FREE_ALLIED_CORE;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;;$ORDER$$FIRST$ Guerra de liberacion de $COUNTRY_ADJ$;;;;;;;;;x
+demand_for_ally;Demand for ally;Demand for ally;Demand for ally;;Demandar a un aliado;;;;;;;;;x
+demand_for_ally_setup;Demand $STATE$ to $THIRD$.;Demand $STATE$ to $THIRD$.;Demand $STATE$ to $THIRD$.;;Demandar $STATE$ a $THIRD$.;;;;;;;;;x
+demand_for_ally_short;Transfer $STATE$ to $THIRD$;Transfer $STATE$ to $THIRD$;Transfer $STATE$ to $THIRD$;;Transferir $STATE$ a $THIRD$;;;;;;;;;x
+demand_for_ally_desc;Transfer $STATE$ to $THIRD$;Transfer $STATE$ to $THIRD$;Transfer $STATE$ to $THIRD$;;Transferir $STATE$ a $THIRD$;;;;;;;;;x
+NORMAL_WAR_DEMAND_FOR_ALLY;$ORDER$ War of $COUNTRY_ADJ$ transfer;$ORDER$ War of $COUNTRY_ADJ$ transfer;$ORDER$ War of $COUNTRY_ADJ$ transfer;;$ORDER$ Guerra de la transeferencia $COUNTRY_ADJ$;;;;;;;;;x
+AGRESSION_WAR_DEMAND_FOR_ALLY;$ORDER$$ War of $COUNTRY_ADJ$ transfer;$ORDER$ War of $COUNTRY_ADJ$ transfer;$ORDER$ War of $COUNTRY_ADJ$ transfer;;$ORDER$ Guerra de la transeferencia $COUNTRY_ADJ$;;;;;;;;;x
+acquire_all_cores;Acquire all cores;Acquire all cores;Acquire all cores;;Adquirir todos los nucleos;;;;;;;;;x
+acquire_all_cores_desc;Acquire all cores;Acquire all cores;Acquire all cores;;Adquirir todos los nucleos;;;;;;;;;x
+acquire_all_cores_short;Acquire $STATE$;Acquire $STATE$;Acquire $STATE$;;Adquirir $STATE$;;;;;;;;;x
+acquire_all_cores_setup;Acquire $STATE$ from $RECIPIENT$;Acquire $STATE$ from $RECIPIENT$;Acquire $STATE$ from $RECIPIENT$;;Adquirir $STATE$ de $RECIPIENT$;;;;;;;;;x
+NORMAL_WAR_LIBERATE_ALL_CORES;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ liberation;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ liberation;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ liberation;;$ORDER$$FIRST$ Guerra de liberacion $COUNTRY_ADJ$;;;;;;;;;x
+AGRESSION_WAR_LIBERATE_ALL_CORES;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ liberation;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ liberation;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ liberation;;$ORDER$$FIRST$ Guerra de liberacion $COUNTRY_ADJ$;;;;;;;;;x
+germany_takes_austria;Accept the ultimatum;Accept the ultimatum;Accept the ultimatum;;Acceptar el Ultimatum;;;;;;;;;x
+germany_takes_austria_desc;Accept the ultimatum;Accept the ultimatum;Accept the ultimatum;;Acceptar el Ultimatum;;;;;;;;;x
+germany_takes_austria_setup;We're in war to Austria for don't accept the ultimatum;We're in war to Austria for don't accept the ultimatum;We're in war to Austria for don't accept the ultimatum;;Estamos en guerra contra Austrai por no aceptar el Ultimatum;;;;;;;;;x
+germany_takes_austria_short;Take Austria;Take Austria;Take Austria;;Tomar Austria;;;;;;;;;x
+NORMAL_WAR_GERMANY_TAKES_AUSTRIA;$ORDER$$FIRST$ War of $SECOND$ control;$ORDER$$FIRST$ War of $SECOND$ control;$ORDER$$FIRST$ War of $SECOND$ control;;$ORDER$$FIRST$Guerra del control de $SECOND$;;;;;;;;;x
+NORMAL_WAR_GERMANY_TAKES_AUSTRIA_GER_AUS;$ORDER$War of $SECOND$ Ultimatum;$ORDER$War of $SECOND$ Ultimatum;$ORDER$War of $SECOND$ Ultimatum;;$ORDER$Guerra del Ultimatum de $SECOND$;;;;;;;;;x
+AGRESSION_WAR_GERMANY_TAKES_AUSTRIA;$ORDER$$FIRST$ War of $SECOND$ control;$ORDER$$FIRST$ War of $SECOND$ control;$ORDER$$FIRST$ War of $SECOND$ control;;$ORDER$Guerra del Ultimatum de $SECOND$;;;;;;;;;x

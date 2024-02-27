@@ -1,0 +1,487 @@
+#Halab Region (572000)  #see Turkey.txt for balance of region
+#under the rule of Egypt in 1836
+#Aleppo (316000/79000 POPS) #now part of Syria 
+897 = {
+	officers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1087
+	 } 
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 4349
+	 } 
+	aristocrats = {
+		culture = kurdish
+		religion =  sunni 
+		size = 500
+	 } 
+	capitalists = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1187
+	 } 
+	clergymen = {
+		culture = kurdish
+		religion =  sunni 
+		size = 2375
+	 } 
+	clerks = {
+		culture = kurdish
+		religion =  sunni 
+		size = 4915
+	 } 
+	artisans = {
+		culture = kurdish
+		religion =  sunni 
+		size = 2475
+	 } 
+	artisans = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 2112
+	 } 
+	artisans = {
+		culture = assyrian
+		religion = orthodox 
+		size = 82
+	 } 
+	craftsmen = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 4430
+	 } 
+	craftsmen = {
+		culture = assyrian
+		religion = orthodox 
+		size = 562
+	 } 
+	farmers = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 6315
+	 } 
+	farmers = {
+		culture = assyrian
+		religion = orthodox 
+		size = 246
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 21500
+	 } 
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 18125
+	 } 
+}
+#Dayr al-Zour (256000/64000 POPS) #now part of Syria  mashriqi-catholic = assyrian
+901 = {
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1675
+	 } 
+	aristocrats = {
+		culture = kurdish
+		religion =  sunni 
+		size = 3660
+	 } 
+	clerks = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1894
+	 } 
+	artisans = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1799
+	 } 
+	craftsmen = {
+		culture = kurdish
+		religion =  sunni 
+		size = 5776
+	 } 
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 35469
+	 } 
+	farmers = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 8806
+	 } 
+	farmers = {
+		culture = assyrian
+		religion = orthodox 
+		size = 343
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 30195
+	 } 
+}
+#Suriye Region (720000)  #see Jordan.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Damascus (328000/82000 POPS)
+902 = {
+	soldiers = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 3804
+	 } 
+	aristocrats = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 8310
+	 } 
+	capitalists = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 1038
+	 } 
+	clergymen = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 2077
+	 } 
+	clerks = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 3914
+	 } 
+	clerks = {
+		culture = assyrian
+		religion = orthodox 
+		size = 152
+	 } 
+	artisans = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 3931
+	 } 
+	artisans = {
+		culture = assyrian
+		religion = orthodox 
+		size = 153
+	 } 
+	craftsmen = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 12149
+	 } 
+	soldiers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 10000
+	 } 
+	craftsmen = {
+		culture = assyrian
+		religion = orthodox 
+		size = 473
+	 } 
+	farmers = {
+		culture = circassian
+		religion =  sunni 
+		size = 5740
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 64122
+	 } 
+}
+#Homs (80000/20000 POPS)
+# 45% Sunni, 40% Orthodox, 15% Shia
+903 = {
+	officers = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 295
+	 } 
+	officers = {
+		culture = assyrian
+		religion = orthodox 
+		size = 11
+	 } 
+	soldiers = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 1184
+	 } 
+	soldiers = {
+		culture = assyrian
+		religion = orthodox 
+		size = 46
+	 } 
+	aristocrats = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 2589
+	 } 
+	aristocrats = {
+		culture = assyrian
+		religion = orthodox 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 64
+	 } 
+	bureaucrats = {
+		culture = assyrian
+		religion = orthodox 
+		size = 2
+	 } 
+	capitalists = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 323
+	 } 
+	capitalists = {
+		culture = assyrian
+		religion = orthodox 
+		size = 12
+	 } 
+	clergymen = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 646
+	 } 
+	clergymen = {
+		culture = assyrian
+		religion = orthodox 
+		size = 25
+	 } 
+	clerks = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 1339
+	 } 
+	clerks = {
+		culture = assyrian
+		religion = orthodox 
+		size = 52
+	 } 
+	artisans = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 28
+	 } 
+	artisans = {
+		culture = assyrian
+		religion = orthodox 
+		size = 1
+	 } 
+	artisans = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 1292
+	 } 
+	craftsmen = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 4245
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 54988
+	 } 
+}
+#Hama (108000/27000 POPS)
+904 = {
+	officers = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 265
+	 } 
+	officers = {
+		culture = assyrian
+		religion = orthodox 
+		size = 10
+	 } 
+	soldiers = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 1065
+	 } 
+	soldiers = {
+		culture = assyrian
+		religion = orthodox 
+		size = 41
+	 } 
+	aristocrats = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 2329
+	 } 
+	aristocrats = {
+		culture = assyrian
+		religion = orthodox 
+		size = 90
+	 } 
+	bureaucrats = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 57
+	 } 
+	bureaucrats = {
+		culture = assyrian
+		religion = orthodox 
+		size = 2
+	 } 
+	capitalists = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 290
+	 } 
+	capitalists = {
+		culture = assyrian
+		religion = orthodox 
+		size = 11
+	 } 
+	clergymen = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 582
+	 } 
+	clergymen = {
+		culture = assyrian
+		religion = orthodox 
+		size = 22
+	 } 
+	clerks = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 1205
+	 } 
+	clerks = {
+		culture = assyrian
+		religion = orthodox 
+		size = 46
+	 } 
+	artisans = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 26
+	 } 
+	artisans = {
+		culture = assyrian
+		religion = orthodox 
+		size = 1
+	 } 
+	artisans = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 1161
+	 } 
+	craftsmen = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 3819
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 29470
+	 } 
+}
+#Latakia (112000/28000 POPS)
+905 = {
+	soldiers = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 2348
+	 } 
+	aristocrats = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 5130
+	 } 
+	clergymen = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 1282
+	 } 
+	clerks = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 2654
+	 } 
+	artisans = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 2521
+	 } 
+	craftsmen = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 8096
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  shiite 
+		size = 34083
+	 } 
+	farmers = {
+		culture = assyrian
+		religion =  orthodox 
+		size = 2344
+	 } 
+	farmers = {
+		culture = assyrian
+		religion = orthodox 
+		size = 480
+	 } 
+	farmers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 4937
+	 } 
+	farmers = {
+		culture = armenian
+		religion = orthodox 
+		size = 192
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 12825
+	 } 
+}
+#Suwayda (12500/3125 POPS)
+906 = {
+	aristocrats = {
+		culture = mashriqi
+		religion = druze
+		size = 1140
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion = druze
+		size = 23129
+	 } 
+}
+#Badiyat al-Sham Region (444000)  #see Jordan.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 1836
+#Palmyra (44000/11000 POPS)
+907 = {
+	aristocrats = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 1840
+	 } 
+	farmers = {
+		culture = mashriqi
+		religion =  sunni 
+		size = 37952
+	 } 
+
+}

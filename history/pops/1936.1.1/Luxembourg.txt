@@ -1,0 +1,146 @@
+#Luxembourg (172000)
+#In personal union with Netherlands in 1836
+#Luxembourg (172000/43000 POPS)
+397 = {
+	officers = {
+		culture = north_german
+		religion =  protestant 
+		size = 336
+	 } 
+	officers = {
+		culture = north_german
+		religion = catholic 
+		size = 64
+	 } 
+	soldiers = {
+		culture = north_german
+		religion =  protestant 
+		size = 1344
+	 } 
+	soldiers = {
+		culture = north_german
+		religion = catholic 
+		size = 256
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion =  protestant 
+		size = 2486
+	 } 
+	aristocrats = {
+		culture = north_german
+		religion = catholic 
+		size = 473
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion =  protestant 
+		size = 124
+	 } 
+	bureaucrats = {
+		culture = north_german
+		religion = catholic 
+		size = 23
+	 } 
+	capitalists = {
+		culture = north_german
+		religion =  protestant 
+		size = 310
+	 } 
+	capitalists = {
+		culture = north_german
+		religion = catholic 
+		size = 59
+	 } 
+	clergymen = {
+		culture = north_german
+		religion =  protestant 
+		size = 621
+	 } 
+	clergymen = {
+		culture = north_german
+		religion = catholic 
+		size = 118
+	 } 
+	clerks = {
+		culture = north_german
+		religion =  protestant 
+		size = 1947
+	 } 
+	clerks = {
+		culture = north_german
+		religion = catholic 
+		size = 371
+	 } 
+	artisans = {
+		culture = north_german
+		religion =  protestant 
+		size = 1850
+	 } 
+	artisans = {
+		culture = north_german
+		religion = catholic 
+		size = 352
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  protestant 
+		size = 5942
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion = catholic 
+		size = 1131
+	 } 
+	craftsmen = {
+		culture = north_german
+		religion =  protestant 
+		size = 24259
+	 } 
+	farmers = {
+		culture = north_german
+		religion = catholic 
+		size = 4620
+	 } 
+	farmers = {
+		culture = south_german
+		religion =  catholic 
+		size = 7770
+	 } 
+	farmers = {
+		culture = south_german
+		religion = catholic 
+		size = 1480
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 8267
+	 } 
+	farmers = {
+		culture = portuguese
+		religion = catholic 
+		size = 1574
+	 } 
+	farmers = {
+		culture = french
+		religion =  catholic 
+		size = 2797
+	 } 
+	farmers = {
+		culture = french
+		religion = catholic 
+		size = 532
+	 } 
+	farmers = {
+		culture = north_italian
+		religion =  catholic 
+		size = 2672
+	 } 
+	farmers = {
+		culture = north_italian
+		religion = catholic 
+		size = 508
+	 } 
+
+}

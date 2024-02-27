@@ -1,0 +1,736 @@
+#Chaco Region (16000) #see Argentina.txt for balance of region
+#Under loose authority of Paraguay 1836
+#Fortin Falcon (8000/2000 POPS)
+2337 = {
+	officers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 19
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 78
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 243
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion = catholic 
+		size = 6
+	 } 
+	bureaucrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 5
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 30
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 60
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 1
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 139
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion = catholic 
+		size = 3
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 132
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion = catholic 
+		size = 3
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 427
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 10
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 1909
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 48
+	 } 
+	farmers = {
+		culture = guarani
+		religion =  catholic 
+		size = 3046
+	 } 
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 78
+	 } 
+}
+#Puerto Guarani (8000/2000 POPS)
+2338 = {
+	officers = {
+		culture = guarani
+		religion =  catholic 
+		size = 12
+	 } 
+	soldiers = {
+		culture = guarani
+		religion =  catholic 
+		size = 50
+	 } 
+	soldiers = {
+		culture = guarani
+		religion = animist
+		size = 1
+	 } 
+	aristocrats = {
+		culture = guarani
+		religion =  catholic 
+		size = 156
+	 } 
+	aristocrats = {
+		culture = guarani
+		religion = animist
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = guarani
+		religion =  catholic 
+		size = 3
+	 } 
+	capitalists = {
+		culture = guarani
+		religion =  catholic 
+		size = 19
+	 } 
+	clergymen = {
+		culture = guarani
+		religion =  catholic 
+		size = 39
+	 } 
+	clergymen = {
+		culture = guarani
+		religion = animist
+		size = 1
+	 } 
+	clerks = {
+		culture = guarani
+		religion =  catholic 
+		size = 89
+	 } 
+	clerks = {
+		culture = guarani
+		religion = animist
+		size = 2
+	 } 
+	artisans = {
+		culture = guarani
+		religion =  catholic 
+		size = 84
+	 } 
+	artisans = {
+		culture = guarani
+		religion = animist
+		size = 2
+	 } 
+	craftsmen = {
+		culture = guarani
+		religion =  catholic 
+		size = 273
+	 } 
+	craftsmen = {
+		culture = guarani
+		religion = animist
+		size = 7
+	 } 
+	farmers = {
+		culture = guarani
+		religion =  catholic 
+		size = 50
+	 } 
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 1
+	 } 
+	farmers = {
+		culture = guarani
+		religion =  animist
+		size = 2160
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 1014
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 26
+	 } 
+}
+#Paraguay Region (636000) #see Brazil.txt & Argentina.txt for balance of region
+#Under rule of Paraguay 1836
+#Asuncion (368000/92000 POPS)
+2339 = {
+	officers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 578
+	 } 
+	officers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 14
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 2313
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 59
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 4225
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion = catholic 
+		size = 108
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 2891
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion = catholic 
+		size = 74
+	 } 
+	bureaucrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 177
+	 } 
+	bureaucrats = {
+		culture = paraguayos
+		religion = catholic 
+		size = 4
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 889
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion = catholic 
+		size = 22
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 1779
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 45
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 4091
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion = catholic 
+		size = 104
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 3886
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion = catholic 
+		size = 99
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 12479
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 319
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 144625
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 3708
+	 } 
+}
+#Pilar (68000/17000 POPS)
+2340 = {
+	officers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 42
+	 } 
+	officers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 173
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 536
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion = catholic 
+		size = 13
+	 } 
+	bureaucrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 12
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 66
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion = catholic 
+		size = 1
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 133
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 3
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 308
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion = catholic 
+		size = 7
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 292
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion = catholic 
+		size = 7
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 939
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 24
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 10900
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 279
+	 } 
+}
+#Encarnacion (100000/25000 POPS)
+2341 = {
+	officers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 325
+	 } 
+	officers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 8
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 1302
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 33
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 4007
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion = catholic 
+		size = 102
+	 } 
+	bureaucrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 99
+	 } 
+	bureaucrats = {
+		culture = paraguayos
+		religion = catholic 
+		size = 2
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 500
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion = catholic 
+		size = 12
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 1001
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 25
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 2302
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion = catholic 
+		size = 59
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 2187
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion = catholic 
+		size = 56
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 7024
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 180
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 81429
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 2087
+	 } 
+}
+#San Pedro (84000/21000 POPS)
+2342 = {
+	officers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 113
+	 } 
+	officers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 2
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 453
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 11
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 1394
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion = catholic 
+		size = 35
+	 } 
+	bureaucrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 34
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 173
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion = catholic 
+		size = 4
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 348
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 8
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 801
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion = catholic 
+		size = 20
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 760
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion = catholic 
+		size = 19
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 104
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 2
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 2340
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 60
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 28333
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 726
+	 } 
+}
+#Concepcion (16000/4000 POPS)
+2343 = {
+	officers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 72
+	 } 
+	officers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 291
+	 } 
+	soldiers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 897
+	 } 
+	aristocrats = {
+		culture = paraguayos
+		religion = catholic 
+		size = 23
+	 } 
+	bureaucrats = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 22
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 112
+	 } 
+	capitalists = {
+		culture = paraguayos
+		religion = catholic 
+		size = 2
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 224
+	 } 
+	clergymen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 5
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 515
+	 } 
+	clerks = {
+		culture = paraguayos
+		religion = catholic 
+		size = 13
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 489
+	 } 
+	artisans = {
+		culture = paraguayos
+		religion = catholic 
+		size = 12
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 1572
+	 } 
+	craftsmen = {
+		culture = paraguayos
+		religion = catholic 
+		size = 40
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion =  catholic 
+		size = 15088
+	 } 
+	farmers = {
+		culture = paraguayos
+		religion = catholic 
+		size = 386
+	 } 
+	farmers = {
+		culture = guarani
+		religion =  catholic 
+		size = 3139
+	 } 
+	farmers = {
+		culture = guarani
+		religion = animist
+		size = 80
+	 } 
+
+}

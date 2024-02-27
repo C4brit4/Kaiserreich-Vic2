@@ -1,0 +1,56 @@
+political_decisions = {
+        Rep_Fra	  = {
+        picture = Rep_cam
+        potential = {
+            OR = {                
+                tag = FRA
+                                
+            }
+            NOT = { exists = UFE }
+			has_country_flag = europa_rep_rfa
+        }
+
+        allow = {         
+            war = no          
+            FRA = {
+                OR = {                    
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }
+			ENG = {
+                OR = {
+                    in_sphere = THIS
+                    vassal_of = THIS
+                    all_core = {
+                        OR = {
+                            owned_by = THIS
+                        }
+                    }
+                }
+	         }   
+        } 
+		
+        
+
+        effect = {                
+            change_tag = UFE
+            ENG = {
+				all_core = { add_core = UFE }
+			}
+            FRA = {
+				all_core = { add_core = UFE }
+			}
+			add_accepted_culture = british
+			add_accepted_culture = irish
+			inherit = ENG
+         
+        }
+		ai_will_do = {
+			factor = 1
+			}
+    }
+}

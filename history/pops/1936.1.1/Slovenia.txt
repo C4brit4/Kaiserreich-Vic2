@@ -1,0 +1,251 @@
+#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
+#under the rule of Austria in 1836  
+#Maribor (204000/51000 POPS) #Part of Slovenia Today
+767 = {
+	officers = {
+		culture = slovene
+		religion =  catholic 
+		size = 515
+	 } 
+	officers = {
+		culture = slovene
+		religion = catholic 
+		size = 75
+	 } 
+	soldiers = {
+		culture = slovene
+		religion =  catholic 
+		size = 2062
+	 } 
+	soldiers = {
+		culture = slovene
+		religion = catholic 
+		size = 301
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion =  catholic 
+		size = 6875
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion = catholic 
+		size = 1004
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion =  catholic 
+		size = 343
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion = catholic 
+		size = 50
+	 } 
+	clergymen = {
+		culture = slovene
+		religion =  catholic 
+		size = 3437
+	 } 
+	clergymen = {
+		culture = slovene
+		religion = catholic 
+		size = 502
+	 } 
+	artisans = {
+		culture = slovene
+		religion =  catholic 
+		size = 2994
+	 } 
+	artisans = {
+		culture = slovene
+		religion = catholic 
+		size = 437
+	 } 
+	farmers = {
+		culture = slovene
+		religion =  catholic 
+		size = 155653
+	 } 
+	farmers = {
+		culture = south_german
+		religion = catholic 
+		size = 22745
+	 } 
+	
+}
+#Carniola Region (460000)  
+#under the rule of Austria in 1836  
+#Ljubljana (280000/70000 POPS) 
+768 = {
+	officers = {
+		culture = slovene
+		religion =  catholic 
+		size = 392
+	 } 
+	officers = {
+		culture = slovene
+		religion = catholic 
+		size = 57
+	 } 
+	soldiers = {
+		culture = slovene
+		religion =  catholic 
+		size = 1573
+	 } 
+	soldiers = {
+		culture = slovene
+		religion = catholic 
+		size = 229
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion =  catholic 
+		size = 5243
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion = catholic 
+		size = 766
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion =  catholic 
+		size = 261
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion = catholic 
+		size = 38
+	 } 
+	clergymen = {
+		culture = slovene
+		religion =  catholic 
+		size = 2621
+	 } 
+	clergymen = {
+		culture = slovene
+		religion = catholic 
+		size = 383
+	 } 
+	artisans = {
+		culture = slovene
+		religion =  catholic 
+		size = 2284
+	 } 
+	artisans = {
+		culture = slovene
+		religion = catholic 
+		size = 333
+	 } 
+	farmers = {
+		culture = slovene
+		religion =  catholic 
+		size = 101673
+	 } 
+	farmers = {
+		culture = slovene
+		religion = catholic 
+		size = 14857
+	 } 
+	farmers = {
+		culture = serb
+		religion =  orthodox 
+		size = 6554
+	 } 
+	farmers = {
+		culture = serb
+		religion = orthodox 
+		size = 957
+	 } 
+	farmers = {
+		culture = croat
+		religion =  catholic 
+		size = 6554
+	 } 
+	farmers = {
+		culture = croat
+		religion = catholic 
+		size = 957
+	 } 
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 4507
+	 } 
+	
+}
+#Postojna (180000/45000 POPS) 
+769 = {
+	officers = {
+		culture = slovene
+		religion =  catholic 
+		size = 49
+	 } 
+	officers = {
+		culture = slovene
+		religion = catholic 
+		size = 7
+	 } 
+	soldiers = {
+		culture = slovene
+		religion =  catholic 
+		size = 201
+	 } 
+	soldiers = {
+		culture = slovene
+		religion = catholic 
+		size = 29
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion =  catholic 
+		size = 671
+	 } 
+	aristocrats = {
+		culture = slovene
+		religion = catholic 
+		size = 98
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion =  catholic 
+		size = 33
+	 } 
+	bureaucrats = {
+		culture = slovene
+		religion = catholic 
+		size = 4
+	 } 
+	clergymen = {
+		culture = slovene
+		religion =  catholic 
+		size = 335
+	 } 
+	clergymen = {
+		culture = slovene
+		religion = catholic 
+		size = 49
+	 } 
+	artisans = {
+		culture = slovene
+		religion =  catholic 
+		size = 292
+	 } 
+	artisans = {
+		culture = slovene
+		religion = catholic 
+		size = 42
+	 } 
+	farmers = {
+		culture = slovene
+		religion =  catholic 
+		size = 15211
+	 } 
+	farmers = {
+		culture = south_german
+		religion = catholic 
+		size = 2222
+	 } 
+
+}

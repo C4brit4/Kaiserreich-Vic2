@@ -1,0 +1,123 @@
+#Central Melanesia (54000) 
+#uncolonized in 1836
+#Solomon Islands (48000/12000 POPS) 
+2534 = {
+	officers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 75
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 304
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 1014
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 24
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  protestant 
+		size = 126
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  protestant 
+		size = 253
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  protestant 
+		size = 183
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 22196
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 111
+	 } 
+	farmers = {
+		culture = polynesian
+		religion =  catholic 
+		size = 1192
+	 } 
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	 } 
+}
+#Santa Cruz Islands (6000/1500 POPS) 
+2536 = {
+	officers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 11
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 39
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  protestant 
+		size = 4
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  protestant 
+		size = 9
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  protestant 
+		size = 6
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 870
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 4
+	 } 
+	farmers = {
+		culture = polynesian
+		religion =  catholic 
+		size = 46
+	 } 
+}

@@ -1,0 +1,227 @@
+#Togo Region (368000) #see Ghana.txt for balance of region
+#uncolonized in 1836
+#Lome (216000/54000 POPS)  
+1914 = {
+	officers = {
+		culture = east_kwa
+		religion =  catholic 
+		size = 413
+	 } 
+	officers = {
+		culture = east_kwa
+		religion = animist
+		size = 13
+	 } 
+	soldiers = {
+		culture = east_kwa
+		religion =  catholic 
+		size = 1654
+	 } 
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 55
+	 } 
+	aristocrats = {
+		culture = east_kwa
+		religion =  catholic 
+		size = 689
+	 } 
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 23
+	 } 
+	aristocrats = {
+		culture = ewe
+		religion =  catholic 
+		size = 4824
+	 } 
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 162
+	 } 
+	bureaucrats = {
+		culture = ewe
+		religion =  catholic 
+		size = 137
+	 } 
+	bureaucrats = {
+		culture = ewe
+		religion = animist
+		size = 4
+	 } 
+	capitalists = {
+		culture = ewe
+		religion =  catholic 
+		size = 688
+	 } 
+	capitalists = {
+		culture = ewe
+		religion = animist
+		size = 23
+	 } 
+	clergymen = {
+		culture = ewe
+		religion =  catholic 
+		size = 1378
+	 } 
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 46
+	 } 
+	artisans = {
+		culture = ewe
+		religion =  catholic 
+		size = 1850
+	 } 
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 62
+	 } 
+	farmers = {
+		culture = ewe
+		religion =  catholic 
+		size = 75219
+	 } 
+	farmers = {
+		culture = ewe
+		religion = animist
+		size = 2526
+	 } 
+	farmers = {
+		culture = african_minor
+		religion =  catholic 
+		size = 46266
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 1554
+	 } 
+}
+#Atakpane (128000/32000 POPS)  
+1917 = {
+	officers = {
+		culture = ewe
+		religion =  catholic 
+		size = 217
+	 } 
+	officers = {
+		culture = east_kwa
+		religion = animist
+		size = 7
+	 } 
+	soldiers = {
+		culture = ewe
+		religion =  catholic 
+		size = 873
+	 } 
+	soldiers = {
+		culture = east_kwa
+		religion = animist
+		size = 29
+	 } 
+	aristocrats = {
+		culture = ewe
+		religion =  catholic 
+		size = 2912
+	 } 
+	aristocrats = {
+		culture = east_kwa
+		religion = animist
+		size = 97
+	 } 
+	bureaucrats = {
+		culture = east_kwa
+		religion =  catholic 
+		size = 72
+	 } 
+	bureaucrats = {
+		culture = ewe
+		religion = animist
+		size = 2
+	 } 
+	capitalists = {
+		culture = east_kwa
+		religion =  catholic 
+		size = 363
+	 } 
+	capitalists = {
+		culture = ewe
+		religion = animist
+		size = 12
+	 } 
+	clergymen = {
+		culture = east_kwa
+		religion =  catholic 
+		size = 727
+	 } 
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 24
+	 } 
+	artisans = {
+		culture = east_kwa
+		religion =  catholic 
+		size = 977
+	 } 
+	artisans = {
+		culture = ewe
+		religion = animist
+		size = 32
+	 } 
+	farmers = {
+		culture = ewe
+		religion =  catholic 
+		size = 55738
+	 } 
+	farmers = {
+		culture = east_kwa
+		religion = animist
+		size = 1872
+	 } 
+	farmers = {
+		culture = fon
+		religion =  catholic 
+		size = 8414
+	 } 
+	farmers = {
+		culture = fon
+		religion = animist
+		size = 282
+	 } 
+}
+#Sokode (24000/6000 POPS)  
+1918 = {
+	aristocrats = {
+		culture = gur
+		religion =  sunni 
+		size = 2990
+	 } 
+	artisans = {
+		culture = gur
+		religion =  sunni 
+		size = 1003
+	 } 
+	farmers = {
+		culture = gur
+		religion =  sunni 
+		size = 51997
+	 } 
+	farmers = {
+		culture = gur
+		religion =  catholic 
+		size = 13419
+	 } 
+	farmers = {
+		culture = gur
+		religion = animist
+		size = 450
+	 } 
+
+}

@@ -1,0 +1,199 @@
+#French Guiana (20000)
+#Ruled by France 1836
+#Cayenne (17000/4250 POPS)
+2241 = {
+	officers = {
+		culture = french
+		religion =  catholic 
+		size = 90
+	 } 
+	officers = {
+		culture = french
+		religion = catholic 
+		size = 20
+	 } 
+	soldiers = {
+		culture = french
+		religion =  catholic 
+		size = 361
+	 } 
+	soldiers = {
+		culture = french
+		religion = catholic 
+		size = 82
+	 } 
+	aristocrats = {
+		culture = french
+		religion =  catholic 
+		size = 753
+	 } 
+	aristocrats = {
+		culture = french
+		religion = catholic 
+		size = 171
+	 } 
+	bureaucrats = {
+		culture = french
+		religion =  catholic 
+		size = 180
+	 } 
+	bureaucrats = {
+		culture = french
+		religion = catholic 
+		size = 41
+	 } 
+	capitalists = {
+		culture = french
+		religion =  catholic 
+		size = 180
+	 } 
+	capitalists = {
+		culture = french
+		religion = catholic 
+		size = 41
+	 } 
+	clergymen = {
+		culture = french
+		religion =  catholic 
+		size = 603
+	 } 
+	clergymen = {
+		culture = french
+		religion = catholic 
+		size = 136
+	 } 
+	artisans = {
+		culture = french
+		religion =  catholic 
+		size = 912
+	 } 
+	artisans = {
+		culture = french
+		religion = catholic 
+		size = 207
+	 } 
+	farmers = {
+		culture = french
+		religion =  catholic 
+		size = 1137
+	 } 
+	farmers = {
+		culture = french
+		religion = catholic 
+		size = 258
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 9046
+	 } 
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 2053
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion =  catholic 
+		size = 12450
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion = catholic 
+		size = 2826
+	 } 
+}
+#Maripasoula (3000/750 POPS)
+2246 = {
+	officers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 14
+	 } 
+	officers = {
+		culture = portuguese
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 58
+	 } 
+	soldiers = {
+		culture = portuguese
+		religion = catholic 
+		size = 13
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 122
+	 } 
+	aristocrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 27
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion =  catholic 
+		size = 29
+	 } 
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic 
+		size = 6
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion =  catholic 
+		size = 29
+	 } 
+	capitalists = {
+		culture = portuguese
+		religion = catholic 
+		size = 6
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 97
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 22
+	 } 
+	artisans = {
+		culture = portuguese
+		religion =  catholic 
+		size = 147
+	 } 
+	artisans = {
+		culture = portuguese
+		religion = catholic 
+		size = 33
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 1945
+	 } 
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 441
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion =  catholic 
+		size = 1724
+	 } 
+	farmers = {
+		culture = afro_antillean
+		religion = catholic 
+		size = 391
+	 } 
+
+}

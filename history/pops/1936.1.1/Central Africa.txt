@@ -1,0 +1,209 @@
+#Ubangi-Shari Region (228000)
+#uncolonized in 1836
+#Bangui (104000/26000 POPS)
+1965 = { 
+	farmers = {
+		culture = african_minor
+		religion =  catholic 
+		size = 11035
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 27
+	 } 
+}
+#Nola (40000/10000 POPS)
+1966 = {
+	farmers = {
+		culture = african_minor
+		religion =  catholic 
+		size = 12344
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 30
+	 } 
+	farmers = {
+		culture = sara
+		religion =  protestant 
+		size = 13632
+	 } 
+	farmers = {
+		culture = sara
+		religion = animist
+		size = 34
+	 } 
+	
+}
+#uncolonized in 1836/under influence of Baguirmi
+#Bouar (28000/7000 POPS)
+1967 = {
+	farmers = {
+		culture = fulbe
+		religion =  sunni 
+		size = 21299
+	 } 
+}
+#Bossangoa (56000/14000 POPS)
+1968 = {
+	artisans = {
+		culture = baguirmi
+		religion = sunni
+		size = 1
+	 } 
+	farmers = {
+		culture = ubangian
+		religion =  catholic 
+		size = 11730
+	 } 
+	farmers = {
+		culture = baguirmi
+		religion = sunni
+		size = 29
+	 } 
+	farmers = {
+		culture = sara
+		religion =  protestant 
+		size = 14329
+	 } 
+	farmers = {
+		culture = baguirmi
+		religion = sunni
+		size = 35
+	 } 
+}
+#Dar Banda Region (128000)
+#uncolonized in 1836/under influence of Azande
+#Zemio (44000/11000 POPS)
+1969 = {
+	officers = {
+		culture = azande
+		religion =  catholic 
+		size = 73
+	 } 
+	soldiers = {
+		culture = azande
+		religion =  catholic 
+		size = 296
+	 } 
+	aristocrats = {
+		culture = azande
+		religion =  catholic 
+		size = 987
+	 } 
+	aristocrats = {
+		culture = azande
+		religion = animist
+		size = 2
+	 } 
+	bureaucrats = {
+		culture = azande
+		religion =  catholic 
+		size = 23
+	 } 
+	capitalists = {
+		culture = azande
+		religion =  catholic 
+		size = 122
+	 } 
+	clergymen = {
+		culture = azande
+		religion =  catholic 
+		size = 246
+	 } 
+	artisans = {
+		culture = azande
+		religion =  catholic 
+		size = 341
+	 } 
+	farmers = {
+		culture = azande
+		religion =  catholic 
+		size = 21679
+	 } 
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 54
+	 } 
+}
+#Bangassou (56000/14000 POPS)
+1970 = {
+	officers = {
+		culture = azande
+		religion =  catholic 
+		size = 125
+	 } 
+	soldiers = {
+		culture = azande
+		religion =  catholic 
+		size = 505
+	 } 
+	soldiers = {
+		culture = azande
+		religion = animist
+		size = 1
+	 } 
+	aristocrats = {
+		culture = azande
+		religion =  catholic 
+		size = 1685
+	 } 
+	aristocrats = {
+		culture = azande
+		religion = animist
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = azande
+		religion =  catholic 
+		size = 41
+	 } 
+	capitalists = {
+		culture = azande
+		religion =  catholic 
+		size = 210
+	 } 
+	clergymen = {
+		culture = azande
+		religion =  catholic 
+		size = 420
+	 } 
+	clergymen = {
+		culture = ubangian
+		religion = animist
+		size = 1
+	 } 
+	artisans = {
+		culture = azande
+		religion =  catholic 
+		size = 581
+	 } 
+	artisans = {
+		culture = ubangian
+		religion = animist
+		size = 1
+	 } 
+	farmers = {
+		culture = azande
+		religion =  catholic 
+		size = 37010
+	 } 
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 92
+	 } 
+}
+#uncolonized in 1836/under influence of Wadai
+#Ndele (28000/7000 POPS)
+1971 = {
+	farmers = {
+		culture = fur
+		religion =  sunni 
+		size = 5721
+	 } 
+
+}

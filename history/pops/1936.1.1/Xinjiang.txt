@@ -1,0 +1,492 @@
+#Xinjiang Region (1356000)
+#under the "rule" of China in 1836
+#Kashgar (268000/67000 POPS)
+1594 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 771
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 198
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3084
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 795
+	 } 
+	aristocrats = {
+		culture = uighur
+		religion =  sunni 
+		size = 19400
+	 } 
+	capitalists = {
+		culture = uighur
+		religion =  sunni 
+		size = 2425
+	 } 
+	clergymen = {
+		culture = uighur
+		religion =  sunni 
+		size = 4850
+	 } 
+	artisans = {
+		culture = uighur
+		religion =  sunni 
+		size = 2359
+	 } 
+	farmers = {
+		culture = uighur
+		religion =  sunni 
+		size = 416681
+	 } 
+	farmers = {
+		culture = kirgiz
+		religion =  sunni 
+		size = 33950
+	 } 
+}
+#Ili (168000/42000 POPS)
+1595 = {
+	aristocrats = {
+		culture = uighur
+		religion =  sunni 
+		size = 3620
+	 } 
+	farmers = {
+		culture = uighur
+		religion =  sunni 
+		size = 79641
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3597
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 927
+	 } 
+}
+#Tulta (88000/22000 POPS)
+1596 = {
+	soldiers = {
+		culture = uighur
+		religion =  sunni 
+		size = 1131
+	 } 
+	aristocrats = {
+		culture = uighur
+		religion =  sunni 
+		size = 6180
+	 } 
+	clergymen = {
+		culture = uighur
+		religion =  sunni 
+		size = 1545
+	 } 
+	farmers = {
+		culture = uighur
+		religion =  sunni 
+		size = 47894
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 6141
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1583
+	 } 
+	farmers = {
+		culture = kazak
+		religion =  sunni 
+		size = 69525
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 2456
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 633
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  sunni 
+		size = 15450
+	 } 
+}
+#Aksu (192000/48000 POPS)
+1597 = {
+	soldiers = {
+		culture = uighur
+		religion =  sunni 
+		size = 1937
+	 } 
+	aristocrats = {
+		culture = uighur
+		religion =  sunni 
+		size = 10580
+	 } 
+	capitalists = {
+		culture = uighur
+		religion =  sunni 
+		size = 1322
+	 } 
+	clergymen = {
+		culture = uighur
+		religion =  sunni 
+		size = 2645
+	 } 
+	artisans = {
+		culture = uighur
+		religion =  sunni 
+		size = 1287
+	 } 
+	farmers = {
+		culture = uighur
+		religion =  sunni 
+		size = 240691
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4205
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 1084
+	 } 
+}
+#Khotan (88000/22000 POPS)
+1598 = {
+	soldiers = {
+		culture = uighur
+		religion =  sunni 
+		size = 1680
+	 } 
+	aristocrats = {
+		culture = uighur
+		religion =  sunni 
+		size = 8400
+	 } 
+	capitalists = {
+		culture = uighur
+		religion =  sunni 
+		size = 1050
+	 } 
+	clergymen = {
+		culture = uighur
+		religion =  sunni 
+		size = 2100
+	 } 
+	artisans = {
+		culture = uighur
+		religion =  sunni 
+		size = 1021
+	 } 
+	farmers = {
+		culture = uighur
+		religion =  sunni 
+		size = 195119
+	 } 
+}
+#Kumul (188000/47000 POPS)
+1599 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 61
+	 } 
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 15
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 246
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 63
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1232
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 317
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 15030
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 7
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 153
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = sunni
+		size = 39
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 307
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 79
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 149
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 38
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 3980
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1026
+	 } 
+	farmers = {
+		culture = uighur
+		religion =  sunni 
+		size = 31000
+	 } 
+}
+#Urumqi (Tihwa) (332000/83000 POPS)
+1600 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 100
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 26
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 403
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 104
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2019
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 520
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 12
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 252
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 64
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 504
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 130
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 244
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 63
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1977
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 509
+	 } 
+	farmers = {
+		culture = uighur
+		religion =  sunni 
+		size = 23495
+	 } 
+	farmers = {
+		culture = kazak
+		religion =  sunni 
+		size = 15240
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  sunni 
+		size = 17780
+	 } 
+}
+#Lopnur (32000/8000 POPS)
+2607 = {
+	officers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 344
+	 } 
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 88
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1378
+	 } 
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 355
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 4595
+	 } 
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 1184
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion =  mahayana
+		size = 15114
+	 } 
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 29
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion =  mahayana
+		size = 573
+	 } 
+	capitalists = {
+		culture = beifaren
+		religion = mahayana
+		size = 148
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion =  mahayana
+		size = 1148
+	 } 
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 296
+	 } 
+	artisans = {
+		culture = beifaren
+		religion =  mahayana
+		size = 2179
+	 } 
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 561
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 58592
+	 } 
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 15108
+	 } 
+	farmers = {
+		culture = uighur
+		religion =  sunni 
+		size = 46240
+	 } 
+	farmers = {
+		culture = mongol
+		religion =  gelugpa
+		size = 945
+	 } 
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 243
+	 } 
+
+}

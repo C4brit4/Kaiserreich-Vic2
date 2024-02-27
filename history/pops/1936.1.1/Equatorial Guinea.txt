@@ -1,0 +1,169 @@
+#Equatorial Guinea (143000)
+#Ruled By Spain in 1836
+#Fernando Po (11000/2750 POPS)
+1955 = {
+	officers = {
+		culture = fang
+		religion =  catholic 
+		size = 91
+	 } 
+	officers = {
+		culture = fang
+		religion = animist
+		size = 2
+	 } 
+	soldiers = {
+		culture = fang
+		religion =  catholic 
+		size = 368
+	 } 
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 9
+	 } 
+	aristocrats = {
+		culture = fang
+		religion =  catholic 
+		size = 1228
+	 } 
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 31
+	 } 
+	bureaucrats = {
+		culture = fang
+		religion =  catholic 
+		size = 30
+	 } 
+	capitalists = {
+		culture = fang
+		religion =  catholic 
+		size = 153
+	 } 
+	capitalists = {
+		culture = fang
+		religion = animist
+		size = 3
+	 } 
+	clergymen = {
+		culture = fang
+		religion =  catholic 
+		size = 307
+	 } 
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 7
+	 } 
+	artisans = {
+		culture = fang
+		religion =  catholic 
+		size = 428
+	 } 
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 10
+	 } 
+	farmers = {
+		culture = fang
+		religion =  catholic 
+		size = 21041
+	 } 
+	farmers = {
+		culture = ibo
+		religion = animist
+		size = 539
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 5894
+	 } 
+	farmers = {
+		culture = kru
+		religion = animist
+		size = 151
+	 } 
+}
+#uncolonized in 1836
+#Bata (132000/33000 POPS) 
+1973 = {
+	officers = {
+		culture = fang
+		religion =  catholic 
+		size = 61
+	 } 
+	officers = {
+		culture = fang
+		religion = animist
+		size = 1
+	 } 
+	soldiers = {
+		culture = fang
+		religion =  catholic 
+		size = 245
+	 } 
+	soldiers = {
+		culture = fang
+		religion = animist
+		size = 6
+	 } 
+	aristocrats = {
+		culture = fang
+		religion =  catholic 
+		size = 819
+	 } 
+	aristocrats = {
+		culture = fang
+		religion = animist
+		size = 21
+	 } 
+	bureaucrats = {
+		culture = fang
+		religion =  catholic 
+		size = 20
+	 } 
+	capitalists = {
+		culture = fang
+		religion =  catholic 
+		size = 102
+	 } 
+	capitalists = {
+		culture = fang
+		religion = animist
+		size = 2
+	 } 
+	clergymen = {
+		culture = fang
+		religion =  catholic 
+		size = 204
+	 } 
+	clergymen = {
+		culture = fang
+		religion = animist
+		size = 5
+	 } 
+	artisans = {
+		culture = fang
+		religion =  catholic 
+		size = 285
+	 } 
+	artisans = {
+		culture = fang
+		religion = animist
+		size = 7
+	 } 
+	farmers = {
+		culture = fang
+		religion =  catholic 
+		size = 17956
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion = animist
+		size = 460
+	 } 
+}

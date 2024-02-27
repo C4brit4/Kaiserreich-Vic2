@@ -1,0 +1,9 @@
+owner = LEP
+controller = LEP
+add_core = CHI
+add_core = GXI
+trade_goods = silk
+life_rating = 32
+
+add_core = LEP
+add_core = LIA

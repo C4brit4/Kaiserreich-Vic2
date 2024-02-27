@@ -1,0 +1,190 @@
+#Sierra Leone Region (752000) 
+#uncolonized in 1836/Britain has trade post in 1836
+#Freetown (400000/100000 POPS) 
+1884 = {
+	officers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 769
+	 } 
+	officers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 1
+	 } 
+	soldiers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 3076
+	 } 
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 7
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 6408
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = mande
+		religion =  sunni 
+		size = 3855
+	 } 
+	capitalists = {
+		culture = mande
+		religion =  sunni 
+		size = 1285
+	 } 
+	clergymen = {
+		culture = mande
+		religion =  sunni 
+		size = 2570
+	 } 
+	artisans = {
+		culture = mande
+		religion =  sunni 
+		size = 3559
+	 } 
+	farmers = {
+		culture = mande
+		religion =  sunni 
+		size = 170944
+	 } 
+	farmers = {
+		culture = western_nigritic
+		religion =  catholic 
+		size = 54536
+	 } 
+	farmers = {
+		culture = western_nigritic
+		religion = animist
+		size = 136
+	 } 
+}
+#uncolonized in 1836
+#Bo (352000/88000 POPS) 
+1886 = {
+	soldiers = {
+		culture = mande
+		religion =  sunni 
+		size = 1296
+	 } 
+	aristocrats = {
+		culture = mande
+		religion =  sunni 
+		size = 4320
+	 } 
+	clergymen = {
+		culture = mande
+		religion =  sunni 
+		size = 1080
+	 } 
+	artisans = {
+		culture = mande
+		religion =  sunni 
+		size = 1495
+	 } 
+	farmers = {
+		culture = mande
+		religion =  sunni 
+		size = 62117
+	 } 
+	farmers = {
+		culture = western_nigritic
+		religion =  sunni 
+		size = 32694
+	 } 
+}
+#Jallon Region (384000) #see Guinea.txt for balance of Region
+#uncolonized in 1836
+#Falaba (384000/96000 POPS) #now part of Sierra Leone 
+1885 = {
+	officers = {
+		culture = western_nigritic
+		religion =  catholic 
+		size = 466
+	 } 
+	officers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 1
+	 } 
+	soldiers = {
+		culture = western_nigritic
+		religion =  catholic 
+		size = 1870
+	 } 
+	soldiers = {
+		culture = western_nigritic
+		religion = sunni
+		size = 4
+	 } 
+	aristocrats = {
+		culture = western_nigritic
+		religion =  catholic 
+		size = 6234
+	 } 
+	aristocrats = {
+		culture = western_nigritic
+		religion = sunni
+		size = 15
+	 } 
+	bureaucrats = {
+		culture = western_nigritic
+		religion =  catholic 
+		size = 155
+	 } 
+	capitalists = {
+		culture = western_nigritic
+		religion =  catholic 
+		size = 779
+	 } 
+	capitalists = {
+		culture = western_nigritic
+		religion = sunni
+		size = 1
+	 } 
+	clergymen = {
+		culture = western_nigritic
+		religion =  catholic 
+		size = 1558
+	 } 
+	clergymen = {
+		culture = western_nigritic
+		religion = sunni 
+		size = 3
+	 } 
+	artisans = {
+		culture = african_minor
+		religion =  catholic 
+		size = 2158
+	 } 
+	artisans = {
+		culture = western_nigritic
+		religion = sunni 
+		size = 5
+	 } 
+	farmers = {
+		culture = western_nigritic
+		religion =  catholic 
+		size = 52238
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 130
+	 } 
+	farmers = {
+		culture = mande
+		religion =  sunni 
+		size = 84801
+	 } 
+
+}

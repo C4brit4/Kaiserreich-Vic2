@@ -1,0 +1,204 @@
+#Jamaica Region - 384000
+#Ruled by Britain 1836
+#Jamaica (372000/93000 POPS)
+2217 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 1605
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 125
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 962
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 75
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 642
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 50
+	 } 
+	soldiers = {
+		culture = marathi
+		religion =  hindu 
+		size = 569
+	 } 
+	soldiers = {
+		culture = avadhi
+		religion = hindu 
+		size = 200
+	 } 
+	soldiers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 641
+	 } 
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 50
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 845
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 1004
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 320
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 25
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 3211
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 250
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 5899
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 461
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 70699
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 21159
+	 } 
+}
+#Cayman Islands : (1200/300 POPS) #still a British Colony
+2218 = {
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 3
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 14
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 42
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 9
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 7
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 12
+	 } 
+	clergymen = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	artisans = {
+		culture = british
+		religion =  protestant 
+		size = 34
+	 } 
+	artisans = {
+		culture = british
+		religion = protestant 
+		size = 7
+	 } 
+	farmers = {
+		culture = british
+		religion =  protestant 
+		size = 185
+	 } 
+	farmers = {
+		culture = british
+		religion = protestant 
+		size = 43
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 303
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 71
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  catholic 
+		size = 442
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = catholic 
+		size = 103
+	 } 
+
+}

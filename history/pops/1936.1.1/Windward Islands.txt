@@ -1,0 +1,532 @@
+#Windward Islands Region - 188000
+#Barbados (100000/25000 POPS) #now independent
+2229 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 250
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 11
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 149
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 7
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 601
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 28
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 351
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 250
+	 } 
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 11
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 651
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 30
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 752
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 35
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 100
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 4
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 501
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 23
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 785
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 36
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 43304
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 2040
+	 } 
+}
+#Saint Lucia (18000/4500 POPS) #now independent
+2231 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 93
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 4
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 56
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 169
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 8
+	 } 
+	soldiers = {
+		culture = marathi
+		religion =  hindu 
+		size = 56
+	 } 
+	soldiers = {
+		culture = avadhi
+		religion = hindu 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 357
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 17
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 395
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 19
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 18
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 187
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 9
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 115
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 5
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 15329
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 764
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  catholic 
+		size = 2049
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = catholic 
+		size = 102
+	 } 
+}
+#Dominica (19000/4750 POPS) #now independent
+2232 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 61
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 1
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 37
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 87
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 61
+	 } 
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 1
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 497
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 12
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 11
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 123
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 3
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 294
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 7
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 9789
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 251
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  catholic 
+		size = 176
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = catholic 
+		size = 4
+	 } 
+}
+#Grenada (30000/7500 POPS) #now independent
+2233 = {
+	officers = {
+		culture = marathi
+		religion =  hindu 
+		size = 53
+	 } 
+	officers = {
+		culture = avadhi
+		religion = hindu 
+		size = 3
+	 } 
+	soldiers = {
+		culture = marathi
+		religion =  hindu 
+		size = 214
+	 } 
+	soldiers = {
+		culture = avadhi
+		religion = hindu 
+		size = 13
+	 } 
+	aristocrats = {
+		culture = marathi
+		religion =  hindu 
+		size = 625
+	 } 
+	aristocrats = {
+		culture = avadhi
+		religion = hindu 
+		size = 39
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 89
+	 } 
+	aristocrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 5
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 35
+	 } 
+	bureaucrats = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 2
+	 } 
+	capitalists = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 89
+	 } 
+	capitalists = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 5
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 178
+	 } 
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 11
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 246
+	 } 
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 15
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 14005
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 893
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  catholic 
+		size = 1679
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = catholic 
+		size = 107
+	 } 
+}
+#Saint Vincent (21000/5250 POPS) #now independent
+2409 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 78
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 3
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 46
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 188
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 9
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 315
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 15
+	 } 
+	aristocrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 313
+	 } 
+	aristocrats = {
+		culture = yue
+		religion = mahayana
+		size = 15
+	 } 
+	bureaucrats = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 15
+	 } 
+	clergymen = {
+		culture = nanfaren
+		religion =  mahayana
+		size = 142
+	 } 
+	clergymen = {
+		culture = yue
+		religion = mahayana
+		size = 7
+	 } 
+	clergymen = {
+		culture = marathi
+		religion =  hindu 
+		size = 14
+	 } 
+	artisans = {
+		culture = marathi
+		religion =  hindu 
+		size = 273
+	 } 
+	artisans = {
+		culture = avadhi
+		religion = hindu 
+		size = 13
+	 } 
+	farmers = {
+		culture = marathi
+		religion =  hindu 
+		size = 655
+	 } 
+	farmers = {
+		culture = avadhi
+		religion = hindu 
+		size = 32
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion =  protestant 
+		size = 10372
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant 
+		size = 517
+	 } 
+	farmers = {
+		culture = mestizo
+		religion =  catholic 
+		size = 2335
+	 } 
+	farmers = {
+		culture = mestizo
+		religion = catholic 
+		size = 116
+	 } 
+
+}

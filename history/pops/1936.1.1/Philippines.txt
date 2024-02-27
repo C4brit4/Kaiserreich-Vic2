@@ -1,0 +1,847 @@
+#Luzon Region (2176000)
+#Ruled by Spain in 1836
+#Manila (780000/195000 POPS)
+1455 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 438
+	 } 
+	officers = {
+		culture = filipino
+		religion = catholic 
+		size = 6
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 1755
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 26
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 27284
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 415
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 681
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 10
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 3410
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 51
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 6821
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = catholic 
+		size = 103
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 11901
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 181
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 287874
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 8952
+	 } 
+}
+#Vigan (608000/152000 POPS)
+1456 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 350
+	 } 
+	officers = {
+		culture = filipino
+		religion = catholic 
+		size = 5
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 1404
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 21
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 21827
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 332
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 545
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 8
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 2728
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 41
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 5456
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = catholic 
+		size = 83
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 9521
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 144
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 270299
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 7161
+	 } 
+}
+#Legazpi (564000/141000 POPS)
+1457 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 293
+	 } 
+	officers = {
+		culture = filipino
+		religion = catholic 
+		size = 4
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 1175
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 17
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 18271
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 278
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 456
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 6
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 2283
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 34
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 4567
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = catholic 
+		size = 69
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 7970
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 121
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 193685
+	 } 
+	farmers = {
+		culture = malay
+		religion = animist
+		size = 5995
+	 } 
+}
+#Mindoro (224000/56000 POPS)
+1458 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 44
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 180
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 2807
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 42
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 69
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 350
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 5
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 701
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = sunni
+		size = 10
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 1224
+	 } 
+	farmers = {
+		culture = filipino
+		religion = sunni
+		size = 18
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 30485
+	 } 
+	farmers = {
+		culture = filipino
+		religion = sunni
+		size = 921
+	 } 
+
+}
+#Visayas Region (1044000 POPS)
+#under rule of Spain 1836
+#Palawan (80000/20000 POPS)
+1459 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 54
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 219
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 3427
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 52
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 85
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 428
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 6
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 856
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = catholic 
+		size = 13
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 1495
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 22
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 23857
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 1124
+	 } 
+}
+#Iloilo (312000/78000 POPS)
+1460 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 259
+	 } 
+	officers = {
+		culture = filipino
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 1039
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 15
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 16154
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 246
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 403
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 6
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 2019
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 30
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 4038
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = catholic 
+		size = 61
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 7046
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 107
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 148055
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 5300
+	 } 
+}
+#Tacloban (348000/87000 POPS)
+1461 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 149
+	 } 
+	officers = {
+		culture = filipino
+		religion = catholic 
+		size = 2
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 599
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 9
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 9327
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 142
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 232
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 3
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 1165
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 17
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 2331
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = catholic 
+		size = 35
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 4069
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 61
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 100980
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 3060
+	 } 
+}
+#Cebu (304000/76000 POPS)
+2565 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 248
+	 } 
+	officers = {
+		culture = filipino
+		religion = catholic 
+		size = 3
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 995
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 15
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 5474
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 235
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 386
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 5
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 1933
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 29
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 3868
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = catholic 
+		size = 58
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 6750
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 102
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 133411
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 5077
+	 } 
+
+}
+#Mindanao Region (496000)
+#Under Spanish "Rule" 1836
+#Davao (152000/38000 POPS)
+1463 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 653
+	 } 
+	officers = {
+		culture = filipino
+		religion = catholic 
+		size = 9
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 2612
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 39
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 40601
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 618
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 1014
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 15
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 5074
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 77
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 10150
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = catholic 
+		size = 154
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 17711
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 269
+	 } 
+	farmers = {
+		culture = filipino
+		religion =  catholic 
+		size = 325569
+	 } 
+	farmers = {
+		culture = filipino
+		religion = catholic 
+		size = 12572
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion =  sunni 
+		size = 29987
+	 } 
+}
+#Under rule of Spain in 1836
+#Zamboanga (300000/75000 POPS)
+1462 = {
+	officers = {
+		culture = filipino
+		religion =  catholic 
+		size = 78
+	 } 
+	officers = {
+		culture = filipino
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = filipino
+		religion =  catholic 
+		size = 317
+	 } 
+	soldiers = {
+		culture = filipino
+		religion = catholic 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 4934
+	 } 
+	aristocrats = {
+		culture = filipino
+		religion = catholic 
+		size = 75
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion =  catholic 
+		size = 123
+	 } 
+	bureaucrats = {
+		culture = filipino
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = filipino
+		religion =  catholic 
+		size = 616
+	 } 
+	capitalists = {
+		culture = filipino
+		religion = catholic 
+		size = 9
+	 } 
+	clergymen = {
+		culture = filipino
+		religion =  catholic 
+		size = 97
+	 } 
+	clergymen = {
+		culture = filipino
+		religion = catholic 
+		size = 1
+	 } 
+	clergymen = {
+		culture = asian_minor
+		religion =  sunni 
+		size = 1153
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion =  sunni 
+		size = 2185
+	 } 
+	farmers = {
+		culture = asian_minor
+		religion =  sunni 
+		size = 57946
+	 } 
+}
+#Jolo (44000/11000 POPS)
+1464 = {
+	aristocrats = {
+		culture = malay
+		religion =  sunni 
+		size = 2500
+	 } 
+	farmers = {
+		culture = malay
+		religion =  sunni 
+		size = 1090
+	 } 
+	farmers = {
+		culture = malay
+		religion =  sunni 
+		size = 23866
+	 } 
+}

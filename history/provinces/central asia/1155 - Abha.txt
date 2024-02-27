@@ -1,0 +1,6 @@
+owner = YEM
+controller = YEM
+add_core = HDJ
+add_core = YEM
+trade_goods = wool
+life_rating = 35

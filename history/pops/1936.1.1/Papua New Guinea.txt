@@ -1,0 +1,550 @@
+#East melanesian (892000) 
+#uncolonized in 1836
+#Port Moresby (212000/53000 POPS) 
+2528 = {
+	capitalists = {
+		culture = australian
+		religion =  protestant 
+		size = 163
+	 } 
+	capitalists = {
+		culture = australian
+		religion = protestant 
+		size = 2
+	 } 
+	officers = {
+		culture = australian
+		religion =  protestant 
+		size = 97
+	 } 
+	officers = {
+		culture = australian
+		religion = protestant 
+		size = 1
+	 } 
+	soldiers = {
+		culture = australian
+		religion =  protestant 
+		size = 65
+	 } 
+	soldiers = {
+		culture = australian
+		religion = protestant 
+		size = 1
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 327
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 4
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 1310
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 19
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 32
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  protestant 
+		size = 327
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 4
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  protestant 
+		size = 143
+	 } 
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 2
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 30282
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 461
+	 } 
+}
+#Kerema (116000/29000 POPS) 
+2529 = {
+	officers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 71
+	 } 
+	officers = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 289
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 4
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 965
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 14
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 23
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  protestant 
+		size = 120
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  protestant 
+		size = 241
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 3
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  protestant 
+		size = 106
+	 } 
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 22314
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 339
+	 } 
+}
+#Lae (264000/66000 POPS) 
+2530 = {
+	officers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 397
+	 } 
+	officers = {
+		culture = melanesian
+		religion = animist
+		size = 6
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 1592
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 24
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 5309
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 80
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 131
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion = animist
+		size = 2
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  protestant 
+		size = 662
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion = animist
+		size = 10
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  protestant 
+		size = 1326
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 20
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  protestant 
+		size = 586
+	 } 
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 8
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 122721
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 1868
+	 } 
+}
+#Madang (300000/75000 POPS) 
+2531 = {
+	officers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 286
+	 } 
+	officers = {
+		culture = melanesian
+		religion = animist
+		size = 4
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 1149
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 17
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 3831
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 58
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 95
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  protestant 
+		size = 478
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion = animist
+		size = 7
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  protestant 
+		size = 957
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 14
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  protestant 
+		size = 422
+	 } 
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 6
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 88569
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 1348
+	 } 
+}
+#Northern Melanesia (226000) 
+#uncolonized in 1836}
+#New Ireland (104000/POPS) 
+1531 = {
+	officers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 38
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 156
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 2
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 522
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 7
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 12
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  protestant 
+		size = 65
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  protestant 
+		size = 130
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  protestant 
+		size = 57
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 12069
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 183
+	 } 
+}
+#New Britain (144000/POPS) 
+2537 = {
+	officers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 94
+	 } 
+	officers = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 381
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 1270
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 19
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 31
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  protestant 
+		size = 158
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion = animist
+		size = 2
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  protestant 
+		size = 317
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 4
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  protestant 
+		size = 139
+	 } 
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 2
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 29372
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 447
+	 } 
+}
+#Bougainville (56000/POPS) 
+2539 = {
+	officers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 50
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 200
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 3
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 669
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 10
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  protestant 
+		size = 16
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  protestant 
+		size = 83
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  protestant 
+		size = 167
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 2
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  protestant 
+		size = 73
+	 } 
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  protestant 
+		size = 15482
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 235
+	 } 
+}

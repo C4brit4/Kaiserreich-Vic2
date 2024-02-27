@@ -1,0 +1,394 @@
+#Cuba (936000)
+#Ruled by Spain in 1836
+#Havana (388000/97000 POPS)
+2209 = {
+	officers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 996
+	 } 
+	officers = {
+		culture = caribeno
+		religion = catholic 
+		size = 189
+	 } 
+	soldiers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 3986
+	 } 
+	soldiers = {
+		culture = caribeno
+		religion = catholic 
+		size = 759
+	 } 
+	aristocrats = {
+		culture = caribeno
+		religion = catholic 
+		size = 3051
+	 } 
+	bureaucrats = {
+		culture = caribeno
+		religion =  catholic 
+		size = 399
+	 } 
+	bureaucrats = {
+		culture = caribeno
+		religion = catholic 
+		size = 76
+	 } 
+	capitalists = {
+		culture = caribeno
+		religion =  catholic 
+		size = 2001
+	 } 
+	capitalists = {
+		culture = caribeno
+		religion = catholic 
+		size = 381
+	 } 
+	clergymen = {
+		culture = caribeno
+		religion =  catholic 
+		size = 4004
+	 } 
+	clergymen = {
+		culture = caribeno
+		religion = catholic 
+		size = 762
+	 } 
+	artisans = {
+		culture = caribeno
+		religion = catholic 
+		size = 2040
+	 } 
+	craftsmen = {
+		culture = caribeno
+		religion = catholic 
+		size = 6550
+	 } 
+	farmers = {
+		culture = caribeno
+		religion = catholic 
+		size = 89893
+	 } 
+	farmers = {
+		culture = afro_caribeno
+		religion =  catholic 
+		size = 12131
+	 } 
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 9069
+	 } 
+}
+#Jagua (252000/63000 POPS)
+2210 = {
+	officers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 503
+	 } 
+	officers = {
+		culture = caribeno
+		religion = catholic 
+		size = 95
+	 } 
+	soldiers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 2015
+	 } 
+	soldiers = {
+		culture = caribeno
+		religion = catholic 
+		size = 383
+	 } 
+	aristocrats = {
+		culture = caribeno
+		religion = catholic 
+		size = 1542
+	 } 
+	bureaucrats = {
+		culture = caribeno
+		religion =  catholic 
+		size = 202
+	 } 
+	bureaucrats = {
+		culture = caribeno
+		religion = catholic 
+		size = 38
+	 } 
+	capitalists = {
+		culture = caribeno
+		religion =  catholic 
+		size = 1012
+	 } 
+	capitalists = {
+		culture = caribeno
+		religion = catholic 
+		size = 192
+	 } 
+	clergymen = {
+		culture = caribeno
+		religion =  catholic 
+		size = 2024
+	 } 
+	clergymen = {
+		culture = caribeno
+		religion = catholic 
+		size = 385
+	 } 
+	artisans = {
+		culture = caribeno
+		religion =  catholic 
+		size = 5413
+	 } 
+	artisans = {
+		culture = caribeno
+		religion = catholic 
+		size = 1031
+	 } 
+	craftsmen = {
+		culture = caribeno
+		religion =  catholic 
+		size = 17382
+	 } 
+	craftsmen = {
+		culture = caribeno
+		religion = catholic 
+		size = 3311
+	 } 
+	farmers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 29234
+	 } 
+	farmers = {
+		culture = caribeno
+		religion = catholic 
+		size = 16997
+	 } 
+	farmers = {
+		culture = spanish
+		religion = catholic 
+		size = 13496
+	 } 
+}
+#Camaguey (168000/42000 POPS)
+2211 = {
+	officers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 451
+	 } 
+	officers = {
+		culture = caribeno
+		religion = catholic 
+		size = 86
+	 } 
+	soldiers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 1810
+	 } 
+	soldiers = {
+		culture = caribeno
+		religion = catholic 
+		size = 344
+	 } 
+	aristocrats = {
+		culture = caribeno
+		religion = catholic 
+		size = 1385
+	 } 
+	bureaucrats = {
+		culture = caribeno
+		religion =  catholic 
+		size = 181
+	 } 
+	bureaucrats = {
+		culture = caribeno
+		religion = catholic 
+		size = 34
+	 } 
+	capitalists = {
+		culture = caribeno
+		religion =  catholic 
+		size = 908
+	 } 
+	capitalists = {
+		culture = caribeno
+		religion = catholic 
+		size = 173
+	 } 
+	clergymen = {
+		culture = caribeno
+		religion =  catholic 
+		size = 1818
+	 } 
+	clergymen = {
+		culture = caribeno
+		religion = catholic 
+		size = 346
+	 } 
+	clerks = {
+		culture = caribeno
+		religion =  catholic 
+		size = 5119
+	 } 
+	clerks = {
+		culture = caribeno
+		religion = catholic 
+		size = 975
+	 } 
+	artisans = {
+		culture = caribeno
+		religion =  catholic 
+		size = 4863
+	 } 
+	artisans = {
+		culture = caribeno
+		religion = catholic 
+		size = 926
+	 } 
+	craftsmen = {
+		culture = caribeno
+		religion =  catholic 
+		size = 15615
+	 } 
+	craftsmen = {
+		culture = caribeno
+		religion = catholic 
+		size = 2974
+	 } 
+	farmers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 16531
+	 } 
+}
+#Santiago de Cuba (128000/32000 POPS)
+2212 = {
+	officers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 1068
+	 } 
+	officers = {
+		culture = caribeno
+		religion = catholic 
+		size = 203
+	 } 
+	soldiers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 4275
+	 } 
+	soldiers = {
+		culture = caribeno
+		religion = catholic 
+		size = 814
+	 } 
+	bureaucrats = {
+		culture = caribeno
+		religion =  catholic 
+		size = 429
+	 } 
+	bureaucrats = {
+		culture = caribeno
+		religion = catholic 
+		size = 81
+	 } 
+	capitalists = {
+		culture = caribeno
+		religion =  catholic 
+		size = 2147
+	 } 
+	capitalists = {
+		culture = caribeno
+		religion = catholic 
+		size = 408
+	 } 
+	clergymen = {
+		culture = caribeno
+		religion =  catholic 
+		size = 4294
+	 } 
+	clergymen = {
+		culture = caribeno
+		religion = catholic 
+		size = 817
+	 } 
+	clerks = {
+		culture = caribeno
+		religion = catholic 
+		size = 2302
+	 } 
+	artisans = {
+		culture = caribeno
+		religion =  catholic 
+		size = 11486
+	 } 
+	artisans = {
+		culture = caribeno
+		religion = catholic 
+		size = 2187
+	 } 
+	craftsmen = {
+		culture = caribeno
+		religion =  catholic 
+		size = 36876
+	 } 
+	craftsmen = {
+		culture = caribeno
+		religion = catholic 
+		size = 7024
+	 } 
+	farmers = {
+		culture = caribeno
+		religion =  catholic 
+		size = 57947
+	 }  
+}
+
+#Baker/Repulse Bay/ Echo Bay - Now Guantanamo Bay (5036/1259 POPS)
+44 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 25
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 240
+	}
+	
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 879
+	}
+}
+

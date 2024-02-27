@@ -1,0 +1,8 @@
+owner = PRF
+controller = PRF
+add_core = MYS
+
+trade_goods = wool
+life_rating = 32
+
+add_core = PRF

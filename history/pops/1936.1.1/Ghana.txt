@@ -1,0 +1,685 @@
+#Gold Coast Region (268000) 
+#uncolonized in 1836
+#Accra (132000/33000 POPS) #Danish Tradepost in 1836  
+1907 = {
+	officers = {
+		culture = akan
+		religion =  protestant 
+		size = 634
+	 } 
+	officers = {
+		culture = akan
+		religion = animist
+		size = 6
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  protestant 
+		size = 2539
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 25
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  protestant 
+		size = 8464
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 85
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  protestant 
+		size = 210
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 2
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  protestant 
+		size = 1057
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 10
+	 } 
+	clergymen = {
+		culture = akan
+		religion =  protestant 
+		size = 2115
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 21
+	 } 
+	artisans = {
+		culture = akan
+		religion =  protestant 
+		size = 3879
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 39
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 2259
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 22
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 46554
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 470
+	 } 
+	farmers = {
+		culture = ewe
+		religion =  catholic 
+		size = 90992
+	 } 
+	farmers = {
+		culture = ewe
+		religion = animist
+		size = 919
+	 } 
+	farmers = {
+		culture = african_minor
+		religion =  protestant 
+		size = 38621
+	 } 
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 390
+	 } 
+}
+#Cape Coast (48000/12000 POPS) #British Tradepost in 1836 
+1908 = {
+	officers = {
+		culture = akan
+		religion =  protestant 
+		size = 375
+	 } 
+	officers = {
+		culture = akan
+		religion = animist
+		size = 3
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  protestant 
+		size = 1502
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 15
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  protestant 
+		size = 5009
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  protestant 
+		size = 124
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 1
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  protestant 
+		size = 625
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 6
+	 } 
+	clergymen = {
+		culture = akan
+		religion =  protestant 
+		size = 1252
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 12
+	 } 
+	artisans = {
+		culture = akan
+		religion =  protestant 
+		size = 2295
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 23
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 105596
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 1066
+	 } 
+}
+#Sekondi (88000/22000 POPS) #Dutch Tradepost in 1836  
+1909 = {
+	officers = {
+		culture = akan
+		religion =  catholic 
+		size = 375
+	 } 
+	officers = {
+		culture = akan
+		religion = animist
+		size = 3
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  catholic 
+		size = 1502
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 15
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  catholic 
+		size = 5009
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  catholic 
+		size = 124
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 1
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  catholic 
+		size = 625
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 6
+	 } 
+	clergymen = {
+		culture = akan
+		religion =  catholic 
+		size = 1252
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 12
+	 } 
+	artisans = {
+		culture = akan
+		religion =  catholic 
+		size = 2295
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 23
+	 } 
+	farmers = {
+		culture = akan
+		religion =  catholic 
+		size = 105596
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 1066
+	 } 
+}
+#Asante Region (2404000) 
+#under the rule of Ashanti in 1836
+#Kumasi (1108000/277000 POPS)  
+1910 = {
+	officers = {
+		culture = akan
+		religion =  protestant 
+		size = 1173
+	 } 
+	officers = {
+		culture = akan
+		religion = animist
+		size = 11
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  protestant 
+		size = 4695
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 47
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  protestant 
+		size = 15651
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 158
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  protestant 
+		size = 391
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 3
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  protestant 
+		size = 1956
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 19
+	 } 
+	clergymen = {
+		culture = akan
+		religion =  protestant 
+		size = 3912
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 39
+	 } 
+	artisans = {
+		culture = akan
+		religion =  protestant 
+		size = 7175
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 72
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 329936
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 3332
+	 } 
+}
+#Kintampo (520000/130000 POPS)  
+1911 = {
+	officers = {
+		culture = akan
+		religion =  catholic 
+		size = 365
+	 } 
+	officers = {
+		culture = akan
+		religion = animist
+		size = 3
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  catholic 
+		size = 1461
+	 } 
+	soldiers = {
+		culture = akan
+		religion = animist
+		size = 14
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  catholic 
+		size = 4870
+	 } 
+	aristocrats = {
+		culture = akan
+		religion = animist
+		size = 49
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  catholic 
+		size = 121
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion = animist
+		size = 1
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  catholic 
+		size = 608
+	 } 
+	capitalists = {
+		culture = akan
+		religion = animist
+		size = 6
+	 } 
+	clergymen = {
+		culture = akan
+		religion =  catholic 
+		size = 1217
+	 } 
+	clergymen = {
+		culture = akan
+		religion = animist
+		size = 12
+	 } 
+	artisans = {
+		culture = akan
+		religion =  catholic 
+		size = 2232
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 22
+	 } 
+	farmers = {
+		culture = african_minor
+		religion =  catholic 
+		size = 34176
+	 } 
+	farmers = {
+		culture = mossi
+		religion = sunni 
+		size = 345
+	 } 
+	farmers = {
+		culture = mossi
+		religion =  sunni 
+		size = 12300
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 56321
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 568
+	 } 
+}
+#Wa (564000/141000 POPS)  
+1912 = {
+	soldiers = {
+		culture = mossi
+		religion =  sunni 
+		size = 1584
+	 } 
+	aristocrats = {
+		culture = mossi
+		religion =  sunni 
+		size = 5280
+	 } 
+	clergymen = {
+		culture = mossi
+		religion =  sunni 
+		size = 1320
+	 } 
+	artisans = {
+		culture = mossi
+		religion =  sunni 
+		size = 2420
+	 } 
+	farmers = {
+		culture = mossi
+		religion =  sunni 
+		size = 107008
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 4248
+	 } 
+	farmers = {
+		culture = akan
+		religion = animist
+		size = 42
+	 } 
+}
+#Tamale (212000/53000 POPS)  
+1913 = {
+	aristocrats = {
+		culture = gur
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = gur
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = gur
+		religion = animist
+		size = 1050
+	}
+
+	soldiers = {
+		culture = gur
+		religion = animist
+		size = 760
+	}
+
+	farmers = {
+		culture = gur
+		religion = animist
+		size = 38160
+	}
+
+	slaves = {
+		culture = akan
+		religion = animist
+		size = 3500
+	}
+
+	aristocrats = {
+		culture = mossi
+		religion = animist
+		size = 615
+	}
+
+	clergymen = {
+		culture = mossi
+		religion = animist
+		size = 350
+	}
+
+	artisans = {
+		culture = mossi
+		religion = animist
+		size = 1315
+	}
+
+	soldiers = {
+		culture = mossi
+		religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = mossi
+		religion = animist
+		size = 18375
+	}
+}
+#Togo Region (548000) #see Togo.txt for balance of region
+#uncolonized in 1836
+#Ho (420000/105000 POPS)  
+1915 = {
+	officers = {
+		culture = akan
+		religion =  catholic 
+		size = 334
+	 } 
+	officers = {
+		culture = ewe
+		religion = animist
+		size = 3
+	 } 
+	soldiers = {
+		culture = akan
+		religion =  catholic 
+		size = 1339
+	 } 
+	soldiers = {
+		culture = ewe
+		religion = animist
+		size = 13
+	 } 
+	aristocrats = {
+		culture = akan
+		religion =  catholic 
+		size = 4464
+	 } 
+	aristocrats = {
+		culture = ewe
+		religion = animist
+		size = 45
+	 } 
+	bureaucrats = {
+		culture = akan
+		religion =  catholic 
+		size = 110
+	 } 
+	bureaucrats = {
+		culture = ewe
+		religion = animist
+		size = 1
+	 } 
+	capitalists = {
+		culture = akan
+		religion =  catholic 
+		size = 557
+	 } 
+	capitalists = {
+		culture = ewe
+		religion = animist
+		size = 5
+	 } 
+	clergymen = {
+		culture = ewe
+		religion =  catholic 
+		size = 1115
+	 } 
+	clergymen = {
+		culture = ewe
+		religion = animist
+		size = 11
+	 } 
+	artisans = {
+		culture = ewe
+		religion =  catholic 
+		size = 2046
+	 } 
+	artisans = {
+		culture = akan
+		religion = animist
+		size = 20
+	 } 
+	farmers = {
+		culture = ewe
+		religion =  catholic 
+		size = 59236
+	 } 
+	farmers = {
+		culture = gur
+		religion = animist
+		size = 598
+	 } 
+	farmers = {
+		culture = akan
+		religion =  protestant 
+		size = 34881
+	 } 
+	farmers = {
+		culture = gur
+		religion = animist
+		size = 352
+	 } 
+}
+#under the rule of Ashanti in 1836
+#Yendi (128000/32000 POPS)  
+1916 = {
+	aristocrats = {
+		culture = mossi
+		religion =  sunni 
+		size = 2230
+	 } 
+	artisans = {
+		culture = mossi
+		religion =  sunni 
+		size = 1022
+	 } 
+	farmers = {
+		culture = mossi
+		religion =  sunni 
+		size = 47007
+	 } 
+
+}

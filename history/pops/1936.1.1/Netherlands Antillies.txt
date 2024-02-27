@@ -1,0 +1,262 @@
+#Dutch West Indies Region : 19500
+#Ruled by Netherlands 1836
+#Curacao (12300/3100 POPS)
+2234 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 105
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 20
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 62
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 12
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 253
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 49
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 740
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 143
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 105
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 20
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 41
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = protestant 
+		size = 8
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 170
+	 } 
+	clergymen = {
+		culture = british
+		religion = protestant 
+		size = 32
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 41
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 7
+	 } 
+	craftsmen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 620
+	 } 
+	craftsmen = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 120
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 16023
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 3109
+	 } 
+}
+#Aruba (2400/600 POPS)
+2235 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 51
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 10
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 30
+	 } 
+	officers = {
+		culture = dutch
+		religion = protestant 
+		size = 6
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 125
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 24
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 366
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 71
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 51
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 10
+	 } 
+	bureaucrats = {
+		culture = british
+		religion =  protestant 
+		size = 20
+	 } 
+	bureaucrats = {
+		culture = british
+		religion = protestant 
+		size = 4
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 84
+	 } 
+	clergymen = {
+		culture = british
+		religion = protestant 
+		size = 16
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 20
+	 } 
+	clergymen = {
+		culture = portuguese
+		religion = catholic 
+		size = 3
+	 } 
+	craftsmen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 307
+	 } 
+	craftsmen = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 59
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 7932
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 1539
+	 } 
+}
+#Philipsburg - Saint Martin (4800/1200 POPS)
+2236 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 1
+	 } 
+	soldiers = {
+		culture = dutch
+		religion = protestant 
+		size = 5
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 15
+	 } 
+	aristocrats = {
+		culture = dutch
+		religion = protestant 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 1
+	 } 
+	clergymen = {
+		culture = british
+		religion =  protestant 
+		size = 4
+	 } 
+	craftsmen = {
+		culture = portuguese
+		religion =  catholic 
+		size = 11
+	 } 
+	craftsmen = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 2
+	 } 
+	farmers = {
+		culture = portuguese
+		religion =  catholic 
+		size = 316
+	 } 
+	farmers = {
+		culture = afro_caribbean
+		religion = catholic 
+		size = 61
+	 } 
+
+}

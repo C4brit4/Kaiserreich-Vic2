@@ -1,0 +1,3529 @@
+#Chugoku Region (2236000)
+#under the rule of Japan in 1836
+#Hiroshima (672000/168000 POPS)
+1638 = {
+	soldiers = {
+		culture = japanese
+		religion =  shinto 
+		size = 60000
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 2233
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 2069
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 446
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 2483
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 535
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 4138
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 893
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 4420
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 3112
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 3699
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 2956
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 3984
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 9491
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 2779
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 29657
+	 } 
+}
+#Okayama (504000/126000 POPS)
+1639 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 7011
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1513
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1402
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 302
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1682
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 363
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2804
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 605
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 9771
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 2108
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 9282
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 2003
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 29803
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 6431
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 8713
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 7199
+	 } 
+}
+#Yamaguchi (512000/128000 POPS)
+1640 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 5490
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1184
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1098
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 236
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1317
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 284
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2196
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 473
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 7650
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1651
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 7268
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1568
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 3335
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 5036
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 11250
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 6956
+	 } 
+}
+#Matsue (548000/137000 POPS)
+1641 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 2734
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 590
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 546
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 118
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 656
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 141
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1093
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 236
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 3810
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 822
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 3619
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 781
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1623
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 2508
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 5306
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 1409
+	 } 
+}
+#Hokkaido - Ezo Region (60000 People )
+#Hakodate (15000/6000 POPS)
+1642 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1834
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 3633
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 3366
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 726
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 4040
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 871
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 6733
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 1453
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 3461
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 5063
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 22288
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 4809
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 7558
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 5442
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 55138
+	 } 
+	farmers = {
+		culture = ainu
+		religion = animist
+		size = 3327
+	 } 
+}
+#Ishikara (15000/5000 POPS)
+1643 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1793
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 387
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 358
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 77
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 430
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 92
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 717
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 154
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 2499
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 539
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 2374
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 512
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 7625
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 1645
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 52375
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 1302
+	 } 
+	farmers = {
+		culture = ainu
+		religion =  shinto 
+		size = 3587
+	 } 
+	farmers = {
+		culture = ainu
+		religion = animist
+		size = 774
+	 } 
+}
+#Nemuru - Meakan (15000/4000 POPS)
+1644 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1793
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 387
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 358
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 77
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 430
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 92
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 717
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 154
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 2499
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 539
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 2374
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 512
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 7625
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 1645
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 52375
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 1302
+	 } 
+	farmers = {
+		culture = ainu
+		religion =  shinto 
+		size = 3587
+	 } 
+	farmers = {
+		culture = ainu
+		religion = animist
+		size = 774
+	 } 
+}
+#Hokuriku Region (1892000)
+#under the rule of Japan in 1836
+#Niigata (996000/249000 POPS)
+1645 = {
+	soldiers = {
+		culture = japanese
+		religion =  shinto 
+		size = 60000
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1920
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1779
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 383
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 2135
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 460
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 3558
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 768
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 1400
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 2676
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 1780
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 2542
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 37822
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 8162
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 27561
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 5899
+	 } 
+}
+#Kanazawa (384000/96000 POPS)
+1646 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 30524
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 6587
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 6104
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1317
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 7326
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 1580
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2210
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 2634
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 42539
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 9180
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 40412
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 8721
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 129746
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 27999
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 92137
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 20476
+	 } 
+}
+#Fukui (160000/40000 POPS)
+1647 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 2975
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 642
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 594
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 128
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 713
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 154
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1190
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 256
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 4147
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 895
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 3940
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 850
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 12650
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 2730
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 9842
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 2036
+	 } 
+}
+#Toyama (352000/88000 POPS)
+1648 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 4024
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 868
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 804
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 173
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 965
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 208
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1609
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 347
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 5608
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1210
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 5328
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1149
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 7108
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 3692
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 1555
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 2095
+	 } 
+}
+#Kanto Region (4604000)
+#under the rule of Japan in 1836
+#Edo (1504000/376000 POPS)
+1649 = {
+	soldiers = {
+		culture = japanese
+		religion =  shinto 
+		size = 60000
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 9358
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 8673
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1871
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 543
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 2246
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 17346
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 3743
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 60434
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 13042
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 57412
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 12390
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 184328
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 39778
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 1057791
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 228277
+	 } 
+	farmers = {
+		culture = beifaren
+		religion =  mahayana
+		size = 69386
+	 } 
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 14973
+	 } 
+	farmers = {
+		culture = korean
+		religion =  mahayana
+		size = 86732
+	 } 
+	farmers = {
+		culture = korean
+		religion = mahayana
+		size = 18717
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 34693
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 7486
+	 } 
+}
+#Chiba (788000/197000 POPS)
+1650 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 21307
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 4598
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 4261
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 919
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 5113
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 1103
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 8522
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 1839
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 9694
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 6408
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 2209
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 6087
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 90568
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 19545
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 64637
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 13432
+	 } 
+}
+#Yokohama (568000/142000 POPS)
+1651 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 30524
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 6587
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 6104
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1317
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 7326
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 1580
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 12210
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 2634
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 42539
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 9180
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 40412
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 8721
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 29746
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 27999
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 92137
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 25476
+	 } 
+}
+#Urawa (1156000/289000 POPS)
+1652 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 4947
+	 }
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 5383
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 4989
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1076
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 5986
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 1292
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 9978
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 2153
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 4766
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 7502
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 33028
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 7127
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 16038
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 22883
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 78163
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 17931
+	 } 
+}
+#Mito (588000/147000 POPS)
+1653 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 10733
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 2316
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 2146
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 463
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 2576
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 555
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 4293
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 926
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 1957
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 3228
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 14210
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 3066
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 45623
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 9845
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 33803
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 7252
+	 } 
+}
+#Kinki Region (6760000)
+#under the rule of Japan in 1836
+#Osaka (1540000/385000 POPS)
+1655 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 3660
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 6832
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 6331
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1366
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 7598
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 1639
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 12664
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 2732
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 4423
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 9521
+	 } 
+	soldiers = {
+		culture = japanese
+		religion =  shinto 
+		size = 60000
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 9045
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 14574
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 29042
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 498575
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 23124
+	 } 
+}
+#Wakayama (1064000/266000 POPS)
+1656 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 3839
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 828
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 767
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 165
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 921
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 198
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1535
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 331
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 5351
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1154
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 5083
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1097
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 16321
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 3522
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 19781
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 2849
+	 } 
+}
+#Kyoto (1844000/461000 POPS)
+1657 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 9504
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 2051
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1900
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 410
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 2280
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 492
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 3801
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 820
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 1245
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 2858
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 12583
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 2715
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 4400
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 8718
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 229483
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 6982
+	 } 
+}
+#Nara (1192000/298000 POPS)
+1658 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 5181
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1118
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1036
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 223
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1243
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 268
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2072
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 447
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 7220
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1558
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 6859
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1480
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2024
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 4753
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 16630
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 3880
+	 } 
+}
+#Kobe (1120000/280000 POPS)
+1659 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1955
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 4306
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 3990
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 861
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 4789
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 1033
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 7982
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 1722
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 27810
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 6001
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 2419
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 5701
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 84821
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 8305
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 62466
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 14331
+	 } 
+}
+#Kyushu Region (3600000)
+#under the rule of Japan in 1836
+#Fukuoka (784000/196000 POPS)
+1660 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 18033
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 3891
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 3606
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 778
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 4327
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 934
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 7213
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 1556
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 2130
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 5423
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 23874
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 5152
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 7650
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 1541
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 56495
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 1389
+	 } 
+}
+
+#Tsushima - formerly Shoyna
+2589 = {
+	clergymen = {
+		culture = japanese
+		religion = shinto
+		size = 124
+	}
+
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 500
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 207
+	}
+
+	farmers = {
+		culture = japanese
+		religion = shinto
+		size = 3308
+	}
+}
+
+#Nagasaki (1012000/253000 POPS)
+1661 = {
+	soldiers = {
+		culture = japanese
+		religion =  shinto 
+		size = 60000
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1175
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1089
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 235
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1307
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 282
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2179
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 470
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 7593
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1638
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 7213
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1556
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 3160
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 4998
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 29968
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 3680
+	 } 
+}
+#Kagoshima (660000/165000 POPS)
+1662 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 6420
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1385
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1283
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 277
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1540
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 332
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2567
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 554
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 8947
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1930
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 8499
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1834
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2290
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 5889
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 20275
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 3220
+	 } 
+}
+#Miyazaki (380000/95000 POPS)
+1663 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 4204
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 907
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 840
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 181
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1009
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 217
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1682
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 362
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 5859
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1264
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 5566
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1201
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1872
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 3857
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 31165
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 2806
+	 } 
+}
+#Kumamoto (764000/191000 POPS)
+1664 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 6682
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1442
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1336
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 288
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1603
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 346
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2673
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 576
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 9313
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 2009
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 8846
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1909
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 8405
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 6129
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 208451
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 4984
+	 } 
+}
+#Shikoku Region (1368000)
+#under the rule of Japan in 1836
+#Kochi (240000/60000 POPS)
+1665 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 2919
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 630
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 583
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 126
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 700
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 151
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1167
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 252
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 4068
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 878
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 3865
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 834
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2410
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 2678
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 91077
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 9654
+	 } 
+}
+#Matsuyama (432000/108000 POPS)
+1666 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 6985
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1507
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1396
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 301
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1676
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 361
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2794
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 602
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 9735
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 2101
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 9249
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1995
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 9693
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 6408
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 21913
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 47026
+	 } 
+}
+#Tokushima (696000/174000 POPS)
+1667 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 2955
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 637
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 590
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 127
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 708
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 153
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1181
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 255
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 4119
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 888
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 3912
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 844
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1563
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 2711
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 9202
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 1897
+	 } 
+}
+#Tohoku Region (3208000)
+#under the rule of Japan in 1836
+#Sendai (628000/157000 POPS)
+1668 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 8502
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1834
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1700
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 366
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 2040
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 440
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 3401
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 733
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 1848
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 2557
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 11256
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 2429
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 36139
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 7799
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 25214
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 7234
+	 } 
+}
+#Fukushima (576000/147000 POPS)
+1669 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 7643
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1649
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1528
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 329
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1834
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 395
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 3057
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 659
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 40652
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 2298
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 10120
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 2183
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 32490
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 7011
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 238438
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 5456
+	 } 
+}
+#Morioka (316000/79000 POPS)
+1670 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 5088
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1098
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1017
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 219
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1221
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 263
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2035
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 439
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 7092
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1530
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 6737
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1453
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1631
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 4668
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 158744
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 4257
+	 } 
+}
+#Akita (392000/98000 POPS)
+1671 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 4271
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 921
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 853
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 184
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1024
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 221
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1708
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 368
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 5953
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1284
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 5655
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1220
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 8156
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 3918
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 13250
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 28756
+	 } 
+}
+#Aomori (372000/93000 POPS)
+1672 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 5299
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1143
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1059
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 228
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1271
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 274
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 2119
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 457
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 7386
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1593
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 7016
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1514
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 22527
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 4861
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 5319
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 3676
+	 }
+}
+#Yamagata (512000/128000 POPS)
+1673 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 4471
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 965
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 894
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 192
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1073
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 231
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1788
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 386
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 6232
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 1344
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 5920
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 1277
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 19009
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 4102
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 9503
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 30105
+	 } 
+}
+#Utsunomiya (412000/103000 POPS)
+1674 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 14480
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 3125
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 2896
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 624
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 3475
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 749
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 5792
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 1249
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 40180
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 4355
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 19171
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 4137
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1551
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 13283
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 451697
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 97478
+	 } 
+}
+#Tokai Region (3208000)
+#under the rule of Japan in 1836
+#Nagoya (1476000/369000 POPS)
+1675 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 7576
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1635
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1515
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 326
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1818
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 392
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 3030
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 654
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 10559
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 2278
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 10031
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 2164
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 32206
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 6950
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 236352
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 51006
+	 } 
+}
+#Shizuoka (436000/109000 POPS)
+1676 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 13544
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 2923
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 2708
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 584
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 3250
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 701
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 5417
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 1169
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 18876
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 4073
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 17932
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 3870
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 57574
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 12424
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 422516
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 91181
+	 } 
+}
+#Nagano (1296000/324000 POPS)
+1677 = {
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 7957
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 1717
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1591
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 343
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 1909
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 412
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 3183
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 686
+	 } 
+	clerks = {
+		culture = japanese
+		religion =  shinto 
+		size = 11089
+	 } 
+	clerks = {
+		culture = japanese
+		religion = shinto 
+		size = 2393
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 10535
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 2273
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion =  shinto 
+		size = 33823
+	 } 
+	craftsmen = {
+		culture = japanese
+		religion = shinto 
+		size = 7299
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 248216
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 53566
+	 } 
+}
+#Ryukyu Region (272000)
+#tributary state to Japan in 1836
+#Okinawa (192000/48000 POPS)  #japanese represented by japanese 
+1678 = {
+	officers = {
+		culture = japanese
+		religion =  shinto 
+		size = 430
+	 } 
+	officers = {
+		culture = japanese
+		religion = shinto 
+		size = 93
+	 } 
+	soldiers = {
+		culture = japanese
+		religion =  shinto 
+		size = 1724
+	 } 
+	soldiers = {
+		culture = japanese
+		religion = shinto 
+		size = 372
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 3592
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 775
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 718
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 154
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 861
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 186
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 1436
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 310
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 4685
+	 } 
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1011
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 105613
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 22791
+	 } 
+}
+#Amari (80000/20000 POPS)
+1679 = {
+	officers = {
+		culture = japanese
+		religion =  shinto 
+		size = 136
+	 } 
+	officers = {
+		culture = japanese
+		religion = shinto 
+		size = 29
+	 } 
+	soldiers = {
+		culture = japanese
+		religion =  shinto 
+		size = 547
+	 } 
+	soldiers = {
+		culture = japanese
+		religion = shinto 
+		size = 118
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 1140
+	 } 
+	aristocrats = {
+		culture = japanese
+		religion = shinto 
+		size = 246
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion =  shinto 
+		size = 227
+	 } 
+	bureaucrats = {
+		culture = japanese
+		religion = shinto 
+		size = 49
+	 } 
+	capitalists = {
+		culture = japanese
+		religion =  shinto 
+		size = 273
+	 } 
+	capitalists = {
+		culture = japanese
+		religion = shinto 
+		size = 59
+	 } 
+	clergymen = {
+		culture = japanese
+		religion =  shinto 
+		size = 456
+	 } 
+	clergymen = {
+		culture = japanese
+		religion = shinto 
+		size = 98
+	 } 
+	artisans = {
+		culture = japanese
+		religion =  shinto 
+		size = 1487
+	 } 
+	artisans = {
+		culture = japanese
+		religion = shinto 
+		size = 321
+	 } 
+	farmers = {
+		culture = japanese
+		religion =  shinto 
+		size = 33541
+	 } 
+	farmers = {
+		culture = japanese
+		religion = shinto 
+		size = 7238
+	 } 
+
+}
+
+#Sado - Old Reliance (2000/500 POPS)
+12 = {
+
+	clergymen = {
+		culture = japanese
+		religion = shinto
+		size = 250
+	}
+
+	artisans = {
+		culture = japanese
+		religion = shinto
+		size = 3500
+	}
+
+	soldiers = {
+		culture = japanese
+		religion = shinto
+		size = 1100
+	}
+
+	farmers = {
+		culture = japanese
+		religion = shinto
+		size = 20150
+	}
+}

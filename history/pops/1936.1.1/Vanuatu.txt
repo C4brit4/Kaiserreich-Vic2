@@ -1,0 +1,81 @@
+#Southern Melanesia (28000) #see New Caledonia.txt for balance of region
+#uncolonized in 1836
+#New Hebrides (28000/7000 POPS) 
+2535 = {
+	officers = {
+		culture = melanesian
+		religion =  catholic 
+		size = 37
+	 } 
+	officers = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion =  catholic 
+		size = 148
+	 } 
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 7
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion =  catholic 
+		size = 495
+	 } 
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 24
+	 } 
+	bureaucrats = {
+		culture = melanesian
+		religion =  catholic 
+		size = 12
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion =  catholic 
+		size = 61
+	 } 
+	capitalists = {
+		culture = melanesian
+		religion = animist
+		size = 3
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion =  catholic 
+		size = 123
+	 } 
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 6
+	 } 
+	artisans = {
+		culture = melanesian
+		religion =  catholic 
+		size = 108
+	 } 
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	 } 
+	farmers = {
+		culture = melanesian
+		religion =  catholic 
+		size = 11353
+	 } 
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 566
+	 } 
+
+}

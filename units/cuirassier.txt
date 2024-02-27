@@ -1,0 +1,45 @@
+cuirassier = {
+	icon = 13
+	
+	type = land
+	sprite = HeavyTank
+	active = no
+	unit_type = special
+	floating_flag = yes	
+	
+	#Core Abilities
+	priority = 50
+	max_strength = 4
+	default_organisation = 50
+	maximum_speed = 5.00
+	weighted_value = 10.5
+
+
+	#Building Costs
+	build_time = 120
+	build_cost = {
+		barrels = 10
+		artillery = 12
+		canned_food = 12
+		fuel = 7
+	}
+	
+	supply_consumption = 1.5
+	supply_cost = {
+		barrels = 0.17
+		artillery = 0.2
+		canned_food = 0.2 #0.04
+		fuel = 0.5
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 0
+	attack = 18
+	defence = 7
+	discipline = 1
+	support = 0.2
+	maneuver = 3
+	siege = 3
+	
+}

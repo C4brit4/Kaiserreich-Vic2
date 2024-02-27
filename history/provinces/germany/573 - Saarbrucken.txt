@@ -1,0 +1,35 @@
+owner = PRU
+controller = PRU
+add_core = PRU
+add_core = RHI
+add_core = GER
+trade_goods = coal
+life_rating = 40
+fort = 1
+1861.1.1 = {
+	railroad = 3
+	fort = 3
+	
+	state_building = {
+		level = 1
+		building = steel_factory
+		upgrade = yes
+	}
+}
+1914.1.1 = {
+	owner = GER
+	controller = GER
+	railroad = 5
+	fort = 4
+	
+	state_building = {
+		level = 2
+		building = machine_parts_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = electric_gear_factory
+		upgrade = yes
+	}
+}

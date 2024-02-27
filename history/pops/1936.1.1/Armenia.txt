@@ -1,0 +1,280 @@
+#Armenia Region (30000)
+#under the rule of Russia in 1836
+#Erivan (128000/32000 POPS)
+1098 = {
+	officers = {
+		culture = russian
+		religion =  orthodox 
+		size = 733
+	 } 
+	officers = {
+		culture = russian
+		religion = orthodox
+		size = 34
+	 } 
+	soldiers = {
+		culture = russian
+		religion =  orthodox 
+		size = 1711
+	 } 
+	soldiers = {
+		culture = russian
+		religion = orthodox
+		size = 80
+	 } 
+	soldiers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 1222
+	 } 
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 57
+	 } 
+	bureaucrats = {
+		culture = armenian
+		religion =  orthodox 
+		size = 11490
+	 } 
+	bureaucrats = {
+		culture = armenian
+		religion = orthodox
+		size = 541
+	 } 
+	clergymen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 4889
+	 } 
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 230
+	 } 
+	artisans = {
+		culture = armenian
+		religion =  orthodox 
+		size = 5472
+	 } 
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 257
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 17281
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion = orthodox
+		size = 814
+	 } 
+	farmers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 201678
+	 } 
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 9503
+	 } 
+}
+#Gyumri (68000/17000 POPS)
+1099 = {
+	bureaucrats = {
+		culture = kurdish
+		religion =  sunni 
+		size = 2196
+	 } 
+	bureaucrats = {
+		culture = armenian
+		religion =  orthodox 
+		size = 719
+	 } 
+	bureaucrats = {
+		culture = armenian
+		religion = orthodox
+		size = 33
+	 } 
+	clergymen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 1198
+	 } 
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 56
+	 } 
+	artisans = {
+		culture = armenian
+		religion =  orthodox 
+		size = 1340
+	 } 
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 63
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 4235
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion = orthodox
+		size = 199
+	 } 
+	farmers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 49435
+	 } 
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 2329
+	 } 
+	
+}
+#Kapan (44000/11000 POPS)
+1100 = {
+	officers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 56
+	 } 
+	officers = {
+		culture = armenian
+		religion = orthodox
+		size = 2
+	 } 
+	soldiers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 226
+	 } 
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 10
+	 } 
+	bureaucrats = {
+		culture = armenian
+		religion =  orthodox 
+		size = 886
+	 } 
+	bureaucrats = {
+		culture = armenian
+		religion = orthodox
+		size = 41
+	 } 
+	clergymen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 377
+	 } 
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 17
+	 } 
+	artisans = {
+		culture = armenian
+		religion =  orthodox 
+		size = 422
+	 } 
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 19
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 1333
+	 } 
+	craftsmen = {
+		culture = armenian
+		religion = orthodox
+		size = 62
+	 } 
+	farmers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 15559
+	 } 
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 733
+	 } 
+}
+#Nakhichevan (60000/15000 POPS) #now part of Azerbaijan 
+1101 = {
+	aristocrats = {
+		culture = armenian
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = orthodox
+		size = 25
+	}
+
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 150
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = orthodox
+		size = 50
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 2850
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+		religion = shiite
+		size = 170
+	}
+
+	clergymen = {
+		culture = azerbaijani
+		religion = shiite
+		size = 150
+	}
+
+	soldiers = {
+		culture = azerbaijani
+		religion = shiite
+		size = 250
+	}
+
+	craftsmen = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 1124
+	} 
+
+	farmers = {
+		culture = azerbaijani
+		religion =  shiite 
+		size = 15981
+	} 
+
+}

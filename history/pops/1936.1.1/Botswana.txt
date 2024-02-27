@@ -1,0 +1,449 @@
+#Bechuanaland Region (76000) #see South Africa.txt for balance of region 
+#uncolonized in 1836/dominated by the Tswana in 1836
+#Gaborone (28000/7000 POPS) 
+2074 = {
+	capitalists = {
+		culture = british
+		religion =  protestant 
+		size = 237
+	 } 
+	capitalists = {
+		culture = british
+		religion = protestant 
+		size = 9
+	 } 
+	officers = {
+		culture = british
+		religion =  protestant 
+		size = 142
+	 } 
+	officers = {
+		culture = british
+		religion = protestant 
+		size = 5
+	 } 
+	soldiers = {
+		culture = british
+		religion =  protestant 
+		size = 570
+	 } 
+	soldiers = {
+		culture = british
+		religion = protestant 
+		size = 23
+	 } 
+	aristocrats = {
+		culture = british
+		religion =  protestant 
+		size = 1426
+	 } 
+	aristocrats = {
+		culture = british
+		religion = protestant 
+		size = 59
+	 } 
+	aristocrats = {
+		culture = tswana
+		religion =  protestant 
+		size = 474
+	 } 
+	aristocrats = {
+		culture = tswana
+		religion = protestant 
+		size = 19
+	 } 
+	bureaucrats = {
+		culture = tswana
+		religion =  protestant 
+		size = 95
+	 } 
+	bureaucrats = {
+		culture = tswana
+		religion = protestant 
+		size = 3
+	 } 
+	clergymen = {
+		culture = tswana
+		religion =  protestant 
+		size = 475
+	 } 
+	clergymen = {
+		culture = tswana
+		religion = protestant 
+		size = 19
+	 } 
+	artisans = {
+		culture = tswana
+		religion =  protestant 
+		size = 1034
+	 } 
+	artisans = {
+		culture = tswana
+		religion = protestant 
+		size = 43
+	 }
+	farmers = {
+		culture = tswana
+		religion =  protestant 
+		size = 30422
+	 } 
+	farmers = {
+		culture = tswana
+		religion = protestant 
+		size = 1267
+	 } 
+}
+#Nokaneng (12000/3000 POPS) 
+2076 = {
+	officers = {
+		culture = shona
+		religion =  protestant 
+		size = 27
+	 } 
+	officers = {
+		culture = shona
+		religion = protestant 
+		size = 1
+	 } 
+	soldiers = {
+		culture = shona
+		religion =  protestant 
+		size = 112
+	 } 
+	soldiers = {
+		culture = shona
+		religion = protestant 
+		size = 4
+	 } 
+	aristocrats = {
+		culture = shona
+		religion =  protestant 
+		size = 374
+	 } 
+	aristocrats = {
+		culture = shona
+		religion = protestant 
+		size = 15
+	 } 
+	bureaucrats = {
+		culture = shona
+		religion =  protestant 
+		size = 18
+	 } 
+	capitalists = {
+		culture = shona
+		religion =  protestant 
+		size = 46
+	 } 
+	capitalists = {
+		culture = shona
+		religion = protestant 
+		size = 1
+	 } 
+	clergymen = {
+		culture = shona
+		religion =  protestant 
+		size = 93
+	 } 
+	clergymen = {
+		culture = shona
+		religion = protestant 
+		size = 3
+	 } 
+	artisans = {
+		culture = shona
+		religion =  protestant 
+		size = 203
+	 } 
+	artisans = {
+		culture = shona
+		religion = protestant 
+		size = 8
+	 } 
+	farmers = {
+		culture = shona
+		religion =  protestant 
+		size = 3430
+	 } 
+	farmers = {
+		culture = shona
+		religion = protestant 
+		size = 142
+	 } 
+	farmers = {
+		culture = khoisan
+		religion =  protestant 
+		size = 561
+	 } 
+	farmers = {
+		culture = khoisan
+		religion = protestant 
+		size = 23
+	 } 
+	farmers = {
+		culture = tswana
+		religion =  protestant 
+		size = 3649
+	 } 
+	farmers = {
+		culture = herero
+		religion = protestant 
+		size = 152
+	 } 
+}
+#Tshabong (12000/3000 POPS) 
+2077 =  {
+	officers = {
+		culture = khoisan
+		religion =  protestant 
+		size = 11
+	 } 
+	soldiers = {
+		culture = khoisan
+		religion =  protestant 
+		size = 48
+	 } 
+	soldiers = {
+		culture = khoisan
+		religion = protestant 
+		size = 2
+	 } 
+	aristocrats = {
+		culture = khoisan
+		religion =  protestant 
+		size = 163
+	 } 
+	aristocrats = {
+		culture = khoisan
+		religion = protestant 
+		size = 6
+	 } 
+	bureaucrats = {
+		culture = khoisan
+		religion =  protestant 
+		size = 7
+	 } 
+	capitalists = {
+		culture = khoisan
+		religion =  protestant 
+		size = 20
+	 } 
+	clergymen = {
+		culture = khoisan
+		religion =  protestant 
+		size = 40
+	 } 
+	clergymen = {
+		culture = khoisan
+		religion = protestant 
+		size = 1
+	 } 
+	artisans = {
+		culture = khoisan
+		religion =  protestant 
+		size = 88
+	 } 
+	artisans = {
+		culture = khoisan
+		religion = protestant 
+		size = 3
+	 } 
+	farmers = {
+		culture = khoisan
+		religion =  protestant 
+		size = 109
+	 } 
+	farmers = {
+		culture = khoisan
+		religion = protestant 
+		size = 4
+	 } 
+	farmers = {
+		culture = tswana
+		religion =  protestant 
+		size = 3221
+	 } 
+	farmers = {
+		culture = tswana
+		religion = protestant 
+		size = 134
+	 } 
+}
+#Mochidi (16000/4000 POPS) 
+2574 = {
+	officers = {
+		culture = tswana
+		religion =  protestant 
+		size = 48
+	 } 
+	officers = {
+		culture = tswana
+		religion = protestant 
+		size = 2
+	 } 
+	soldiers = {
+		culture = tswana
+		religion =  protestant 
+		size = 192
+	 } 
+	soldiers = {
+		culture = tswana
+		religion = protestant 
+		size = 8
+	 } 
+	aristocrats = {
+		culture = tswana
+		religion =  protestant 
+		size = 643
+	 } 
+	aristocrats = {
+		culture = tswana
+		religion = protestant 
+		size = 26
+	 } 
+	bureaucrats = {
+		culture = tswana
+		religion =  protestant 
+		size = 31
+	 } 
+	bureaucrats = {
+		culture = tswana
+		religion = protestant 
+		size = 1
+	 } 
+	capitalists = {
+		culture = tswana
+		religion =  protestant 
+		size = 79
+	 } 
+	capitalists = {
+		culture = tswana
+		religion = protestant 
+		size = 3
+	 } 
+	clergymen = {
+		culture = tswana
+		religion =  protestant 
+		size = 160
+	 } 
+	clergymen = {
+		culture = tswana
+		religion = protestant 
+		size = 6
+	 } 
+	artisans = {
+		culture = tswana
+		religion =  protestant 
+		size = 349
+	 } 
+	artisans = {
+		culture = tswana
+		religion = protestant 
+		size = 14
+	 } 
+	farmers = {
+		culture = tswana
+		religion =  protestant 
+		size = 13128
+	 } 
+	farmers = {
+		culture = tswana
+		religion = protestant 
+		size = 547
+	 } 
+}
+#under the rule of Matabele in 1836
+#Serowe (16000/4000 POPS) 
+2075 = {
+	officers = {
+		culture = shona
+		religion =  protestant 
+		size = 75
+	 } 
+	officers = {
+		culture = shona
+		religion = protestant 
+		size = 3
+	 } 
+	soldiers = {
+		culture = shona
+		religion =  protestant 
+		size = 305
+	 } 
+	soldiers = {
+		culture = shona
+		religion = protestant 
+		size = 12
+	 } 
+	aristocrats = {
+		culture = shona
+		religion =  protestant 
+		size = 1017
+	 } 
+	aristocrats = {
+		culture = shona
+		religion = protestant 
+		size = 42
+	 } 
+	bureaucrats = {
+		culture = shona
+		religion =  protestant 
+		size = 50
+	 } 
+	bureaucrats = {
+		culture = shona
+		religion = protestant 
+		size = 2
+	 } 
+	capitalists = {
+		culture = shona
+		religion =  protestant 
+		size = 126
+	 } 
+	capitalists = {
+		culture = shona
+		religion = protestant 
+		size = 5
+	 } 
+	clergymen = {
+		culture = shona
+		religion =  protestant 
+		size = 254
+	 } 
+	clergymen = {
+		culture = shona
+		religion = protestant 
+		size = 10
+	 } 
+	artisans = {
+		culture = shona
+		religion =  protestant 
+		size = 553
+	 } 
+	artisans = {
+		culture = shona
+		religion = protestant 
+		size = 23
+	 } 
+	farmers = {
+		culture = shona
+		religion =  protestant 
+		size = 1431
+	 } 
+	farmers = {
+		culture = shona
+		religion = protestant 
+		size = 59
+	 } 
+	farmers = {
+		culture = tswana
+		religion =  protestant 
+		size = 19338
+	 } 
+	farmers = {
+		culture = tswana
+		religion = protestant 
+		size = 805
+	 } 
+
+}

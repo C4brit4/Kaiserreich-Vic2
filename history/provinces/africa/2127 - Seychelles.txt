@@ -1,0 +1,6 @@
+owner = GER
+controller = GER
+trade_goods = fruit
+life_rating = 35
+colonial = 2
+terrain = plains

@@ -1,0 +1,428 @@
+#Middle Congo Region (148000)
+#under the rule of Loango in 1836
+#Nkuna (400000/100000 POPS)
+1977 = {
+	officers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 264
+	 } 
+	officers = {
+		culture = bakongo
+		religion = catholic 
+		size = 4
+	 } 
+	soldiers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 1060
+	 } 
+	soldiers = {
+		culture = bakongo
+		religion = catholic 
+		size = 16
+	 } 
+	aristocrats = {
+		culture = bakongo
+		religion =  catholic 
+		size = 3536
+	 } 
+	aristocrats = {
+		culture = bakongo
+		religion = catholic 
+		size = 53
+	 } 
+	bureaucrats = {
+		culture = bakongo
+		religion =  catholic 
+		size = 87
+	 } 
+	bureaucrats = {
+		culture = bakongo
+		religion = catholic 
+		size = 1
+	 } 
+	capitalists = {
+		culture = bakongo
+		religion =  catholic 
+		size = 441
+	 } 
+	capitalists = {
+		culture = bakongo
+		religion = catholic 
+		size = 6
+	 } 
+	clergymen = {
+		culture = bakongo
+		religion =  catholic 
+		size = 796
+	 } 
+	clergymen = {
+		culture = bakongo
+		religion = catholic 
+		size = 12
+	 } 
+	clergymen = {
+		culture = bakongo
+		religion =  catholic 
+		size = 86
+	 } 
+	clergymen = {
+		culture = bakongo
+		religion = catholic 
+		size = 1
+	 } 
+	artisans = {
+		culture = bakongo
+		religion =  catholic 
+		size = 1989
+	 } 
+	artisans = {
+		culture = bakongo
+		religion = catholic 
+		size = 30
+	 } 
+	farmers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 39472
+	 } 
+	farmers = {
+		culture = bakongo
+		religion = catholic 
+		size = 601
+	 } 
+	farmers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 17680
+	 } 
+	farmers = {
+		culture = bakongo
+		religion = catholic 
+		size = 269
+	 } 
+	farmers = {
+		culture = bakongo
+		religion =  animist
+		size = 14536
+	 } 
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 221
+	 } 
+}
+#Madingou (160000/40000 POPS)
+1978 = {
+	officers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 104
+	 } 
+	officers = {
+		culture = bakongo
+		religion = catholic 
+		size = 1
+	 } 
+	soldiers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 419
+	 } 
+	soldiers = {
+		culture = bakongo
+		religion = catholic 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = bakongo
+		religion =  catholic 
+		size = 1398
+	 } 
+	aristocrats = {
+		culture = bakongo
+		religion = catholic 
+		size = 21
+	 } 
+	bureaucrats = {
+		culture = bakongo
+		religion =  catholic 
+		size = 34
+	 } 
+	capitalists = {
+		culture = bakongo
+		religion =  catholic 
+		size = 174
+	 } 
+	capitalists = {
+		culture = bakongo
+		religion = catholic 
+		size = 2
+	 } 
+	clergymen = {
+		culture = bakongo
+		religion =  catholic 
+		size = 349
+	 } 
+	clergymen = {
+		culture = bakongo
+		religion = catholic 
+		size = 5
+	 } 
+	artisans = {
+		culture = bakongo
+		religion =  catholic 
+		size = 786
+	 } 
+	artisans = {
+		culture = bakongo
+		religion = catholic 
+		size = 11
+	 } 
+	farmers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 28357
+	 } 
+	farmers = {
+		culture = bakongo
+		religion = catholic 
+		size = 431
+	 } 
+}
+#Loango (320000/80000 POPS)
+2624 = {
+	officers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 132
+	 } 
+	officers = {
+		culture = bakongo
+		religion = animist
+		size = 2
+	 } 
+	soldiers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 531
+	 } 
+	soldiers = {
+		culture = bakongo
+		religion = animist
+		size = 8
+	 } 
+	aristocrats = {
+		culture = bakongo
+		religion =  catholic 
+		size = 1773
+	 } 
+	aristocrats = {
+		culture = bakongo
+		religion = animist
+		size = 27
+	 } 
+	bureaucrats = {
+		culture = bakongo
+		religion =  catholic 
+		size = 44
+	 } 
+	capitalists = {
+		culture = bakongo
+		religion =  catholic 
+		size = 221
+	 } 
+	capitalists = {
+		culture = bakongo
+		religion = animist
+		size = 3
+	 } 
+	clergymen = {
+		culture = bakongo
+		religion =  catholic 
+		size = 443
+	 } 
+	clergymen = {
+		culture = bakongo
+		religion = animist
+		size = 6
+	 } 
+	artisans = {
+		culture = bakongo
+		religion =  catholic 
+		size = 996
+	 } 
+	artisans = {
+		culture = bakongo
+		religion = animist
+		size = 15
+	 } 
+	farmers = {
+		culture = bakongo
+		religion =  catholic 
+		size = 35944
+	 } 
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 547
+	 } 
+}
+#uncolonized in 1836 
+#Djambala (28000/7000 POPS)
+1980 = {
+	officers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 53
+	 } 
+	soldiers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 215
+	 } 
+	soldiers = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 450
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 6
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 268
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 4
+	 } 
+	bureaucrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 17
+	 } 
+	capitalists = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 89
+	 } 
+	capitalists = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 1
+	 } 
+	clergymen = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 179
+	 } 
+	clergymen = {
+		culture = forest_bantu
+		religion = animist
+		size = 2
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 403
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion = animist
+		size = 6
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 14578
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion = animist
+		size = 222
+	 } 
+}
+#Impfondo (32000/8000 POPS)
+1981 = {
+	officers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 50
+	 } 
+	soldiers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 203
+	 } 
+	soldiers = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 3
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 679
+	 } 
+	aristocrats = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 10
+	 } 
+	bureaucrats = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 16
+	 } 
+	capitalists = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 84
+	 } 
+	capitalists = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 1
+	 } 
+	clergymen = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 169
+	 } 
+	clergymen = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 2
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 382
+	 } 
+	artisans = {
+		culture = forest_bantu
+		religion = catholic 
+		size = 5
+	 } 
+	farmers = {
+		culture = forest_bantu
+		religion =  catholic 
+		size = 13779
+	 } 
+	farmers = {
+		culture = ubangian
+		religion = animist
+		size = 209
+	 } 
+}

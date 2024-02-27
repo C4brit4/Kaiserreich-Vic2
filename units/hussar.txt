@@ -1,0 +1,45 @@
+hussar = {
+	icon = 15
+	
+	type = land
+	sprite = Bomber
+	active = no
+	unit_type = support
+	floating_flag = no
+	
+	#Core Abilities
+	priority = 45
+	max_strength = 3
+	default_organisation = 40
+	maximum_speed = 6.00
+	weighted_value = 10.0
+
+
+	#Building Costs
+	build_time = 120
+	build_cost = {
+		aeroplanes = 15
+		small_arms = 12
+		canned_food = 10
+		wine = 15
+		fuel = 10
+	}
+	
+	supply_consumption = 1.5
+	supply_cost = {
+		aeroplanes = 0.3
+		small_arms = 0.2
+		canned_food = 0.05
+		fuel = 0.3
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 4
+	attack = 2
+	defence = 9
+	discipline = 0.3
+	support = 3
+	maneuver = 4
+	
+}

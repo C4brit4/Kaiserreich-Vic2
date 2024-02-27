@@ -1,0 +1,15 @@
+owner = PRU
+controller = PRU
+add_core = SWI
+add_core = PRU
+trade_goods = coal
+life_rating = 40
+
+1848.3.1 = {
+	owner = SWI
+	controller = SWI
+	remove_core = PRU
+}
+1914.1.1 = {
+	railroad = 1
+}

@@ -1,0 +1,91 @@
+country_event = {
+    id = 500401
+    title = "EVTNAME500401"
+    desc = "EVTDESC500401"
+    picture = spanish_civil_war
+    fire_only_once = yes
+
+    trigger = {
+    year = 1937
+    tag  = SPA
+        
+}
+  
+    
+
+    option = {
+        name = "EVTOPTA500401"
+		set_country_flag = civil_war	
+		SPA = {
+               474 = {secede_province = SPC}
+			   476 = {secede_province = SPC}
+			   475 = {secede_province = SPC}
+			   478 = {secede_province = SPC}
+			   477 = {secede_province = SPC}
+			   479 = {secede_province = SPC}
+			   481 = {secede_province = SPC}
+			   480 = {secede_province = SPC}
+
+               492 = {secede_province = SPC}
+
+               494 = {secede_province = SPC}
+
+               493 = {secede_province = CNT}
+
+               495 = {secede_province = CNT}
+
+               496 = {secede_province = CNT}
+	
+               497 = {secede_province = CNT}
+
+               500 = {secede_province = CNT}
+
+               501 = {secede_province = CNT}
+
+               504 = {secede_province = CNT}
+
+               503 = {secede_province = CNT}
+
+               505 = {secede_province = CNT}
+
+               502 = {secede_province = CNT}
+
+               498 = {secede_province = CNT}
+
+               499 = {secede_province = CNT}	
+		   
+    }
+	CNT = {
+	war = {
+	         target = SPC
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = conquest }
+	         call_ally = no
+            }
+			badboy = -22
+	}
+	SPA = {
+	war = {
+	         target = CNT
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = conquest }
+	         call_ally = no
+            }
+			badboy = -22
+	}
+	SPA = {
+	war = {
+	         target = SPC
+	         attacker_goal = { casus_belli = conquest }
+	         defender_goal = { casus_belli = conquest }
+	         call_ally = no
+            }
+			badboy = -22
+	}
+    POR = {
+				country_event = { id = 500422 days = 2 }
+				
+			}  
+}
+}
+
