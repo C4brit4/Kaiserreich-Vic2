@@ -396,7 +396,6 @@ BEN     =   "countries/Benelux.txt"
 RIN     =   "countries/Rin Confederation.txt"
 BRG        = "countries/Burgundy.txt"
 LOT        = "countries/Lotharingia.txt"
-BHA        = "countries/Bohemia-Austria.txt"
 #AIN             = "countries/Alien Invaders.txt"
 
 #===CHINA===#

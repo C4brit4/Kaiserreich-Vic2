@@ -50,7 +50,11 @@ country_event = {
 
     trigger = {
         tag = USA
+		NOT = {
+			year = 1938
+		}
 		year = 1937
+		prestige = 1
 		NOT = { has_country_flag = national_strike }
 		has_country_flag = rejoice_elections_1936
     }
@@ -139,13 +143,16 @@ country_event = {
     trigger = {
         tag = USA
 		has_country_flag = national_strike
+		prestige = 1
+		year = 1937
 		NOT = {
 			has_country_flag = chicago_convention
+			year = 1938
 		}
     }
 	
 	mean_time_to_happen = {
-		months = 1
+		months = 3
 	}
 	
 	fire_only_once = yes
@@ -180,9 +187,13 @@ country_event = {
     trigger = {
         tag = USA
 		has_country_flag = chicago_convention
+		NOT = { year = 1938 }
 		NOT = { has_country_flag = phyladelphia_convention }
     }
-
+	
+	mean_time_to_happen = {
+		months = 2
+	}
 	
 	fire_only_once = yes
 
@@ -207,10 +218,9 @@ country_event = {
 		war = {
 			target = CSO
 			attacker_goal = { casus_belli = civil_war }
-			defender_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
 			call_ally = no
 		}
-		government = presidential_dictatorship
 		ai_chance = {
             factor = 100
         }
@@ -233,11 +243,10 @@ country_event = {
             secede_province = CSO
         }
 		relation = { who = CSO value = -400 }
-		government = presidential_dictatorship
 		war = {
 			target = CSO
 			attacker_goal = { casus_belli = civil_war }
-			defender_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
 			call_ally = no
 		}
 		change_tag_no_core_switch = CSO
@@ -255,7 +264,7 @@ country_event = {
 
     trigger = {
         tag = USA
-		exists = CSO
+		has_country_flag = phyladelphia_convention
     }
 	
 	mean_time_to_happen = {
@@ -285,7 +294,7 @@ country_event = {
 		war = {
 			target = UAS
 			attacker_goal = { casus_belli = civil_war }
-			defender_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
 			call_ally = no
 		}
 		ai_chance = {
@@ -313,7 +322,7 @@ country_event = {
 		war = {
 			target = UAS
 			attacker_goal = { casus_belli = civil_war }
-			defender_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
 			call_ally = no
 		}
 		change_tag_no_core_switch = UAS
@@ -357,7 +366,7 @@ country_event = {
 
     trigger = {
         tag = USA
-		exists = CSO
+		has_country_flag = richmond_convention
     }
 	
 	fire_only_once = yes
@@ -378,33 +387,11 @@ country_event = {
             }
             secede_province = PSA
         }
-		CSO = {
-		    war = {
-			target = PSA
-			attacker_goal = { casus_belli = civil_war }
-			defender_goal = { casus_belli = civil_war }
-			call_ally = no
-		}
-		war = {
-			target = UAS
-			attacker_goal = { casus_belli = civil_war }
-			defender_goal = { casus_belli = civil_war }
-			call_ally = no
-		}
-		}
-		PSA = {
-		war = {
-			target = UAS
-			attacker_goal = { casus_belli = civil_war }
-			defender_goal = { casus_belli = civil_war }
-			call_ally = no
-		}
-		}
 		relation = { who = PSA value = -400 }
 		war = {
 			target = PSA
 			attacker_goal = { casus_belli = civil_war }
-			defender_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = status_quo }
 			call_ally = no
 		}
     }

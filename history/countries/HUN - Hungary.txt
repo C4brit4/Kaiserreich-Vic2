@@ -1,6 +1,5 @@
 capital = 641
 primary_culture = hungarian
-culture = slovak
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0
