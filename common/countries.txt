@@ -396,10 +396,8 @@ BEN     =   "countries/Benelux.txt"
 RIN     =   "countries/Rin Confederation.txt"
 BRG        = "countries/Burgundy.txt"
 LOT        = "countries/Lotharingia.txt"
-<<<<<<< HEAD
 =======
 BHA        = "countries/Bohemia-Austria.txt"
->>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 #AIN             = "countries/Alien Invaders.txt"
 
 #===CHINA===#
