@@ -86,14 +86,4 @@ AFR_ADJ;Africa Union;;;;;;;;;;;;;
 LPL;La Plata;La Plata;La Plata;;La Plata;;;;;;;;;x
 LPL_ADJ;Platinian;Platinian;Platinian;;Platese;;;;;;;;;x	
 ITC;Italy Federation;;;;;;;;;;;;;
-<<<<<<< HEAD
 ITC_ADJ;Italy Federation;;;;;;;;;;;;;
-=======
-ITC_ADJ;Italy Federation;;;;;;;;;;;;;
-BHA;Bohemia-Austria;x;;;
-BHA_monarchy;Bohemia-Austria;x;;;
-BHA_republic;Danube Republic;x;;;
-BHA_communist;Danube Commune;x;;;
-BHA_fascist;Bohemian-Austrian Dictatorship;x;;;
-BHA_ADJ;Bohemia-Austrian;x;;;
->>>>>>> parent of 6a506fe4 (Crash bug Fixed)
