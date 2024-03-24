@@ -19,12 +19,42 @@ country_event = {
 	
 	option = {
         name = "EVTOPTA50100" #The League must prevail
+		any_owned = { 
+			limit = { 
+				is_core = KMT
+			} 
+			remove_core = LEP
+			secede_province = KMT
+		}
+		KMT = {
+			war = {
+				target = LEP
+				attacker_goal = { casus_belli = civil_war }
+				defender_goal = { casus_belli = civil_war }
+				call_ally = no
+			}
+		}
     }
 	
 	option = {
         name = "EVTOPTB50100" #Fu zhan!
-		change_tag = KUO
-    }
+		any_owned = { 
+			limit = { 
+				NOT = {is_core = KMT} 
+			} 
+			remove_core = LEP
+			secede_province = KMT
+		}
+		change_tag_no_core_switch = KMT
+		KMT = {
+			war = {
+				target = LEP
+				attacker_goal = { casus_belli = civil_war }
+				defender_goal = { casus_belli = civil_war }
+				call_ally = no
+			}
+		}
+  }
 	
 }
 

@@ -1,4 +1,4 @@
-capital = 1524
+capital = 1470
 primary_culture = nanfaren
 culture = beifaren
 religion = mahayana

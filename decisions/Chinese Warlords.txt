@@ -26,6 +26,10 @@ political_decisions = {
 				factor = 2
 				LEP = { war = yes }
 			}
+			modifier = {
+				factor = 2
+				year = 1939
+			}
 		}
     }
 }

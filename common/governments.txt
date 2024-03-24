@@ -14,6 +14,16 @@ proletarian_dictatorship =
 }
 
 
+socialist_dictatorship =
+{
+	#which ideology of parties.
+	socialist = yes
+	
+	election = no
+	appoint_ruling_party = yes
+	flagType = communist
+}
+
 
 presidential_dictatorship =
 {

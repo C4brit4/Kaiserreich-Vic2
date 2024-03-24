@@ -256,8 +256,8 @@ FRO_communist;Kommunistiski Flokkur Frroya;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,,,
 FRO_fascist;Loysingarflokkurin;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,
 RUS_proletarian_dictatorship;The Soviet Union;;;;;;;;;;;;;;;;;;;x
 RUS_proletarian_dictatorship_ADJ;Soviet;;;;;;;;;;;;;;;;;;;x
-RUS_fascist_dictatorship;RuZZia;;;;;;;;;;;;;;;;;;;x
-RUS_fascist_dictatorship_ADJ;RuZZian;;;;;;;;;;;;;;;;;;;x
+RUS_fascist_dictatorship;Russia;;;;;;;;;;;;;;;;;;;x
+RUS_fascist_dictatorship_ADJ;Russian;;;;;;;;;;;;;;;;;;;x
 NEH;Neuchatel;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NEH_ADJ;Neuchateli;;;;;;;;;;;;;;;;;;;;;;x;;;;
 UBD_fascist;Baltic Fascist Union;;;;;;;;;;;;;;;;;;;;;;x;;;;

@@ -146,8 +146,6 @@ political_decisions = {
 			}
 		}
 	}
-<<<<<<< HEAD
-=======
 	
 	win_CSO = {
 	picture = Civil_war_win
@@ -254,5 +252,4 @@ political_decisions = {
 			}
 		}
 	}
->>>>>>> parent of 6a506fe4 (Crash bug Fixed)
 }

@@ -1,7 +1,6 @@
 political_decisions = { 
 hungira_win  = {
         picture = return_cores_img
-<<<<<<< HEAD
         potential = {
             OR = {                
                 tag = HUN
@@ -14,7 +13,6 @@ hungira_win  = {
         allow = {         
             war = no                     	
             	
-=======
         potential = {               
             tag = HUN
 			NOT={has_global_flag = hun_win_2}			
@@ -22,7 +20,6 @@ hungira_win  = {
 
         allow = {         
             controls = 619              		
->>>>>>> parent of 6a506fe4 (Crash bug Fixed)
         }
 		
         
@@ -30,7 +27,6 @@ hungira_win  = {
         effect = {                    		
             set_global_flag = hun_win_2
 			AUS = {
-<<<<<<< HEAD
 	release_vassal = BOH
 	release_vassal = ALB
 	release_vassal = ITR
@@ -44,7 +40,6 @@ hungira_win  = {
 			}
     }
 	}
-=======
 	        release_vassal = BOH
 	        release_vassal = ALB
 	        release_vassal = ITR
@@ -68,4 +63,3 @@ hungira_win  = {
 			}
     }
 }
->>>>>>> parent of 6a506fe4 (Crash bug Fixed)
